@@ -1,0 +1,118 @@
+{
+  "catalog": {
+    "active": true,
+    "first_seen_at": "2026-08-05T11:31:11.214040+00:00",
+    "last_seen_at": "2026-08-05T14:50:46.673845+00:00"
+  },
+  "collection": {
+    "consecutive_failures": 0,
+    "data_status": "current",
+    "error_message": null,
+    "error_type": null,
+    "last_attempt_at": "2026-08-05T11:31:42.266039+00:00",
+    "last_success_at": "2026-08-05T11:31:42.266039+00:00",
+    "next_attempt_at": "2026-09-04T11:31:42.266039+00:00",
+    "outcome": "success",
+    "target": "profile"
+  },
+  "generated_at": "2026-08-05T14:50:46.673845+00:00",
+  "identity": {
+    "sec": {
+      "cik": "0000726728",
+      "name": "REALTY INCOME CORP",
+      "ticker": "O"
+    },
+    "stockanalysis": {
+      "archived": false,
+      "cik": "0000726728",
+      "currencies": {
+        "dividend": "USD",
+        "financial": "USD",
+        "main": "USD",
+        "price": "USD"
+      },
+      "exchange": "NYSE",
+      "features": {
+        "chart": true,
+        "dividend": true,
+        "employees": true,
+        "filings": true,
+        "financials": true,
+        "forecast": true,
+        "history": true,
+        "market_cap": true,
+        "metricsv2": true,
+        "profile": true,
+        "ratings": true,
+        "revenue": true,
+        "statistics": true,
+        "transcripts": true
+      },
+      "state": "normal",
+      "subtype": "stock",
+      "symbol": "o",
+      "template": "Real Estate",
+      "ticker": "O",
+      "type": "stocks",
+      "uid": "O"
+    }
+  },
+  "kind": "stockanalysis_company_profile",
+  "profile": {
+    "company": {
+      "ceo": "Sumit Roy",
+      "country": "United States",
+      "description": "Realty Income Corporation, an S&P 500 company, is real estate partner to the world's leading companies.\n\nThey serve their clients as a full-service real estate capital provider. As of March 31, 2026, They have a portfolio of over 15,500 properties in all 50 states of the United States (U.S.), the United Kingdom (U.K.), and eight other countries in Europe.\n\nThey are known as (The Monthly Dividend Company) and have a mission to invest in people and places to deliver dependable monthly dividends that increase over time.\n\nSince their founding, they have declared 673 consecutive monthly dividends and are a member of the S&P 500 Dividend Aristocrats index for having increased dividend for over 31 consecutive years.\n\nThe firm was founded and incorporated in 1969 in Maryland and is based in San Diego, California.",
+      "employees": 544,
+      "founded": 1969,
+      "industry": "REIT - Retail",
+      "ipo_date": null,
+      "logo_url": null,
+      "name": "Realty Income Corporation",
+      "sector": "Real Estate"
+    },
+    "details": {
+      "cik": "0000726728",
+      "currency": "USD",
+      "cusip": "756109104",
+      "eid": "33-0580106",
+      "exchange": "NYSE",
+      "fiscal_year": "January - December",
+      "ipo_price": null,
+      "isin": "US7561091049",
+      "share_class": null,
+      "sic": "6798",
+      "stock_type": "Common Stock",
+      "symbol": "O"
+    }
+  },
+  "provenance": {
+    "collected_at": "2026-08-05T11:31:42.266039+00:00",
+    "page_url": "https://stockanalysis.com/stocks/o/company/",
+    "provider_updated_at": "2026-07-29T13:50:28.563000+00:00",
+    "response_sha256": "b14cdb0a23779381eefb6979c58a085b1ef3a5aa97982f94b9a16562fc27fa50",
+    "source_urls": [
+      "https://www.spglobal.com/market-intelligence/en",
+      "https://eodhd.com/",
+      "https://www.sec.gov/"
+    ],
+    "sources": [
+      {
+        "name": "S&P Global Market Intelligence",
+        "short": "S&P Global",
+        "url": "https://www.spglobal.com/market-intelligence/en"
+      },
+      {
+        "name": "EOD Historical Data",
+        "short": "EOD",
+        "url": "https://eodhd.com/"
+      },
+      {
+        "name": "SEC.gov",
+        "short": "SEC.gov",
+        "url": "https://www.sec.gov/"
+      }
+    ]
+  },
+  "schema_version": 2
+}
