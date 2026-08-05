@@ -1,0 +1,119 @@
+{
+  "catalog": {
+    "active": true,
+    "first_seen_at": "2026-08-05T11:31:11.214040+00:00",
+    "last_seen_at": "2026-08-05T14:50:46.673845+00:00"
+  },
+  "collection": {
+    "consecutive_failures": 0,
+    "data_status": "current",
+    "error_message": null,
+    "error_type": null,
+    "last_attempt_at": "2026-08-05T11:31:42.266039+00:00",
+    "last_success_at": "2026-08-05T11:31:42.266039+00:00",
+    "next_attempt_at": "2026-09-04T11:31:42.266039+00:00",
+    "outcome": "success",
+    "target": "profile"
+  },
+  "generated_at": "2026-08-05T14:50:46.673845+00:00",
+  "identity": {
+    "sec": {
+      "cik": "0000019617",
+      "name": "JPMORGAN CHASE & CO",
+      "ticker": "JPM"
+    },
+    "stockanalysis": {
+      "archived": false,
+      "cik": "0000019617",
+      "currencies": {
+        "dividend": "USD",
+        "financial": "USD",
+        "main": "USD",
+        "price": "USD"
+      },
+      "exchange": "NYSE",
+      "features": {
+        "chart": true,
+        "dividend": true,
+        "employees": true,
+        "filings": true,
+        "financials": true,
+        "forecast": true,
+        "history": true,
+        "market_cap": true,
+        "metrics": true,
+        "metricsv2": true,
+        "profile": true,
+        "ratings": true,
+        "revenue": true,
+        "statistics": true,
+        "transcripts": true
+      },
+      "state": "normal",
+      "subtype": "stock",
+      "symbol": "jpm",
+      "template": "Banks",
+      "ticker": "JPM",
+      "type": "stocks",
+      "uid": "JPM"
+    }
+  },
+  "kind": "stockanalysis_company_profile",
+  "profile": {
+    "company": {
+      "ceo": "James Dimon",
+      "country": "United States",
+      "description": "JPMorgan Chase & Co. operates as a bank and financial holding company in the United States, rest of North America, Europe, the Middle East, Africa, the Asia Pacific, Latin America, and the Caribbean.\n\nIt operates in three segments: Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management.\n\nThe company offers deposit, investment and lending products, and cash management; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit cards, payment solutions, travel services, merchant offers, lifestyle benefits, auto loans, and leases to consumers and small businesses through bank branches, ATMs, and digital and telephone banking.\n\nIt also provides investment banking, market-making, financing, custody, and securities products and services; corporate strategy and structure advisory, equity and debt market capital-raising, and loan origination and syndication services; cash and derivative instruments, risk management solutions, prime brokerage, clearing, and research; and fund services, liquidity and trading services, and data solutions products for large corporations, financial institutions, merchants, start-ups, small and midsized companies, local governments, municipalities, nonprofits, and commercial real estate clients.\n\nIn addition, the company offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; retirement products and services, estate planning, lending, deposits, and investment management products to high-net-worth clients; and financial transaction processing.\n\nJPMorgan Chase & Co. was founded in 1799 and is headquartered in New York, New York.",
+      "employees": 318512,
+      "founded": 1799,
+      "industry": "Banks - Diversified",
+      "ipo_date": null,
+      "logo_url": "https://img.stockanalysis.com/logos1/US/JPM.png",
+      "name": "JPMorgan Chase & Co.",
+      "sector": "Financials"
+    },
+    "details": {
+      "cik": "0000019617",
+      "currency": "USD",
+      "cusip": "46625H100",
+      "eid": "13-2624428",
+      "exchange": "NYSE",
+      "fiscal_year": "January - December",
+      "ipo_price": null,
+      "isin": "US46625H1005",
+      "share_class": null,
+      "sic": "6021",
+      "stock_type": null,
+      "symbol": "JPM"
+    }
+  },
+  "provenance": {
+    "collected_at": "2026-08-05T11:31:42.266039+00:00",
+    "page_url": "https://stockanalysis.com/stocks/jpm/company/",
+    "provider_updated_at": "2026-08-03T20:55:42.657000+00:00",
+    "response_sha256": "e790ee1827f5d523b22b3b4f24a2f93068e85912821a8f5a12e3f87e72ab1346",
+    "source_urls": [
+      "https://www.spglobal.com/market-intelligence/en",
+      "https://eodhd.com/",
+      "https://www.sec.gov/"
+    ],
+    "sources": [
+      {
+        "name": "S&P Global Market Intelligence",
+        "short": "S&P Global",
+        "url": "https://www.spglobal.com/market-intelligence/en"
+      },
+      {
+        "name": "EOD Historical Data",
+        "short": "EOD",
+        "url": "https://eodhd.com/"
+      },
+      {
+        "name": "SEC.gov",
+        "short": "SEC.gov",
+        "url": "https://www.sec.gov/"
+      }
+    ]
+  },
+  "schema_version": 2
+}
