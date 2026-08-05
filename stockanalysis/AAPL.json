@@ -1,0 +1,119 @@
+{
+  "catalog": {
+    "active": true,
+    "first_seen_at": "2026-08-05T11:31:11.214040+00:00",
+    "last_seen_at": "2026-08-05T14:50:46.673845+00:00"
+  },
+  "collection": {
+    "consecutive_failures": 0,
+    "data_status": "current",
+    "error_message": null,
+    "error_type": null,
+    "last_attempt_at": "2026-08-05T11:31:42.266039+00:00",
+    "last_success_at": "2026-08-05T11:31:42.266039+00:00",
+    "next_attempt_at": "2026-09-04T11:31:42.266039+00:00",
+    "outcome": "success",
+    "target": "profile"
+  },
+  "generated_at": "2026-08-05T14:50:46.673845+00:00",
+  "identity": {
+    "sec": {
+      "cik": "0000320193",
+      "name": "Apple Inc.",
+      "ticker": "AAPL"
+    },
+    "stockanalysis": {
+      "archived": false,
+      "cik": "0000320193",
+      "currencies": {
+        "dividend": "USD",
+        "financial": "USD",
+        "main": "USD",
+        "price": "USD"
+      },
+      "exchange": "NASDAQ",
+      "features": {
+        "chart": true,
+        "dividend": true,
+        "employees": true,
+        "filings": true,
+        "financials": true,
+        "forecast": true,
+        "history": true,
+        "market_cap": true,
+        "metrics": true,
+        "metricsv2": true,
+        "profile": true,
+        "ratings": true,
+        "revenue": true,
+        "statistics": true,
+        "transcripts": true
+      },
+      "state": "normal",
+      "subtype": "stock",
+      "symbol": "aapl",
+      "template": "Standard",
+      "ticker": "AAPL",
+      "type": "stocks",
+      "uid": "AAPL"
+    }
+  },
+  "kind": "stockanalysis_company_profile",
+  "profile": {
+    "company": {
+      "ceo": "Timothy Cook",
+      "country": "United States",
+      "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide.\n\nThe company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories.\n\nIt also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allows customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms.\n\nIn addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property.\n\nThe company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets.\n\nIt distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers.\n\nThe company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007.\n\nApple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+      "employees": 166000,
+      "founded": 1977,
+      "industry": "Consumer Electronics",
+      "ipo_date": "1980-12-12",
+      "logo_url": "https://img.stockanalysis.com/logos1/US/aapl.png",
+      "name": "Apple Inc.",
+      "sector": "Technology"
+    },
+    "details": {
+      "cik": "0000320193",
+      "currency": "USD",
+      "cusip": "037833100",
+      "eid": "94-2404110",
+      "exchange": "NASDAQ",
+      "fiscal_year": "October - September",
+      "ipo_price": null,
+      "isin": "US0378331005",
+      "share_class": null,
+      "sic": "3571",
+      "stock_type": "Common Stock",
+      "symbol": "AAPL"
+    }
+  },
+  "provenance": {
+    "collected_at": "2026-08-05T11:31:42.266039+00:00",
+    "page_url": "https://stockanalysis.com/stocks/aapl/company/",
+    "provider_updated_at": "2026-08-04T14:35:44.556000+00:00",
+    "response_sha256": "127e641b529e11dfed005ed01589b238c1d2739c6bf94b68c368317c84d9e61f",
+    "source_urls": [
+      "https://www.spglobal.com/market-intelligence/en",
+      "https://eodhd.com/",
+      "https://www.sec.gov/"
+    ],
+    "sources": [
+      {
+        "name": "S&P Global Market Intelligence",
+        "short": "S&P Global",
+        "url": "https://www.spglobal.com/market-intelligence/en"
+      },
+      {
+        "name": "EOD Historical Data",
+        "short": "EOD",
+        "url": "https://eodhd.com/"
+      },
+      {
+        "name": "SEC.gov",
+        "short": "SEC.gov",
+        "url": "https://www.sec.gov/"
+      }
+    ]
+  },
+  "schema_version": 2
+}
