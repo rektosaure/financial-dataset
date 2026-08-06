@@ -6,21 +6,12 @@
     "company": {
       "ceo": "Timothy Cook",
       "country": "United States",
-      "employees": {
-        "url": "stocks/aapl/employees",
-        "value": 166000
-      },
+      "employees": 166000,
       "founded": 1977,
-      "industry": {
-        "url": "stocks/industry/consumer-electronics",
-        "value": "Consumer Electronics"
-      },
+      "industry": "Consumer Electronics",
       "ipoDate": "1980-12-12",
       "name": "Apple Inc.",
-      "sector": {
-        "url": "stocks/sector/technology",
-        "value": "Technology"
-      }
+      "sector": "Technology"
     },
     "stock_details": {
       "cik": "0000320193",
@@ -146,46 +137,46 @@
           "value": "1.09"
         },
         {
-          "hover": "52.70%",
+          "hover": "52.89%",
           "id": "ch1y",
           "title": "52-Week Price Change",
-          "value": "+52.70%"
+          "value": "+52.89%"
         },
         {
-          "hover": "309.685",
+          "hover": "309.693",
           "id": "sma50",
           "title": "50-Day Moving Average",
           "value": "309.69"
         },
         {
-          "hover": "279.145",
+          "hover": "279.147",
           "id": "sma200",
           "title": "200-Day Moving Average",
           "value": "279.15"
         },
         {
-          "hover": "45.124",
+          "hover": "45.366",
           "id": "rsi",
           "title": "Relative Strength Index (RSI)",
-          "value": "45.12"
+          "value": "45.37"
         },
         {
-          "hover": "53,273,449",
+          "hover": "53,302,211",
           "id": "averageVolume",
           "title": "Average Volume (20 Days)",
-          "value": "53,273,449"
+          "value": "53,302,211"
         }
       ],
-      "text": "The stock price has increased by +52.70% in the last 52 weeks. The beta is 1.09, so Apple's price volatility has been similar to the market average."
+      "text": "The stock price has increased by +52.89% in the last 52 weeks. The beta is 1.09, so Apple's price volatility has been similar to the market average."
     },
     "valuation": {
       "data": [
         {
-          "hover": "4,524,925,509,000",
+          "hover": "4,525,947,101,600",
           "id": "marketcap",
           "title": "Market Cap",
           "url": "market-cap",
-          "value": "4.52T"
+          "value": "4.53T"
         },
         {
           "hover": "4,476,616,980,000",
@@ -194,7 +185,7 @@
           "value": "4.48T"
         }
       ],
-      "text": "Apple has a market cap or net worth of $4.52 trillion. The enterprise value is $4.48 trillion."
+      "text": "Apple has a market cap or net worth of $4.53 trillion. The enterprise value is $4.48 trillion."
     }
   }
 }
