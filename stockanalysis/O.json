@@ -2,7 +2,7 @@
   "catalog": {
     "active": true,
     "first_seen_at": "2026-08-05T11:31:11.214040+00:00",
-    "last_seen_at": "2026-08-05T18:01:30.410266+00:00"
+    "last_seen_at": "2026-08-06T09:30:11.645668+00:00"
   },
   "collection": {
     "consecutive_failures": 0,
@@ -15,7 +15,197 @@
     "outcome": "success",
     "target": "profile"
   },
-  "generated_at": "2026-08-05T18:01:30.410266+00:00",
+  "financials": {
+    "balance": {
+      "annual": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:balance:annual"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:balance:quarterly"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:balance:ttm"
+        },
+        "data": null,
+        "provenance": {}
+      }
+    },
+    "cashflow": {
+      "annual": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:cashflow:annual"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:cashflow:quarterly"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:cashflow:ttm"
+        },
+        "data": null,
+        "provenance": {}
+      }
+    },
+    "income": {
+      "annual": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:income:annual"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:income:quarterly"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:income:ttm"
+        },
+        "data": null,
+        "provenance": {}
+      }
+    },
+    "ratios": {
+      "annual": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:ratios:annual"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:ratios:quarterly"
+        },
+        "data": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "collection": {
+          "consecutive_failures": 0,
+          "data_status": "absent",
+          "error_message": null,
+          "error_type": null,
+          "last_attempt_at": null,
+          "last_success_at": null,
+          "next_attempt_at": null,
+          "outcome": null,
+          "target": "financial:ratios:ttm"
+        },
+        "data": null,
+        "provenance": {}
+      }
+    }
+  },
+  "generated_at": "2026-08-06T09:30:11.645668+00:00",
   "identity": {
     "sec": {
       "cik": "0000726728",
@@ -57,7 +247,7 @@
       "uid": "O"
     }
   },
-  "kind": "stockanalysis_company_profile",
+  "kind": "stockanalysis_ticker",
   "profile": {
     "company": {
       "ceo": "Sumit Roy",
@@ -114,5 +304,5 @@
       }
     ]
   },
-  "schema_version": 2
+  "schema_version": 3
 }
