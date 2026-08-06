@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "ticker": "JPM",
   "cik": "0000019617",
   "profile": {
@@ -35,6 +35,166 @@
       "sic": "6021",
       "stockType": null,
       "symbol": "JPM"
+    }
+  },
+  "statistics": {
+    "dates": {
+      "data": [
+        {
+          "hover": "Jul 14, 2026",
+          "id": "earningsdate",
+          "title": "Earnings Date",
+          "value": "Jul 14, 2026"
+        },
+        {
+          "hover": "Jul 6, 2026",
+          "id": "exdivdate",
+          "title": "Ex-Dividend Date",
+          "value": "Jul 6, 2026"
+        }
+      ],
+      "text": "The last earnings date was Tuesday, July 14, 2026, before market open."
+    },
+    "shares": {
+      "data": [
+        {
+          "hover": "2,658,200,000",
+          "id": "sharesOutClass",
+          "title": "Current Share Class",
+          "value": "2.66B"
+        },
+        {
+          "hover": "2,658,200,000",
+          "id": "sharesout",
+          "title": "Shares Outstanding",
+          "value": "2.66B"
+        },
+        {
+          "hover": "-3.565%",
+          "id": "sharesgrowthyoy",
+          "title": "Shares Change (YoY)",
+          "value": "-3.57%"
+        },
+        {
+          "hover": "-0.956%",
+          "id": "sharesgrowthqoq",
+          "title": "Shares Change (QoQ)",
+          "value": "-0.96%"
+        },
+        {
+          "hover": "0.357%",
+          "id": "sharesInsiders",
+          "title": "Owned by Insiders (%)",
+          "value": "0.36%"
+        },
+        {
+          "hover": "75.821%",
+          "id": "sharesInstitutions",
+          "title": "Owned by Institutions (%)",
+          "value": "75.82%"
+        },
+        {
+          "hover": "2,643,918,570",
+          "id": "float",
+          "title": "Float",
+          "value": "2.64B"
+        }
+      ],
+      "text": "JPMorgan Chase has 2.66 billion shares outstanding. The number of shares has decreased by -3.57% in one year."
+    },
+    "shortSelling": {
+      "data": [
+        {
+          "hover": "29,481,916",
+          "id": "shortInterest",
+          "title": "Short Interest",
+          "value": "29.48M"
+        },
+        {
+          "hover": "30,082,851",
+          "id": "shortPriorMonth",
+          "title": "Short Previous Month",
+          "value": "30.08M"
+        },
+        {
+          "hover": "1.109%",
+          "id": "shortShares",
+          "title": "Short % of Shares Out",
+          "value": "1.11%"
+        },
+        {
+          "hover": "1.115%",
+          "id": "shortFloat",
+          "title": "Short % of Float",
+          "value": "1.12%"
+        },
+        {
+          "hover": "2.660",
+          "id": "shortRatio",
+          "title": "Short Ratio (days to cover)",
+          "value": "2.66"
+        }
+      ],
+      "text": "The latest short interest is 29.48 million, so 1.11% of the outstanding shares have been sold short."
+    },
+    "stockPrice": {
+      "data": [
+        {
+          "hover": "0.978",
+          "id": "beta",
+          "title": "Beta (5Y)",
+          "value": "0.98"
+        },
+        {
+          "hover": "22.44%",
+          "id": "ch1y",
+          "title": "52-Week Price Change",
+          "value": "+22.44%"
+        },
+        {
+          "hover": "331.847",
+          "id": "sma50",
+          "title": "50-Day Moving Average",
+          "value": "331.85"
+        },
+        {
+          "hover": "312.964",
+          "id": "sma200",
+          "title": "200-Day Moving Average",
+          "value": "312.96"
+        },
+        {
+          "hover": "62.548",
+          "id": "rsi",
+          "title": "Relative Strength Index (RSI)",
+          "value": "62.55"
+        },
+        {
+          "hover": "7,783,635",
+          "id": "averageVolume",
+          "title": "Average Volume (20 Days)",
+          "value": "7,783,635"
+        }
+      ],
+      "text": "The stock price has increased by +22.44% in the last 52 weeks. The beta is 0.98, so JPMorgan Chase's price volatility has been similar to the market average."
+    },
+    "valuation": {
+      "data": [
+        {
+          "hover": "946,319,200,000",
+          "id": "marketcap",
+          "title": "Market Cap",
+          "url": "market-cap",
+          "value": "946.32B"
+        },
+        {
+          "hover": "464,757,818,000",
+          "id": "enterpriseValue",
+          "title": "Enterprise Value",
+          "value": "464.76B"
+        }
+      ],
+      "text": "JPMorgan Chase has a market cap or net worth of $946.32 billion. The enterprise value is $464.76 billion."
     }
   }
 }
