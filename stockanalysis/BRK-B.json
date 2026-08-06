@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "kind": "stockanalysis_ticker",
+  "generated_at": "2026-08-06T11:30:29.382087+00:00",
+  "catalog": {
+    "active": true,
+    "first_seen_at": "2026-08-06T11:30:29.382087+00:00",
+    "last_seen_at": "2026-08-06T11:30:29.382087+00:00"
+  },
+  "identity": {
+    "sec": {
+      "cik": "0001067983",
+      "ticker": "BRK-B",
+      "name": "BERKSHIRE HATHAWAY INC"
+    },
+    "stockanalysis": null
+  },
+  "profile": {
+    "collection": {
+      "target": "profile",
+      "outcome": null,
+      "data_status": "absent",
+      "last_attempt_at": null,
+      "last_success_at": null,
+      "next_attempt_at": null,
+      "consecutive_failures": 0,
+      "error_type": null,
+      "error_message": null
+    },
+    "data": null,
+    "provenance": {}
+  },
+  "financials": {
+    "collection": {
+      "status": "absent",
+      "coverage": {
+        "current": 0,
+        "stale": 0,
+        "absent": 12,
+        "total": 12
+      },
+      "outcomes": {},
+      "last_attempt_at": null,
+      "latest_success_at": null,
+      "oldest_success_at": null,
+      "next_attempt_at": null,
+      "failed_targets": 0
+    },
+    "income": {
+      "statement": "income-statement",
+      "annual": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      }
+    },
+    "balance": {
+      "statement": "balance-sheet",
+      "annual": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      }
+    },
+    "cashflow": {
+      "statement": "cash-flow-statement",
+      "annual": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      }
+    },
+    "ratios": {
+      "statement": "ratios",
+      "annual": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "quarterly": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      },
+      "ttm": {
+        "status": {
+          "data_status": "absent",
+          "outcome": null,
+          "error_type": null,
+          "error_message": null
+        },
+        "table": null,
+        "provenance": {}
+      }
+    }
+  }
+}
