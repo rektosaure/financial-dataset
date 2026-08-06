@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "ticker": "AAPL",
   "cik": "0000320193",
   "profile": {
@@ -35,6 +35,166 @@
       "sic": "3571",
       "stockType": "Common Stock",
       "symbol": "AAPL"
+    }
+  },
+  "statistics": {
+    "dates": {
+      "data": [
+        {
+          "hover": "Jul 30, 2026",
+          "id": "earningsdate",
+          "title": "Earnings Date",
+          "value": "Jul 30, 2026"
+        },
+        {
+          "hover": "Aug 10, 2026",
+          "id": "exdivdate",
+          "title": "Ex-Dividend Date",
+          "value": "Aug 10, 2026"
+        }
+      ],
+      "text": "The last earnings date was Thursday, July 30, 2026, after market close."
+    },
+    "shares": {
+      "data": [
+        {
+          "hover": "14,594,180,000",
+          "id": "sharesOutClass",
+          "title": "Current Share Class",
+          "value": "14.59B"
+        },
+        {
+          "hover": "14,594,180,000",
+          "id": "sharesout",
+          "title": "Shares Outstanding",
+          "value": "14.59B"
+        },
+        {
+          "hover": "-2.125%",
+          "id": "sharesgrowthyoy",
+          "title": "Shares Change (YoY)",
+          "value": "-2.13%"
+        },
+        {
+          "hover": "-0.076%",
+          "id": "sharesgrowthqoq",
+          "title": "Shares Change (QoQ)",
+          "value": "-0.08%"
+        },
+        {
+          "hover": "0.061%",
+          "id": "sharesInsiders",
+          "title": "Owned by Insiders (%)",
+          "value": "0.06%"
+        },
+        {
+          "hover": "65.086%",
+          "id": "sharesInstitutions",
+          "title": "Owned by Institutions (%)",
+          "value": "65.09%"
+        },
+        {
+          "hover": "14,569,155,730",
+          "id": "float",
+          "title": "Float",
+          "value": "14.57B"
+        }
+      ],
+      "text": "Apple has 14.59 billion shares outstanding. The number of shares has decreased by -2.13% in one year."
+    },
+    "shortSelling": {
+      "data": [
+        {
+          "hover": "146,547,784",
+          "id": "shortInterest",
+          "title": "Short Interest",
+          "value": "146.55M"
+        },
+        {
+          "hover": "140,526,320",
+          "id": "shortPriorMonth",
+          "title": "Short Previous Month",
+          "value": "140.53M"
+        },
+        {
+          "hover": "1.004%",
+          "id": "shortShares",
+          "title": "Short % of Shares Out",
+          "value": "1.00%"
+        },
+        {
+          "hover": "1.006%",
+          "id": "shortFloat",
+          "title": "Short % of Float",
+          "value": "1.01%"
+        },
+        {
+          "hover": "2.280",
+          "id": "shortRatio",
+          "title": "Short Ratio (days to cover)",
+          "value": "2.28"
+        }
+      ],
+      "text": "The latest short interest is 146.55 million, so 1.00% of the outstanding shares have been sold short."
+    },
+    "stockPrice": {
+      "data": [
+        {
+          "hover": "1.086",
+          "id": "beta",
+          "title": "Beta (5Y)",
+          "value": "1.09"
+        },
+        {
+          "hover": "52.70%",
+          "id": "ch1y",
+          "title": "52-Week Price Change",
+          "value": "+52.70%"
+        },
+        {
+          "hover": "309.685",
+          "id": "sma50",
+          "title": "50-Day Moving Average",
+          "value": "309.69"
+        },
+        {
+          "hover": "279.145",
+          "id": "sma200",
+          "title": "200-Day Moving Average",
+          "value": "279.15"
+        },
+        {
+          "hover": "45.124",
+          "id": "rsi",
+          "title": "Relative Strength Index (RSI)",
+          "value": "45.12"
+        },
+        {
+          "hover": "53,273,449",
+          "id": "averageVolume",
+          "title": "Average Volume (20 Days)",
+          "value": "53,273,449"
+        }
+      ],
+      "text": "The stock price has increased by +52.70% in the last 52 weeks. The beta is 1.09, so Apple's price volatility has been similar to the market average."
+    },
+    "valuation": {
+      "data": [
+        {
+          "hover": "4,524,925,509,000",
+          "id": "marketcap",
+          "title": "Market Cap",
+          "url": "market-cap",
+          "value": "4.52T"
+        },
+        {
+          "hover": "4,476,616,980,000",
+          "id": "enterpriseValue",
+          "title": "Enterprise Value",
+          "value": "4.48T"
+        }
+      ],
+      "text": "Apple has a market cap or net worth of $4.52 trillion. The enterprise value is $4.48 trillion."
     }
   }
 }
