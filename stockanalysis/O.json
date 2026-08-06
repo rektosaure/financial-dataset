@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "ticker": "O",
   "cik": "0000726728",
   "profile": {
@@ -35,6 +35,166 @@
       "sic": "6798",
       "stockType": "Common Stock",
       "symbol": "O"
+    }
+  },
+  "statistics": {
+    "dates": {
+      "data": [
+        {
+          "hover": "Aug 5, 2026",
+          "id": "earningsdate",
+          "title": "Earnings Date",
+          "value": "Aug 5, 2026"
+        },
+        {
+          "hover": "Jul 31, 2026",
+          "id": "exdivdate",
+          "title": "Ex-Dividend Date",
+          "value": "Jul 31, 2026"
+        }
+      ],
+      "text": "The last earnings date was Wednesday, August 5, 2026, after market close."
+    },
+    "shares": {
+      "data": [
+        {
+          "hover": "932,492,530",
+          "id": "sharesOutClass",
+          "title": "Current Share Class",
+          "value": "932.49M"
+        },
+        {
+          "hover": "935,174,338",
+          "id": "sharesout",
+          "title": "Shares Outstanding",
+          "value": "935.17M"
+        },
+        {
+          "hover": "4.927%",
+          "id": "sharesgrowthyoy",
+          "title": "Shares Change (YoY)",
+          "value": "+4.93%"
+        },
+        {
+          "hover": "-0.518%",
+          "id": "sharesgrowthqoq",
+          "title": "Shares Change (QoQ)",
+          "value": "-0.52%"
+        },
+        {
+          "hover": "0.128%",
+          "id": "sharesInsiders",
+          "title": "Owned by Insiders (%)",
+          "value": "0.13%"
+        },
+        {
+          "hover": "78.021%",
+          "id": "sharesInstitutions",
+          "title": "Owned by Institutions (%)",
+          "value": "78.02%"
+        },
+        {
+          "hover": "930,291,617",
+          "id": "float",
+          "title": "Float",
+          "value": "930.29M"
+        }
+      ],
+      "text": "Realty Income has 935.17 million shares outstanding. The number of shares has increased by 4.93% in one year."
+    },
+    "shortSelling": {
+      "data": [
+        {
+          "hover": "40,024,135",
+          "id": "shortInterest",
+          "title": "Short Interest",
+          "value": "40.02M"
+        },
+        {
+          "hover": "37,311,921",
+          "id": "shortPriorMonth",
+          "title": "Short Previous Month",
+          "value": "37.31M"
+        },
+        {
+          "hover": "4.280%",
+          "id": "shortShares",
+          "title": "Short % of Shares Out",
+          "value": "4.28%"
+        },
+        {
+          "hover": "4.302%",
+          "id": "shortFloat",
+          "title": "Short % of Float",
+          "value": "4.30%"
+        },
+        {
+          "hover": "6.420",
+          "id": "shortRatio",
+          "title": "Short Ratio (days to cover)",
+          "value": "6.42"
+        }
+      ],
+      "text": "The latest short interest is 40.02 million, so 4.28% of the outstanding shares have been sold short."
+    },
+    "stockPrice": {
+      "data": [
+        {
+          "hover": "0.719",
+          "id": "beta",
+          "title": "Beta (5Y)",
+          "value": "0.72"
+        },
+        {
+          "hover": "9.51%",
+          "id": "ch1y",
+          "title": "52-Week Price Change",
+          "value": "+9.51%"
+        },
+        {
+          "hover": "62.797",
+          "id": "sma50",
+          "title": "50-Day Moving Average",
+          "value": "62.80"
+        },
+        {
+          "hover": "61.420",
+          "id": "sma200",
+          "title": "200-Day Moving Average",
+          "value": "61.42"
+        },
+        {
+          "hover": "41.030",
+          "id": "rsi",
+          "title": "Relative Strength Index (RSI)",
+          "value": "41.03"
+        },
+        {
+          "hover": "4,716,397",
+          "id": "averageVolume",
+          "title": "Average Volume (20 Days)",
+          "value": "4,716,397"
+        }
+      ],
+      "text": "The stock price has increased by +9.51% in the last 52 weeks. The beta is 0.72, so Realty Income's price volatility has been lower than the market average."
+    },
+    "valuation": {
+      "data": [
+        {
+          "hover": "58,555,941,174",
+          "id": "marketcap",
+          "title": "Market Cap",
+          "url": "market-cap",
+          "value": "58.56B"
+        },
+        {
+          "hover": "88,734,435,993",
+          "id": "enterpriseValue",
+          "title": "Enterprise Value",
+          "value": "88.73B"
+        }
+      ],
+      "text": "Realty Income has a market cap or net worth of $58.56 billion. The enterprise value is $88.73 billion."
     }
   }
 }
