@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "kind": "stockanalysis_ticker",
-  "generated_at": "2026-08-06T11:31:06.711697+00:00",
+  "generated_at": "2026-08-06T11:42:58.358358+00:00",
   "catalog": {
     "active": true,
     "first_seen_at": "2026-08-06T11:30:29.382087+00:00",
-    "last_seen_at": "2026-08-06T11:30:29.382087+00:00"
+    "last_seen_at": "2026-08-06T11:42:32.566865+00:00"
   },
   "identity": {
     "sec": {
@@ -128,13 +128,13 @@
       },
       "outcomes": {
         "success": 10,
-        "format_changed": 1
+        "format_changed": 2
       },
-      "last_attempt_at": "2026-08-06T11:31:06.711697+00:00",
+      "last_attempt_at": "2026-08-06T11:42:58.358358+00:00",
       "latest_success_at": "2026-08-06T11:31:06.711697+00:00",
       "oldest_success_at": "2026-08-06T11:31:06.711697+00:00",
-      "next_attempt_at": "2026-08-06T11:31:06.711697+00:00",
-      "failed_targets": 1
+      "next_attempt_at": "2026-08-06T12:31:06.711697+00:00",
+      "failed_targets": 2
     },
     "income": {
       "statement": "income-statement",
@@ -11894,9 +11894,9 @@
       "ttm": {
         "status": {
           "data_status": "absent",
-          "outcome": null,
-          "error_type": null,
-          "error_message": null
+          "outcome": "format_changed",
+          "error_type": "ValueError",
+          "error_message": "StockAnalysis financial payload has an unexpected structure"
         },
         "table": null,
         "provenance": {}
