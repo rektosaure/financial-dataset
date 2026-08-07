@@ -12,7 +12,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001774857,AARD,"Aardvark Therapeutics, Inc.",2026-08-07T01:13:45.317689+00:00,4,Sell,F,F,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001500217,AAT,"American Assets Trust, Inc.",2026-08-06T21:13:37.742009+00:00,2,Buy,B,D,C,C,REIT and Equity Trust - Retail,reit-and-equity-trust-retail-264,Top,34,83,245
 0001993344,AAUC,Allied Gold Corp,2026-08-06T20:43:43.394648+00:00,3,Hold,A,A,F,A,Mining - Gold,mining-gold-114,Bottom,5,232,245
-0001756390,AAWH,"Ascend Wellness Holdings, Inc.",2026-08-06T17:13:45.987321+00:00,3,Hold,A,F,B,C,Medical Services,medical-services-285,Top,42,102,245
+0001756390,AAWH,"Ascend Wellness Holdings, Inc.",2026-08-07T18:06:18.251207+00:00,3,Hold,A,F,B,C,Medical Services,medical-services-285,Top,43,105,245
 0000825313,AB,ALLIANCEBERNSTEIN HOLDING L.P.,2026-08-06T17:43:46.757059+00:00,3,Hold,A,C,D,B,Financial - Investment Management,financial-investment-management-63,Top,25,62,245
 0001091587,ABBNY,ABB LTD,2026-08-06T17:33:44.743435+00:00,2,Buy,D,C,B,D,Manufacturing - Electronics,manufacturing-electronics-97,Top,20,50,245
 0001551152,ABBV,AbbVie Inc.,2026-08-06T21:53:43.857777+00:00,4,Sell,C,B,C,B,Large Cap Pharmaceuticals,large-cap-pharmaceuticals-225,Bottom,4,236,245
@@ -246,7 +246,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001808997,AOUT,"American Outdoor Brands, Inc.",2026-08-06T23:33:38.776183+00:00,1,Strong Buy,C,A,D,B,Leisure and Recreation Products,leisure-and-recreation-products-91,Top,31,77,245
 0001841666,APA,APA Corp,2026-08-06T23:33:38.776183+00:00,4,Sell,A,B,B,A,Oil and Gas - Exploration and Production - United States,oil-and-gas-exploration-and-production-united-states-136,Bottom,12,215,245
 0001517302,APAM,Artisan Partners Asset Management Inc.,2026-08-07T00:03:40.002292+00:00,5,Strong Sell,C,D,A,C,Financial - Investment Management,financial-investment-management-63,Top,25,62,245
-0002080921,APC,ARKO Petroleum Corp.,2026-08-06T17:13:45.987321+00:00,3,Hold,A,B,C,A,Oil and Gas - Refining and Marketing,oil-and-gas-refining-and-marketing-128,Top,7,17,245
+0002080921,APC,ARKO Petroleum Corp.,2026-08-07T18:06:18.251207+00:00,3,Hold,A,B,C,A,Oil and Gas - Refining and Marketing,oil-and-gas-refining-and-marketing-128,Top,9,23,245
 0000002969,APD,"Air Products & Chemicals, Inc.",2026-08-07T12:49:02.453053+00:00,2,Buy,D,B,A,C,Chemical - Diversified,chemical-diversified-34,Top,39,96,245
 0001201792,APEI,AMERICAN PUBLIC EDUCATION INC,2026-08-07T17:36:27.782758+00:00,2,Buy,B,A,D,A,Schools,schools-172,Top,42,102,245
 0001796209,APG,APi Group Corp,2026-08-06T19:53:47.767752+00:00,3,Hold,C,B,A,B,Business - Services,business-services-205,Bottom,14,211,245
@@ -318,7 +318,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001920406,ASST,"Strive, Inc.",2026-08-07T00:13:33.425212+00:00,3,Hold,F,F,F,F,Financial - Investment Management,financial-investment-management-63,Top,25,62,245
 0000792987,ASTE,ASTEC INDUSTRIES INC,2026-08-07T09:53:45.915989+00:00,5,Strong Sell,A,A,A,A,Manufacturing - Construction and Mining,manufacturing-construction-and-mining-95,Top,31,77,245
 0001083446,ASTH,"Astrana Health, Inc.",2026-08-07T01:33:39.013172+00:00,3,Hold,A,A,F,A,Medical - Outpatient and Home Healthcare,medical-outpatient-and-home-healthcare-111,Top,29,72,245
-0001350102,ASTI,"Ascent Solar Technologies, Inc.",2026-08-06T17:13:45.987321+00:00,3,Hold,F,D,D,F,Solar,solar-268,Top,41,100,245
+0001350102,ASTI,"Ascent Solar Technologies, Inc.",2026-08-07T18:06:18.251207+00:00,3,Hold,F,D,C,F,Solar,solar-268,Top,42,102,245
 0001860805,ASTL,Algoma Steel Group Inc.,2026-08-07T15:31:49.691688+00:00,3,Hold,F,D,F,F,Steel - Producers,steel-producers-176,Top,38,92,245
 0001780312,ASTS,"AST SpaceMobile, Inc.",2026-08-06T18:23:45.546473+00:00,3,Hold,F,F,D,F,Wireless Equipment,wireless-equipment-229,Top,31,77,245
 0000884144,ASUR,ASURE SOFTWARE INC,2026-08-06T21:43:33.294264+00:00,3,Hold,B,B,B,A,Internet - Delivery Services,internet-delivery-services-219,Top,44,107,245
@@ -481,11 +481,11 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001094831,BGC,"BGC Group, Inc.",2026-08-07T12:28:41.963553+00:00,3,Hold,A,C,C,B,Financial - Investment Bank,financial-investment-bank-62,Top,15,36,245
 0001278027,BGS,"B&G Foods, Inc.",2026-08-07T01:13:45.317689+00:00,3,Hold,A,D,A,B,Food - Miscellaneous,food-miscellaneous-76,Bottom,15,209,245
 0002091467,BGSI,Boyd Group Services Inc.,2026-08-06T20:43:43.394648+00:00,3,Hold,A,A,A,A,Consumer Products - Staples,consumer-products-staples-207,Bottom,18,202,245
-0000743367,BHB,BAR HARBOR BANKSHARES,2026-08-06T17:13:45.987321+00:00,5,Strong Sell,D,F,D,F,Banks - Northeast,banks-northeast-15,Top,18,45,245
+0000743367,BHB,BAR HARBOR BANKSHARES,2026-08-07T18:06:18.251207+00:00,5,Strong Sell,F,F,D,F,Banks - Northeast,banks-northeast-15,Top,20,48,245
 0000885590,BHC,Bausch Health Companies Inc.,2026-08-07T10:58:42.752010+00:00,3,Hold,A,A,A,A,Medical - Generic Drugs,medical-generic-drugs-107,Bottom,17,203,245
 0001685040,BHF,"Brighthouse Financial, Inc.",2026-08-07T12:28:41.963553+00:00,4,Sell,A,F,A,C,Insurance - Life Insurance,insurance-life-insurance-87,Bottom,21,194,245
 0001407583,BHLL,Bunker Hill Mining Corp.,2026-08-07T16:31:45.695491+00:00,3,Hold,F,B,B,D,Mining - Miscellaneous,mining-miscellaneous-116,Bottom,22,192,245
-0000811809,BHP,BHP Group Ltd,2026-08-06T17:13:45.987321+00:00,3,Hold,C,B,D,C,Mining - Miscellaneous,mining-miscellaneous-116,Bottom,21,193,245
+0000811809,BHP,BHP Group Ltd,2026-08-07T18:06:18.251207+00:00,3,Hold,C,B,C,C,Mining - Miscellaneous,mining-miscellaneous-116,Bottom,22,192,245
 0001574085,BHR,Braemar Hotels & Resorts Inc.,2026-08-06T17:23:40.745216+00:00,3,Hold,A,C,C,A,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,30,73,245
 0001964333,BHRB,Burke & Herbert Financial Services Corp.,2026-08-06T18:13:40.515648+00:00,3,Hold,B,F,F,D,Financial - Miscellaneous Services,financial-miscellaneous-services-69,Bottom,36,157,245
 0001723464,BHST,BIOHARVEST SCIENCES INC.,2026-08-07T16:11:53.788770+00:00,3,Hold,C,B,D,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
@@ -755,7 +755,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0000763563,CHMG,CHEMUNG FINANCIAL CORP,2026-08-07T09:53:45.915989+00:00,1,Strong Buy,C,D,C,D,Banks - Southeast,banks-southeast-16,Top,24,58,245
 0001571776,CHMI,Cherry Hill Mortgage Investment Corp,2026-08-07T01:53:32.870064+00:00,3,Hold,B,D,C,C,REIT and Equity Trust,reit-and-equity-trust-151,Bottom,28,177,245
 0001777393,CHPT,"ChargePoint Holdings, Inc.",2026-08-07T15:41:54.570458+00:00,2,Buy,F,A,F,D,Automotive - Original Equipment,automotive-original-equipment-10,Bottom,31,170,245
-0001486159,CHRD,Chord Energy Corp,2026-08-06T17:13:45.987321+00:00,4,Sell,A,B,B,A,Oil and Gas - Exploration and Production - United States,oil-and-gas-exploration-and-production-united-states-136,Bottom,12,215,245
+0001486159,CHRD,Chord Energy Corp,2026-08-07T18:06:18.251207+00:00,4,Sell,A,B,A,A,Oil and Gas - Exploration and Production - United States,oil-and-gas-exploration-and-production-united-states-136,Bottom,13,212,245
 0001549084,CHRN,ChronoScale Holdings Corp,2026-08-06T20:43:43.394648+00:00,3,Hold,F,C,F,F,Internet - Software,internet-software-214,Top,44,107,245
 0001512762,CHRS,"Coherus Oncology, Inc.",2026-08-07T16:21:42.719753+00:00,3,Hold,D,F,B,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0001043277,CHRW,"C. H. ROBINSON WORLDWIDE, INC.",2026-08-07T01:03:43.498545+00:00,3,Hold,C,B,A,B,Transportation - Services,transportation-services-191,Bottom,33,165,245
@@ -773,7 +773,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0000020286,CINF,CINCINNATI FINANCIAL CORP,2026-08-06T22:35:25.527080+00:00,3,Hold,C,F,D,D,Insurance - Property and Casualty,insurance-property-and-casualty-89,Bottom,40,148,245
 0001868995,CINT,CI&T Inc,2026-08-06T17:33:44.743435+00:00,4,Sell,A,D,F,C,Internet - Software,internet-software-214,Top,44,107,245
 0001534254,CION,CION Investment Corp,2026-08-06T23:23:43.283827+00:00,3,Hold,A,D,C,B,Financial - SBIC & Commercial Industry,financial-sbic-commercial-industry-68,Bottom,31,170,245
-0000894556,CITR,CitroTech Inc.,2026-08-06T16:43:36.161469+00:00,3,Hold,F,F,B,F,Security and Safety Services,security-and-safety-services-146,Top,44,107,245
+0000894556,CITR,CitroTech Inc.,2026-08-07T18:06:18.251207+00:00,3,Hold,F,F,B,F,Security and Safety Services,security-and-safety-services-146,Top,44,109,245
 0000944745,CIVB,"CIVISTA BANCSHARES, INC.",2026-08-07T10:28:48.028242+00:00,3,Hold,B,D,D,D,Banks - Midwest,banks-midwest-13,Top,21,51,245
 0000021665,CL,COLGATE PALMOLIVE CO,2026-08-06T18:13:40.515648+00:00,3,Hold,D,A,A,B,Consumer Products - Staples,consumer-products-staples-207,Bottom,18,202,245
 0000913277,CLAR,Clarus Corp,2026-08-06T20:13:43.267047+00:00,3,Hold,D,B,F,D,Leisure and Recreation Products,leisure-and-recreation-products-91,Top,31,77,245
@@ -795,7 +795,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001279704,CLRB,"Cellectar Biosciences, Inc.",2026-08-07T00:13:33.425212+00:00,3,Hold,F,A,C,C,Medical - Products,medical-products-104,Bottom,36,157,245
 0001030894,CLS,CELESTICA INC,2026-08-07T13:41:42.754978+00:00,1,Strong Buy,C,A,A,A,Electronics - Manufacturing Services,electronics-manufacturing-services-261,Top,1,1,245
 0000827876,CLSK,"CLEANSPARK, INC.",2026-08-07T00:33:36.744703+00:00,3,Hold,D,F,F,F,Financial - Miscellaneous Services,financial-miscellaneous-services-69,Bottom,36,157,245
-0001764046,CLVT,CLARIVATE PLC,2026-08-06T17:13:45.987321+00:00,3,Hold,A,D,A,A,Computers - IT Services,computers-it-services-218,Bottom,40,148,245
+0001764046,CLVT,CLARIVATE PLC,2026-08-07T18:06:18.251207+00:00,3,Hold,A,D,A,A,Computers - IT Services,computers-it-services-218,Bottom,36,156,245
 0001441236,CLW,Clearwater Paper Corp,2026-08-06T18:23:45.546473+00:00,3,Hold,A,B,A,A,Paper and Related Products,paper-and-related-products-140,Bottom,7,227,245
 0000021076,CLX,CLOROX CO /DE/,2026-08-06T20:23:38.921243+00:00,5,Strong Sell,D,F,F,F,Consumer Products - Staples,consumer-products-staples-207,Bottom,18,202,245
 0001768446,CLYM,"Climb Bio, Inc.",2026-08-06T23:23:43.283827+00:00,3,Hold,D,D,C,D,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
@@ -814,7 +814,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001738021,CMPX,"Compass Therapeutics, Inc.",2026-08-06T21:23:45.871309+00:00,3,Hold,F,F,B,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001626450,CMRC,"Commerce.com, Inc.",2026-08-07T01:13:45.317689+00:00,3,Hold,B,A,C,A,Internet - Commerce,internet-commerce-211,Bottom,37,155,245
 0000811156,CMS,CMS ENERGY CORP,2026-08-06T18:13:40.515648+00:00,4,Sell,D,D,A,D,Utility - Electric Power,utility-electric-power-193,Bottom,29,175,245
-0001026655,CMT,CORE MOLDING TECHNOLOGIES INC,2026-08-06T17:13:45.987321+00:00,4,Sell,B,F,D,D,Rubber - Plastics,rubber-plastics-170,Bottom,11,217,245
+0001026655,CMT,CORE MOLDING TECHNOLOGIES INC,2026-08-07T18:06:18.251207+00:00,4,Sell,B,F,F,D,Rubber - Plastics,rubber-plastics-170,Top,15,37,245
 0001666291,CMTG,"Claros Mortgage Trust, Inc.",2026-08-07T00:03:40.002292+00:00,3,Hold,F,F,B,F,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,30,73,245
 0000023197,CMTL,COMTECH TELECOMMUNICATIONS CORP /DE/,2026-08-06T17:23:40.745216+00:00,2,Buy,A,B,B,A,Wireless Equipment,wireless-equipment-229,Top,31,77,245
 0000021175,CNA,CNA FINANCIAL CORP,2026-08-06T18:53:32.556936+00:00,3,Hold,B,F,B,C,Insurance - Property and Casualty,insurance-property-and-casualty-89,Bottom,40,148,245
@@ -842,7 +842,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001050377,CNXN,PC CONNECTION INC,2026-08-07T15:21:52.415557+00:00,1,Strong Buy,C,F,F,F,Retail - Computer Hardware,retail-computer-hardware-169,Top,1,1,245
 0002066836,CNXU,Conexeu Sciences Inc.,2026-08-06T20:53:38.412758+00:00,3,Hold,C,D,F,D,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0002114044,COAG,"Hemab Therapeutics Holdings, Inc.",2026-08-07T17:36:27.782758+00:00,4,Sell,C,C,B,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
-0001840877,COCH,"Envoy Medical, Inc.",2026-08-06T17:13:45.987321+00:00,2,Buy,F,D,D,F,Medical - Instruments,medical-instruments-103,Bottom,36,157,245
+0001840877,COCH,"Envoy Medical, Inc.",2026-08-07T18:06:18.251207+00:00,2,Buy,F,D,D,F,Medical - Instruments,medical-instruments-103,Bottom,37,154,245
 0001482981,COCO,"Vita Coco Company, Inc.",2026-08-06T19:23:41.738350+00:00,1,Strong Buy,F,A,C,C,Beverages - Soft drinks,beverages-soft-drinks-20,Top,31,77,245
 0001345126,CODI,Compass Diversified Holdings,2026-08-07T01:43:47.089457+00:00,3,Hold,C,A,C,A,Financial - Investment Funds,financial-investment-funds-66,Top,44,107,245
 0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-08-07T02:23:41.033182+00:00,3,Hold,A,C,B,B,Financial - Consumer Loans,financial-consumer-loans-61,Top,44,107,245
@@ -922,7 +922,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001430162,CSAN,Cosan S.A.,2026-08-07T16:31:45.695491+00:00,3,Hold,B,A,B,A,Alternative Energy - Other,alternative-energy-other-273,Bottom,32,166,245
 0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-08-06T17:53:36.982484+00:00,3,Hold,F,D,C,F,Computer - Networking,computer-networking-198,Bottom,31,170,245
 0001057352,CSGP,"COSTAR GROUP, INC.",2026-08-06T18:04:19.608949+00:00,3,Hold,C,C,B,B,Computers - IT Services,computers-it-services-218,Bottom,40,148,245
-0001375877,CSIQ,Canadian Solar Inc.,2026-08-06T17:13:45.987321+00:00,3,Hold,C,D,D,D,Solar,solar-268,Top,41,100,245
+0001375877,CSIQ,Canadian Solar Inc.,2026-08-07T18:06:18.251207+00:00,3,Hold,C,D,D,D,Solar,solar-268,Top,42,102,245
 0000790051,CSL,CARLISLE COMPANIES INC,2026-08-06T21:03:36.772745+00:00,3,Hold,C,C,F,D,Diversified Operations,diversified-operations-48,Bottom,36,157,245
 0001274152,CSLLY,CSL LTD,2026-08-07T09:53:45.915989+00:00,4,Sell,B,C,D,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0000798359,CSR,CENTERSPACE,2026-08-06T22:23:45.251866+00:00,4,Sell,B,F,D,D,REIT and Equity Trust - Residential,reit-and-equity-trust-residential-265,Top,38,93,245
@@ -988,7 +988,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001108109,CYH,COMMUNITY HEALTH SYSTEMS INC,2026-08-06T22:13:37.173613+00:00,4,Sell,A,F,F,C,Medical - Hospital,medical-hospital-109,Bottom,21,193,245
 0001124524,CYRX,"Cryoport, Inc.",2026-08-06T21:33:33.751615+00:00,3,Hold,F,C,D,F,Medical Services,medical-services-285,Top,42,102,245
 0001061983,CYTK,CYTOKINETICS INC,2026-08-07T16:11:53.788770+00:00,3,Hold,F,F,B,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
-0000739421,CZFS,CITIZENS FINANCIAL SERVICES INC,2026-08-06T17:13:45.987321+00:00,1,Strong Buy,B,D,A,C,Banks - Northeast,banks-northeast-15,Top,18,45,245
+0000739421,CZFS,CITIZENS FINANCIAL SERVICES INC,2026-08-07T18:06:18.251207+00:00,1,Strong Buy,B,D,B,C,Banks - Northeast,banks-northeast-15,Top,20,48,245
 0000810958,CZNC,CITIZENS & NORTHERN CORP,2026-08-06T23:53:37.126459+00:00,2,Buy,C,F,A,D,Banks - Northeast,banks-northeast-15,Top,18,45,245
 0001590895,CZR,"Caesars Entertainment, Inc.",2026-08-06T23:23:43.283827+00:00,5,Strong Sell,B,C,F,C,Leisure and Recreation Services,leisure-and-recreation-services-92,Top,44,107,245
 0001367859,CZWI,Citizens Community Bancorp Inc.,2026-08-06T23:03:55.591387+00:00,3,Hold,B,F,C,D,Financial - Savings and Loan,financial-savings-and-loan-67,Top,36,88,245
@@ -997,7 +997,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0000915779,DAKT,DAKTRONICS INC /SD/,2026-08-06T17:53:36.982484+00:00,2,Buy,B,C,D,B,Electronics - Miscellaneous Products,electronics-miscellaneous-products-52,Top,20,49,245
 0000027904,DAL,"DELTA AIR LINES, INC.",2026-08-06T18:43:36.543397+00:00,3,Hold,A,C,B,B,Transportation - Airline,transportation-airline-187,Top,44,107,245
 0000026780,DAN,DANA Inc,2026-08-06T19:13:35.332341+00:00,5,Strong Sell,A,F,D,C,Automotive - Original Equipment,automotive-original-equipment-10,Bottom,32,167,245
-0000916540,DAR,DARLING INGREDIENTS INC.,2026-08-06T17:13:45.987321+00:00,1,Strong Buy,A,B,A,A,Food - Miscellaneous,food-miscellaneous-76,Bottom,15,209,245
+0000916540,DAR,DARLING INGREDIENTS INC.,2026-08-07T18:06:18.251207+00:00,1,Strong Buy,B,B,A,A,Food - Miscellaneous,food-miscellaneous-76,Bottom,14,210,245
 0001401914,DARE,"Dare Bioscience, Inc.",2026-08-07T14:41:51.579428+00:00,3,Hold,F,B,F,D,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0001792789,DASH,"DoorDash, Inc.",2026-08-07T00:43:39.675904+00:00,3,Hold,F,C,F,F,Internet - Services,internet-services-213,Bottom,38,153,245
 0001656081,DAVA,Endava plc,2026-08-07T17:46:29.261077+00:00,3,Hold,A,C,B,A,Computers - IT Services,computers-it-services-218,Bottom,36,156,245
@@ -1087,7 +1087,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001298946,DRH,DiamondRock Hospitality Co,2026-08-06T17:33:44.743435+00:00,3,Hold,B,C,A,B,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,30,73,245
 0000940944,DRI,DARDEN RESTAURANTS INC,2026-08-06T18:04:19.608949+00:00,4,Sell,C,A,B,B,Retail - Restaurants,retail-restaurants-160,Bottom,21,193,245
 0001533998,DRIO,DarioHealth Corp.,2026-08-07T00:33:36.744703+00:00,3,Hold,F,B,B,C,Medical - Instruments,medical-instruments-103,Bottom,36,157,245
-0001833756,DRS,"Leonardo DRS, Inc.",2026-08-06T17:13:45.987321+00:00,2,Buy,D,A,A,B,Aerospace - Defense Equipment,aerospace-defense-equipment-3,Top,36,87,245
+0001833756,DRS,"Leonardo DRS, Inc.",2026-08-07T18:06:18.251207+00:00,2,Buy,D,A,A,B,Aerospace - Defense Equipment,aerospace-defense-equipment-3,Top,30,74,245
 0001871321,DRTS,Alpha Tau Medical Ltd.,2026-08-06T22:13:37.173613+00:00,3,Hold,F,F,F,F,Medical - Instruments,medical-instruments-103,Bottom,36,157,245
 0001340476,DRTTF,DIRTT ENVIRONMENTAL SOLUTIONS LTD,2026-08-07T01:33:39.013172+00:00,4,Sell,C,A,F,B,Internet - Software,internet-software-214,Top,44,107,245
 0001827401,DRUG,BRIGHT MINDS BIOSCIENCES INC.,2026-08-07T15:31:49.691688+00:00,2,Buy,C,F,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
@@ -1301,7 +1301,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001650648,FDMT,"4D Molecular Therapeutics, Inc.",2026-08-07T12:28:41.963553+00:00,3,Hold,F,F,D,F,Medical - Drugs,medical-drugs-106,Bottom,38,151,245
 0001013237,FDS,FACTSET RESEARCH SYSTEMS INC,2026-08-07T01:03:43.498545+00:00,3,Hold,B,B,B,B,Business - Information Services,business-information-services-206,Top,24,58,245
 0001513363,FDUS,FIDUS INVESTMENT Corp,2026-08-07T17:36:27.782758+00:00,3,Hold,C,F,F,F,Financial - SBIC & Commercial Industry,financial-sbic-commercial-industry-68,Bottom,28,177,245
-0001048911,FDX,FEDEX CORP,2026-08-06T17:03:34.049438+00:00,3,Hold,B,B,B,A,Transportation - Air Freight and Cargo,transportation-air-freight-and-cargo-186,Top,44,107,245
+0001048911,FDX,FEDEX CORP,2026-08-07T18:06:18.251207+00:00,3,Hold,B,B,D,B,Transportation - Air Freight and Cargo,transportation-air-freight-and-cargo-186,Top,44,109,245
 0002082247,FDXF,"FedEx Freight Holding Company, Inc.",2026-08-06T18:13:40.515648+00:00,3,Hold,C,D,F,D,Transportation - Services,transportation-services-191,Bottom,33,165,245
 0001031296,FE,FIRSTENERGY CORP,2026-08-07T15:21:52.415557+00:00,3,Hold,B,D,A,C,Utility - Electric Power,utility-electric-power-193,Bottom,29,175,245
 0001888654,FEAM,"5E Advanced Materials, Inc.",2026-08-06T20:03:39.742208+00:00,3,Hold,F,A,D,D,Chemical - Specialty,chemical-specialty-37,Top,42,102,245
@@ -1315,7 +1315,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0000036029,FFIN,FIRST FINANCIAL BANKSHARES INC,2026-08-06T22:56:17.519423+00:00,2,Buy,D,D,F,F,Banks - Southwest,banks-southwest-17,Top,23,56,245
 0001048695,FFIV,"F5, INC.",2026-08-06T17:33:44.743435+00:00,3,Hold,D,B,A,C,Internet - Software,internet-software-214,Top,44,107,245
 0001934850,FG,"F&G Annuities & Life, Inc.",2026-08-06T20:33:34.022162+00:00,3,Hold,A,F,D,C,Insurance - Life Insurance,insurance-life-insurance-87,Bottom,22,192,245
-0001408534,FGBI,"First Guaranty Bancshares, Inc.",2026-08-06T17:13:45.987321+00:00,3,Hold,B,B,D,B,Banks - Southeast,banks-southeast-16,Top,24,58,245
+0001408534,FGBI,"First Guaranty Bancshares, Inc.",2026-08-07T18:06:18.251207+00:00,3,Hold,B,B,D,B,Banks - Southeast,banks-southeast-16,Top,25,61,245
 0001864943,FGI,FGI Industries Ltd.,2026-08-06T22:23:45.251866+00:00,3,Hold,B,A,F,A,Retail - Home Furnishings,retail-home-furnishings-161,Bottom,25,184,245
 0001591890,FGNX,FG Nexus Inc.,2026-08-06T21:13:37.742009+00:00,3,Hold,F,F,D,F,Financial - Investment Management,financial-investment-management-63,Top,25,62,245
 0000036377,FHB,"FIRST HAWAIIAN, INC.",2026-08-07T00:13:33.425212+00:00,3,Hold,B,C,C,B,Banks - West,banks-west-18,Bottom,12,215,245
@@ -1542,7 +1542,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001121788,GRMN,GARMIN LTD,2026-08-07T00:23:43.656967+00:00,1,Strong Buy,F,C,C,D,Electronics - Miscellaneous Products,electronics-miscellaneous-products-52,Top,20,49,245
 0001820144,GRND,Grindr Inc.,2026-08-06T18:43:36.543397+00:00,2,Buy,D,A,D,B,Internet - Software,internet-software-214,Top,44,107,245
 0001928446,GRNT,"Granite Ridge Resources, Inc.",2026-08-06T18:13:40.515648+00:00,5,Strong Sell,A,D,A,B,Oil and Gas - Exploration and Production - United States,oil-and-gas-exploration-and-production-united-states-136,Bottom,12,215,245
-0001834026,GROY,Gold Royalty Corp.,2026-08-06T17:13:45.987321+00:00,4,Sell,F,A,B,C,Mining - Gold,mining-gold-114,Bottom,5,232,245
+0001834026,GROY,Gold Royalty Corp.,2026-08-07T18:06:18.251207+00:00,3,Hold,F,B,A,C,Mining - Gold,mining-gold-114,Bottom,5,233,245
 0001490281,GRPN,"Groupon, Inc.",2026-08-07T01:43:47.089457+00:00,3,Hold,D,B,F,D,Internet - Commerce,internet-commerce-211,Bottom,37,155,245
 0001839799,GRSD,GRANDSTAND Ltd,2026-07-31T00:47:07.413306+00:00,4,Sell,A,F,D,C,Gaming,gaming-200,Bottom,26,183,247
 0001604868,GRWG,GrowGeneration Corp.,2026-08-06T20:13:43.267047+00:00,3,Hold,D,C,C,D,Agriculture - Products,agriculture-products-275,Top,9,23,245
@@ -1594,7 +1594,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001691303,HCC,"WARRIOR MET COAL, INC.",2026-08-07T01:53:32.870064+00:00,1,Strong Buy,D,F,F,F,Coal,coal-38,Top,12,30,245
 0001446962,HCHDF,Hochschild Mining PLC,2026-08-06T19:13:35.332341+00:00,4,Sell,B,A,C,A,Mining - Silver,mining-silver-118,Bottom,18,202,245
 0001400810,HCI,"HCI Group, Inc.",2026-08-07T17:56:22.892242+00:00,3,Hold,A,C,A,B,Insurance - Property and Casualty,insurance-property-and-casualty-89,Bottom,38,151,245
-0001057379,HCKT,"HACKETT GROUP, INC.",2026-08-06T17:13:45.987321+00:00,3,Hold,A,B,B,A,Consulting Services,consulting-services-277,Top,26,63,245
+0001057379,HCKT,"HACKETT GROUP, INC.",2026-08-07T18:06:18.251207+00:00,3,Hold,A,C,C,A,Consulting Services,consulting-services-277,Top,20,48,245
 0001648257,HCM,HUTCHMED (China) Ltd,2026-08-06T18:04:19.608949+00:00,3,Hold,A,C,F,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0000731012,HCSG,HEALTHCARE SERVICES GROUP INC,2026-08-06T18:33:32.818107+00:00,1,Strong Buy,A,B,C,A,Business - Services,business-services-205,Bottom,14,211,245
 0000354950,HD,"HOME DEPOT, INC.",2026-08-06T21:33:33.751615+00:00,3,Hold,D,B,F,D,Retail - Home Furnishings,retail-home-furnishings-161,Bottom,25,184,245
@@ -1655,7 +1655,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0000047217,HPQ,HP INC,2026-08-07T16:01:52.683286+00:00,3,Hold,A,A,B,A,Computer - Micro Computers,computer-micro-computers-41,Top,13,33,245
 0001140102,HQI,"HireQuest, Inc.",2026-08-07T12:08:45.863035+00:00,3,Hold,D,D,A,D,Staffing Firms,staffing-firms-278,Top,32,79,245
 0001428336,HQY,"HEALTHEQUITY, INC.",2026-08-07T02:13:44.340704+00:00,2,Buy,D,B,F,C,Medical Services,medical-services-285,Top,42,102,245
-0001360604,HR,Healthcare Realty Trust Inc,2026-08-06T17:13:45.987321+00:00,2,Buy,C,F,A,D,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,30,73,245
+0001360604,HR,Healthcare Realty Trust Inc,2026-08-07T18:06:18.251207+00:00,2,Buy,C,F,B,D,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,35,85,245
 0000012659,HRB,H&R BLOCK INC,2026-08-07T09:53:45.915989+00:00,3,Hold,A,A,B,A,Consumer Services - Miscellaneous,consumer-services-miscellaneous-289,Top,30,73,245
 0001364479,HRI,HERC HOLDINGS INC,2026-08-07T00:23:43.656967+00:00,3,Hold,B,C,A,B,Transportation - Equipment and Leasing,transportation-equipment-and-leasing-188,Bottom,32,167,245
 0000048465,HRL,HORMEL FOODS CORP /DE/,2026-08-06T20:13:43.267047+00:00,4,Sell,C,B,A,B,Food - Meat Products,food-meat-products-75,Bottom,3,238,245
@@ -1745,7 +1745,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001750149,IKT,"Inhibikase Therapeutics, Inc.",2026-08-07T12:38:49.039017+00:00,3,Hold,F,F,F,F,Medical - Drugs,medical-drugs-106,Bottom,38,151,245
 0001110803,ILMN,"ILLUMINA, INC.",2026-08-06T19:43:38.824836+00:00,2,Buy,C,B,A,B,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001717307,ILPT,Industrial Logistics Properties Trust,2026-08-07T09:53:45.915989+00:00,3,Hold,A,B,C,A,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,30,73,245
-0001835579,IMA,"ImageneBio, Inc.",2026-08-06T17:13:45.987321+00:00,3,Hold,D,F,D,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
+0001835579,IMA,"ImageneBio, Inc.",2026-08-07T18:06:18.251207+00:00,3,Hold,D,F,A,D,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0000921582,IMAX,IMAX CORP,2026-08-06T20:43:43.394648+00:00,3,Hold,F,A,A,B,Film and Television Production and Distribution,film-and-television-production-and-distribution-122,Top,26,63,245
 0001671927,IMCR,Immunocore Holdings plc,2026-08-07T01:33:39.013172+00:00,1,Strong Buy,D,F,B,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001058811,IMMR,IMMERSION CORP,2026-08-07T01:53:32.870064+00:00,3,Hold,A,A,C,A,Computer - Peripheral Equipment,computer-peripheral-equipment-42,Bottom,16,205,245
@@ -1785,7 +1785,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001104506,INSM,INSMED Inc,2026-08-06T17:53:36.982484+00:00,3,Hold,F,B,A,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001609550,INSP,"Inspire Medical Systems, Inc.",2026-08-06T22:03:34.830057+00:00,3,Hold,C,B,B,B,Medical Info Systems,medical-info-systems-215,Top,28,68,245
 0001679049,INSW,"International Seaways, Inc.",2026-08-06T20:23:38.921243+00:00,1,Strong Buy,B,D,C,C,Transportation - Shipping,transportation-shipping-190,Top,13,33,245
-0001565687,INTA,"Intapp, Inc.",2026-08-06T17:13:45.987321+00:00,5,Strong Sell,F,A,D,D,Internet - Software,internet-software-214,Top,44,107,245
+0001565687,INTA,"Intapp, Inc.",2026-08-07T18:06:18.251207+00:00,5,Strong Sell,F,A,C,D,Internet - Software,internet-software-214,Top,44,107,245
 0000050863,INTC,INTEL CORP,2026-08-07T16:01:52.683286+00:00,3,Hold,F,A,A,B,Semiconductor - General,semiconductor-general-241,Top,22,54,245
 0001864163,INTR,"Inter & Co, Inc.",2026-08-07T16:01:52.683286+00:00,2,Buy,A,C,C,A,Financial - Miscellaneous Services,financial-miscellaneous-services-69,Bottom,36,157,245
 0001567264,INTS,"INTENSITY THERAPEUTICS, INC.",2026-08-07T12:28:41.963553+00:00,3,Hold,D,A,D,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
@@ -1873,7 +1873,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001710482,JMSB,"John Marshall Bancorp, Inc.",2026-08-07T15:31:49.691688+00:00,2,Buy,C,C,B,C,Banks - Southeast,banks-southeast-16,Top,25,61,245
 0000200406,JNJ,JOHNSON & JOHNSON,2026-08-07T00:53:37.599389+00:00,3,Hold,C,C,C,C,Large Cap Pharmaceuticals,large-cap-pharmaceuticals-225,Bottom,4,236,245
 0001819848,JOBY,"Joby Aviation, Inc.",2026-08-06T18:13:40.515648+00:00,4,Sell,F,F,F,F,Aerospace - Defense,aerospace-defense-2,Top,37,91,245
-0000788329,JOUT,JOHNSON OUTDOORS INC,2026-08-06T17:13:45.987321+00:00,3,Hold,C,A,D,B,Leisure and Recreation Products,leisure-and-recreation-products-91,Top,31,77,245
+0000788329,JOUT,JOHNSON OUTDOORS INC,2026-08-07T18:06:18.251207+00:00,3,Hold,C,A,D,B,Leisure and Recreation Products,leisure-and-recreation-products-91,Top,36,89,245
 0001530238,JOYY,JOYY Inc.,2026-08-06T23:43:36.001851+00:00,3,Hold,A,F,C,C,Internet - Services,internet-services-213,Bottom,38,153,245
 0001620459,JRVR,"James River Group Holdings, Inc.",2026-08-07T01:13:45.317689+00:00,3,Hold,A,F,D,C,Insurance - Multi line,insurance-multi-line-88,Bottom,40,148,245
 0001788028,JSPR,"Jasper Therapeutics, Inc.",2026-08-06T17:43:46.757059+00:00,3,Hold,F,C,D,D,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
@@ -1931,7 +1931,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001692787,KNTK,Kinetik Holdings Inc.,2026-08-06T23:53:37.126459+00:00,3,Hold,D,C,A,C,Oil and Gas - Field Services,oil-and-gas-field-services-131,Bottom,25,184,245
 0001492691,KNX,Knight-Swift Transportation Holdings Inc.,2026-08-06T19:53:47.767752+00:00,2,Buy,B,A,C,A,Transportation - Truck,transportation-truck-192,Top,2,6,245
 0000021344,KO,COCA COLA CO,2026-08-06T19:53:47.767752+00:00,2,Buy,F,C,D,D,Beverages - Soft drinks,beverages-soft-drinks-20,Top,31,77,245
-0001468748,KOD,Kodiak Sciences Inc.,2026-08-06T17:13:45.987321+00:00,4,Sell,D,B,A,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
+0001468748,KOD,Kodiak Sciences Inc.,2026-08-07T18:06:18.251207+00:00,4,Sell,D,B,A,B,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0000910631,KOF,COCA COLA FEMSA SAB DE CV,2026-08-07T15:41:54.570458+00:00,4,Sell,F,C,D,F,Beverages - Soft drinks,beverages-soft-drinks-20,Top,29,71,245
 0001315257,KOP,Koppers Holdings Inc.,2026-08-06T18:33:32.818107+00:00,3,Hold,A,B,D,A,Chemical - Diversified,chemical-diversified-34,Top,43,105,245
 0000771266,KOPN,KOPIN CORP,2026-08-06T18:04:19.608949+00:00,3,Hold,F,D,F,F,Electronics - Miscellaneous Products,electronics-miscellaneous-products-52,Top,20,49,245
@@ -2381,7 +2381,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0002067627,NKLR,Terra Innovatum Global N.V.,2026-08-06T23:43:36.001851+00:00,4,Sell,B,F,C,D,Electronics - Power Generation,electronics-power-generation-254,Bottom,5,233,245
 0000796534,NKSH,NATIONAL BANKSHARES INC,2026-08-06T23:53:37.126459+00:00,1,Strong Buy,C,F,B,D,Banks - Southeast,banks-southeast-16,Top,24,58,245
 0000906709,NKTR,NEKTAR THERAPEUTICS,2026-08-07T00:13:33.425212+00:00,2,Buy,F,F,D,F,Medical - Drugs,medical-drugs-106,Bottom,38,151,245
-0001787400,NKTX,"Nkarta, Inc.",2026-08-06T17:13:45.987321+00:00,4,Sell,C,C,B,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
+0001787400,NKTX,"Nkarta, Inc.",2026-08-07T18:06:18.251207+00:00,4,Sell,C,C,C,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0001282631,NLST,NETLIST INC,2026-08-07T02:23:41.033182+00:00,2,Buy,F,C,A,D,Computer- Storage Devices,computer-storage-devices-202,Top,9,21,245
 0001043219,NLY,ANNALY CAPITAL MANAGEMENT INC,2026-08-06T18:53:32.556936+00:00,1,Strong Buy,C,F,C,F,REIT and Equity Trust,reit-and-equity-trust-151,Bottom,28,177,245
 0002026478,NMAX,Newsmax Inc.,2026-08-07T09:53:45.915989+00:00,2,Buy,F,C,F,F,Broadcast Radio and Television,broadcast-radio-and-television-32,Bottom,37,155,245
@@ -2461,7 +2461,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001114448,NVS,NOVARTIS AG,2026-08-07T15:31:49.691688+00:00,3,Hold,B,D,B,C,Large Cap Pharmaceuticals,large-cap-pharmaceuticals-225,Bottom,12,216,245
 0001757073,NVST,Envista Holdings Corp,2026-08-07T15:21:52.415557+00:00,2,Buy,B,C,A,B,Medical - Products,medical-products-104,Bottom,33,163,245
 0001720635,NVT,nVent Electric plc,2026-08-06T23:43:36.001851+00:00,1,Strong Buy,D,B,B,C,Electronics - Miscellaneous Components,electronics-miscellaneous-components-50,Top,19,47,245
-0001821769,NVTS,Navitas Semiconductor Corp,2026-08-06T17:13:45.987321+00:00,2,Buy,F,F,C,F,Electronics - Semiconductors,electronics-semiconductors-49,Top,19,46,245
+0001821769,NVTS,Navitas Semiconductor Corp,2026-08-07T18:06:18.251207+00:00,2,Buy,F,F,B,F,Electronics - Semiconductors,electronics-semiconductors-49,Top,20,50,245
 0001471265,NWBI,"Northwest Bancshares, Inc.",2026-08-07T13:41:42.754978+00:00,2,Buy,C,F,A,D,Financial - Savings and Loan,financial-savings-and-loan-67,Top,38,92,245
 0001993004,NWE,"NorthWestern Energy Group, Inc.",2026-08-07T10:38:39.062910+00:00,3,Hold,C,D,D,D,Utility - Electric Power,utility-electric-power-193,Bottom,29,175,245
 0001013272,NWFL,NORWOOD FINANCIAL CORP,2026-08-06T20:43:43.394648+00:00,2,Buy,B,F,B,D,Banks - Northeast,banks-northeast-15,Top,18,45,245
@@ -2540,7 +2540,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001327688,OOMA,OOMA INC,2026-08-07T13:41:42.754978+00:00,3,Hold,B,A,A,A,Communication - Components,communication-components-230,Top,29,70,245
 0001825024,OPAD,Offerpad Solutions Inc.,2026-08-06T20:03:39.742208+00:00,3,Hold,A,A,D,A,Real Estate - Operations,real-estate-operations-153,Top,42,102,245
 0001722010,OPBK,OP Bancorp,2026-08-06T22:03:34.830057+00:00,2,Buy,A,D,A,B,Banks - Southwest,banks-southwest-17,Top,23,56,245
-0001014739,OPCH,"Option Care Health, Inc.",2026-08-06T17:13:45.987321+00:00,2,Buy,A,A,A,A,Medical - Outpatient and Home Healthcare,medical-outpatient-and-home-healthcare-111,Top,29,72,245
+0001014739,OPCH,"Option Care Health, Inc.",2026-08-07T18:06:18.251207+00:00,2,Buy,A,A,C,A,Medical - Outpatient and Home Healthcare,medical-outpatient-and-home-healthcare-111,Top,41,100,245
 0001801169,OPEN,Opendoor Technologies Inc.,2026-08-07T00:13:33.425212+00:00,3,Hold,B,A,F,B,Internet - Software,internet-software-214,Top,44,107,245
 0001818502,OPFI,OppFi Inc.,2026-08-06T19:23:41.738350+00:00,3,Hold,A,B,D,A,Financial Transaction Services,financial-transaction-services-282,Bottom,38,151,245
 0001288855,OPHC,"OptimumBank Holdings, Inc.",2026-08-07T09:53:45.915989+00:00,1,Strong Buy,A,D,B,B,Banks - Southeast,banks-southeast-16,Top,24,58,245
@@ -2591,7 +2591,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001474432,P,"Everpure, Inc.",2026-08-06T18:04:19.608949+00:00,4,Sell,F,B,A,C,Technology Services,technology-services-283,Bottom,37,154,245
 0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-08-07T17:46:29.261077+00:00,3,Hold,A,C,A,A,Oil and Gas - Production Pipeline - MLB,oil-and-gas-production-pipeline-mlb-221,Top,36,87,245
 0000771992,PAAS,PAN AMERICAN SILVER CORP,2026-08-07T16:01:52.683286+00:00,4,Sell,C,A,C,A,Mining - Silver,mining-silver-118,Bottom,13,212,245
-0001347557,PAC,Pacific Airport Group,2026-08-06T17:03:34.049438+00:00,4,Sell,C,C,C,C,Transportation - Services,transportation-services-191,Bottom,33,165,245
+0001347557,PAC,Pacific Airport Group,2026-08-07T18:06:18.251207+00:00,4,Sell,D,C,C,C,Transportation - Services,transportation-services-191,Bottom,31,169,245
 0001299130,PACB,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",2026-08-06T21:23:45.871309+00:00,3,Hold,F,D,A,F,Medical - Instruments,medical-instruments-103,Bottom,36,157,245
 0001712463,PACK,Ranpak Holdings Corp.,2026-08-07T01:13:45.317689+00:00,4,Sell,D,C,C,D,Containers - Paper and Packaging,containers-paper-and-packaging-46,Bottom,25,184,245
 0002001184,PACS,"PACS Group, Inc.",2026-08-06T21:03:36.772745+00:00,2,Buy,B,A,C,A,Medical Services,medical-services-285,Top,42,102,245
@@ -2621,7 +2621,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001068851,PB,PROSPERITY BANCSHARES INC,2026-08-07T16:21:42.719753+00:00,2,Buy,B,F,B,D,Banks - Southwest,banks-southwest-17,Top,22,53,245
 0001546066,PBA,PEMBINA PIPELINE CORP,2026-08-07T16:11:53.788770+00:00,4,Sell,D,F,C,F,Oil and Gas - Production and Pipelines,oil-and-gas-production-and-pipelines-135,Bottom,25,183,245
 0001705284,PBAM,"Private Bancorp of America, Inc.",2026-08-07T10:48:39.968031+00:00,2,Buy,C,F,B,D,Banks - Southwest,banks-southwest-17,Top,22,53,245
-0001534504,PBF,PBF Energy Inc.,2026-08-06T17:13:45.987321+00:00,1,Strong Buy,A,A,A,A,Oil and Gas - Refining and Marketing,oil-and-gas-refining-and-marketing-128,Top,7,17,245
+0001534504,PBF,PBF Energy Inc.,2026-08-07T18:06:18.251207+00:00,1,Strong Buy,A,A,A,A,Oil and Gas - Refining and Marketing,oil-and-gas-refining-and-marketing-128,Top,9,23,245
 0001295947,PBH,Prestige Consumer Healthcare Inc.,2026-08-06T23:33:38.776183+00:00,4,Sell,B,D,A,B,Medical - Products,medical-products-104,Bottom,36,157,245
 0000078814,PBI,PITNEY BOWES INC /DE/,2026-08-06T19:23:41.738350+00:00,1,Strong Buy,A,A,C,A,Office Automation and Equipment,office-automation-and-equipment-124,Top,9,23,245
 0002011053,PBK,POWERBANK Corp,2026-08-06T17:33:44.743435+00:00,3,Hold,C,F,C,F,Alternative Energy - Other,alternative-energy-other-273,Bottom,33,164,245
@@ -2660,7 +2660,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001338940,PERI,Perion Network Ltd.,2026-08-07T14:41:51.579428+00:00,4,Sell,A,C,A,A,Internet - Content,internet-content-212,Top,41,100,245
 0001040130,PETS,PETMED EXPRESS INC,2026-08-06T20:53:38.412758+00:00,3,Hold,D,B,D,C,Internet - Commerce,internet-commerce-211,Bottom,37,155,245
 0002051380,PEW,GrabAGun Digital Holdings Inc.,2026-08-06T23:53:37.126459+00:00,3,Hold,C,F,C,F,Aerospace - Defense Equipment,aerospace-defense-equipment-3,Top,36,87,245
-0001492165,PFBC,Preferred Bank,2026-08-06T17:13:45.987321+00:00,3,Hold,B,D,C,C,Banks - West,banks-west-18,Bottom,12,215,245
+0001492165,PFBC,Preferred Bank,2026-08-07T18:06:18.251207+00:00,3,Hold,B,D,C,C,Banks - West,banks-west-18,Bottom,12,215,245
 0000078003,PFE,PFIZER INC,2026-08-07T17:56:22.892242+00:00,3,Hold,A,C,C,B,Large Cap Pharmaceuticals,large-cap-pharmaceuticals-225,Bottom,12,216,245
 0001126328,PFG,PRINCIPAL FINANCIAL GROUP INC,2026-08-07T10:38:39.062910+00:00,3,Hold,A,D,A,B,Insurance - Multi line,insurance-multi-line-88,Bottom,38,148,245
 0001618673,PFGC,Performance Food Group Co,2026-08-06T22:23:45.251866+00:00,3,Hold,B,A,C,A,Food - Natural Foods Products,food-natural-foods-products-70,Top,44,107,245
@@ -2710,7 +2710,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001625101,PLSE,"PULSE BIOSCIENCES, INC.",2026-08-07T15:31:49.691688+00:00,3,Hold,F,F,D,F,Medical - Instruments,medical-instruments-103,Bottom,37,154,245
 0001828016,PLTK,Playtika Holding Corp.,2026-08-06T17:43:46.757059+00:00,2,Buy,A,C,D,A,Gaming,gaming-200,Bottom,23,189,245
 0001321655,PLTR,Palantir Technologies Inc.,2026-08-07T00:33:36.744703+00:00,2,Buy,F,A,B,C,Internet - Software,internet-software-214,Top,44,107,245
-0001093691,PLUG,PLUG POWER INC,2026-08-06T17:13:45.987321+00:00,2,Buy,F,B,B,D,Electronics - Miscellaneous Products,electronics-miscellaneous-products-52,Top,20,49,245
+0001093691,PLUG,PLUG POWER INC,2026-08-07T18:06:18.251207+00:00,2,Buy,F,B,B,C,Electronics - Miscellaneous Products,electronics-miscellaneous-products-52,Top,21,52,245
 0001022408,PLUS,EPLUS INC,2026-08-07T17:36:27.782758+00:00,3,Hold,B,F,B,D,Business - Software Services,business-software-services-216,Bottom,11,218,245
 0000785786,PLXS,PLEXUS CORP,2026-08-07T01:13:45.317689+00:00,1,Strong Buy,C,F,A,D,Electronics - Manufacturing Services,electronics-manufacturing-services-261,Top,1,1,245
 0002075320,PLYX,"Polaryx Therapeutics, Inc.",2026-08-06T20:43:43.394648+00:00,3,Hold,D,D,D,D,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
@@ -2761,13 +2761,13 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001678660,PRLD,Prelude Therapeutics Inc,2026-08-06T19:03:36.274719+00:00,2,Buy,F,A,A,C,Medical - Drugs,medical-drugs-106,Bottom,38,151,245
 0001880319,PRM,"Perimeter Solutions, Inc.",2026-08-06T22:46:07.948656+00:00,5,Strong Sell,F,C,B,F,Chemical - Specialty,chemical-specialty-37,Top,42,102,245
 0002042694,PRMB,Primo Brands Corp,2026-08-07T17:01:51.987667+00:00,2,Buy,B,B,D,B,Beverages - Soft drinks,beverages-soft-drinks-20,Top,29,71,245
-0001894562,PRME,"Prime Medicine, Inc.",2026-08-06T17:13:45.987321+00:00,2,Buy,F,C,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
+0001894562,PRME,"Prime Medicine, Inc.",2026-08-07T18:06:18.251207+00:00,2,Buy,F,C,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0001628808,PROF,Profound Medical Corp.,2026-08-06T19:03:36.274719+00:00,3,Hold,F,F,F,F,Medical - Drugs,medical-drugs-106,Bottom,38,151,245
 0001850270,PROK,PROKIDNEY CORP.,2026-08-06T19:23:41.738350+00:00,3,Hold,F,F,D,F,Medical - Drugs,medical-drugs-106,Bottom,38,151,245
 0001162896,PROP,Prairie Operating Co.,2026-08-07T11:48:35.492832+00:00,5,Strong Sell,A,A,D,A,Oil and Gas - Integrated - United States,oil-and-gas-integrated-united-states-137,Bottom,18,202,245
 0001010470,PROV,PROVIDENT FINANCIAL HOLDINGS INC,2026-08-07T17:36:27.782758+00:00,3,Hold,C,F,A,D,Financial - Savings and Loan,financial-savings-and-loan-67,Top,38,92,245
 0001643953,PRPL,"Purple Innovation, Inc.",2026-08-06T20:43:43.394648+00:00,2,Buy,F,A,F,C,Consumer Products - Staples,consumer-products-staples-207,Bottom,18,202,245
-0001612940,PRQR,ProQR Therapeutics N.V.,2026-08-06T17:13:45.987321+00:00,2,Buy,F,F,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
+0001612940,PRQR,ProQR Therapeutics N.V.,2026-08-07T18:06:18.251207+00:00,2,Buy,F,F,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0000890394,PRSO,Peraso Inc.,2026-08-07T16:01:52.683286+00:00,3,Hold,F,F,F,F,Technology Services,technology-services-283,Bottom,33,163,245
 0000884219,PRSU,"Pursuit Attractions & Hospitality, Inc.",2026-08-07T15:31:49.691688+00:00,4,Sell,D,C,A,B,Leisure and Recreation Services,leisure-and-recreation-services-92,Bottom,35,160,245
 0001559053,PRTA,PROTHENA CORP PUBLIC LTD CO,2026-08-06T21:53:43.857777+00:00,3,Hold,D,A,C,B,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
@@ -2868,7 +2868,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001573221,REAL,"TheRealReal, Inc.",2026-08-06T17:53:36.982484+00:00,3,Hold,D,A,D,C,Consumer Products - Discretionary,consumer-products-discretionary-123,Bottom,18,200,245
 0001862461,REAX,Real Brokerage Inc,2026-08-07T15:11:53.084569+00:00,3,Hold,A,A,F,A,Technology Services,technology-services-283,Bottom,33,163,245
 0001867949,REFI,"Chicago Atlantic Real Estate Finance, Inc.",2026-08-06T21:03:36.772745+00:00,3,Hold,B,F,B,D,Financial - Miscellaneous Services,financial-miscellaneous-services-69,Bottom,36,157,245
-0000910606,REG,REGENCY CENTERS CORP,2026-08-06T17:13:45.987321+00:00,3,Hold,D,F,A,D,REIT and Equity Trust - Retail,reit-and-equity-trust-retail-264,Top,34,83,245
+0000910606,REG,REGENCY CENTERS CORP,2026-08-07T18:06:18.251207+00:00,3,Hold,D,F,B,D,REIT and Equity Trust - Retail,reit-and-equity-trust-retail-264,Top,31,76,245
 0000872589,REGN,"REGENERON PHARMACEUTICALS, INC.",2026-08-07T01:23:43.725658+00:00,2,Buy,B,D,A,C,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001384195,REI,"RING ENERGY, INC.",2026-08-06T22:13:37.173613+00:00,4,Sell,A,D,F,C,Oil and Gas - Exploration and Production - United States,oil-and-gas-exploration-and-production-united-states-136,Bottom,12,215,245
 0001697851,REKR,"Rekor Systems, Inc.",2026-08-07T10:03:39.657691+00:00,3,Hold,F,A,F,D,Internet - Software,internet-software-214,Top,44,107,245
@@ -3159,8 +3159,8 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001314727,SONO,Sonos Inc,2026-08-06T21:33:33.751615+00:00,3,Hold,B,A,A,A,Audio Video Production,audio-video-production-6,Top,30,73,245
 0000313838,SONY,Sony Group Corp,2026-08-07T00:13:33.425212+00:00,1,Strong Buy,B,C,A,A,Audio Video Production,audio-video-production-6,Top,30,73,245
 0001840706,SOPH,SOPHiA GENETICS SA,2026-08-07T01:33:39.013172+00:00,3,Hold,F,D,C,F,Medical Info Systems,medical-info-systems-215,Top,28,68,245
-0000806172,SOTK,SONO TEK CORP,2026-08-06T16:43:36.161469+00:00,3,Hold,D,A,B,A,Electronics - Semiconductors,electronics-semiconductors-49,Top,19,46,245
-0001840856,SOUN,"SOUNDHOUND AI, INC.",2026-08-06T17:13:45.987321+00:00,3,Hold,F,D,F,F,Computers - IT Services,computers-it-services-218,Bottom,40,148,245
+0000806172,SOTK,SONO TEK CORP,2026-08-07T18:06:18.251207+00:00,3,Hold,D,A,C,B,Electronics - Semiconductors,electronics-semiconductors-49,Top,20,50,245
+0001840856,SOUN,"SOUNDHOUND AI, INC.",2026-08-07T18:06:18.251207+00:00,3,Hold,F,D,F,F,Computers - IT Services,computers-it-services-218,Bottom,36,156,245
 0002011208,SPAI,Safe Pro Group Inc.,2026-08-07T16:01:52.683286+00:00,3,Hold,F,C,F,F,Technology Services,technology-services-283,Bottom,33,163,245
 0000109177,SPB,"Spectrum Brands Holdings, Inc.",2026-08-06T20:33:34.022162+00:00,4,Sell,B,A,B,A,Consumer Products - Discretionary,consumer-products-discretionary-123,Bottom,18,200,245
 0001706946,SPCE,"Virgin Galactic Holdings, Inc",2026-08-06T21:23:45.871309+00:00,2,Buy,F,B,F,F,Aerospace - Defense,aerospace-defense-2,Top,37,91,245
@@ -3225,7 +3225,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001623526,STOK,"Stoke Therapeutics, Inc.",2026-08-06T18:33:32.818107+00:00,4,Sell,F,F,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001013934,STRA,"Strategic Education, Inc.",2026-08-06T18:13:40.515648+00:00,3,Hold,A,C,A,A,Schools,schools-172,Top,44,107,245
 0000874238,STRL,"STERLING INFRASTRUCTURE, INC.",2026-08-07T14:41:51.579428+00:00,1,Strong Buy,F,B,A,C,Engineering - R and D Services,engineering-r-and-d-services-57,Top,39,96,245
-0001382101,STRO,"SUTRO BIOPHARMA, INC.",2026-08-06T17:13:45.987321+00:00,3,Hold,F,D,F,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
+0001382101,STRO,"SUTRO BIOPHARMA, INC.",2026-08-07T18:06:18.251207+00:00,3,Hold,F,D,C,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0001210708,STRR,"Star Equity Holdings, Inc.",2026-08-07T00:43:39.675904+00:00,3,Hold,D,F,C,F,Diversified Operations,diversified-operations-48,Bottom,36,157,245
 0000933034,STRT,STRATTEC SECURITY CORP,2026-08-06T22:13:37.173613+00:00,3,Hold,A,B,C,A,Automotive - Original Equipment,automotive-original-equipment-10,Bottom,32,167,245
 0001782430,STRW,"Strawberry Fields REIT, Inc.",2026-08-07T17:46:29.261077+00:00,4,Sell,A,D,B,B,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,35,85,245
@@ -3577,7 +3577,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0002080073,VMET,Versamet Royalties Corp,2026-08-06T20:13:43.267047+00:00,4,Sell,F,B,F,F,Mining - Miscellaneous,mining-miscellaneous-116,Bottom,21,193,245
 0000102729,VMI,VALMONT INDUSTRIES INC,2026-08-06T22:13:37.173613+00:00,2,Buy,C,C,B,B,Steel - Pipe and Tube,steel-pipe-and-tube-175,Top,14,35,245
 0001579157,VNCE,VINCE HOLDING CORP.,2026-08-07T09:53:45.915989+00:00,2,Buy,A,A,F,A,Textile - Apparel,textile-apparel-180,Bottom,22,191,245
-0001347178,VNDA,Vanda Pharmaceuticals Inc.,2026-08-06T17:13:45.987321+00:00,3,Hold,D,F,B,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
+0001347178,VNDA,Vanda Pharmaceuticals Inc.,2026-08-07T18:06:18.251207+00:00,3,Hold,D,F,B,D,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,44,109,245
 0001508475,VNET,"VNET Group, Inc.",2026-08-07T01:53:32.870064+00:00,4,Sell,B,D,D,D,Internet - Software,internet-software-214,Top,44,107,245
 0000899689,VNO,VORNADO REALTY TRUST,2026-08-07T10:03:39.657691+00:00,3,Hold,B,C,B,A,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,30,73,245
 0002074176,VNOM,"Viper Energy, Inc.",2026-08-06T18:23:45.546473+00:00,3,Hold,F,A,F,D,Oil and Gas - Exploration and Production - United States,oil-and-gas-exploration-and-production-united-states-136,Bottom,12,215,245
@@ -3614,7 +3614,7 @@ cik,ticker,company_name,observed_at,zacks_rank,zacks_rank_label,value_score,grow
 0001411685,VTGN,"Vistagen Therapeutics, Inc.",2026-08-06T22:23:45.251866+00:00,4,Sell,D,F,B,F,Medical - Biomedical and Genetics,medical-biomedical-and-genetics-105,Top,43,106,245
 0001606242,VTIX,Virtuix Holdings Inc.,2026-08-07T12:49:02.453053+00:00,4,Sell,F,D,D,F,Gaming,gaming-200,Bottom,26,181,245
 0001969373,VTMX,"Vesta Real Estate Corporation, S.A.B. de C.V.",2026-08-06T18:23:45.546473+00:00,3,Hold,C,D,A,D,Real Estate - Operations,real-estate-operations-153,Top,42,102,245
-0001525221,VTOL,Bristow Group Inc.,2026-08-06T17:13:45.987321+00:00,3,Hold,A,C,B,A,Transportation - Airline,transportation-airline-187,Top,44,107,245
+0001525221,VTOL,Bristow Group Inc.,2026-08-07T18:06:18.251207+00:00,4,Sell,A,C,A,A,Transportation - Airline,transportation-airline-187,Bottom,35,160,245
 0000740260,VTR,"Ventas, Inc.",2026-08-07T12:49:02.453053+00:00,3,Hold,D,C,A,C,REIT and Equity Trust - Other,reit-and-equity-trust-other-266,Top,35,85,245
 0001792044,VTRS,Viatris Inc,2026-08-07T17:56:22.892242+00:00,4,Sell,A,D,A,B,Medical Services,medical-services-285,Top,43,105,245
 0001944558,VTS,"Vitesse Energy, Inc.",2026-08-06T22:46:07.948656+00:00,5,Strong Sell,C,C,D,C,Oil and Gas - Exploration and Production - United States,oil-and-gas-exploration-and-production-united-states-136,Bottom,12,215,245
