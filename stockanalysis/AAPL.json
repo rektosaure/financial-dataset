@@ -1,5 +1,5 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "ticker": "AAPL",
   "cik": "0000320193",
   "profile": {
@@ -105,11 +105,11 @@
         },
         {
           "id": "sharesInstitutions",
-          "value": "63.880%"
+          "value": "64.160%"
         },
         {
           "id": "float",
-          "value": "14,401,344,128"
+          "value": "14,408,254,550"
         }
       ]
     },
@@ -129,7 +129,7 @@
         },
         {
           "id": "shortFloat",
-          "value": "1.018%"
+          "value": "1.017%"
         },
         {
           "id": "shortRatio",
@@ -176,6 +176,28 @@
           "value": "4,510,621,419,400"
         }
       ]
+    }
+  },
+  "financials": {
+    "income_statement": {
+      "annual": null,
+      "quarterly": null,
+      "trailing": null
+    },
+    "balance_sheet": {
+      "annual": null,
+      "quarterly": null,
+      "latest": null
+    },
+    "cash_flow_statement": {
+      "annual": null,
+      "quarterly": null,
+      "latest_ttm": null
+    },
+    "ratios": {
+      "annual": null,
+      "quarterly": null,
+      "current": null
     }
   }
 }
