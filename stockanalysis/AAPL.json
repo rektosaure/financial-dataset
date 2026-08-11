@@ -29,6 +29,94 @@
     }
   },
   "statistics": {
+    "analystForecasts": {
+      "data": [
+        {
+          "id": "priceTarget",
+          "value": "$322.28"
+        },
+        {
+          "id": "priceTargetChange",
+          "value": "4.55%"
+        },
+        {
+          "id": "analystRatings",
+          "value": "Buy"
+        },
+        {
+          "id": "analystCount",
+          "value": "46"
+        },
+        {
+          "id": "revenue3y",
+          "value": "10.74%"
+        },
+        {
+          "id": "eps3y",
+          "value": "12.74%"
+        }
+      ]
+    },
+    "balanceSheet": {
+      "data": [
+        {
+          "id": "totalcash",
+          "value": "146,517,000,000"
+        },
+        {
+          "id": "debt",
+          "value": "84,344,000,000"
+        },
+        {
+          "id": "netcash",
+          "value": "62,173,000,000"
+        },
+        {
+          "id": "netcashpershare",
+          "value": "4.260"
+        },
+        {
+          "id": "equity",
+          "value": "107,520,000,000"
+        },
+        {
+          "id": "bvps",
+          "value": "7.360"
+        },
+        {
+          "id": "workingcapital",
+          "value": "492,000,000"
+        }
+      ]
+    },
+    "cashFlow": {
+      "data": [
+        {
+          "id": "ncfo",
+          "value": "146,724,000,000"
+        },
+        {
+          "id": "capex",
+          "value": "-10,041,000,000"
+        },
+        {
+          "id": "depreciationAmortization",
+          "value": "13,100,000,000"
+        },
+        {
+          "id": "netBorrowing",
+          "value": "-17,274,000,000"
+        },
+        {
+          "id": "fcf",
+          "value": "136,683,000,000"
+        },
+        {
+          "id": "fcfps",
+          "value": "9.366"
+        }
+      ]
+    },
     "dates": {
       "data": [
         {
@@ -78,6 +166,242 @@
         {
           "id": "fcfYield",
           "value": "3.038%"
+        }
+      ]
+    },
+    "evRatios": {
+      "data": [
+        {
+          "id": "evEarnings",
+          "value": "34.41"
+        },
+        {
+          "id": "evSales",
+          "value": "9.50"
+        },
+        {
+          "id": "evEbitda",
+          "value": "26.41"
+        },
+        {
+          "id": "evEbit",
+          "value": "28.65"
+        },
+        {
+          "id": "evFcf",
+          "value": "32.46"
+        }
+      ]
+    },
+    "fairValue": {
+      "data": [
+        {
+          "id": "lynchFairValue",
+          "value": "$71.78"
+        },
+        {
+          "id": "lynchUpside",
+          "value": "-76.71%"
+        },
+        {
+          "id": "grahamNumber",
+          "value": "$37.99"
+        },
+        {
+          "id": "grahamUpside",
+          "value": "-87.67%"
+        }
+      ]
+    },
+    "financialEfficiency": {
+      "data": [
+        {
+          "id": "roe",
+          "value": "148.751%"
+        },
+        {
+          "id": "roa",
+          "value": "27.082%"
+        },
+        {
+          "id": "roic",
+          "value": "101.573%"
+        },
+        {
+          "id": "roce",
+          "value": "66.196%"
+        },
+        {
+          "id": "wacc",
+          "value": "10.037%"
+        },
+        {
+          "id": "revPerEmployee",
+          "value": "2,812,187"
+        },
+        {
+          "id": "profitPerEmployee",
+          "value": "776,687"
+        },
+        {
+          "id": "employees",
+          "value": "166,000"
+        },
+        {
+          "id": "assetturnover",
+          "value": "1.306"
+        },
+        {
+          "id": "inventoryturnover",
+          "value": "28.172"
+        }
+      ]
+    },
+    "financialPosition": {
+      "data": [
+        {
+          "id": "currentRatio",
+          "value": "1.003"
+        },
+        {
+          "id": "quickRatio",
+          "value": "0.812"
+        },
+        {
+          "id": "debtEquity",
+          "value": "0.78"
+        },
+        {
+          "id": "debtEbitda",
+          "value": "0.50"
+        },
+        {
+          "id": "debtFcf",
+          "value": "0.62"
+        },
+        {
+          "id": "interestCoverage",
+          "value": "n/a"
+        }
+      ]
+    },
+    "incomeStatement": {
+      "data": [
+        {
+          "id": "revenue",
+          "value": "466,823,000,000"
+        },
+        {
+          "id": "gp",
+          "value": "227,123,000,000"
+        },
+        {
+          "id": "opinc",
+          "value": "154,859,000,000"
+        },
+        {
+          "id": "pretax",
+          "value": "155,906,000,000"
+        },
+        {
+          "id": "netinc",
+          "value": "128,930,000,000"
+        },
+        {
+          "id": "ebitda",
+          "value": "167,959,000,000"
+        },
+        {
+          "id": "ebit",
+          "value": "154,859,000,000"
+        },
+        {
+          "id": "eps",
+          "value": "8.717"
+        }
+      ]
+    },
+    "margins": {
+      "data": [
+        {
+          "id": "grossMargin",
+          "value": "48.653%"
+        },
+        {
+          "id": "operatingMargin",
+          "value": "33.173%"
+        },
+        {
+          "id": "pretaxMargin",
+          "value": "33.397%"
+        },
+        {
+          "id": "profitMargin",
+          "value": "27.619%"
+        },
+        {
+          "id": "ebitdaMargin",
+          "value": "35.979%"
+        },
+        {
+          "id": "ebitMargin",
+          "value": "33.173%"
+        },
+        {
+          "id": "fcfMargin",
+          "value": "29.279%"
+        }
+      ]
+    },
+    "ratios": {
+      "data": [
+        {
+          "id": "pe",
+          "value": "35.363"
+        },
+        {
+          "id": "peForward",
+          "value": "33.692"
+        },
+        {
+          "id": "ps",
+          "value": "9.637"
+        },
+        {
+          "id": "psForward",
+          "value": "8.827"
+        },
+        {
+          "id": "pb",
+          "value": "41.884"
+        },
+        {
+          "id": "ptbvRatio",
+          "value": "51.605"
+        },
+        {
+          "id": "pfcf",
+          "value": "32.914"
+        },
+        {
+          "id": "pocf",
+          "value": "30.662"
+        },
+        {
+          "id": "pegRatio",
+          "value": "3.096"
+        }
+      ]
+    },
+    "scores": {
+      "data": [
+        {
+          "id": "zScore",
+          "value": "10.93"
+        },
+        {
+          "id": "fScore",
+          "value": "8"
         }
       ]
     },
@@ -162,6 +486,34 @@
         {
           "id": "averageVolume",
           "value": "56,344,722"
+        }
+      ]
+    },
+    "stockSplits": {
+      "data": [
+        {
+          "id": "lastSplitDate",
+          "value": "August 31, 2020"
+        },
+        {
+          "id": "lastSplitType",
+          "value": "Forward"
+        },
+        {
+          "id": "splitRatio",
+          "value": "4:1"
+        }
+      ]
+    },
+    "taxes": {
+      "data": [
+        {
+          "id": "taxexp",
+          "value": "26.98B"
+        },
+        {
+          "id": "taxrate",
+          "value": "17.303%"
         }
       ]
     },
