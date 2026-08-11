@@ -1,5 +1,5 @@
 {
-  "schema_version": 4,
+  "schema_version": 1,
   "ticker": "O",
   "cik": "0000726728",
   "profile": {
@@ -29,520 +29,1912 @@
     }
   },
   "statistics": {
-    "analystForecasts": {
-      "data": [
-        {
-          "id": "priceTarget",
-          "value": "$68.21"
-        },
-        {
-          "id": "priceTargetChange",
-          "value": "10.21%"
-        },
-        {
-          "id": "analystRatings",
-          "value": "Hold"
-        },
-        {
-          "id": "analystCount",
-          "value": "24"
-        },
-        {
-          "id": "revenue3y",
-          "value": "6.05%"
-        },
-        {
-          "id": "eps3y",
-          "value": "14.68%"
-        }
-      ]
-    },
-    "balanceSheet": {
-      "data": [
-        {
-          "id": "totalcash",
-          "value": "569,948,000"
-        },
-        {
-          "id": "debt",
-          "value": "31,333,790,000"
-        },
-        {
-          "id": "netcash",
-          "value": "-30,763,842,000"
-        },
-        {
-          "id": "netcashpershare",
-          "value": "-32.421"
-        },
-        {
-          "id": "equity",
-          "value": "41,934,077,000"
-        },
-        {
-          "id": "bvps",
-          "value": "41.798"
-        },
-        {
-          "id": "workingcapital",
-          "value": "2,466,363,000"
-        }
-      ]
-    },
-    "cashFlow": {
-      "data": [
-        {
-          "id": "ncfo",
-          "value": "4,166,154,000"
-        },
-        {
-          "id": "capex",
-          "value": "-6,149,242,000"
-        },
-        {
-          "id": "depreciationAmortization",
-          "value": "2,542,368,000"
-        },
-        {
-          "id": "netBorrowing",
-          "value": "n/a"
-        },
-        {
-          "id": "fcf",
-          "value": "-1,983,088,000"
-        },
-        {
-          "id": "fcfps",
-          "value": "-2.090"
-        }
-      ]
-    },
-    "dates": {
-      "data": [
-        {
-          "id": "earningsdate",
-          "value": "Aug 5, 2026"
-        },
-        {
-          "id": "exdivdate",
-          "value": "Jul 31, 2026"
-        }
-      ]
-    },
-    "dividends": {
-      "data": [
-        {
-          "id": "dps",
-          "value": "$3.252"
-        },
-        {
-          "id": "dividendYield",
-          "value": "5.254%"
-        },
-        {
-          "id": "dividendGrowth",
-          "value": "1.503%"
-        },
-        {
-          "id": "dividendGrowthYears",
-          "value": "22"
-        },
-        {
-          "id": "payoutRatio",
-          "value": "237.653%"
-        },
-        {
-          "id": "buybackYield",
-          "value": "-4.530%"
-        },
-        {
-          "id": "totalReturn",
-          "value": "0.724%"
-        },
-        {
-          "id": "earningsYield",
-          "value": "2.158%"
-        },
-        {
-          "id": "fcfYield",
-          "value": "-3.377%"
-        }
-      ]
-    },
-    "evRatios": {
-      "data": [
-        {
-          "id": "evEarnings",
-          "value": "70.60"
-        },
-        {
-          "id": "evSales",
-          "value": "14.75"
-        },
-        {
-          "id": "evEbitda",
-          "value": "16.93"
-        },
-        {
-          "id": "evEbit",
-          "value": "32.60"
-        },
-        {
-          "id": "evFcf",
-          "value": "n/a"
-        }
-      ]
-    },
-    "fairValue": {
-      "data": [
-        {
-          "id": "lynchFairValue",
-          "value": "$34.21"
-        },
-        {
-          "id": "lynchUpside",
-          "value": "-44.73%"
-        },
-        {
-          "id": "grahamNumber",
-          "value": "$35.87"
-        },
-        {
-          "id": "grahamUpside",
-          "value": "-42.04%"
-        }
-      ]
-    },
-    "financialEfficiency": {
-      "data": [
-        {
-          "id": "roe",
-          "value": "3.225%"
-        },
-        {
-          "id": "roa",
-          "value": "2.359%"
-        },
-        {
-          "id": "roic",
-          "value": "3.587%"
-        },
-        {
-          "id": "roce",
-          "value": "3.825%"
-        },
-        {
-          "id": "wacc",
-          "value": "6.578%"
-        },
-        {
-          "id": "revPerEmployee",
-          "value": "11,149,833"
-        },
-        {
-          "id": "profitPerEmployee",
-          "value": "2,330,105"
-        },
-        {
-          "id": "employees",
-          "value": "544"
-        },
-        {
-          "id": "assetturnover",
-          "value": "0.082"
-        },
-        {
-          "id": "inventoryturnover",
-          "value": "n/a"
-        }
-      ]
-    },
-    "financialPosition": {
-      "data": [
-        {
-          "id": "currentRatio",
-          "value": "1.528"
-        },
-        {
-          "id": "quickRatio",
-          "value": "0.741"
-        },
-        {
-          "id": "debtEquity",
-          "value": "0.75"
-        },
-        {
-          "id": "debtEbitda",
-          "value": "5.93"
-        },
-        {
-          "id": "debtFcf",
-          "value": "n/a"
-        },
-        {
-          "id": "interestCoverage",
-          "value": "2.313"
-        }
-      ]
-    },
-    "incomeStatement": {
-      "data": [
-        {
-          "id": "revenue",
-          "value": "6,065,509,000"
-        },
-        {
-          "id": "gp",
-          "value": "5,621,530,000"
-        },
-        {
-          "id": "opinc",
-          "value": "2,790,571,000"
-        },
-        {
-          "id": "pretax",
-          "value": "1,408,385,000"
-        },
-        {
-          "id": "netinc",
-          "value": "1,267,577,000"
-        },
-        {
-          "id": "ebitda",
-          "value": "5,287,390,000"
-        },
-        {
-          "id": "ebit",
-          "value": "2,745,022,000"
-        },
-        {
-          "id": "eps",
-          "value": "1.368"
-        }
-      ]
-    },
-    "margins": {
-      "data": [
-        {
-          "id": "grossMargin",
-          "value": "92.680%"
-        },
-        {
-          "id": "operatingMargin",
-          "value": "46.007%"
-        },
-        {
-          "id": "pretaxMargin",
-          "value": "23.220%"
-        },
-        {
-          "id": "profitMargin",
-          "value": "20.898%"
-        },
-        {
-          "id": "ebitdaMargin",
-          "value": "87.324%"
-        },
-        {
-          "id": "ebitMargin",
-          "value": "45.335%"
-        },
-        {
-          "id": "fcfMargin",
-          "value": "n/a"
-        }
-      ]
-    },
-    "ratios": {
-      "data": [
-        {
-          "id": "pFFO",
-          "value": "14.500"
-        },
-        {
-          "id": "pAFFO",
-          "value": "n/a"
-        },
-        {
-          "id": "pe",
-          "value": "45.229"
-        },
-        {
-          "id": "peForward",
-          "value": "36.844"
-        },
-        {
-          "id": "ps",
-          "value": "9.682"
-        },
-        {
-          "id": "psForward",
-          "value": "9.919"
-        },
-        {
-          "id": "pb",
-          "value": "1.481"
-        },
-        {
-          "id": "ptbvRatio",
-          "value": "2.025"
-        },
-        {
-          "id": "pfcf",
-          "value": "n/a"
-        },
-        {
-          "id": "pocf",
-          "value": "14.096"
-        },
-        {
-          "id": "pegRatio",
-          "value": "12.415"
-        }
-      ]
-    },
-    "scores": {
-      "data": [
-        {
-          "id": "zScore",
-          "value": "n/a"
-        },
-        {
-          "id": "fScore",
-          "value": "6"
-        }
-      ]
-    },
-    "shares": {
-      "data": [
-        {
-          "id": "sharesOutClass",
-          "value": "946,218,033"
-        },
-        {
-          "id": "sharesout",
-          "value": "948,899,841"
-        },
-        {
-          "id": "sharesgrowthyoy",
-          "value": "4.530%"
-        },
-        {
-          "id": "sharesgrowthqoq",
-          "value": "0.023%"
-        },
-        {
-          "id": "sharesInsiders",
-          "value": "0.126%"
-        },
-        {
-          "id": "sharesInstitutions",
-          "value": "75.174%"
-        },
-        {
-          "id": "float",
-          "value": "922,387,128"
-        }
-      ]
-    },
-    "shortSelling": {
-      "data": [
-        {
-          "id": "shortInterest",
-          "value": "40,024,135"
-        },
-        {
-          "id": "shortPriorMonth",
-          "value": "37,311,921"
-        },
-        {
-          "id": "shortShares",
-          "value": "4.218%"
-        },
-        {
-          "id": "shortFloat",
-          "value": "4.339%"
-        },
-        {
-          "id": "shortRatio",
-          "value": "6.420"
-        }
-      ]
-    },
-    "stockPrice": {
-      "data": [
-        {
-          "id": "beta",
-          "value": "0.719"
-        },
-        {
-          "id": "ch1y",
-          "value": "7.75%"
-        },
-        {
-          "id": "sma50",
-          "value": "62.802"
-        },
-        {
-          "id": "sma200",
-          "value": "61.438"
-        },
-        {
-          "id": "rsi",
-          "value": "37.109"
-        },
-        {
-          "id": "averageVolume",
-          "value": "4,960,262"
-        }
-      ]
-    },
-    "stockSplits": {
-      "data": [
-        {
-          "id": "lastSplitDate",
-          "value": "January 3, 2005"
-        },
-        {
-          "id": "lastSplitType",
-          "value": "Forward"
-        },
-        {
-          "id": "splitRatio",
-          "value": "2:1"
-        }
-      ]
-    },
-    "taxes": {
-      "data": [
-        {
-          "id": "taxexp",
-          "value": "97.63M"
-        },
-        {
-          "id": "taxrate",
-          "value": "6.932%"
-        }
-      ]
-    },
-    "valuation": {
-      "data": [
-        {
-          "id": "marketcap",
-          "value": "58,727,411,159"
-        },
-        {
-          "id": "enterpriseValue",
-          "value": "89,491,253,159"
-        }
-      ]
-    }
+    "analystForecasts": [
+      {
+        "id": "priceTarget",
+        "value": "$68.21"
+      },
+      {
+        "id": "priceTargetChange",
+        "value": "10.21%"
+      },
+      {
+        "id": "analystRatings",
+        "value": "Hold"
+      },
+      {
+        "id": "analystCount",
+        "value": "24"
+      },
+      {
+        "id": "revenue3y",
+        "value": "6.05%"
+      },
+      {
+        "id": "eps3y",
+        "value": "14.68%"
+      }
+    ],
+    "balanceSheet": [
+      {
+        "id": "totalcash",
+        "value": "569,948,000"
+      },
+      {
+        "id": "debt",
+        "value": "31,333,790,000"
+      },
+      {
+        "id": "netcash",
+        "value": "-30,763,842,000"
+      },
+      {
+        "id": "netcashpershare",
+        "value": "-32.421"
+      },
+      {
+        "id": "equity",
+        "value": "41,934,077,000"
+      },
+      {
+        "id": "bvps",
+        "value": "41.798"
+      },
+      {
+        "id": "workingcapital",
+        "value": "2,466,363,000"
+      }
+    ],
+    "cashFlow": [
+      {
+        "id": "ncfo",
+        "value": "4,166,154,000"
+      },
+      {
+        "id": "capex",
+        "value": "-6,149,242,000"
+      },
+      {
+        "id": "depreciationAmortization",
+        "value": "2,542,368,000"
+      },
+      {
+        "id": "netBorrowing",
+        "value": "n/a"
+      },
+      {
+        "id": "fcf",
+        "value": "-1,983,088,000"
+      },
+      {
+        "id": "fcfps",
+        "value": "-2.090"
+      }
+    ],
+    "dates": [
+      {
+        "id": "earningsdate",
+        "value": "Aug 5, 2026"
+      },
+      {
+        "id": "exdivdate",
+        "value": "Jul 31, 2026"
+      }
+    ],
+    "dividends": [
+      {
+        "id": "dps",
+        "value": "$3.252"
+      },
+      {
+        "id": "dividendYield",
+        "value": "5.254%"
+      },
+      {
+        "id": "dividendGrowth",
+        "value": "1.503%"
+      },
+      {
+        "id": "dividendGrowthYears",
+        "value": "22"
+      },
+      {
+        "id": "payoutRatio",
+        "value": "237.653%"
+      },
+      {
+        "id": "buybackYield",
+        "value": "-4.530%"
+      },
+      {
+        "id": "totalReturn",
+        "value": "0.724%"
+      },
+      {
+        "id": "earningsYield",
+        "value": "2.158%"
+      },
+      {
+        "id": "fcfYield",
+        "value": "-3.377%"
+      }
+    ],
+    "evRatios": [
+      {
+        "id": "evEarnings",
+        "value": "70.60"
+      },
+      {
+        "id": "evSales",
+        "value": "14.75"
+      },
+      {
+        "id": "evEbitda",
+        "value": "16.93"
+      },
+      {
+        "id": "evEbit",
+        "value": "32.60"
+      },
+      {
+        "id": "evFcf",
+        "value": "n/a"
+      }
+    ],
+    "fairValue": [
+      {
+        "id": "lynchFairValue",
+        "value": "$34.21"
+      },
+      {
+        "id": "lynchUpside",
+        "value": "-44.73%"
+      },
+      {
+        "id": "grahamNumber",
+        "value": "$35.87"
+      },
+      {
+        "id": "grahamUpside",
+        "value": "-42.04%"
+      }
+    ],
+    "financialEfficiency": [
+      {
+        "id": "roe",
+        "value": "3.225%"
+      },
+      {
+        "id": "roa",
+        "value": "2.359%"
+      },
+      {
+        "id": "roic",
+        "value": "3.587%"
+      },
+      {
+        "id": "roce",
+        "value": "3.825%"
+      },
+      {
+        "id": "wacc",
+        "value": "6.578%"
+      },
+      {
+        "id": "revPerEmployee",
+        "value": "11,149,833"
+      },
+      {
+        "id": "profitPerEmployee",
+        "value": "2,330,105"
+      },
+      {
+        "id": "employees",
+        "value": "544"
+      },
+      {
+        "id": "assetturnover",
+        "value": "0.082"
+      },
+      {
+        "id": "inventoryturnover",
+        "value": "n/a"
+      }
+    ],
+    "financialPosition": [
+      {
+        "id": "currentRatio",
+        "value": "1.528"
+      },
+      {
+        "id": "quickRatio",
+        "value": "0.741"
+      },
+      {
+        "id": "debtEquity",
+        "value": "0.75"
+      },
+      {
+        "id": "debtEbitda",
+        "value": "5.93"
+      },
+      {
+        "id": "debtFcf",
+        "value": "n/a"
+      },
+      {
+        "id": "interestCoverage",
+        "value": "2.313"
+      }
+    ],
+    "incomeStatement": [
+      {
+        "id": "revenue",
+        "value": "6,065,509,000"
+      },
+      {
+        "id": "gp",
+        "value": "5,621,530,000"
+      },
+      {
+        "id": "opinc",
+        "value": "2,790,571,000"
+      },
+      {
+        "id": "pretax",
+        "value": "1,408,385,000"
+      },
+      {
+        "id": "netinc",
+        "value": "1,267,577,000"
+      },
+      {
+        "id": "ebitda",
+        "value": "5,287,390,000"
+      },
+      {
+        "id": "ebit",
+        "value": "2,745,022,000"
+      },
+      {
+        "id": "eps",
+        "value": "1.368"
+      }
+    ],
+    "margins": [
+      {
+        "id": "grossMargin",
+        "value": "92.680%"
+      },
+      {
+        "id": "operatingMargin",
+        "value": "46.007%"
+      },
+      {
+        "id": "pretaxMargin",
+        "value": "23.220%"
+      },
+      {
+        "id": "profitMargin",
+        "value": "20.898%"
+      },
+      {
+        "id": "ebitdaMargin",
+        "value": "87.324%"
+      },
+      {
+        "id": "ebitMargin",
+        "value": "45.335%"
+      },
+      {
+        "id": "fcfMargin",
+        "value": "n/a"
+      }
+    ],
+    "ratios": [
+      {
+        "id": "pFFO",
+        "value": "14.500"
+      },
+      {
+        "id": "pAFFO",
+        "value": "n/a"
+      },
+      {
+        "id": "pe",
+        "value": "45.229"
+      },
+      {
+        "id": "peForward",
+        "value": "36.844"
+      },
+      {
+        "id": "ps",
+        "value": "9.682"
+      },
+      {
+        "id": "psForward",
+        "value": "9.919"
+      },
+      {
+        "id": "pb",
+        "value": "1.481"
+      },
+      {
+        "id": "ptbvRatio",
+        "value": "2.025"
+      },
+      {
+        "id": "pfcf",
+        "value": "n/a"
+      },
+      {
+        "id": "pocf",
+        "value": "14.096"
+      },
+      {
+        "id": "pegRatio",
+        "value": "12.415"
+      }
+    ],
+    "scores": [
+      {
+        "id": "zScore",
+        "value": "n/a"
+      },
+      {
+        "id": "fScore",
+        "value": "6"
+      }
+    ],
+    "shares": [
+      {
+        "id": "sharesOutClass",
+        "value": "946,218,033"
+      },
+      {
+        "id": "sharesout",
+        "value": "948,899,841"
+      },
+      {
+        "id": "sharesgrowthyoy",
+        "value": "4.530%"
+      },
+      {
+        "id": "sharesgrowthqoq",
+        "value": "0.023%"
+      },
+      {
+        "id": "sharesInsiders",
+        "value": "0.126%"
+      },
+      {
+        "id": "sharesInstitutions",
+        "value": "75.174%"
+      },
+      {
+        "id": "float",
+        "value": "922,387,128"
+      }
+    ],
+    "shortSelling": [
+      {
+        "id": "shortInterest",
+        "value": "40,024,135"
+      },
+      {
+        "id": "shortPriorMonth",
+        "value": "37,311,921"
+      },
+      {
+        "id": "shortShares",
+        "value": "4.218%"
+      },
+      {
+        "id": "shortFloat",
+        "value": "4.339%"
+      },
+      {
+        "id": "shortRatio",
+        "value": "6.420"
+      }
+    ],
+    "stockPrice": [
+      {
+        "id": "beta",
+        "value": "0.719"
+      },
+      {
+        "id": "ch1y",
+        "value": "7.75%"
+      },
+      {
+        "id": "sma50",
+        "value": "62.802"
+      },
+      {
+        "id": "sma200",
+        "value": "61.438"
+      },
+      {
+        "id": "rsi",
+        "value": "37.109"
+      },
+      {
+        "id": "averageVolume",
+        "value": "4,960,262"
+      }
+    ],
+    "stockSplits": [
+      {
+        "id": "lastSplitDate",
+        "value": "January 3, 2005"
+      },
+      {
+        "id": "lastSplitType",
+        "value": "Forward"
+      },
+      {
+        "id": "splitRatio",
+        "value": "2:1"
+      }
+    ],
+    "taxes": [
+      {
+        "id": "taxexp",
+        "value": "97.63M"
+      },
+      {
+        "id": "taxrate",
+        "value": "6.932%"
+      }
+    ],
+    "valuation": [
+      {
+        "id": "marketcap",
+        "value": "58,727,411,159"
+      },
+      {
+        "id": "enterpriseValue",
+        "value": "89,491,253,159"
+      }
+    ]
   },
   "financials": {
     "income_statement": {
-      "annual": null,
+      "annual": {
+        "data": [
+          {
+            "id": "income_statement_property_revenue",
+            "values": [
+              5437332000,
+              5043748000,
+              3958150000,
+              3299657000,
+              2064958000
+            ]
+          },
+          {
+            "id": "income_statement_service_and_other_revenue",
+            "values": [
+              312045000,
+              227394000,
+              120843000,
+              44024000,
+              15505000
+            ]
+          },
+          {
+            "id": "revenue",
+            "values": [
+              5749377000,
+              5271142000,
+              4078993000,
+              3343681000,
+              2080463000
+            ]
+          },
+          {
+            "id": "income_statement_property_expenses",
+            "values": [
+              428800000,
+              377675000,
+              316964000,
+              226330000,
+              133605000
+            ]
+          },
+          {
+            "id": "income_statement_total_property_expenses",
+            "values": [
+              428800000,
+              377675000,
+              316964000,
+              226330000,
+              133605000
+            ]
+          },
+          {
+            "id": "grossProfit",
+            "values": [
+              5320577000,
+              4893467000,
+              3762029000,
+              3117351000,
+              1946858000
+            ]
+          },
+          {
+            "id": "sgna",
+            "values": [
+              202554000,
+              176895000,
+              144536000,
+              138459000,
+              96980000
+            ]
+          },
+          {
+            "id": "income_statement_depreciation_and_amortization_expenses",
+            "values": [
+              2524200000,
+              2395644000,
+              1895177000,
+              1670389000,
+              897835000
+            ]
+          },
+          {
+            "id": "otheropex",
+            "values": [
+              495549000,
+              522125000,
+              101546000,
+              39757000,
+              206380000
+            ]
+          },
+          {
+            "id": "operatingIncome",
+            "values": [
+              2098274000,
+              1798803000,
+              1620770000,
+              1268746000,
+              745663000
+            ]
+          },
+          {
+            "id": "income_statement_net_gains_or_losses_on_disposal_of_properties",
+            "values": [
+              177640000,
+              117275000,
+              25667000,
+              102957000,
+              55798000
+            ]
+          },
+          {
+            "id": "interestIncome",
+            "values": [
+              13330000,
+              7793000,
+              2546000,
+              -6448000,
+              1106000
+            ]
+          },
+          {
+            "id": "income_statement_interest_expense",
+            "values": [
+              -1134879000,
+              -1016955000,
+              -730423000,
+              -465223000,
+              -323644000
+            ]
+          },
+          {
+            "id": "otherNonOperatingIncome",
+            "values": [
+              764000,
+              27026000,
+              10375000,
+              16833000,
+              -86519000
+            ]
+          },
+          {
+            "id": "totalNonOperatingIncome",
+            "values": [
+              -943145000,
+              -864861000,
+              -691835000,
+              -351881000,
+              -353259000
+            ]
+          },
+          {
+            "id": "pretax",
+            "values": [
+              1155129000,
+              933942000,
+              928935000,
+              917599000,
+              392404000
+            ]
+          },
+          {
+            "id": "income_statement_provision_for_income_taxes",
+            "values": [
+              85346000,
+              66601000,
+              52021000,
+              45183000,
+              31657000
+            ]
+          },
+          {
+            "id": "netincCompany",
+            "values": [
+              1069783000,
+              867341000,
+              876914000,
+              872416000,
+              360747000
+            ]
+          },
+          {
+            "id": "minorityInterest",
+            "values": [
+              11193000,
+              6569000,
+              4605000,
+              3008000,
+              1291000
+            ]
+          },
+          {
+            "id": "income_statement_net_income_attributable_to_preferred_dividends",
+            "values": [
+              null,
+              12879000,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "netIncome",
+            "values": [
+              1058590000,
+              847893000,
+              872309000,
+              869408000,
+              359456000
+            ]
+          },
+          {
+            "id": "sharesBasic",
+            "values": [
+              907169000,
+              862959000,
+              692298000,
+              611766000,
+              414535000
+            ]
+          },
+          {
+            "id": "sharesDiluted",
+            "values": [
+              911015000,
+              865842000,
+              693024000,
+              612181000,
+              414770000
+            ]
+          },
+          {
+            "id": "epsBasic",
+            "values": [
+              1.17,
+              0.98,
+              1.26,
+              1.42,
+              0.87
+            ]
+          },
+          {
+            "id": "epsDiluted",
+            "values": [
+              1.17,
+              0.98,
+              1.26,
+              1.42,
+              0.87
+            ]
+          },
+          {
+            "id": "fcf",
+            "values": [
+              -784919000,
+              189428000,
+              -5163518000,
+              -6418094000,
+              -5009967000
+            ]
+          },
+          {
+            "id": "fcfps",
+            "values": [
+              -0.861587,
+              0.218779,
+              -7.45071,
+              -10.484,
+              -12.0789
+            ]
+          },
+          {
+            "id": "dps",
+            "values": [
+              3.219,
+              3.133,
+              3.059,
+              2.969,
+              2.845
+            ]
+          },
+          {
+            "id": "grossMargin",
+            "values": [
+              0.925418,
+              0.92835,
+              0.922294,
+              0.932311,
+              0.935781
+            ]
+          },
+          {
+            "id": "operatingMargin",
+            "values": [
+              0.364957,
+              0.341255,
+              0.397346,
+              0.379446,
+              0.358412
+            ]
+          },
+          {
+            "id": "profitMargin",
+            "values": [
+              0.186069,
+              0.164545,
+              0.214983,
+              0.260915,
+              0.173397
+            ]
+          },
+          {
+            "id": "fcfMargin",
+            "values": [
+              -0.136522,
+              0.0359368,
+              -1.26588,
+              -1.91947,
+              -2.4081
+            ]
+          },
+          {
+            "id": "ebitda",
+            "values": [
+              4622474000,
+              4194447000,
+              3515947000,
+              2939135000,
+              1643498000
+            ]
+          },
+          {
+            "id": "ebitdaMargin",
+            "values": [
+              0.803996,
+              0.795738,
+              0.861964,
+              0.879012,
+              0.789967
+            ]
+          },
+          {
+            "id": "ebit",
+            "values": [
+              2098274000,
+              1798803000,
+              1620770000,
+              1268746000,
+              745663000
+            ]
+          },
+          {
+            "id": "ebitMargin",
+            "values": [
+              0.364957,
+              0.341255,
+              0.397346,
+              0.379446,
+              0.358412
+            ]
+          },
+          {
+            "id": "effectiveTaxRate",
+            "values": [
+              0.0738844,
+              0.0713117,
+              0.0560007,
+              0.0492405,
+              0.0806745
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "date": "2025-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2024-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2023-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2022-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2021-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2021"
+          }
+        ]
+      },
       "quarterly": null,
-      "trailing": null
+      "trailing": {
+        "data": [
+          {
+            "id": "income_statement_property_revenue",
+            "values": [
+              5653371000,
+              5565092000,
+              5437332000,
+              5317445000,
+              5202096000,
+              5148636000,
+              5043748000,
+              4792760000,
+              4530469000,
+              4241030000,
+              3958150000,
+              3802786000,
+              3619870000,
+              3425381000,
+              3299657000,
+              3105311000,
+              2765702000,
+              2425158000,
+              2064958000,
+              1801264000
+            ]
+          },
+          {
+            "id": "income_statement_service_and_other_revenue",
+            "values": [
+              401561000,
+              352507000,
+              451278000,
+              145056000,
+              120768000,
+              175155000,
+              227394000,
+              214368000,
+              184848000,
+              154049000,
+              120843000,
+              88572000,
+              69653000,
+              55356000,
+              44024000,
+              34740000,
+              26971000,
+              20394000,
+              15505000,
+              12255000
+            ]
+          },
+          {
+            "id": "revenue",
+            "values": [
+              6054932000,
+              5917599000,
+              5749377000,
+              5601734000,
+              5462097000,
+              5391162000,
+              5271142000,
+              5007128000,
+              4715317000,
+              4395079000,
+              4078993000,
+              3891358000,
+              3689523000,
+              3480737000,
+              3343681000,
+              3140051000,
+              2792673000,
+              2445552000,
+              2080463000,
+              1808981000
+            ]
+          },
+          {
+            "id": "income_statement_property_expenses",
+            "values": [
+              443979000,
+              438962000,
+              428800000,
+              417033000,
+              402566000,
+              394995000,
+              377675000,
+              363249000,
+              342076000,
+              336928000,
+              316964000,
+              304170000,
+              285908000,
+              243385000,
+              226330000,
+              200951000,
+              177894000,
+              157448000,
+              133605000,
+              117030000
+            ]
+          },
+          {
+            "id": "income_statement_total_property_expenses",
+            "values": [
+              443979000,
+              438962000,
+              428800000,
+              417033000,
+              402566000,
+              394995000,
+              377675000,
+              363249000,
+              342076000,
+              336928000,
+              316964000,
+              304170000,
+              285908000,
+              243385000,
+              226330000,
+              200951000,
+              177894000,
+              157448000,
+              133605000,
+              117030000
+            ]
+          },
+          {
+            "id": "grossProfit",
+            "values": [
+              5610953000,
+              5478637000,
+              5320577000,
+              5184701000,
+              5059531000,
+              4996167000,
+              4893467000,
+              4643879000,
+              4373241000,
+              4058151000,
+              3762029000,
+              3587188000,
+              3403615000,
+              3237352000,
+              3117351000,
+              2939100000,
+              2614779000,
+              2288104000,
+              1946858000,
+              1691951000
+            ]
+          },
+          {
+            "id": "sgna",
+            "values": [
+              225671000,
+              217395000,
+              202554000,
+              197526000,
+              184356000,
+              180097000,
+              176895000,
+              165796000,
+              159452000,
+              151211000,
+              144536000,
+              144046000,
+              142617000,
+              139927000,
+              138459000,
+              131456000,
+              121173000,
+              108883000,
+              96980000,
+              83132000
+            ]
+          },
+          {
+            "id": "income_statement_depreciation_and_amortization_expenses",
+            "values": [
+              2542368000,
+              2545540000,
+              2524200000,
+              2495436000,
+              2465794000,
+              2423515000,
+              2395644000,
+              2264829000,
+              2158056000,
+              2024764000,
+              1895177000,
+              1857495000,
+              1780945000,
+              1718104000,
+              1670389000,
+              1565444000,
+              1345260000,
+              1123612000,
+              897835000,
+              739647000
+            ]
+          },
+          {
+            "id": "otheropex",
+            "values": [
+              97892000,
+              662099000,
+              495549000,
+              494667000,
+              44000,
+              455400000,
+              522125000,
+              425548000,
+              339710000,
+              270654000,
+              101546000,
+              74717000,
+              60421000,
+              40685000,
+              39757000,
+              174695000,
+              197093000,
+              217217000,
+              206380000,
+              84848000
+            ]
+          },
+          {
+            "id": "operatingIncome",
+            "values": [
+              2745022000,
+              2053603000,
+              2098274000,
+              1997072000,
+              2409337000,
+              1937155000,
+              1798803000,
+              1787706000,
+              1716023000,
+              1611522000,
+              1620770000,
+              1510930000,
+              1419632000,
+              1338636000,
+              1268746000,
+              1067505000,
+              951253000,
+              838392000,
+              745663000,
+              784324000
+            ]
+          },
+          {
+            "id": "income_statement_net_gains_or_losses_on_disposal_of_properties",
+            "values": [
+              190439000,
+              190745000,
+              177640000,
+              135195000,
+              136651000,
+              123238000,
+              117275000,
+              98282000,
+              55291000,
+              37962000,
+              25667000,
+              29021000,
+              64332000,
+              97080000,
+              102957000,
+              114013000,
+              83224000,
+              57553000,
+              55798000,
+              58063000
+            ]
+          },
+          {
+            "id": "interestIncome",
+            "values": [
+              10577000,
+              11642000,
+              13330000,
+              13059000,
+              15066000,
+              13826000,
+              7793000,
+              7575000,
+              2488000,
+              870000,
+              2546000,
+              298000,
+              -364000,
+              -7402000,
+              -6448000,
+              -5229000,
+              -4567000,
+              2060000,
+              1106000,
+              null
+            ]
+          },
+          {
+            "id": "income_statement_interest_expense",
+            "values": [
+              -1186704000,
+              -1158445000,
+              -1134879000,
+              -1114829000,
+              -1081608000,
+              -1044715000,
+              -1016955000,
+              -957119000,
+              -879979000,
+              -816905000,
+              -730423000,
+              -653400000,
+              -586688000,
+              -512952000,
+              -465223000,
+              -434672000,
+              -393419000,
+              -356972000,
+              -323644000,
+              -301669000
+            ]
+          },
+          {
+            "id": "otherNonOperatingIncome",
+            "values": [
+              -10298000,
+              -5768000,
+              764000,
+              22648000,
+              18518000,
+              22156000,
+              27026000,
+              11611000,
+              12966000,
+              6815000,
+              10375000,
+              44238000,
+              19172000,
+              28990000,
+              16833000,
+              -148786000,
+              -124309000,
+              10567000,
+              -86519000,
+              32959000
+            ]
+          },
+          {
+            "id": "totalNonOperatingIncome",
+            "values": [
+              -995986000,
+              -961826000,
+              -943145000,
+              -943927000,
+              -911373000,
+              -885495000,
+              -864861000,
+              -839651000,
+              -809234000,
+              -771258000,
+              -691835000,
+              -579843000,
+              -503548000,
+              -394284000,
+              -351881000,
+              -474674000,
+              -439071000,
+              -286792000,
+              -353259000,
+              -210647000
+            ]
+          },
+          {
+            "id": "pretax",
+            "values": [
+              1408385000,
+              1235140000,
+              1155129000,
+              1053145000,
+              998126000,
+              1051660000,
+              933942000,
+              948055000,
+              906789000,
+              840264000,
+              928935000,
+              931087000,
+              916324000,
+              944719000,
+              917599000,
+              694477000,
+              605382000,
+              500895000,
+              392404000,
+              500459000
+            ]
+          },
+          {
+            "id": "income_statement_provision_for_income_taxes",
+            "values": [
+              97627000,
+              95884000,
+              85346000,
+              83648000,
+              75179000,
+              66756000,
+              66601000,
+              62302000,
+              58283000,
+              55573000,
+              52021000,
+              45599000,
+              44426000,
+              46152000,
+              45183000,
+              45930000,
+              41846000,
+              36413000,
+              31657000,
+              26029000
+            ]
+          },
+          {
+            "id": "netincCompany",
+            "values": [
+              1310758000,
+              1139256000,
+              1069783000,
+              969497000,
+              922947000,
+              984904000,
+              867341000,
+              885753000,
+              848506000,
+              784691000,
+              876914000,
+              885488000,
+              871898000,
+              898567000,
+              872416000,
+              648547000,
+              563536000,
+              464482000,
+              360747000,
+              474430000
+            ]
+          },
+          {
+            "id": "minorityInterest",
+            "values": [
+              43181000,
+              18715000,
+              11193000,
+              7380000,
+              7116000,
+              6601000,
+              6569000,
+              6188000,
+              4953000,
+              5114000,
+              4605000,
+              4319000,
+              4635000,
+              3512000,
+              3008000,
+              2363000,
+              1923000,
+              1597000,
+              1291000,
+              1084000
+            ]
+          },
+          {
+            "id": "income_statement_net_income_attributable_to_preferred_dividends",
+            "values": [
+              null,
+              null,
+              null,
+              0,
+              null,
+              null,
+              12879000,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "netIncome",
+            "values": [
+              1267577000,
+              1120541000,
+              1058590000,
+              962117000,
+              908127000,
+              978303000,
+              847893000,
+              879565000,
+              843553000,
+              779577000,
+              872309000,
+              881169000,
+              867263000,
+              895055000,
+              869408000,
+              646184000,
+              561613000,
+              462885000,
+              359456000,
+              473346000
+            ]
+          },
+          {
+            "id": "sharesBasic",
+            "values": [
+              924500500,
+              917165250,
+              907169000,
+              896072750,
+              885251750,
+              877090000,
+              862959000,
+              825130500,
+              784755500,
+              735703000,
+              692298000,
+              669277500,
+              646364250,
+              628255000,
+              611766000,
+              583031961,
+              526632330,
+              469773436,
+              414535000,
+              373027494
+            ]
+          },
+          {
+            "id": "sharesDiluted",
+            "values": [
+              926985750,
+              919249250,
+              911015000,
+              897725750,
+              886942000,
+              878694250,
+              865842000,
+              826219500,
+              785592250,
+              736559250,
+              693024000,
+              670253000,
+              647356500,
+              629216000,
+              612181000,
+              583367047,
+              526890397,
+              469967903,
+              414770000,
+              373261076
+            ]
+          },
+          {
+            "id": "epsBasic",
+            "values": [
+              1.37,
+              1.22,
+              1.17,
+              1.08,
+              1.03,
+              1.11,
+              0.98,
+              1.06,
+              1.09,
+              1.08,
+              1.26,
+              1.32,
+              1.35,
+              1.43,
+              1.42,
+              1.08,
+              1.06,
+              1.02,
+              0.87,
+              1.26
+            ]
+          },
+          {
+            "id": "epsDiluted",
+            "values": [
+              1.37,
+              1.22,
+              1.17,
+              1.08,
+              1.03,
+              1.1,
+              0.98,
+              1.05,
+              1.08,
+              1.08,
+              1.26,
+              1.32,
+              1.35,
+              1.43,
+              1.42,
+              1.08,
+              1.06,
+              1.02,
+              0.87,
+              1.26
+            ]
+          },
+          {
+            "id": "fcf",
+            "values": [
+              -1983088000,
+              -1166354000,
+              -784919000,
+              -1092476000,
+              -1041332000,
+              -463184000,
+              189428000,
+              291933000,
+              -1098128000,
+              -3972614000,
+              -5163518000,
+              -7856390000,
+              -7729083000,
+              -6350028000,
+              -6418094000,
+              -5371820000,
+              -5424218000,
+              -5273817000,
+              -5009967000,
+              -3440462000
+            ]
+          },
+          {
+            "id": "fcfps",
+            "values": [
+              -2.13929,
+              -1.26881,
+              -0.861587,
+              -1.21694,
+              -1.17407,
+              -0.527128,
+              0.218779,
+              0.353336,
+              -1.39783,
+              -5.39348,
+              -7.45071,
+              -11.7215,
+              -11.9395,
+              -10.092,
+              -10.484,
+              -9.2083,
+              -10.2948,
+              -11.2217,
+              -12.0789,
+              -9.21731
+            ]
+          },
+          {
+            "id": "dps",
+            "values": [
+              3.235,
+              3.2335,
+              3.219,
+              3.205,
+              3.187,
+              3.159,
+              3.133,
+              3.1105,
+              3.088,
+              3.071,
+              3.059,
+              3.035,
+              3.011,
+              2.987,
+              2.969,
+              2.953,
+              2.917,
+              2.881,
+              2.845,
+              2.819
+            ]
+          },
+          {
+            "id": "grossMargin",
+            "values": [
+              0.926675,
+              0.925821,
+              0.925418,
+              0.925553,
+              0.926298,
+              0.926733,
+              0.92835,
+              0.927454,
+              0.927454,
+              0.92334,
+              0.922294,
+              0.921834,
+              0.922508,
+              0.930077,
+              0.932311,
+              0.936004,
+              0.9363,
+              0.935619,
+              0.935781,
+              0.935306
+            ]
+          },
+          {
+            "id": "operatingMargin",
+            "values": [
+              0.453353,
+              0.347033,
+              0.364957,
+              0.35651,
+              0.441101,
+              0.35932,
+              0.341255,
+              0.357032,
+              0.363925,
+              0.366665,
+              0.397346,
+              0.388278,
+              0.384774,
+              0.384584,
+              0.379446,
+              0.339964,
+              0.340625,
+              0.342823,
+              0.358412,
+              0.433572
+            ]
+          },
+          {
+            "id": "profitMargin",
+            "values": [
+              0.216478,
+              0.19252,
+              0.186069,
+              0.173071,
+              0.168973,
+              0.182689,
+              0.164545,
+              0.176898,
+              0.179947,
+              0.178539,
+              0.214983,
+              0.227552,
+              0.236317,
+              0.258154,
+              0.260915,
+              0.20654,
+              0.201791,
+              0.189929,
+              0.173397,
+              0.262264
+            ]
+          },
+          {
+            "id": "fcfMargin",
+            "values": [
+              -0.327516,
+              -0.197099,
+              -0.136522,
+              -0.195025,
+              -0.190647,
+              -0.0859154,
+              0.0359368,
+              0.0583035,
+              -0.232885,
+              -0.903878,
+              -1.26588,
+              -2.01893,
+              -2.09487,
+              -1.82433,
+              -1.91947,
+              -1.71074,
+              -1.9423,
+              -2.15649,
+              -2.4081,
+              -1.90188
+            ]
+          },
+          {
+            "id": "ebitda",
+            "values": [
+              5287390000,
+              4599143000,
+              4622474000,
+              4492508000,
+              4875131000,
+              4360670000,
+              4194447000,
+              4052535000,
+              3874079000,
+              3636286000,
+              3515947000,
+              3368425000,
+              3200577000,
+              3056740000,
+              2939135000,
+              2632949000,
+              2296513000,
+              1962004000,
+              1643498000,
+              1523971000
+            ]
+          },
+          {
+            "id": "ebitdaMargin",
+            "values": [
+              0.873237,
+              0.777197,
+              0.803996,
+              0.801985,
+              0.892538,
+              0.808855,
+              0.795738,
+              0.809353,
+              0.821595,
+              0.827354,
+              0.861964,
+              0.865617,
+              0.867477,
+              0.878188,
+              0.879012,
+              0.838505,
+              0.822335,
+              0.802274,
+              0.789967,
+              0.842447
+            ]
+          },
+          {
+            "id": "ebit",
+            "values": [
+              2745022000,
+              2053603000,
+              2098274000,
+              1997072000,
+              2409337000,
+              1937155000,
+              1798803000,
+              1787706000,
+              1716023000,
+              1611522000,
+              1620770000,
+              1510930000,
+              1419632000,
+              1338636000,
+              1268746000,
+              1067505000,
+              951253000,
+              838392000,
+              745663000,
+              784324000
+            ]
+          },
+          {
+            "id": "ebitMargin",
+            "values": [
+              0.453353,
+              0.347033,
+              0.364957,
+              0.35651,
+              0.441101,
+              0.35932,
+              0.341255,
+              0.357032,
+              0.363925,
+              0.366665,
+              0.397346,
+              0.388278,
+              0.384774,
+              0.384584,
+              0.379446,
+              0.339964,
+              0.340625,
+              0.342823,
+              0.358412,
+              0.433572
+            ]
+          },
+          {
+            "id": "effectiveTaxRate",
+            "values": [
+              0.0693184,
+              0.0776301,
+              0.0738844,
+              0.0794269,
+              0.0753201,
+              0.0634768,
+              0.0713117,
+              0.0657156,
+              0.064274,
+              0.0661375,
+              0.0560007,
+              0.0489739,
+              0.0484829,
+              0.0488526,
+              0.0492405,
+              0.0661361,
+              0.0691233,
+              0.0726959,
+              0.0806745,
+              0.0520103
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "date": "2026-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2026"
+          },
+          {
+            "date": "2026-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2026"
+          },
+          {
+            "date": "2025-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2025-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2025-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2025-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2024-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2024-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2024-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2024-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2023-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2023-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2023-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2023-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2022-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2022-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2022-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2022-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2021-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2021"
+          },
+          {
+            "date": "2021-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2021"
+          }
+        ]
+      }
     },
     "balance_sheet": {
       "annual": null,
@@ -550,9 +1942,1512 @@
       "latest": null
     },
     "cash_flow_statement": {
-      "annual": null,
-      "quarterly": null,
-      "latest_ttm": null
+      "annual": {
+        "data": [
+          {
+            "id": "cash_flow_statement_net_income",
+            "values": [
+              1069783000,
+              867341000,
+              876914000,
+              872416000,
+              360747000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_depreciation_and_amortization",
+            "values": [
+              2524200000,
+              2395644000,
+              1895177000,
+              1670389000,
+              897835000
+            ]
+          },
+          {
+            "id": "sbcomp",
+            "values": [
+              30770000,
+              57493000,
+              26227000,
+              21617000,
+              41773000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_other_adjustments",
+            "values": [
+              292153000,
+              222109000,
+              -13556000,
+              34248000,
+              84840000
+            ]
+          },
+          {
+            "id": "changeInReceivables",
+            "values": [
+              -115792000,
+              28082000,
+              -111286000,
+              -29524000,
+              -38292000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_changes_in_accounts_payable",
+            "values": [
+              193640000,
+              2607000,
+              285293000,
+              -5290000,
+              -24714000
+            ]
+          },
+          {
+            "id": "ncfo",
+            "values": [
+              3994754000,
+              3573276000,
+              2958769000,
+              2563856000,
+              1322189000
+            ]
+          },
+          {
+            "id": "capex",
+            "values": [
+              -4779673000,
+              -3383848000,
+              -8122287000,
+              -8981950000,
+              -6332156000
+            ]
+          },
+          {
+            "id": "saleofpropertyplantandequipment",
+            "values": [
+              744014000,
+              589450000,
+              117354000,
+              436115000,
+              250536000
+            ]
+          },
+          {
+            "id": "purchasesOfInvestments",
+            "values": [
+              -1665541000,
+              -702031000,
+              -1380927000,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "cash_flow_statement_proceeds_from_sale_of_investments",
+            "values": [
+              31390000,
+              57300000,
+              3927000,
+              115356000,
+              38345000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_other_investing_activities",
+            "values": [
+              6637000,
+              96246000,
+              27079000,
+              43403000,
+              -394420000
+            ]
+          },
+          {
+            "id": "ncfi",
+            "values": [
+              -5663173000,
+              -3342883000,
+              -9354854000,
+              -8387076000,
+              -6437695000
+            ]
+          },
+          {
+            "id": "debtissuedshortterm",
+            "values": [
+              20280426000,
+              36887003000,
+              77338040000,
+              28539299000,
+              9082206000
+            ]
+          },
+          {
+            "id": "debtrepaidshortterm",
+            "values": [
+              -19557427000,
+              -36528598000,
+              -79398193000,
+              -27434617000,
+              -7508332000
+            ]
+          },
+          {
+            "id": "netdebtissuedshortterm",
+            "values": [
+              722999000,
+              358405000,
+              -2060153000,
+              1104682000,
+              1573874000
+            ]
+          },
+          {
+            "id": "debtissuedlongterm",
+            "values": [
+              3298749000,
+              2657925000,
+              5269128000,
+              2154662000,
+              1033387000
+            ]
+          },
+          {
+            "id": "debtrepaidlongterm",
+            "values": [
+              -2234120000,
+              -1840504000,
+              -22015000,
+              -312234000,
+              -1863158000
+            ]
+          },
+          {
+            "id": "netdebtissuedlongterm",
+            "values": [
+              1064629000,
+              817421000,
+              5247113000,
+              1842428000,
+              -829771000
+            ]
+          },
+          {
+            "id": "commonissued",
+            "values": [
+              2376146000,
+              1754622000,
+              5450981000,
+              4567682000,
+              4453957000
+            ]
+          },
+          {
+            "id": "commonrepurchased",
+            "values": [
+              46850000,
+              -8856000,
+              -7022000,
+              -4790000,
+              -33552000
+            ]
+          },
+          {
+            "id": "netstockissued",
+            "values": [
+              2422996000,
+              1745766000,
+              5443959000,
+              4562892000,
+              4420405000
+            ]
+          },
+          {
+            "id": "preferredrepurchased",
+            "values": [
+              null,
+              -172510000,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "netpreferredstockissued",
+            "values": [
+              null,
+              -172510000,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "commondividendcf",
+            "values": [
+              -2920895000,
+              -2691719000,
+              -2111793000,
+              -1813431000,
+              -1169026000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_preferred_share_dividends_paid",
+            "values": [
+              null,
+              -7763000,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "otherfinancing",
+            "values": [
+              388066000,
+              -70758000,
+              -81770000,
+              41672000,
+              581638000
+            ]
+          },
+          {
+            "id": "ncff",
+            "values": [
+              1677795000,
+              -21158000,
+              6437356000,
+              5738243000,
+              4577120000
+            ]
+          },
+          {
+            "id": "exchangeRateAdjustments",
+            "values": [
+              15874000,
+              -5904000,
+              24023000,
+              -20511000,
+              20076000
+            ]
+          },
+          {
+            "id": "ncf",
+            "values": [
+              25250000,
+              203331000,
+              65294000,
+              -105488000,
+              -518310000
+            ]
+          },
+          {
+            "id": "fcf",
+            "values": [
+              -784919000,
+              189428000,
+              -5163518000,
+              -6418094000,
+              -5009967000
+            ]
+          },
+          {
+            "id": "fcfMargin",
+            "values": [
+              -0.136522,
+              0.0359368,
+              -1.26588,
+              -1.91947,
+              -2.4081
+            ]
+          },
+          {
+            "id": "fcfps",
+            "values": [
+              -0.861587,
+              0.218779,
+              -7.45071,
+              -10.484,
+              -12.0789
+            ]
+          },
+          {
+            "id": "leveredFCF",
+            "values": [
+              784385000,
+              1038122000,
+              -1882548000,
+              -3500333000,
+              -4355476000
+            ]
+          },
+          {
+            "id": "unleveredFCF",
+            "values": [
+              -118588692,
+              684930284,
+              -4411811237,
+              -6110578641,
+              -4773527996
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "date": "2025-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2024-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2023-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2022-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2021-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2021"
+          }
+        ]
+      },
+      "quarterly": {
+        "data": [
+          {
+            "id": "cash_flow_statement_net_income",
+            "values": [
+              370513000,
+              320935000,
+              301636000,
+              317674000,
+              199011000,
+              251462000,
+              201350000,
+              271124000,
+              260968000,
+              133899000,
+              219762000,
+              233877000,
+              197153000,
+              226122000,
+              228336000,
+              220287000,
+              223822000,
+              199971000,
+              4467000,
+              135276000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_depreciation_and_amortization",
+            "values": [
+              644677000,
+              630275000,
+              635435000,
+              631981000,
+              647849000,
+              608935000,
+              606671000,
+              602339000,
+              605570000,
+              581064000,
+              475856000,
+              495566000,
+              472278000,
+              451477000,
+              438174000,
+              419016000,
+              409437000,
+              403762000,
+              333229000,
+              198832000
+            ]
+          },
+          {
+            "id": "sbcomp",
+            "values": [
+              9268000,
+              11383000,
+              9042000,
+              7719000,
+              8110000,
+              5899000,
+              9822000,
+              6401000,
+              7267000,
+              34003000,
+              6073000,
+              6231000,
+              7623000,
+              6300000,
+              4875000,
+              5099000,
+              6641000,
+              5002000,
+              29289000,
+              4315000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_other_adjustments",
+            "values": [
+              -55133000,
+              66233000,
+              113165000,
+              -43181000,
+              -87295000,
+              75054000,
+              126676000,
+              -278732000,
+              63424000,
+              36431000,
+              94144500,
+              -65406500,
+              -2287000,
+              -33229000,
+              171211000,
+              -44328000,
+              -58978000,
+              -32067000,
+              -46644000,
+              4104000
+            ]
+          },
+          {
+            "id": "changeInReceivables",
+            "values": [
+              -9895000,
+              -114375000,
+              15080000,
+              -73770000,
+              38258000,
+              -95360000,
+              -12256000,
+              15199000,
+              57821000,
+              -32682000,
+              -93748000,
+              -43271000,
+              -16348000,
+              42081000,
+              -237362000,
+              73819000,
+              151717000,
+              -17698000,
+              8378000,
+              21300000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_changes_in_accounts_payable",
+            "values": [
+              130701000,
+              -39949000,
+              125001000,
+              15740000,
+              111373000,
+              -58474000,
+              39078000,
+              -48551000,
+              -13878000,
+              25958000,
+              84275500,
+              84275500,
+              78259000,
+              38483000,
+              26719000,
+              2912000,
+              10570000,
+              -45491000,
+              -36029000,
+              25105000
+            ]
+          },
+          {
+            "id": "ncfo",
+            "values": [
+              1145083000,
+              874502000,
+              1203434000,
+              943135000,
+              1060669000,
+              787516000,
+              971963000,
+              841468000,
+              981172000,
+              778673000,
+              760658000,
+              731998000,
+              734879000,
+              731234000,
+              630490000,
+              676805000,
+              743082000,
+              513479000,
+              352123000,
+              388932000
+            ]
+          },
+          {
+            "id": "capex",
+            "values": [
+              -1957862000,
+              -1675407000,
+              -1610764000,
+              -905209000,
+              -1056714000,
+              -1206986000,
+              -1686850000,
+              -752398000,
+              -399069000,
+              -545531000,
+              -1373040000,
+              -2032989000,
+              -3027262000,
+              -1688996000,
+              -3935744000,
+              -1850489000,
+              -1656410000,
+              -1539307000,
+              -2611103000,
+              -1615014000
+            ]
+          },
+          {
+            "id": "saleofpropertyplantandequipment",
+            "values": [
+              160655000,
+              187979000,
+              319808000,
+              214792000,
+              116841000,
+              92573000,
+              138085000,
+              249461000,
+              106280000,
+              95624000,
+              24582000,
+              32312000,
+              31866000,
+              28594000,
+              21427000,
+              142443000,
+              150010000,
+              122235000,
+              127003000,
+              31917000
+            ]
+          },
+          {
+            "id": "purchasesOfInvestments",
+            "values": [
+              -659185000,
+              -1098430000,
+              -623723500,
+              -608841500,
+              -226821000,
+              -206155000,
+              -13367000,
+              -5158000,
+              -391276000,
+              -38070000,
+              -1179306000,
+              0,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "cash_flow_statement_proceeds_from_sale_of_investments",
+            "values": [
+              8943000,
+              8713000,
+              8476000,
+              8112000,
+              7780000,
+              7022000,
+              5738000,
+              8988000,
+              -3603000,
+              5468000,
+              -15177000,
+              7979000,
+              7198000,
+              null,
+              467000,
+              655000,
+              null,
+              null,
+              38345000,
+              0
+            ]
+          },
+          {
+            "id": "cash_flow_statement_other_investing_activities",
+            "values": [
+              -1057000,
+              -1719000,
+              3365000,
+              1193000,
+              2164000,
+              -85000,
+              38895000,
+              553000,
+              1849000,
+              93699000,
+              28267000,
+              747000,
+              24515000,
+              -17317000,
+              55913000,
+              -14741000,
+              3167000,
+              -936000,
+              -22958000,
+              5721000
+            ]
+          },
+          {
+            "id": "ncfi",
+            "values": [
+              -2448506000,
+              -2578864000,
+              -2113622000,
+              -1079170000,
+              -1156750000,
+              -1313631000,
+              -1771659000,
+              -537304000,
+              -645110000,
+              -388810000,
+              -2716295000,
+              -1991951000,
+              -2968889000,
+              -1677719000,
+              -3857937000,
+              -1608644000,
+              -1502487000,
+              -1418008000,
+              -2834743000,
+              -1577376000
+            ]
+          },
+          {
+            "id": "debtissuedshortterm",
+            "values": [
+              23586276000,
+              19796468000,
+              6767013000,
+              2884478000,
+              5034297000,
+              5594638000,
+              12188501000,
+              13389730000,
+              3289840000,
+              8018932000,
+              44316639000,
+              5884404000,
+              22887251000,
+              4249746000,
+              8894575000,
+              10277856000,
+              7055056000,
+              2311812000,
+              2804288000,
+              874219000
+            ]
+          },
+          {
+            "id": "debtrepaidshortterm",
+            "values": [
+              -23133285000,
+              -19483654000,
+              -6676057000,
+              -2416622000,
+              -5380570000,
+              -5084178000,
+              -11449149000,
+              -14159740000,
+              -3170774000,
+              -7748935000,
+              -44489028000,
+              -5997192000,
+              -23221913000,
+              -5690060000,
+              -8287231000,
+              -9423118000,
+              -7395278000,
+              -2328990000,
+              -1654909000,
+              -1755514000
+            ]
+          },
+          {
+            "id": "netdebtissuedshortterm",
+            "values": [
+              452991000,
+              312814000,
+              90956000,
+              467856000,
+              -346273000,
+              510460000,
+              739352000,
+              -770010000,
+              119066000,
+              269997000,
+              -172389000,
+              -112788000,
+              -334662000,
+              -1440314000,
+              607344000,
+              854738000,
+              -340222000,
+              -17178000,
+              1149379000,
+              -881295000
+            ]
+          },
+          {
+            "id": "debtissuedlongterm",
+            "values": [
+              1180000000,
+              1556400000,
+              1003499500,
+              203499500,
+              2091750000,
+              null,
+              0,
+              1407925000,
+              0,
+              1250000000,
+              976451000,
+              1188411000,
+              983915000,
+              2120351000,
+              749092000,
+              -121000,
+              729060000,
+              676631000,
+              0,
+              1033387000
+            ]
+          },
+          {
+            "id": "debtrepaidlongterm",
+            "values": [
+              -600425000,
+              -825430000,
+              -889907000,
+              -300425000,
+              -504268000,
+              -39520000,
+              -114184000,
+              -353964000,
+              -1182000,
+              -1371174000,
+              -1173000,
+              -12772000,
+              -6837000,
+              -1233000,
+              -1151000,
+              -85132000,
+              -182362000,
+              -43589000,
+              -805957000,
+              -17376000
+            ]
+          },
+          {
+            "id": "netdebtissuedlongterm",
+            "values": [
+              579575000,
+              730970000,
+              113592500,
+              -96925500,
+              1587482000,
+              -39520000,
+              -114184000,
+              1053961000,
+              -1182000,
+              -121174000,
+              975278000,
+              1175639000,
+              977078000,
+              2119118000,
+              747941000,
+              -85253000,
+              546698000,
+              633042000,
+              -805957000,
+              1016011000
+            ]
+          },
+          {
+            "id": "commonissued",
+            "values": [
+              826922000,
+              3359000,
+              805447000,
+              317763000,
+              625036000,
+              627900000,
+              935898000,
+              269272000,
+              2797000,
+              546655000,
+              1592636000,
+              876251000,
+              2183193000,
+              798901000,
+              2154882000,
+              694373000,
+              1059534000,
+              658893000,
+              1710919000,
+              1618462000
+            ]
+          },
+          {
+            "id": "commonrepurchased",
+            "values": [
+              17551000,
+              -114063000,
+              56522000,
+              -165000,
+              -48000,
+              -9459000,
+              -265000,
+              -62000,
+              -36000,
+              -8493000,
+              -841000,
+              -35000,
+              -44000,
+              -6102000,
+              -105000,
+              214000,
+              834000,
+              -5733000,
+              -27101000,
+              -887000
+            ]
+          },
+          {
+            "id": "netstockissued",
+            "values": [
+              844473000,
+              -110704000,
+              861969000,
+              317598000,
+              624988000,
+              618441000,
+              935633000,
+              269210000,
+              2761000,
+              538162000,
+              1591795000,
+              876216000,
+              2183149000,
+              792799000,
+              2154777000,
+              694587000,
+              1060368000,
+              653160000,
+              1683818000,
+              1617575000
+            ]
+          },
+          {
+            "id": "preferredrepurchased",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              0,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "netpreferredstockissued",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              0,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "commondividendcf",
+            "values": [
+              -756779000,
+              -758032000,
+              -743762000,
+              -737859000,
+              -727450000,
+              -711824000,
+              -691861000,
+              -687144000,
+              -676215000,
+              -636499000,
+              -556114000,
+              -543343000,
+              -515091000,
+              -497245000,
+              -470736000,
+              -458586000,
+              -445829000,
+              -438280000,
+              -371179000,
+              -273791000
+            ]
+          },
+          {
+            "id": "cash_flow_statement_preferred_share_dividends_paid",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              0,
+              -2588000,
+              -2587000,
+              -2588000,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": "otherfinancing",
+            "values": [
+              275674000,
+              1536968000,
+              218025500,
+              240898500,
+              -67859000,
+              -2999000,
+              -4288000,
+              -33169000,
+              -2430000,
+              -30871000,
+              -43362000,
+              -977000,
+              -12897000,
+              -24534000,
+              64588000,
+              -1342000,
+              -11903000,
+              -9671000,
+              -4441000,
+              -8264000
+            ]
+          },
+          {
+            "id": "ncff",
+            "values": [
+              1396370000,
+              1711580000,
+              988508000,
+              -256159000,
+              570888000,
+              374558000,
+              864652000,
+              -342250000,
+              -560587000,
+              17027000,
+              1795208000,
+              1394747000,
+              2297577000,
+              949824000,
+              3103914000,
+              1004144000,
+              809112000,
+              821073000,
+              2245104000,
+              1470236000
+            ]
+          },
+          {
+            "id": "exchangeRateAdjustments",
+            "values": [
+              -1628000,
+              -3931000,
+              -703000,
+              -6403000,
+              16243000,
+              6737000,
+              -17327000,
+              12852000,
+              850000,
+              -2279000,
+              21940000,
+              -18992000,
+              7530000,
+              13545000,
+              61501000,
+              -57057000,
+              -18892000,
+              -6063000,
+              23787000,
+              -2679000
+            ]
+          },
+          {
+            "id": "ncf",
+            "values": [
+              91319000,
+              3287000,
+              -160490000,
+              -160490000,
+              491050000,
+              -144820000,
+              47629000,
+              -25234000,
+              -223675000,
+              404611000,
+              -138489000,
+              115802000,
+              71097000,
+              16884000,
+              -62032000,
+              15248000,
+              30815000,
+              -89519000,
+              -213729000,
+              279113000
+            ]
+          },
+          {
+            "id": "fcf",
+            "values": [
+              -812779000,
+              -800905000,
+              -407330000,
+              37926000,
+              3955000,
+              -419470000,
+              -714887000,
+              89070000,
+              582103000,
+              233142000,
+              -612382000,
+              -1300991000,
+              -2292383000,
+              -957762000,
+              -3305254000,
+              -1173684000,
+              -913328000,
+              -1025828000,
+              -2258980000,
+              -1226082000
+            ]
+          },
+          {
+            "id": "fcfMargin",
+            "values": [
+              -0.525149,
+              -0.517138,
+              -0.273754,
+              0.0257903,
+              0.00280421,
+              -0.303853,
+              -0.533379,
+              0.0669239,
+              0.434586,
+              0.184962,
+              -0.568978,
+              -1.25203,
+              -2.24919,
+              -1.01415,
+              -3.71941,
+              -1.4018,
+              -1.12698,
+              -1.27062,
+              -3.29768,
+              -2.50276
+            ]
+          },
+          {
+            "id": "fcfps",
+            "values": [
+              -0.869597,
+              -0.857091,
+              -0.441001,
+              0.0414407,
+              0.00437637,
+              -0.470073,
+              -0.812696,
+              0.102138,
+              0.668527,
+              0.279131,
+              -0.842505,
+              -1.83356,
+              -3.39817,
+              -1.44844,
+              -5.19991,
+              -1.8993,
+              -1.51708,
+              -1.72686,
+              -4.34889,
+              -3.12736
+            ]
+          },
+          {
+            "id": "leveredFCF",
+            "values": [
+              194037000,
+              270469000,
+              -349694500,
+              429213500,
+              1140636000,
+              64230000,
+              -216321000,
+              347122000,
+              567311000,
+              340010000,
+              208385500,
+              -156823500,
+              -1638894000,
+              -295216000,
+              -1888301000,
+              -439509000,
+              -806720000,
+              -365803000,
+              -1966440000,
+              -1121365000
+            ]
+          },
+          {
+            "id": "unleveredFCF",
+            "values": [
+              -556591408,
+              -527890393,
+              -332160296,
+              278882807,
+              114743287,
+              -182088272,
+              -627934895,
+              264201836,
+              654668726,
+              389178377,
+              -399330718,
+              -1055100793,
+              -2115199786,
+              -842979712,
+              -3150533006,
+              -1116897671,
+              -950860075,
+              -891928736,
+              -2273430052,
+              -1190309061
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "date": "2026-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2026"
+          },
+          {
+            "date": "2026-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2026"
+          },
+          {
+            "date": "2025-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2025-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2025-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2025-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2025"
+          },
+          {
+            "date": "2024-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2024-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2024-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2024-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2024"
+          },
+          {
+            "date": "2023-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2023-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2023-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2023-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2023"
+          },
+          {
+            "date": "2022-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2022-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2022-06-30",
+            "fiscal_quarter": "Q2",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2022-03-31",
+            "fiscal_quarter": "Q1",
+            "fiscal_year": "2022"
+          },
+          {
+            "date": "2021-12-31",
+            "fiscal_quarter": "Q4",
+            "fiscal_year": "2021"
+          },
+          {
+            "date": "2021-09-30",
+            "fiscal_quarter": "Q3",
+            "fiscal_year": "2021"
+          }
+        ]
+      },
+      "latest_ttm": {
+        "data": [
+          {
+            "id": "cash_flow_statement_net_income",
+            "value": 1310758000
+          },
+          {
+            "id": "cash_flow_statement_depreciation_and_amortization",
+            "value": 2542368000
+          },
+          {
+            "id": "sbcomp",
+            "value": 37412000
+          },
+          {
+            "id": "cash_flow_statement_other_adjustments",
+            "value": -172595000
+          },
+          {
+            "id": "changeInReceivables",
+            "value": -182960000
+          },
+          {
+            "id": "cash_flow_statement_changes_in_accounts_payable",
+            "value": 231493000
+          },
+          {
+            "id": "ncfo",
+            "value": 4166154000
+          },
+          {
+            "id": "capex",
+            "value": -6149242000
+          },
+          {
+            "id": "saleofpropertyplantandequipment",
+            "value": 883234000
+          },
+          {
+            "id": "purchasesOfInvestments",
+            "value": -2990180000
+          },
+          {
+            "id": "cash_flow_statement_proceeds_from_sale_of_investments",
+            "value": 34244000
+          },
+          {
+            "id": "cash_flow_statement_other_investing_activities",
+            "value": 1782000
+          },
+          {
+            "id": "ncfi",
+            "value": -8220162000
+          },
+          {
+            "id": "debtissuedshortterm",
+            "value": 53034235000
+          },
+          {
+            "id": "debtrepaidshortterm",
+            "value": -51709618000
+          },
+          {
+            "id": "netdebtissuedshortterm",
+            "value": 1324617000
+          },
+          {
+            "id": "debtissuedlongterm",
+            "value": 3943399000
+          },
+          {
+            "id": "debtrepaidlongterm",
+            "value": -2616187000
+          },
+          {
+            "id": "netdebtissuedlongterm",
+            "value": 1327212000
+          },
+          {
+            "id": "commonissued",
+            "value": 1953491000
+          },
+          {
+            "id": "commonrepurchased",
+            "value": -40155000
+          },
+          {
+            "id": "netstockissued",
+            "value": 1913336000
+          },
+          {
+            "id": "preferredrepurchased",
+            "value": null
+          },
+          {
+            "id": "netpreferredstockissued",
+            "value": null
+          },
+          {
+            "id": "commondividendcf",
+            "value": -2996432000
+          },
+          {
+            "id": "cash_flow_statement_preferred_share_dividends_paid",
+            "value": null
+          },
+          {
+            "id": "otherfinancing",
+            "value": 2271566000
+          },
+          {
+            "id": "ncff",
+            "value": 3840299000
+          },
+          {
+            "id": "exchangeRateAdjustments",
+            "value": -12665000
+          },
+          {
+            "id": "ncf",
+            "value": -226374000
+          },
+          {
+            "id": "fcf",
+            "value": -1983088000
+          },
+          {
+            "id": "fcfMargin",
+            "value": -0.327516
+          },
+          {
+            "id": "fcfps",
+            "value": -2.13929
+          },
+          {
+            "id": "leveredFCF",
+            "value": 544025000
+          },
+          {
+            "id": "unleveredFCF",
+            "value": -820639543
+          }
+        ]
+      }
     },
     "ratios": {
       "annual": null,
