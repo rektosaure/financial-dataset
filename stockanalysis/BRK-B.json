@@ -5837,7 +5837,612 @@
       }
     },
     "cash_flow_statement": {
-      "annual": null,
+      "annual": {
+        "availableSources": [
+          "fai",
+          "spg",
+          "nasdaq",
+          "fmp"
+        ],
+        "defaultSource": "fai",
+        "details": {
+          "currency": "USD",
+          "fiscalYear": "January - December",
+          "fiscalYearShort": "Jan - Dec",
+          "lastTradingDay": "Aug 10, 2026",
+          "lastTrailingDate": "Jun 30, 2026",
+          "reportingFrequency": null,
+          "source": "fai"
+        },
+        "financialData": {
+          "capex": [
+            -22419000000,
+            -20927000000,
+            -18976000000,
+            -19409000000,
+            -15464000000,
+            -13276000000
+          ],
+          "cashAcquisition": [
+            -10677000000,
+            -1074000000,
+            -396000000,
+            -8604000000,
+            -10594000000,
+            -456000000
+          ],
+          "cash_flow_statement_changes_in_income_taxes_payable": [
+            6591000000,
+            1000000000,
+            -8163000000,
+            14865000000,
+            -12872000000,
+            15330000000
+          ],
+          "cash_flow_statement_changes_in_inventories": [
+            null,
+            null,
+            null,
+            null,
+            -4779000000,
+            -1862000000
+          ],
+          "cash_flow_statement_changes_in_other_operating_activities": [
+            2455000000,
+            3349000000,
+            377000000,
+            5671000000,
+            6167000000,
+            8808000000
+          ],
+          "cash_flow_statement_changes_in_unearned_revenue": [
+            363000000,
+            432000000,
+            376000000,
+            1854000000,
+            1861000000,
+            2306000000
+          ],
+          "cash_flow_statement_depreciation_and_amortization": [
+            13998000000,
+            13476000000,
+            12855000000,
+            12486000000,
+            10899000000,
+            10718000000
+          ],
+          "cash_flow_statement_net_income": [
+            86082000000,
+            67260000000,
+            89561000000,
+            97147000000,
+            -21998000000,
+            90949000000
+          ],
+          "cash_flow_statement_other_adjustments": [
+            -70059000000,
+            -37122000000,
+            -65040000000,
+            -80878000000,
+            63693000000,
+            -80958000000
+          ],
+          "cash_flow_statement_other_investing_activities": [
+            665000000,
+            1157000000,
+            -195000000,
+            685000000,
+            239000000,
+            770000000
+          ],
+          "cash_flow_statement_proceeds_from_sale_of_investments": [
+            650385000000,
+            579409000000,
+            545359000000,
+            246134000000,
+            190070000000,
+            203439000000
+          ],
+          "changeInReceivables": [
+            -3599000000,
+            -2426000000,
+            626000000,
+            -1949000000,
+            -5621000000,
+            -5864000000
+          ],
+          "commonrepurchased": [
+            -4444000000,
+            null,
+            -2918000000,
+            -9171000000,
+            -7854000000,
+            -27061000000
+          ],
+          "datekey": [
+            "TTM",
+            "2025-12-31",
+            "2024-12-31",
+            "2023-12-31",
+            "2022-12-31",
+            "2021-12-31"
+          ],
+          "debtissuedlongterm": [
+            11156000000,
+            9172000000,
+            13186000000,
+            7817000000,
+            12695000000,
+            6920000000
+          ],
+          "debtrepaidlongterm": [
+            -7016000000,
+            -7024000000,
+            -11947000000,
+            -11311000000,
+            -3928000000,
+            -7048000000
+          ],
+          "exchangeRateAdjustments": [
+            349000000,
+            478000000,
+            -212000000,
+            116000000,
+            -394000000,
+            -1000000
+          ],
+          "fcf": [
+            24215000000,
+            25042000000,
+            11616000000,
+            29787000000,
+            21886000000,
+            26151000000
+          ],
+          "fcfMargin": [
+            0.0629473,
+            0.067418,
+            0.0312735,
+            0.0817242,
+            0.0724654,
+            0.0946865
+          ],
+          "fcfps": [
+            16842.3,
+            17411.8,
+            8079.46,
+            20558.6,
+            14899.8,
+            17316.5
+          ],
+          "fiscalQuarter": [
+            "Q2",
+            "Q4",
+            "Q4",
+            "Q4",
+            "Q4",
+            "Q4"
+          ],
+          "fiscalYear": [
+            "2026",
+            "2025",
+            "2024",
+            "2023",
+            "2022",
+            "2021"
+          ],
+          "leveredFCF": [
+            90896000000,
+            66446000000,
+            76703000000,
+            108196000000,
+            -28180000000,
+            111833000000
+          ],
+          "ncf": [
+            -59868000000,
+            4193000000,
+            9733000000,
+            2244000000,
+            -52307000000,
+            40310000000
+          ],
+          "ncff": [
+            -763000000,
+            2233000000,
+            -10360000000,
+            -14405000000,
+            -1662000000,
+            -28508000000
+          ],
+          "ncfi": [
+            -106088000000,
+            -44487000000,
+            -10287000000,
+            -32663000000,
+            -87601000000,
+            29392000000
+          ],
+          "ncfo": [
+            46634000000,
+            45969000000,
+            30592000000,
+            49196000000,
+            37350000000,
+            39427000000
+          ],
+          "netdebtissuedlongterm": [
+            4140000000,
+            2148000000,
+            1239000000,
+            -3494000000,
+            8767000000,
+            -128000000
+          ],
+          "netstockissued": [
+            -4444000000,
+            null,
+            -2918000000,
+            -9171000000,
+            -7854000000,
+            -27061000000
+          ],
+          "otherfinancing": [
+            -459000000,
+            85000000,
+            -8681000000,
+            -1740000000,
+            -2575000000,
+            -1319000000
+          ],
+          "purchasesOfInvestments": [
+            -723941000000,
+            -603052000000,
+            -536079000000,
+            -251469000000,
+            -251852000000,
+            -161085000000
+          ],
+          "unleveredFCF": [
+            51750324304,
+            44671956609,
+            35913526854,
+            54547797622,
+            14581056525,
+            51785830710
+          ]
+        },
+        "financialState": null,
+        "fullWidthFinancials": false,
+        "full_count": 21,
+        "head": {
+          "description": "Detailed annual and quarterly cash flow statements for Berkshire Hathaway (BRK.B), including operating cash flow, capital expenditures and free cash flow.",
+          "heading": "Cash Flow Statement",
+          "title": "Berkshire Hathaway (BRK.B) Cash Flow Statement",
+          "url": "/stocks/brk.b/financials/cash-flow-statement/"
+        },
+        "map": [
+          {
+            "id": "cash_flow_statement_net_income",
+            "sectionStart": "Operating Activities",
+            "title": "Net Income"
+          },
+          {
+            "id": "cash_flow_statement_depreciation_and_amortization",
+            "title": "Depreciation & Amortization"
+          },
+          {
+            "id": "cash_flow_statement_other_adjustments",
+            "title": "Other Adjustments"
+          },
+          {
+            "id": "changeInReceivables",
+            "title": "Change in Receivables"
+          },
+          {
+            "id": "cash_flow_statement_changes_in_inventories",
+            "title": "Changes in Inventories"
+          },
+          {
+            "id": "cash_flow_statement_changes_in_income_taxes_payable",
+            "title": "Changes in Income Taxes Payable"
+          },
+          {
+            "id": "cash_flow_statement_changes_in_unearned_revenue",
+            "title": "Changes in Unearned Revenue"
+          },
+          {
+            "id": "cash_flow_statement_changes_in_other_operating_activities",
+            "title": "Changes in Other Operating Activities"
+          },
+          {
+            "class": "bolded bordered",
+            "growth": {
+              "default": true,
+              "format": "growth",
+              "title": "Operating Cash Flow Growth"
+            },
+            "id": "ncfo",
+            "title": "Operating Cash Flow"
+          },
+          {
+            "growth": {
+              "absolute": true,
+              "default": false,
+              "format": null,
+              "title": null
+            },
+            "id": "capex",
+            "sectionStart": "Investing Activities",
+            "title": "Capital Expenditures"
+          },
+          {
+            "growth": {
+              "absolute": true,
+              "default": false,
+              "format": null,
+              "title": null
+            },
+            "id": "purchasesOfInvestments",
+            "title": "Purchases of Investments"
+          },
+          {
+            "id": "cash_flow_statement_proceeds_from_sale_of_investments",
+            "title": "Proceeds from Sale of Investments"
+          },
+          {
+            "growth": {
+              "absolute": true,
+              "default": false,
+              "format": null,
+              "title": null
+            },
+            "id": "cashAcquisition",
+            "title": "Cash Acquisitions"
+          },
+          {
+            "id": "cash_flow_statement_other_investing_activities",
+            "title": "Other Investing Activities"
+          },
+          {
+            "class": "bolded bordered",
+            "id": "ncfi",
+            "title": "Investing Cash Flow"
+          },
+          {
+            "id": "debtissuedlongterm",
+            "sectionStart": "Financing Activities",
+            "title": "Long-Term Debt Issued"
+          },
+          {
+            "growth": {
+              "absolute": true,
+              "default": false,
+              "format": null,
+              "title": null
+            },
+            "id": "debtrepaidlongterm",
+            "title": "Long-Term Debt Repaid"
+          },
+          {
+            "id": "netdebtissuedlongterm",
+            "title": "Net Long-Term Debt Issued (Repaid)"
+          },
+          {
+            "growth": {
+              "absolute": true,
+              "default": false,
+              "format": null,
+              "title": null
+            },
+            "id": "commonrepurchased",
+            "title": "Repurchase of Common Stock"
+          },
+          {
+            "id": "netstockissued",
+            "title": "Net Common Stock Issued (Repurchased)"
+          },
+          {
+            "id": "otherfinancing",
+            "title": "Other Financing Activities"
+          },
+          {
+            "class": "bolded bordered",
+            "id": "ncff",
+            "title": "Financing Cash Flow"
+          },
+          {
+            "id": "exchangeRateAdjustments",
+            "sectionStart": "Net Cash Flow",
+            "title": "Foreign Exchange Rate Adjustments"
+          },
+          {
+            "class": "bolded bordered",
+            "id": "ncf",
+            "title": "Net Cash Flow"
+          },
+          {
+            "class": "bolded",
+            "growth": {
+              "default": true,
+              "format": "growth",
+              "title": "Free Cash Flow Growth"
+            },
+            "id": "fcf",
+            "sectionStart": "Free Cash Flow",
+            "title": "Free Cash Flow"
+          },
+          {
+            "format": "percentage",
+            "id": "fcfMargin",
+            "title": "FCF Margin"
+          },
+          {
+            "class": "bordered",
+            "format": "pershare",
+            "id": "fcfps",
+            "title": "Free Cash Flow Per Share"
+          },
+          {
+            "id": "leveredFCF",
+            "title": "Levered Free Cash Flow"
+          },
+          {
+            "id": "unleveredFCF",
+            "title": "Unlevered Free Cash Flow"
+          }
+        ],
+        "overrideSource": null,
+        "period": "annual",
+        "prior": {
+          "capex": [
+            -13012000000
+          ],
+          "cashAcquisition": [
+            -2532000000
+          ],
+          "cash_flow_statement_changes_in_income_taxes_payable": [
+            7195000000
+          ],
+          "cash_flow_statement_changes_in_inventories": [
+            681000000
+          ],
+          "cash_flow_statement_changes_in_other_operating_activities": [
+            7712000000
+          ],
+          "cash_flow_statement_changes_in_unearned_revenue": [
+            1587000000
+          ],
+          "cash_flow_statement_depreciation_and_amortization": [
+            10596000000
+          ],
+          "cash_flow_statement_net_income": [
+            43253000000
+          ],
+          "cash_flow_statement_other_adjustments": [
+            -29642000000
+          ],
+          "cash_flow_statement_other_investing_activities": [
+            -3961000000
+          ],
+          "cash_flow_statement_proceeds_from_sale_of_investments": [
+            220338000000
+          ],
+          "changeInReceivables": [
+            -1609000000
+          ],
+          "commonrepurchased": [
+            -24706000000
+          ],
+          "debtissuedlongterm": [
+            14370000000
+          ],
+          "debtrepaidlongterm": [
+            -6461000000
+          ],
+          "exchangeRateAdjustments": [
+            92000000
+          ],
+          "fcf": [
+            26761000000
+          ],
+          "fcfps": [
+            16783.6
+          ],
+          "leveredFCF": [
+            65189000000
+          ],
+          "ncf": [
+            -16236000000
+          ],
+          "ncff": [
+            -18344000000
+          ],
+          "ncfi": [
+            -37757000000
+          ],
+          "ncfo": [
+            39773000000
+          ],
+          "netdebtissuedlongterm": [
+            7909000000
+          ],
+          "netstockissued": [
+            -24706000000
+          ],
+          "otherfinancing": [
+            -1547000000
+          ],
+          "purchasesOfInvestments": [
+            -238590000000
+          ],
+          "unleveredFCF": [
+            29028070960
+          ]
+        },
+        "reportType": null,
+        "sections": null,
+        "selectedSource": null,
+        "source": "fai",
+        "statement": "cash-flow-statement",
+        "trust": {
+          "extraSummaryLinks": null,
+          "freshnessLag": "minutes",
+          "lastChecked": 1786440791550,
+          "lastUpdated": "2026-08-10",
+          "sources": [
+            {
+              "name": "Fiscal.ai",
+              "short": "Fiscal.ai",
+              "url": "https://www.fiscal.ai/"
+            }
+          ],
+          "summary": {
+            "post": " and updates within minutes after each earnings release, which is every three months for this company.",
+            "pre": "Financial data is provided by "
+          },
+          "ticker": "BRK.B",
+          "topic": "financials",
+          "updateFrequency": "quarterly"
+        },
+        "ttmGrowth": null,
+        "ttmPrior": {
+          "calculated_fcf": 8225000000,
+          "calculated_levered_free_cash_flow": 42357000000,
+          "calculated_unlevered_free_cash_flow": 27256979158,
+          "capex": -19187000000,
+          "cashAcquisition": null,
+          "cash_flow_statement_changes_in_income_taxes_payable": -19269000000,
+          "cash_flow_statement_changes_in_inventories": -224000000,
+          "cash_flow_statement_changes_in_other_operating_activities": 4518000000,
+          "cash_flow_statement_changes_in_unearned_revenue": 153000000,
+          "cash_flow_statement_depreciation_and_amortization": 13083000000,
+          "cash_flow_statement_net_income": 63360000000,
+          "cash_flow_statement_other_adjustments": -32105000000,
+          "cash_flow_statement_other_investing_activities": 836000000,
+          "cash_flow_statement_proceeds_from_sale_of_investments": 611392000000,
+          "changeInReceivables": -2463000000,
+          "commonrepurchased": 0,
+          "debtissuedlongterm": 9170000000,
+          "debtrepaidlongterm": -8805000000,
+          "exchangeRateAdjustments": -51000000,
+          "fcf": 8225000000,
+          "fcfMargin": 0.0222207,
+          "fcfps": 5720.57,
+          "leveredFCF": 42357000000,
+          "ncf": 58157000000,
+          "ncff": -2525000000,
+          "ncfi": 33321000000,
+          "ncfo": 27412000000,
+          "netdebtissuedlongterm": 365000000,
+          "netstockissued": 0,
+          "otherfinancing": -2890000000,
+          "purchasesOfInvestments": -559223000000,
+          "ratio_fcf_margin": 0.0222207,
+          "ratio_free_cash_flow_per_share": 5720.57,
+          "unleveredFCF": 27256979158
+        }
+      },
       "quarterly": {
         "availableSources": [
           "fai",
@@ -7543,8 +8148,1654 @@
       }
     },
     "ratios": {
-      "annual": null,
-      "quarterly": null,
+      "annual": {
+        "availableSources": [
+          "fai",
+          "spg",
+          "nasdaq",
+          "fmp"
+        ],
+        "defaultSource": "fai",
+        "details": {
+          "currency": null,
+          "fiscalYear": "January - December",
+          "fiscalYearShort": "Jan - Dec",
+          "lastTradingDay": "Aug 10, 2026",
+          "lastTrailingDate": "Jun 30, 2026",
+          "reportingFrequency": null,
+          "source": "fai"
+        },
+        "financialData": {
+          "assetturnover": [
+            0.309576,
+            0.312656,
+            0.334044,
+            0.361152,
+            0.316707,
+            0.301428
+          ],
+          "buybackyield": [
+            3e-05,
+            -0.0003498594997635145,
+            0.00770250124233891,
+            0.01361313003956767,
+            0.027350382073660095,
+            0.052863367051977805
+          ],
+          "currentratio": [
+            14.5329,
+            15.198,
+            14.1001,
+            8.83201,
+            7.86698,
+            9.69671
+          ],
+          "datekey": [
+            "TTM",
+            "2025-12-31",
+            "2024-12-31",
+            "2023-12-31",
+            "2022-12-31",
+            "2021-12-31"
+          ],
+          "debtebitda": [
+            1.669,
+            1.805,
+            1.691,
+            2.109,
+            2.417,
+            2.415
+          ],
+          "debtequity": [
+            0.171425,
+            0.179353,
+            0.191454,
+            0.226025,
+            0.254824,
+            0.221898
+          ],
+          "debtfcf": [
+            5.311,
+            5.155,
+            10.741,
+            4.306,
+            5.608,
+            4.369
+          ],
+          "earningsyield": [
+            0.0756878,
+            0.0616892,
+            0.0909064,
+            0.12239,
+            null,
+            0.132148
+          ],
+          "ev": [
+            898533014261,
+            843624720400,
+            772162805160,
+            752311213494,
+            686608914163,
+            642095107998
+          ],
+          "evebit": [
+            7.7005,
+            14.5352,
+            12.6717,
+            15.5626,
+            17.2134,
+            17.5412
+          ],
+          "evebitda": [
+            6.87567,
+            11.7963,
+            10.4642,
+            12.368,
+            13.5194,
+            13.5684
+          ],
+          "evfcf": [
+            37.10646,
+            33.6884,
+            66.4741,
+            25.2564,
+            31.3721,
+            24.5534
+          ],
+          "evrevenue": [
+            2.33575,
+            2.2712,
+            2.07888,
+            2.06406,
+            2.27339,
+            2.32487
+          ],
+          "fcfyield": [
+            0.021369,
+            0.0230681,
+            0.0118614,
+            0.0380818,
+            0.0319881,
+            0.0392763
+          ],
+          "fiscalQuarter": [
+            "Q2",
+            "Q4",
+            "Q4",
+            "Q4",
+            "Q4",
+            "Q4"
+          ],
+          "fiscalYear": [
+            "2026",
+            "2025",
+            "2024",
+            "2023",
+            "2022",
+            "2021"
+          ],
+          "inventoryTurnover": [
+            10.6584,
+            10.8093,
+            10.5769,
+            10.5969,
+            9.75544,
+            10.0873
+          ],
+          "marketCap": [
+            1133181014261,
+            1085570720400,
+            979314805160,
+            782184213494,
+            684192914163,
+            665821107998
+          ],
+          "netdebtebitda": [
+            -3.074,
+            -3.415,
+            -2.838,
+            -0.647,
+            -0.115,
+            -0.686
+          ],
+          "netdebtequity": [
+            -0.317,
+            -0.34,
+            -0.323,
+            -0.07,
+            -0.012,
+            -0.064
+          ],
+          "netdebtfcf": [
+            -9.784,
+            -9.753,
+            -18.03,
+            -1.322,
+            -0.267,
+            -1.241
+          ],
+          "pb": [
+            1.51055,
+            1.51316,
+            1.5081,
+            1.39359,
+            1.4452,
+            1.31533
+          ],
+          "pe": [
+            13.21217,
+            16.2103,
+            11.0003,
+            8.17059,
+            null,
+            7.56728
+          ],
+          "peForward": [
+            24.09076,
+            22.965,
+            23.49,
+            23.392,
+            21.272,
+            24.236
+          ],
+          "pegRatio": [
+            null,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436
+          ],
+          "pfcf": [
+            46.79666,
+            43.35,
+            84.3074,
+            26.2592,
+            31.2617,
+            25.4606
+          ],
+          "pocf": [
+            24.29946,
+            23.6153,
+            32.0121,
+            15.8993,
+            18.3184,
+            16.8874
+          ],
+          "ps": [
+            2.94572,
+            2.92257,
+            2.63659,
+            2.14602,
+            2.26539,
+            2.41078
+          ],
+          "ptbvRatio": [
+            0.001,
+            1.808,
+            1.844,
+            1.784,
+            1.88,
+            1.685
+          ],
+          "quickRatio": [
+            13.7215,
+            14.4186,
+            13.3209,
+            7.98446,
+            6.98182,
+            8.8055
+          ],
+          "roa": [
+            0.0408509,
+            0.0398492,
+            0.0444673,
+            0.0387237,
+            0.0301681,
+            0.032482
+          ],
+          "roce": [
+            0.0520942,
+            0.0501662,
+            0.0563558,
+            0.0493457,
+            0.0430041,
+            0.0409542
+          ],
+          "roe": [
+            0.117128,
+            0.0980925,
+            0.146922,
+            0.185185,
+            -0.0441456,
+            0.188248
+          ],
+          "roic": [
+            0.10421,
+            0.10318,
+            0.10191,
+            0.07785,
+            0.06004,
+            0.06524
+          ],
+          "totalreturn": [
+            3e-05,
+            -0.0003498594997635145,
+            0.00770250124233891,
+            0.01361313003956767,
+            0.027350382073660095,
+            0.052863367051977805
+          ]
+        },
+        "financialState": null,
+        "fullWidthFinancials": false,
+        "full_count": 21,
+        "head": {
+          "description": "Financial ratios for Berkshire Hathaway (BRK.B). Includes annual, quarterly and trailing numbers with history and charts.",
+          "heading": "Ratios and Metrics",
+          "title": "Berkshire Hathaway (BRK.B) Financial Ratios",
+          "url": "/stocks/brk.b/financials/ratios/"
+        },
+        "map": [
+          {
+            "class": "bolded bordered",
+            "format": "reduce_precision",
+            "growth": {
+              "default": true,
+              "format": "growth",
+              "title": "Market Cap Growth"
+            },
+            "id": "marketCap",
+            "sectionStart": "Total Valuation",
+            "title": "Market Cap",
+            "url": "market-cap"
+          },
+          {
+            "id": "ev",
+            "title": "Enterprise Value"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "lastClosePrice",
+            "title": "Last Close Price"
+          },
+          {
+            "format": "ratio",
+            "id": "pe",
+            "sectionStart": "Price Ratios",
+            "title": "PE Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "peForward",
+            "title": "Forward PE"
+          },
+          {
+            "format": "ratio",
+            "id": "pegRatio",
+            "title": "PEG Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "ps",
+            "title": "PS Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "pb",
+            "title": "PB Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "ptbvRatio",
+            "title": "P/TBV Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "pfcf",
+            "title": "P/FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "pocf",
+            "title": "P/OCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "evrevenue",
+            "sectionStart": "EV Ratios",
+            "title": "EV/Sales Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "evebitda",
+            "title": "EV/EBITDA Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "evebit",
+            "title": "EV/EBIT Ratio"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "evfcf",
+            "title": "EV/FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "debtequity",
+            "sectionStart": "Financial Efficiency",
+            "title": "Debt / Equity Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "debtebitda",
+            "title": "Debt / EBITDA Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "debtfcf",
+            "title": "Debt / FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "netdebtequity",
+            "title": "Net Debt / Equity Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "netdebtebitda",
+            "title": "Net Debt / EBITDA Ratio"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "netdebtfcf",
+            "title": "Net Debt / FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "assetturnover",
+            "title": "Asset Turnover"
+          },
+          {
+            "format": "ratio",
+            "id": "inventoryTurnover",
+            "title": "Inventory Turnover"
+          },
+          {
+            "format": "ratio",
+            "id": "quickRatio",
+            "title": "Quick Ratio"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "currentratio",
+            "title": "Current Ratio"
+          },
+          {
+            "format": "percentage",
+            "id": "roe",
+            "title": "Return on Equity (ROE)"
+          },
+          {
+            "format": "percentage",
+            "id": "roa",
+            "title": "Return on Assets (ROA)"
+          },
+          {
+            "format": "percentage",
+            "id": "roic",
+            "title": "Return on Invested Capital (ROIC)"
+          },
+          {
+            "format": "percentage",
+            "id": "roce",
+            "title": "Return on Capital Employed (ROCE)"
+          },
+          {
+            "class": "bordertop",
+            "format": "percentage",
+            "id": "earningsyield",
+            "sectionStart": "Yields",
+            "title": "Earnings Yield"
+          },
+          {
+            "format": "percentage",
+            "id": "fcfyield",
+            "title": "FCF Yield"
+          },
+          {
+            "format": "percentage",
+            "id": "buybackyield",
+            "title": "Buyback Yield / Dilution"
+          },
+          {
+            "format": "percentage",
+            "id": "totalreturn",
+            "title": "Total Shareholder Return"
+          }
+        ],
+        "overrideSource": null,
+        "period": "annual",
+        "prior": {
+          "ev": [
+            523789099585
+          ],
+          "marketCap": [
+            537012099585
+          ]
+        },
+        "reportType": null,
+        "sections": null,
+        "selectedSource": null,
+        "source": "fai",
+        "statement": "ratios",
+        "trust": {
+          "extraSummaryLinks": null,
+          "freshnessLag": "minutes",
+          "lastChecked": 1786440791550,
+          "lastUpdated": "2026-08-10",
+          "sources": [
+            {
+              "name": "Fiscal.ai",
+              "short": "Fiscal.ai",
+              "url": "https://www.fiscal.ai/"
+            }
+          ],
+          "summary": {
+            "post": " and updates within minutes after each earnings release, which is every three months for this company.",
+            "pre": "Financial data is provided by "
+          },
+          "ticker": "BRK.B",
+          "topic": "financials",
+          "updateFrequency": "quarterly"
+        },
+        "ttmGrowth": {
+          "marketCap": 0.11758114607539204,
+          "marketcap": 0.11758114607539204
+        },
+        "ttmPrior": {
+          "assetturnover": 0.319392,
+          "calculated_book_value": 667989000000,
+          "calculated_ebitda": 71206000000,
+          "calculated_fcf": 8225000000,
+          "calculated_levered_free_cash_flow": null,
+          "calculated_net_debt": -217071000000,
+          "calculated_tangible_book_value": null,
+          "calculated_total_debt": 127020000000,
+          "calculated_unlevered_free_cash_flow": null,
+          "currentratio": 13.8514,
+          "debtequity": 0.189504,
+          "earningsyield": 0.0600549,
+          "ev": 833392922400,
+          "evebit": 14.3384,
+          "evebitda": 11.704,
+          "evfcf": 101.324,
+          "evrevenue": 2.25149,
+          "fcfyield": 0.00784696,
+          "inventoryTurnover": 10.7655,
+          "lastClosePrice": 728800,
+          "marketCap": 1048176922400,
+          "pb": 1.56915,
+          "pe": 16.6514,
+          "peForward": 22.843,
+          "pegRatio": 2.436,
+          "pfcf": 127.438,
+          "pocf": 38.2379,
+          "ps": 2.83175,
+          "quickRatio": 13.0996,
+          "ratio_book_value_per_share": 464593,
+          "ratio_ebitda_margin": null,
+          "ratio_effective_tax_rate": null,
+          "ratio_fcf_margin": null,
+          "ratio_free_cash_flow_per_share": null,
+          "ratio_gross_profit_margin": null,
+          "ratio_net_profit_margin": null,
+          "ratio_operating_margin": null,
+          "ratio_tangible_book_value_per_share": 382293,
+          "ratio_weighted_avg_shares_outstanding_dil": 1437794,
+          "roa": 0.0415756,
+          "roce": 0.0515589,
+          "roe": 0.0958598,
+          "roic": 0.1085
+        }
+      },
+      "quarterly": {
+        "availableSources": [
+          "fai",
+          "spg",
+          "nasdaq",
+          "fmp"
+        ],
+        "defaultSource": "fai",
+        "details": {
+          "currency": null,
+          "fiscalYear": "January - December",
+          "fiscalYearShort": "Jan - Dec",
+          "lastTradingDay": "Aug 10, 2026",
+          "lastTrailingDate": "Jun 30, 2026",
+          "reportingFrequency": null,
+          "source": "fai"
+        },
+        "financialData": {
+          "assetturnover": [
+            0.0838948,
+            0.0838948,
+            0.0775198,
+            0.079318,
+            0.0800366,
+            0.0814096,
+            0.0803064,
+            0.0853615,
+            0.085821,
+            0.0871015,
+            0.0869515,
+            0.0925228,
+            0.0969812,
+            0.0948052,
+            0.0868443,
+            0.0818687,
+            0.0843683,
+            0.0836292,
+            0.076426,
+            0.0784595
+          ],
+          "buybackyield": [
+            3e-05,
+            0.0012376383912647761,
+            6.883494423326563e-05,
+            -0.00013977533028006526,
+            -0.001055887565027222,
+            -0.0009973621754048956,
+            0.0007968764112076812,
+            0.003301254171619472,
+            0.007062563712701073,
+            0.00879726147983294,
+            0.011719002113375235,
+            0.014101879020542264,
+            0.013648082478836985,
+            0.014303909281866914,
+            0.012385544750366684,
+            0.01483050276952739,
+            0.023996465765765168,
+            0.03224517891832985,
+            0.03820622924389741,
+            0.0459684038673728
+          ],
+          "currentratio": [
+            14.5329,
+            14.5329,
+            15.4113,
+            15.198,
+            14.6277,
+            13.8514,
+            13.9769,
+            14.1001,
+            12.9703,
+            11.7755,
+            9.09876,
+            8.83201,
+            8.10713,
+            7.95108,
+            7.63355,
+            7.86698,
+            7.49766,
+            7.63171,
+            7.61392,
+            9.69671
+          ],
+          "datekey": [
+            "TTM",
+            "2026-06-30",
+            "2026-03-31",
+            "2025-12-31",
+            "2025-09-30",
+            "2025-06-30",
+            "2025-03-31",
+            "2024-12-31",
+            "2024-09-30",
+            "2024-06-30",
+            "2024-03-31",
+            "2023-12-31",
+            "2023-09-30",
+            "2023-06-30",
+            "2023-03-31",
+            "2022-12-31",
+            "2022-09-30",
+            "2022-06-30",
+            "2022-03-31",
+            "2021-12-31"
+          ],
+          "debtebitda": [
+            1.669,
+            6.219,
+            6.945,
+            7.421,
+            6.228,
+            7.171,
+            7.881,
+            5.851,
+            7.689,
+            6.699,
+            6.888,
+            9.151,
+            7.328,
+            7.734,
+            9.107,
+            11.538,
+            9.237,
+            7.832,
+            9.703,
+            9.52
+          ],
+          "debtequity": [
+            0.171425,
+            0.171425,
+            0.176689,
+            0.179353,
+            0.181661,
+            0.189504,
+            0.191745,
+            0.191454,
+            0.197065,
+            0.203345,
+            0.212456,
+            0.226025,
+            0.234773,
+            0.228506,
+            0.240946,
+            0.254824,
+            0.251206,
+            0.253551,
+            0.231513,
+            0.221898
+          ],
+          "debtfcf": [
+            5.311,
+            23.088,
+            23.64,
+            25.868,
+            15.512,
+            24.301,
+            19.016,
+            null,
+            null,
+            13.635,
+            19.886,
+            14.757,
+            14.915,
+            16.176,
+            24.824,
+            21.332,
+            15.312,
+            24.871,
+            32.029,
+            30.316
+          ],
+          "earningsyield": [
+            0.0756878,
+            0.0796648,
+            0.0701674,
+            0.0616892,
+            0.062197,
+            0.0600549,
+            0.0704986,
+            0.0909064,
+            0.107442,
+            0.0770383,
+            0.0801006,
+            0.12239,
+            0.0991256,
+            0.1151,
+            0.0110868,
+            null,
+            null,
+            0.0188116,
+            0.105581,
+            0.132148
+          ],
+          "ev": [
+            898533014261,
+            837474554200,
+            766386942280,
+            843624720400,
+            832563786600,
+            833392922400,
+            928854073277,
+            772162805160,
+            795046850100,
+            732563583495,
+            851904890000,
+            752311213494,
+            746178739582,
+            740583436680,
+            679904771200,
+            686608914163,
+            611757904680,
+            623607922300,
+            800103146954,
+            642095107998
+          ],
+          "evebit": [
+            7.7005,
+            13.2798,
+            12.6938,
+            14.5352,
+            13.378,
+            14.3384,
+            15.7441,
+            12.6717,
+            14.7819,
+            13.413,
+            16.236,
+            15.5626,
+            16.4599,
+            17.8885,
+            16.6717,
+            17.2134,
+            14.8107,
+            15.7227,
+            21.9658,
+            17.5412
+          ],
+          "evebitda": [
+            6.87567,
+            10.8675,
+            10.3432,
+            11.7963,
+            11.0355,
+            11.704,
+            12.9099,
+            10.4642,
+            11.9581,
+            10.8817,
+            13.0915,
+            12.368,
+            12.9888,
+            13.9646,
+            13.0678,
+            13.5194,
+            11.7305,
+            12.3612,
+            16.961,
+            13.5684
+          ],
+          "evfcf": [
+            37.10646,
+            34.5849,
+            32.104,
+            33.6884,
+            43.08,
+            101.324,
+            76.9875,
+            66.4741,
+            37.7982,
+            22.6814,
+            27.4985,
+            25.2564,
+            27.7917,
+            28.3846,
+            29.3949,
+            31.3721,
+            30.7401,
+            30.0115,
+            34.6365,
+            24.5534
+          ],
+          "evrevenue": [
+            2.33575,
+            2.17703,
+            2.04155,
+            2.2712,
+            2.2373,
+            2.25149,
+            2.5017,
+            2.07888,
+            2.1494,
+            1.97932,
+            2.30895,
+            2.06406,
+            2.13696,
+            2.22483,
+            2.14772,
+            2.27339,
+            2.06789,
+            2.15397,
+            2.83294,
+            2.32487
+          ],
+          "fcfyield": [
+            0.021369,
+            0.022586,
+            0.023118,
+            0.0230681,
+            0.0178168,
+            0.00784696,
+            0.0105065,
+            0.0118614,
+            0.021182,
+            0.0367188,
+            0.0339749,
+            0.0380818,
+            0.0349032,
+            0.0347539,
+            0.034257,
+            0.0319881,
+            0.0333964,
+            0.0345445,
+            0.0296924,
+            0.0392763
+          ],
+          "fiscalQuarter": [
+            "Q2",
+            "Q2",
+            "Q1",
+            "Q4",
+            "Q3",
+            "Q2",
+            "Q1",
+            "Q4",
+            "Q3",
+            "Q2",
+            "Q1",
+            "Q4",
+            "Q3",
+            "Q2",
+            "Q1",
+            "Q4",
+            "Q3",
+            "Q2",
+            "Q1",
+            "Q4"
+          ],
+          "fiscalYear": [
+            "2026",
+            "2026",
+            "2026",
+            "2025",
+            "2025",
+            "2025",
+            "2025",
+            "2024",
+            "2024",
+            "2024",
+            "2024",
+            "2023",
+            "2023",
+            "2023",
+            "2023",
+            "2022",
+            "2022",
+            "2022",
+            "2022",
+            "2021"
+          ],
+          "inventoryTurnover": [
+            10.6584,
+            2.82797,
+            2.69173,
+            2.76701,
+            2.69916,
+            2.69874,
+            2.68808,
+            2.64524,
+            2.7186,
+            2.74974,
+            2.64057,
+            2.74433,
+            2.79552,
+            2.7868,
+            2.69639,
+            2.49024,
+            2.6061,
+            2.55004,
+            2.56655,
+            2.63807
+          ],
+          "marketCap": [
+            1133181014261,
+            1072122554200,
+            1032614942280,
+            1085570720400,
+            1084707786600,
+            1048176922400,
+            1148337073277,
+            979314805160,
+            993014850100,
+            879603583495,
+            911848890000,
+            782184213494,
+            769241739582,
+            750735436680,
+            675190771200,
+            684192914163,
+            595902904680,
+            601513922300,
+            777976146954,
+            665821107998
+          ],
+          "netdebtebitda": [
+            -3.074,
+            -11.457,
+            -14.467,
+            -14.041,
+            -12.454,
+            -12.255,
+            -13.878,
+            -9.823,
+            -12.395,
+            -8.307,
+            -3.717,
+            -2.809,
+            -1.906,
+            -1.359,
+            -0.515,
+            -0.549,
+            0.598,
+            0.899,
+            1.087,
+            -2.704
+          ],
+          "netdebtequity": [
+            -0.317,
+            -0.317,
+            -0.369,
+            -0.34,
+            -0.364,
+            -0.325,
+            -0.339,
+            -0.323,
+            -0.319,
+            -0.255,
+            -0.116,
+            -0.07,
+            -0.062,
+            -0.041,
+            -0.014,
+            -0.012,
+            0.017,
+            0.03,
+            0.026,
+            -0.064
+          ],
+          "netdebtfcf": [
+            -9.784,
+            -42.534,
+            -49.247,
+            -48.944,
+            -31.017,
+            -41.529,
+            -33.487,
+            288.483,
+            69.256,
+            -16.909,
+            -10.73,
+            -4.529,
+            -3.88,
+            -2.843,
+            -1.404,
+            -1.015,
+            0.991,
+            2.855,
+            3.588,
+            -8.612
+          ],
+          "pb": [
+            1.51055,
+            1.43349,
+            1.42002,
+            1.51316,
+            1.55368,
+            1.56915,
+            1.75621,
+            1.5081,
+            1.57855,
+            1.46187,
+            1.59556,
+            1.39359,
+            1.4643,
+            1.39055,
+            1.33819,
+            1.4452,
+            1.30844,
+            1.30415,
+            1.53102,
+            1.31533
+          ],
+          "pe": [
+            13.21217,
+            12.5526,
+            14.2516,
+            16.2103,
+            16.0779,
+            16.6514,
+            14.1847,
+            11.0003,
+            9.30732,
+            12.9806,
+            12.4843,
+            8.17059,
+            10.0882,
+            8.68809,
+            90.1976,
+            null,
+            null,
+            53.1587,
+            9.4714,
+            7.56728
+          ],
+          "peForward": [
+            24.09076,
+            24.174,
+            23.453,
+            22.965,
+            23.071,
+            22.843,
+            25.267,
+            23.49,
+            25.554,
+            21.854,
+            23.672,
+            23.392,
+            22.138,
+            21.425,
+            19.944,
+            21.272,
+            19.045,
+            19.348,
+            26.435,
+            24.236
+          ],
+          "pegRatio": [
+            null,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436,
+            2.436
+          ],
+          "pfcf": [
+            46.79666,
+            44.2751,
+            43.2563,
+            43.35,
+            56.1269,
+            127.438,
+            95.1792,
+            84.3074,
+            47.21,
+            27.234,
+            29.4335,
+            26.2592,
+            28.6507,
+            28.7737,
+            29.1911,
+            31.2617,
+            29.9434,
+            28.9482,
+            33.6786,
+            25.4606
+          ],
+          "pocf": [
+            24.29946,
+            22.9901,
+            22.6928,
+            23.6153,
+            27.5321,
+            38.2379,
+            37.1282,
+            32.0121,
+            24.5972,
+            16.8387,
+            17.8552,
+            15.8993,
+            17.0537,
+            17.4104,
+            17.2168,
+            18.3184,
+            17.104,
+            17.0763,
+            21.0565,
+            16.8874
+          ],
+          "ps": [
+            2.94572,
+            2.787,
+            2.75075,
+            2.92257,
+            2.91488,
+            2.83175,
+            3.09284,
+            2.63659,
+            2.6846,
+            2.37661,
+            2.47142,
+            2.14602,
+            2.20301,
+            2.25533,
+            2.13283,
+            2.26539,
+            2.01429,
+            2.07765,
+            2.75459,
+            2.41078
+          ],
+          "ptbvRatio": [
+            0.001,
+            1.705,
+            1.694,
+            1.808,
+            1.872,
+            1.907,
+            2.144,
+            1.845,
+            1.926,
+            1.801,
+            1.994,
+            1.776,
+            1.875,
+            1.769,
+            1.734,
+            1.874,
+            1.683,
+            1.672,
+            1.921,
+            1.658
+          ],
+          "quickRatio": [
+            13.7215,
+            13.7215,
+            14.632,
+            14.4186,
+            13.8715,
+            13.0996,
+            13.233,
+            13.3209,
+            12.2546,
+            11.0454,
+            8.3585,
+            7.98446,
+            7.33145,
+            7.13964,
+            6.79364,
+            6.98182,
+            6.56373,
+            6.67707,
+            6.72414,
+            8.8055
+          ],
+          "roa": [
+            0.0113086,
+            0.0113086,
+            0.0102903,
+            0.0091811,
+            0.0116703,
+            0.0106897,
+            0.0103272,
+            0.0133371,
+            0.00976197,
+            0.0113482,
+            0.011583,
+            0.00867853,
+            0.010653,
+            0.0107066,
+            0.00855162,
+            0.00681606,
+            0.00687068,
+            0.0107205,
+            0.0085193,
+            0.00826972
+          ],
+          "roce": [
+            0.0144572,
+            0.0144572,
+            0.0127982,
+            0.0119668,
+            0.0148236,
+            0.0130276,
+            0.0117164,
+            0.0166831,
+            0.0123542,
+            0.0146214,
+            0.0146181,
+            0.0111143,
+            0.0148296,
+            0.0138419,
+            0.011015,
+            0.00849559,
+            0.0111625,
+            0.0140945,
+            0.0106717,
+            0.0104016
+          ],
+          "roe": [
+            0.036287,
+            0.036287,
+            0.0146863,
+            0.0280992,
+            0.0463338,
+            0.0194908,
+            0.00756889,
+            0.0324009,
+            0.0455255,
+            0.0527409,
+            0.0235263,
+            0.0719755,
+            -0.0252541,
+            0.0711036,
+            0.069435,
+            0.036598,
+            -0.00571113,
+            -0.0911843,
+            0.0117261,
+            0.0828757
+          ],
+          "roic": [
+            0.02817,
+            0.02817,
+            0.02656,
+            0.02367,
+            0.0308,
+            0.02735,
+            0.02631,
+            0.03396,
+            0.02388,
+            0.02526,
+            0.02303,
+            0.01705,
+            0.01997,
+            0.02023,
+            0.01713,
+            0.01373,
+            0.01312,
+            0.01927,
+            0.0156,
+            0.01631
+          ],
+          "totalreturn": [
+            3e-05,
+            0.0012376383912647761,
+            6.883494423326563e-05,
+            -0.00013977533028006526,
+            -0.001055887565027222,
+            -0.0009973621754048956,
+            0.0007968764112076812,
+            0.003301254171619472,
+            0.007062563712701073,
+            0.00879726147983294,
+            0.011719002113375235,
+            0.014101879020542264,
+            0.013648082478836985,
+            0.014303909281866914,
+            0.012385544750366684,
+            0.01483050276952739,
+            0.023996465765765168,
+            0.03224517891832985,
+            0.03820622924389741,
+            0.0459684038673728
+          ]
+        },
+        "financialState": null,
+        "fullWidthFinancials": false,
+        "full_count": 46,
+        "head": {
+          "description": "Financial ratios for Berkshire Hathaway (BRK.B). Includes annual, quarterly and trailing numbers with history and charts.",
+          "heading": "Ratios and Metrics",
+          "title": "Berkshire Hathaway (BRK.B) Financial Ratios",
+          "url": "/stocks/brk.b/financials/ratios/"
+        },
+        "map": [
+          {
+            "class": "bolded bordered",
+            "format": "reduce_precision",
+            "growth": {
+              "default": true,
+              "format": "growth",
+              "title": "Market Cap Growth"
+            },
+            "id": "marketCap",
+            "sectionStart": "Total Valuation",
+            "title": "Market Cap",
+            "url": "market-cap"
+          },
+          {
+            "id": "ev",
+            "title": "Enterprise Value"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "lastClosePrice",
+            "title": "Last Close Price"
+          },
+          {
+            "format": "ratio",
+            "id": "pe",
+            "sectionStart": "Price Ratios",
+            "title": "PE Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "peForward",
+            "title": "Forward PE"
+          },
+          {
+            "format": "ratio",
+            "id": "pegRatio",
+            "title": "PEG Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "ps",
+            "title": "PS Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "pb",
+            "title": "PB Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "ptbvRatio",
+            "title": "P/TBV Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "pfcf",
+            "title": "P/FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "pocf",
+            "title": "P/OCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "evrevenue",
+            "sectionStart": "EV Ratios",
+            "title": "EV/Sales Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "evebitda",
+            "title": "EV/EBITDA Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "evebit",
+            "title": "EV/EBIT Ratio"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "evfcf",
+            "title": "EV/FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "debtequity",
+            "sectionStart": "Financial Efficiency",
+            "title": "Debt / Equity Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "debtebitda",
+            "title": "Debt / EBITDA Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "debtfcf",
+            "title": "Debt / FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "netdebtequity",
+            "title": "Net Debt / Equity Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "netdebtebitda",
+            "title": "Net Debt / EBITDA Ratio"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "netdebtfcf",
+            "title": "Net Debt / FCF Ratio"
+          },
+          {
+            "format": "ratio",
+            "id": "assetturnover",
+            "title": "Asset Turnover"
+          },
+          {
+            "format": "ratio",
+            "id": "inventoryTurnover",
+            "title": "Inventory Turnover"
+          },
+          {
+            "format": "ratio",
+            "id": "quickRatio",
+            "title": "Quick Ratio"
+          },
+          {
+            "class": "bordered",
+            "format": "ratio",
+            "id": "currentratio",
+            "title": "Current Ratio"
+          },
+          {
+            "format": "percentage",
+            "id": "roe",
+            "title": "Return on Equity (ROE)"
+          },
+          {
+            "format": "percentage",
+            "id": "roa",
+            "title": "Return on Assets (ROA)"
+          },
+          {
+            "format": "percentage",
+            "id": "roic",
+            "title": "Return on Invested Capital (ROIC)"
+          },
+          {
+            "format": "percentage",
+            "id": "roce",
+            "title": "Return on Capital Employed (ROCE)"
+          },
+          {
+            "class": "bordertop",
+            "format": "percentage",
+            "id": "earningsyield",
+            "sectionStart": "Yields",
+            "title": "Earnings Yield"
+          },
+          {
+            "format": "percentage",
+            "id": "fcfyield",
+            "title": "FCF Yield"
+          },
+          {
+            "format": "percentage",
+            "id": "buybackyield",
+            "title": "Buyback Yield / Dilution"
+          },
+          {
+            "format": "percentage",
+            "id": "totalreturn",
+            "title": "Total Shareholder Return"
+          }
+        ],
+        "overrideSource": null,
+        "period": "quarterly",
+        "prior": {
+          "ev": [
+            588590750763,
+            616822022971,
+            567977827470,
+            523789099585
+          ],
+          "marketCap": [
+            614228750763,
+            637266022971,
+            590696827470,
+            537012099585
+          ]
+        },
+        "reportType": null,
+        "sections": null,
+        "selectedSource": null,
+        "source": "fai",
+        "statement": "ratios",
+        "trust": {
+          "extraSummaryLinks": null,
+          "freshnessLag": "minutes",
+          "lastChecked": 1786440791550,
+          "lastUpdated": "2026-08-10",
+          "sources": [
+            {
+              "name": "Fiscal.ai",
+              "short": "Fiscal.ai",
+              "url": "https://www.fiscal.ai/"
+            }
+          ],
+          "summary": {
+            "post": " and updates within minutes after each earnings release, which is every three months for this company.",
+            "pre": "Financial data is provided by "
+          },
+          "ticker": "BRK.B",
+          "topic": "financials",
+          "updateFrequency": "quarterly"
+        },
+        "ttmGrowth": {
+          "marketCap": 0.11758114607539204,
+          "marketcap": 0.11758114607539204
+        },
+        "ttmPrior": {
+          "assetturnover": 0.319392,
+          "calculated_book_value": 667989000000,
+          "calculated_ebitda": 71206000000,
+          "calculated_fcf": 8225000000,
+          "calculated_levered_free_cash_flow": null,
+          "calculated_net_debt": -217071000000,
+          "calculated_tangible_book_value": null,
+          "calculated_total_debt": 127020000000,
+          "calculated_unlevered_free_cash_flow": null,
+          "currentratio": 13.8514,
+          "debtequity": 0.189504,
+          "earningsyield": 0.0600549,
+          "ev": 833392922400,
+          "evebit": 14.3384,
+          "evebitda": 11.704,
+          "evfcf": 101.324,
+          "evrevenue": 2.25149,
+          "fcfyield": 0.00784696,
+          "inventoryTurnover": 10.7655,
+          "lastClosePrice": 728800,
+          "marketCap": 1048176922400,
+          "pb": 1.56915,
+          "pe": 16.6514,
+          "peForward": 22.843,
+          "pegRatio": 2.436,
+          "pfcf": 127.438,
+          "pocf": 38.2379,
+          "ps": 2.83175,
+          "quickRatio": 13.0996,
+          "ratio_book_value_per_share": 464593,
+          "ratio_ebitda_margin": null,
+          "ratio_effective_tax_rate": null,
+          "ratio_fcf_margin": null,
+          "ratio_free_cash_flow_per_share": null,
+          "ratio_gross_profit_margin": null,
+          "ratio_net_profit_margin": null,
+          "ratio_operating_margin": null,
+          "ratio_tangible_book_value_per_share": 382293,
+          "ratio_weighted_avg_shares_outstanding_dil": 1437794,
+          "roa": 0.0415756,
+          "roce": 0.0515589,
+          "roe": 0.0958598,
+          "roic": 0.1085
+        }
+      },
       "trailing": {
         "availableSources": [
           "fai",
