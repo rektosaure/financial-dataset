@@ -71,4 +71,4 @@ Source attribution, methodology and usage rights may differ between datasets. Us
 
 The data may be incomplete, delayed, inaccurate or subject to revision.
 
-This repository is intended for research and analytical purposes and does not constitute financial or investment advice.
+The data is provided for private, research and informational use only. Users are solely responsible for assessing its suitability and should exercise their own judgment before relying on it for any financial, investment or other decision.
