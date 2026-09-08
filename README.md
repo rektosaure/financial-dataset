@@ -55,7 +55,7 @@ Files can also be consumed directly through GitHub raw URLs without cloning the 
 
 ## Data notes
 
-Update frequency refers to how often the datasets are refreshed, not necessarily how often the underlying source publishes new observations.
+Update frequency refers to how often the datasets are refreshed on a rolling basis. Updates are staggered throughout the day and do not all occur simultaneously.
 
 Missing CSV values or JSON `null` values should not be interpreted as zero.
 
