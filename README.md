@@ -65,7 +65,7 @@ Some datasets may be revised historically as upstream sources publish correction
 
 The repository aggregates data from multiple public and third-party sources.
 
-Source attribution, methodology and usage rights may differ between datasets. Users should verify the original source and its applicable terms before redistributing or using the data commercially.
+Source attribution, methodology and usage rights may differ between datasets. Users should verify the original source and its applicable terms before redistributing or using the data.
 
 ## Disclaimer
 
