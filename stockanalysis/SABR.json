@@ -28,7 +28,343 @@
     "shareClass": "Class A Shares"
   },
   "dividends": null,
-  "statistics": null,
-  "forecast": null,
+  "statistics": {
+    "valuation": {
+      "marketcap": "857,614,330",
+      "enterpriseValue": "4,498,269,330"
+    },
+    "dates": {
+      "earningsdate": "Aug 6, 2026",
+      "exdivdate": "n/a"
+    },
+    "shares": {
+      "sharesOutClass": "403,583,214",
+      "sharesout": "403,583,214",
+      "sharesgrowthyoy": "2.279%",
+      "sharesgrowthqoq": "0.449%",
+      "sharesInsiders": "1.773%",
+      "sharesInstitutions": "71.531%",
+      "float": "269,971,142"
+    },
+    "ratios": {
+      "pe": "1.178",
+      "peForward": "31.259",
+      "ps": "0.307",
+      "psForward": "0.297",
+      "pb": "n/a",
+      "ptbvRatio": "n/a",
+      "pfcf": "n/a",
+      "pocf": "11.656",
+      "pegRatio": "n/a"
+    },
+    "evRatios": {
+      "evEarnings": "6.29",
+      "evSales": "1.58",
+      "evEbitda": "10.80",
+      "evEbit": "12.09",
+      "evFcf": "n/a"
+    },
+    "financialPosition": {
+      "currentRatio": "1.025",
+      "quickRatio": "0.924",
+      "debtEquity": "n/a",
+      "debtEbitda": "9.94",
+      "debtFcf": "n/a",
+      "interestCoverage": "0.789"
+    },
+    "financialEfficiency": {
+      "roe": "n/a",
+      "roa": "5.311%",
+      "roic": "11.786%",
+      "roce": "11.558%",
+      "wacc": "8.856%",
+      "revPerEmployee": "613,762",
+      "profitPerEmployee": "154,325",
+      "employees": "4,650",
+      "assetturnover": "0.649",
+      "inventoryturnover": "n/a"
+    },
+    "taxes": {
+      "taxexp": "-63.06M",
+      "taxrate": "n/a"
+    },
+    "stockPrice": {
+      "beta": "1.007",
+      "ch1y": "21.19%",
+      "sma50": "2.004",
+      "sma200": "1.656",
+      "rsi": "52.584",
+      "averageVolume": "3,330,004"
+    },
+    "shortSelling": {
+      "shortInterest": "34,492,291",
+      "shortPriorMonth": "29,799,774",
+      "shortShares": "8.547%",
+      "shortFloat": "12.776%",
+      "shortRatio": "8.890"
+    },
+    "incomeStatement": {
+      "revenue": "2,853,995,000",
+      "gp": "1,610,388,000",
+      "opinc": "373,572,000",
+      "pretax": "-141,134,000",
+      "netinc": "717,610,000",
+      "ebitda": "418,176,000",
+      "ebit": "373,572,000",
+      "eps": "1.812"
+    },
+    "balanceSheet": {
+      "totalcash": "675,977,000",
+      "debt": "4,316,632,000",
+      "netcash": "-3,640,655,000",
+      "netcashpershare": "-9.021",
+      "equity": "-1,043,880,000",
+      "bvps": "-2.652",
+      "workingcapital": "28,169,000"
+    },
+    "cashFlow": {
+      "ncfo": "75,138,000",
+      "capex": "-91,369,000",
+      "depreciationAmortization": "44,604,000",
+      "netBorrowing": "-752,067,000",
+      "fcf": "-16,231,000",
+      "fcfps": "-0.040"
+    },
+    "margins": {
+      "grossMargin": "56.426%",
+      "operatingMargin": "13.089%",
+      "pretaxMargin": "-4.945%",
+      "profitMargin": "25.144%",
+      "ebitdaMargin": "14.652%",
+      "ebitMargin": "13.089%",
+      "fcfMargin": "n/a"
+    },
+    "dividends": {
+      "dps": "n/a",
+      "dividendYield": "n/a",
+      "dividendGrowth": "n/a",
+      "dividendGrowthYears": "n/a",
+      "payoutRatio": "n/a",
+      "buybackYield": "-2.279%",
+      "totalReturn": "-2.279%",
+      "earningsYield": "81.940%",
+      "fcfYield": "-1.853%"
+    },
+    "analystForecasts": {
+      "priceTarget": "$2.05",
+      "priceTargetChange": "-3.53%",
+      "analystRatings": "Hold",
+      "analystCount": "6",
+      "revenue3y": "3.49%",
+      "eps3y": "n/a"
+    },
+    "stockSplits": {
+      "lastSplitDate": "n/a",
+      "lastSplitType": "n/a",
+      "splitRatio": "n/a"
+    },
+    "scores": {
+      "zScore": "-0.21",
+      "fScore": "6"
+    },
+    "fairValue": {
+      "lynchFairValue": "n/a",
+      "lynchUpside": "n/a",
+      "grahamNumber": "n/a",
+      "grahamUpside": "n/a"
+    }
+  },
+  "forecast": {
+    "annual": {
+      "fiscalYear": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "eps": [
+        -2.960442,
+        -1.402078,
+        -1.565035,
+        -0.728593,
+        1.339309,
+        -0.29,
+        "[PRO]",
+        "[PRO]"
+      ],
+      "epsGrowth": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "[PRO]",
+        "[PRO]"
+      ]
+    },
+    "recommendations": [
+      {
+        "buy": 1,
+        "date": "2025-09-26",
+        "hold": 4,
+        "sell": 0,
+        "month": "Sep '25",
+        "score": 3.5714285714285716,
+        "total": 7,
+        "updated": "2025-09-26",
+        "consensus": "Buy",
+        "strongBuy": 2,
+        "strongSell": 0
+      },
+      {
+        "buy": 1,
+        "date": "2025-10-22",
+        "hold": 4,
+        "sell": 0,
+        "month": "Oct '25",
+        "score": 3.5714285714285716,
+        "total": 7,
+        "updated": "2025-10-22",
+        "consensus": "Buy",
+        "strongBuy": 2,
+        "strongSell": 0
+      },
+      {
+        "buy": 1,
+        "date": "2025-11-14",
+        "hold": 4,
+        "sell": 0,
+        "month": "Nov '25",
+        "score": 3.5714285714285716,
+        "total": 7,
+        "updated": "2025-11-14",
+        "consensus": "Buy",
+        "strongBuy": 2,
+        "strongSell": 0
+      },
+      {
+        "buy": 1,
+        "date": "2025-12-08",
+        "hold": 4,
+        "sell": 0,
+        "month": "Dec '25",
+        "score": 3.5714285714285716,
+        "total": 7,
+        "updated": "2025-12-08",
+        "consensus": "Buy",
+        "strongBuy": 2,
+        "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-01-19",
+        "hold": 4,
+        "sell": 0,
+        "month": "Jan '26",
+        "score": 4.285714285714286,
+        "total": 7,
+        "updated": "2026-01-19",
+        "consensus": "Buy",
+        "strongBuy": 3,
+        "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-02-19",
+        "hold": 4,
+        "sell": 0,
+        "month": "Feb '26",
+        "score": 4.285714285714286,
+        "total": 7,
+        "updated": "2026-02-19",
+        "consensus": "Buy",
+        "strongBuy": 3,
+        "strongSell": 0
+      },
+      {
+        "buy": 1,
+        "date": "2026-03-17",
+        "hold": 5,
+        "sell": 0,
+        "month": "Mar '26",
+        "score": 2.142857142857143,
+        "total": 7,
+        "updated": "2026-03-17",
+        "consensus": "Hold",
+        "strongBuy": 1,
+        "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-04-29",
+        "hold": 6,
+        "sell": 0,
+        "month": "Apr '26",
+        "score": 1.4285714285714286,
+        "total": 7,
+        "updated": "2026-04-29",
+        "consensus": "Hold",
+        "strongBuy": 1,
+        "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-05-29",
+        "hold": 6,
+        "sell": 0,
+        "month": "May '26",
+        "score": 1.4285714285714286,
+        "total": 7,
+        "updated": "2026-05-29",
+        "consensus": "Hold",
+        "strongBuy": 1,
+        "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-06-10",
+        "hold": 6,
+        "sell": 0,
+        "month": "Jun '26",
+        "score": 1.4285714285714286,
+        "total": 7,
+        "updated": "2026-06-10",
+        "consensus": "Hold",
+        "strongBuy": 1,
+        "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-07-31",
+        "hold": 5,
+        "sell": 0,
+        "month": "Jul '26",
+        "score": 1.6666666666666667,
+        "total": 6,
+        "updated": "2026-07-31",
+        "consensus": "Hold",
+        "strongBuy": 1,
+        "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-08-27",
+        "hold": 5,
+        "sell": 0,
+        "month": "Aug '26",
+        "score": 1.6666666666666667,
+        "total": 6,
+        "updated": "2026-08-27",
+        "consensus": "Hold",
+        "strongBuy": 1,
+        "strongSell": 0
+      }
+    ]
+  },
   "financials": null
 }
