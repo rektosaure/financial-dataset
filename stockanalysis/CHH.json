@@ -27,8 +27,165 @@
     "stockType": "Common Stock",
     "shareClass": null
   },
-  "dividends": null,
-  "statistics": null,
+  "dividends": {
+    "yield": "1.17%",
+    "totalYield": "n/a",
+    "annual": "$1.15",
+    "exdiv": "Jul 1, 2026",
+    "frequency": "Quarterly",
+    "dividendFrequencyListUrl": "",
+    "payoutRatio": "16.20%",
+    "growth": "n/a",
+    "years": "1",
+    "buybackYield": "2.29%",
+    "totalReturn": "3.44%"
+  },
+  "statistics": {
+    "valuation": {
+      "marketcap": "4,382,698,834",
+      "enterpriseValue": "6,446,560,834"
+    },
+    "dates": {
+      "earningsdate": "Aug 5, 2026",
+      "exdivdate": "Jul 1, 2026"
+    },
+    "shares": {
+      "sharesOutClass": "44,616,704",
+      "sharesout": "44,616,704",
+      "sharesgrowthyoy": "-2.286%",
+      "sharesgrowthqoq": "-1.390%",
+      "sharesInsiders": "22.089%",
+      "sharesInstitutions": "93.118%",
+      "float": "34,740,398"
+    },
+    "ratios": {
+      "pe": "13.841",
+      "peForward": "13.335",
+      "ps": "4.418",
+      "psForward": "2.702",
+      "pb": "31.378",
+      "ptbvRatio": "n/a",
+      "pfcf": "38.738",
+      "pocf": "20.049",
+      "pegRatio": "1.856"
+    },
+    "evRatios": {
+      "evEarnings": "19.92",
+      "evSales": "6.47",
+      "evEbitda": "13.73",
+      "evEbit": "15.72",
+      "evFcf": "56.72"
+    },
+    "financialPosition": {
+      "currentRatio": "0.926",
+      "quickRatio": "0.712",
+      "debtEquity": "14.82",
+      "debtEbitda": "4.34",
+      "debtFcf": "18.36",
+      "interestCoverage": "4.342"
+    },
+    "financialEfficiency": {
+      "roe": "566.362%",
+      "roa": "9.158%",
+      "roic": "15.242%",
+      "roce": "16.422%",
+      "wacc": "6.558%",
+      "revPerEmployee": "573,642",
+      "profitPerEmployee": "186,329",
+      "employees": "1,754",
+      "assetturnover": "0.356",
+      "inventoryturnover": "n/a"
+    },
+    "taxes": {
+      "taxexp": "76.39M",
+      "taxrate": "18.875%"
+    },
+    "stockPrice": {
+      "beta": "0.668",
+      "ch1y": "-13.81%",
+      "sma50": "107.604",
+      "sma200": "105.300",
+      "rsi": "34.468",
+      "averageVolume": "473,411"
+    },
+    "shortSelling": {
+      "shortInterest": "6,085,954",
+      "shortPriorMonth": "6,583,384",
+      "shortShares": "13.641%",
+      "shortFloat": "17.518%",
+      "shortRatio": "10.860"
+    },
+    "incomeStatement": {
+      "revenue": "1,006,168,000",
+      "gp": "908,855,000",
+      "opinc": "414,219,000",
+      "pretax": "404,710,000",
+      "netinc": "326,821,000",
+      "ebitda": "474,152,000",
+      "ebit": "414,219,000",
+      "eps": "7.097"
+    },
+    "balanceSheet": {
+      "totalcash": "42,826,000",
+      "debt": "2,106,688,000",
+      "netcash": "-2,063,862,000",
+      "netcashpershare": "-46.258",
+      "equity": "142,178,000",
+      "bvps": "3.175",
+      "workingcapital": "-34,532,000"
+    },
+    "cashFlow": {
+      "ncfo": "221,739,000",
+      "capex": "-106,978,000",
+      "depreciationAmortization": "59,933,000",
+      "netBorrowing": "101,107,000",
+      "fcf": "114,761,000",
+      "fcfps": "2.572"
+    },
+    "margins": {
+      "grossMargin": "90.328%",
+      "operatingMargin": "41.168%",
+      "pretaxMargin": "40.223%",
+      "profitMargin": "32.631%",
+      "ebitdaMargin": "47.125%",
+      "ebitMargin": "41.168%",
+      "fcfMargin": "11.406%"
+    },
+    "dividends": {
+      "dps": "$1.150",
+      "dividendYield": "1.171%",
+      "dividendGrowth": "n/a",
+      "dividendGrowthYears": "1",
+      "payoutRatio": "16.204%",
+      "buybackYield": "2.286%",
+      "totalReturn": "3.440%",
+      "earningsYield": "7.352%",
+      "fcfYield": "2.581%"
+    },
+    "analystForecasts": {
+      "priceTarget": "$114.75",
+      "priceTargetChange": "16.82%",
+      "analystRatings": "Hold",
+      "analystCount": "17",
+      "revenue3y": "20.83%",
+      "eps3y": "5.64%"
+    },
+    "stockSplits": {
+      "lastSplitDate": "October 24, 2005",
+      "lastSplitType": "Forward",
+      "splitRatio": "2:1"
+    },
+    "scores": {
+      "zScore": "2.93",
+      "fScore": "4"
+    },
+    "fairValue": {
+      "lynchFairValue": "$143.73",
+      "lynchUpside": "46.32%",
+      "grahamNumber": "$22.51",
+      "grahamUpside": "-77.08%"
+    }
+  },
   "forecast": null,
   "financials": null
 }
