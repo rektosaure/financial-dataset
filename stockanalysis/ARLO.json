@@ -998,51 +998,51 @@
     ],
     "targets": {
       "low": 18,
-      "high": 24,
+      "high": 25,
       "count": 6,
       "median": 22,
-      "average": 20.83,
-      "updated": "2026-08-10",
+      "average": 21,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 18,
-          "high": 24,
+          "high": 25,
           "count": 6,
           "median": 22,
-          "average": 20.83,
-          "updated": "2026-08-10"
+          "average": 21,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 18,
-          "high": 24,
+          "high": 25,
           "count": 6,
           "median": 22,
-          "average": 20.83,
-          "updated": "2026-08-10"
+          "average": 21,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 18,
-          "high": 24,
+          "high": 25,
           "count": 6,
           "median": 22,
-          "average": 20.83,
-          "updated": "2026-08-10"
+          "average": 21,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 18,
-          "high": 24,
+          "high": 25,
           "count": 6,
           "median": 22,
-          "average": 20.83,
-          "updated": "2026-08-10"
+          "average": 21,
+          "updated": "2026-09-14"
         },
         "5": {
-          "low": 24,
-          "high": 24,
+          "low": 25,
+          "high": 25,
           "count": 1,
-          "median": 24,
-          "average": 24,
-          "updated": "2026-08-07"
+          "median": 25,
+          "average": 25,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1096,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 13.19,
+          "c": 13.45,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 25,
+        "pt_old": 24,
+        "firm": "Lake Street",
+        "analyst": "Jacob Stephan",
+        "slug": "jacob-stephan",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 56.6,
+          "stars": 4.9,
+          "total": 235,
+          "avg_return": 28.7,
+          "return_pct": null,
+          "analyst_rank": 340,
+          "success_rate": 56.6,
+          "stock_avg_return": 19.1,
+          "stock_success_rate": 70.8,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 20,
@@ -1118,16 +1143,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 47.1,
-          "stars": 4.6,
-          "total": 291,
-          "avg_return": 15.3,
+          "score": 48.3,
+          "stars": 4.7,
+          "total": 292,
+          "avg_return": 15.5,
           "return_pct": null,
-          "analyst_rank": 936,
-          "success_rate": 47.1,
-          "stock_avg_return": -4.8,
+          "analyst_rank": 849,
+          "success_rate": 48.3,
+          "stock_avg_return": -4.3,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1143,16 +1168,16 @@
         "rating_old": "",
         "time": "14:05:33",
         "scores": {
-          "score": 49.5,
+          "score": 50.1,
           "stars": 4.7,
           "total": 499,
-          "avg_return": 12.8,
+          "avg_return": 13.5,
           "return_pct": null,
-          "analyst_rank": 738,
-          "success_rate": 49.5,
-          "stock_avg_return": -0.2,
+          "analyst_rank": 669,
+          "success_rate": 50.1,
+          "stock_avg_return": 0,
           "stock_success_rate": 42.9,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1168,16 +1193,16 @@
         "rating_old": "",
         "time": "12:37:04",
         "scores": {
-          "score": 44.5,
-          "stars": 4.6,
-          "total": 449,
-          "avg_return": 12.8,
+          "score": 46,
+          "stars": 4.7,
+          "total": 450,
+          "avg_return": 13.2,
           "return_pct": null,
-          "analyst_rank": 988,
-          "success_rate": 44.5,
-          "stock_avg_return": 1.2,
+          "analyst_rank": 860,
+          "success_rate": 46,
+          "stock_avg_return": 1.4,
           "stock_success_rate": 46.2,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1196,39 +1221,15 @@
           "score": 58,
           "stars": 4.7,
           "total": 305,
-          "avg_return": 12.8,
+          "avg_return": 13,
           "return_pct": null,
-          "analyst_rank": 802,
+          "analyst_rank": 755,
           "success_rate": 58,
-          "stock_avg_return": -9.6,
+          "stock_avg_return": -9.1,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Dylan Becker",
-        "slug": "dylan-becker",
-        "date": "2026-08-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:45:42",
-        "scores": {
-          "score": 48.4,
-          "stars": 3.6,
-          "total": 318,
-          "avg_return": 3.6,
-          "return_pct": null,
-          "analyst_rank": 3498,
-          "success_rate": 48.4,
-          "stock_avg_return": -7,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        }
       }
     ],
     "priceTargets": {
