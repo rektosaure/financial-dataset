@@ -865,10 +865,10 @@
     "targets": {
       "low": 9,
       "high": 57,
-      "count": 8,
-      "median": 38,
-      "average": 35,
-      "updated": "2026-09-08",
+      "count": 9,
+      "median": 35,
+      "average": 33.56,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 28,
@@ -934,16 +934,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 14.93,
+          "c": 15.64,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 22,
+        "pt_old": null,
+        "firm": "Texas Capital Securities",
+        "analyst": "Nathaniel Pendleton",
+        "slug": "nathaniel-pendleton",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:10:05",
+        "scores": {
+          "score": 37.5,
+          "stars": 0.5,
+          "total": 40,
+          "avg_return": -6.8,
+          "return_pct": null,
+          "analyst_rank": 11148,
+          "success_rate": 37.5,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 9,
@@ -954,7 +979,7 @@
         "date": "2026-09-08",
         "rating_new": "Sell",
         "rating_old": "",
-        "time": "20:40:19",
+        "time": "20:40:22",
         "scores": {
           "score": null,
           "stars": null,
@@ -965,7 +990,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -981,16 +1006,16 @@
         "rating_old": "",
         "time": "11:30:20",
         "scores": {
-          "score": 49.2,
+          "score": 49.1,
           "stars": 4.6,
-          "total": 325,
-          "avg_return": 12.7,
+          "total": 326,
+          "avg_return": 12.8,
           "return_pct": null,
-          "analyst_rank": 1082,
-          "success_rate": 49.2,
-          "stock_avg_return": -27.4,
+          "analyst_rank": 1022,
+          "success_rate": 49.1,
+          "stock_avg_return": -33.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1006,16 +1031,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 62.2,
+          "score": 60.2,
           "stars": 4.8,
-          "total": 511,
-          "avg_return": 12,
+          "total": 512,
+          "avg_return": 12.2,
           "return_pct": null,
-          "analyst_rank": 462,
-          "success_rate": 62.2,
-          "stock_avg_return": -13.4,
-          "stock_success_rate": 25,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 473,
+          "success_rate": 60.2,
+          "stock_avg_return": -27,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1031,41 +1056,16 @@
         "rating_old": "",
         "time": "12:17:10",
         "scores": {
-          "score": 37.6,
-          "stars": 0.8,
-          "total": 194,
-          "avg_return": -1.5,
+          "score": 36.4,
+          "stars": 0.6,
+          "total": 195,
+          "avg_return": -2.4,
           "return_pct": null,
-          "analyst_rank": 10467,
-          "success_rate": 37.6,
-          "stock_avg_return": -26.6,
+          "analyst_rank": 10915,
+          "success_rate": 36.4,
+          "stock_avg_return": -38,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 35,
-        "pt_old": null,
-        "firm": "TD Cowen",
-        "analyst": "Marc Bianchi",
-        "slug": "marc-bianchi",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 48.6,
-          "stars": 4.2,
-          "total": 494,
-          "avg_return": 6,
-          "return_pct": null,
-          "analyst_rank": 2008,
-          "success_rate": 48.6,
-          "stock_avg_return": -24.6,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -1312,13 +1312,13 @@
           133042000
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           null,
           null,
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           null,
           null,
           null
@@ -2224,13 +2224,13 @@
           634000
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           null,
           null,
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           null,
           null,
           null
@@ -2890,13 +2890,13 @@
           634000
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           null,
           null,
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           null,
           null,
           null
@@ -3098,13 +3098,13 @@
           12574000
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           null,
           null,
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           null,
           null,
           null
@@ -3562,13 +3562,13 @@
           12574000
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           null,
           null,
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           null,
           null,
           null
@@ -3656,13 +3656,13 @@
           2.379
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           null,
           null,
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           null,
           null,
           null
@@ -3697,7 +3697,7 @@
           "Q4"
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           5277742356,
           null,
           null,
@@ -3706,7 +3706,7 @@
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           6968085356,
           null,
           null,
@@ -3724,7 +3724,7 @@
           null
         ],
         "ps": [
-          40.37296,
+          42.42811,
           37.486,
           null,
           null,
@@ -3742,7 +3742,7 @@
           null
         ],
         "ptbvRatio": [
-          3.34315,
+          3.51333,
           2.908,
           null,
           null,
@@ -3751,7 +3751,7 @@
           null
         ],
         "evrevenue": [
-          29.67016,
+          31.72531,
           49.492,
           null,
           null,
@@ -3847,7 +3847,7 @@
           -0.027
         ],
         "earningsyield": [
-          -0.0739846,
+          -0.0704009,
           -0.02478,
           null,
           null,
@@ -3856,7 +3856,7 @@
           null
         ],
         "fcfyield": [
-          -0.072606,
+          -0.0690891,
           -0.07774,
           null,
           null,
@@ -3954,13 +3954,13 @@
           2.379
         ],
         "marketcap": [
-          6067045992,
+          6355565929,
           null,
           null,
           null
         ],
         "ev": [
-          4458682992,
+          4747202929,
           null,
           null,
           null
