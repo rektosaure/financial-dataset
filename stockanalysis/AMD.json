@@ -1056,7 +1056,7 @@
       "count": 33,
       "median": 600,
       "average": 610.12,
-      "updated": "2026-09-11",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 250,
@@ -1064,7 +1064,7 @@
           "count": 32,
           "median": 625,
           "average": 610.44,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 250,
@@ -1072,7 +1072,7 @@
           "count": 32,
           "median": 625,
           "average": 610.44,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 250,
@@ -1080,7 +1080,7 @@
           "count": 31,
           "median": 625,
           "average": 616.26,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 250,
@@ -1088,7 +1088,7 @@
           "count": 31,
           "median": 625,
           "average": 616.26,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 250,
@@ -1096,7 +1096,7 @@
           "count": 26,
           "median": 641,
           "average": 637.46,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1150,16 +1150,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 516.13,
+          "c": 489.27,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 650,
+        "pt_old": null,
+        "firm": "Bernstein",
+        "analyst": "Stacy Rasgon",
+        "slug": "stacy-rasgon",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 64.6,
+          "stars": 5,
+          "total": 339,
+          "avg_return": 32.1,
+          "return_pct": null,
+          "analyst_rank": 117,
+          "success_rate": 64.6,
+          "stock_avg_return": 2.7,
+          "stock_success_rate": 53.3,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 635,
@@ -1170,18 +1195,18 @@
         "date": "2026-09-11",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "10:50:11",
         "scores": {
-          "score": 67.6,
+          "score": 67.5,
           "stars": 5,
-          "total": 457,
-          "avg_return": 52.5,
+          "total": 458,
+          "avg_return": 52.4,
           "return_pct": null,
           "analyst_rank": 17,
-          "success_rate": 67.6,
-          "stock_avg_return": 81.5,
-          "stock_success_rate": 82.1,
-          "number_of_ranked_experts": 12502
+          "success_rate": 67.5,
+          "stock_avg_return": 78.3,
+          "stock_success_rate": 79.3,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1197,16 +1222,16 @@
         "rating_old": "",
         "time": "20:21:58",
         "scores": {
-          "score": 72.7,
+          "score": 75,
           "stars": 4.2,
-          "total": 11,
-          "avg_return": 46.9,
+          "total": 16,
+          "avg_return": 33.7,
           "return_pct": null,
-          "analyst_rank": 2069,
-          "success_rate": 72.7,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 2039,
+          "success_rate": 75,
+          "stock_avg_return": 2.4,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1222,16 +1247,16 @@
         "rating_old": "",
         "time": "10:10:32",
         "scores": {
-          "score": 76.5,
+          "score": 76.3,
           "stars": 5,
-          "total": 498,
-          "avg_return": 46,
+          "total": 497,
+          "avg_return": 45.9,
           "return_pct": null,
-          "analyst_rank": 3,
-          "success_rate": 76.5,
-          "stock_avg_return": 0.2,
+          "analyst_rank": 4,
+          "success_rate": 76.3,
+          "stock_avg_return": -0.8,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1247,41 +1272,16 @@
         "rating_old": "",
         "time": "09:15:23",
         "scores": {
-          "score": 61.2,
+          "score": 60.8,
           "stars": 5,
           "total": 480,
-          "avg_return": 31,
+          "avg_return": 31.1,
           "return_pct": null,
-          "analyst_rank": 97,
-          "success_rate": 61.2,
-          "stock_avg_return": 61.7,
+          "analyst_rank": 96,
+          "success_rate": 60.8,
+          "stock_avg_return": 60.2,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 550,
-        "pt_old": null,
-        "firm": "BMO Capital",
-        "analyst": "Harsh Kumar",
-        "slug": "harsh-kumar",
-        "date": "2026-08-20",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "20:31:05",
-        "scores": {
-          "score": 72.9,
-          "stars": 5,
-          "total": 487,
-          "avg_return": 46.2,
-          "return_pct": null,
-          "analyst_rank": 10,
-          "success_rate": 72.9,
-          "stock_avg_return": 70.8,
-          "stock_success_rate": 86.8,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -7377,7 +7377,7 @@
           "Q4"
         ],
         "marketcap": [
-          842569343427,
+          803667463177,
           350012650685,
           203159251646,
           238140691522,
@@ -7385,7 +7385,7 @@
           176480191894
         ],
         "ev": [
-          833734343427,
+          794832463177,
           346639650684,
           200853251645,
           235217691522,
@@ -7409,7 +7409,7 @@
           55.813
         ],
         "peForward": [
-          46.64528,
+          46.64949,
           38.756,
           27.743,
           44.349,
@@ -7457,7 +7457,7 @@
           50.122
         ],
         "pegRatio": [
-          0.7054,
+          0.70546,
           0.856,
           0.665,
           1.388,
@@ -7704,7 +7704,7 @@
           "Q3"
         ],
         "marketcap": [
-          842569343427,
+          803667463177,
           850488681290,
           329312129970,
           350012650685,
@@ -7727,7 +7727,7 @@
           128331726836
         ],
         "ev": [
-          833734343427,
+          794832463177,
           842012681289,
           322766129970,
           346639650684,
@@ -7796,7 +7796,7 @@
           32.334
         ],
         "peForward": [
-          46.64528,
+          46.64949,
           59.821,
           30.513,
           38.756,
@@ -7934,7 +7934,7 @@
           39.45
         ],
         "pegRatio": [
-          0.7054,
+          0.70546,
           1.013,
           0.722,
           0.856,
@@ -8462,7 +8462,7 @@
           "Q4"
         ],
         "marketcap": [
-          842569343427,
+          803667463177,
           350012650685,
           203159251646,
           238140691522,
@@ -8470,7 +8470,7 @@
           176480191894
         ],
         "ev": [
-          833734343427,
+          794832463177,
           346639650684,
           200853251645,
           235217691522,
@@ -8494,7 +8494,7 @@
           55.813
         ],
         "peForward": [
-          46.64528,
+          46.64949,
           38.756,
           27.743,
           44.349,
@@ -8542,7 +8542,7 @@
           50.122
         ],
         "pegRatio": [
-          0.7054,
+          0.70546,
           0.856,
           0.665,
           1.388,

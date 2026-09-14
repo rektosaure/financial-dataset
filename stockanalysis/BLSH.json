@@ -915,10 +915,10 @@
     "targets": {
       "low": 25,
       "high": 61,
-      "count": 8,
+      "count": 9,
       "median": 45,
-      "average": 42.13,
-      "updated": "2026-08-21",
+      "average": 43.11,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 25,
@@ -1012,16 +1012,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 35.12,
+          "c": 37.53,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Upgrades",
+        "pt_now": 51,
+        "pt_old": 30,
+        "firm": "Compass Point",
+        "analyst": "Ed Engel",
+        "slug": "ed-engel",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:20:07",
+        "scores": {
+          "score": 39,
+          "stars": 0.5,
+          "total": 105,
+          "avg_return": -4.7,
+          "return_pct": null,
+          "analyst_rank": 11325,
+          "success_rate": 39,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 50,
@@ -1034,16 +1059,16 @@
         "rating_old": "",
         "time": "11:36:54",
         "scores": {
-          "score": 53.8,
+          "score": 52.5,
           "stars": 4.8,
           "total": 160,
-          "avg_return": 27.9,
+          "avg_return": 26.7,
           "return_pct": null,
-          "analyst_rank": 520,
-          "success_rate": 53.8,
+          "analyst_rank": 557,
+          "success_rate": 52.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1062,13 +1087,13 @@
           "score": 43.4,
           "stars": 4.8,
           "total": 491,
-          "avg_return": 17.7,
+          "avg_return": 17.4,
           "return_pct": null,
-          "analyst_rank": 603,
+          "analyst_rank": 605,
           "success_rate": 43.4,
-          "stock_avg_return": 7,
+          "stock_avg_return": 9.1,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1084,16 +1109,16 @@
         "rating_old": "",
         "time": "09:25:43",
         "scores": {
-          "score": 51,
+          "score": 50.8,
           "stars": 2.8,
-          "total": 251,
-          "avg_return": 1.6,
+          "total": 252,
+          "avg_return": 1.3,
           "return_pct": null,
-          "analyst_rank": 5376,
-          "success_rate": 51,
-          "stock_avg_return": -4.6,
+          "analyst_rank": 5607,
+          "success_rate": 50.8,
+          "stock_avg_return": -2.6,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1109,41 +1134,16 @@
         "rating_old": "",
         "time": "12:36:55",
         "scores": {
-          "score": 50.6,
+          "score": 49.9,
           "stars": 4.8,
-          "total": 401,
-          "avg_return": 20.1,
+          "total": 405,
+          "avg_return": 19.7,
           "return_pct": null,
-          "analyst_rank": 454,
-          "success_rate": 50.6,
-          "stock_avg_return": 1.6,
+          "analyst_rank": 457,
+          "success_rate": 49.9,
+          "stock_avg_return": 3.4,
           "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 25,
-        "pt_old": 26,
-        "firm": "J.P. Morgan",
-        "analyst": "Ken Worthington",
-        "slug": "ken-worthington",
-        "date": "2026-08-14",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:56:27",
-        "scores": {
-          "score": 49.3,
-          "stars": 3.1,
-          "total": 487,
-          "avg_return": 1.6,
-          "return_pct": null,
-          "analyst_rank": 4748,
-          "success_rate": 49.3,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -5935,7 +5935,7 @@
           "Q4"
         ],
         "marketcap": [
-          5325889912,
+          5780834950,
           5706403080,
           null,
           null,
@@ -5943,7 +5943,7 @@
           null
         ],
         "ev": [
-          5531191912,
+          5986136950,
           5904797080,
           null,
           null,
@@ -5959,7 +5959,7 @@
           null
         ],
         "peForward": [
-          66.67932,
+          72.37517,
           55.888,
           null,
           null,
@@ -6228,7 +6228,7 @@
           "Q1"
         ],
         "marketcap": [
-          5325889912,
+          5780834950,
           3553120747,
           5370297892,
           5706403080,
@@ -6245,7 +6245,7 @@
           null
         ],
         "ev": [
-          5531191912,
+          5986136950,
           3771405746,
           5541488891,
           5904797080,
@@ -6296,7 +6296,7 @@
           null
         ],
         "peForward": [
-          66.67932,
+          72.37517,
           33.922,
           47.96,
           55.888,
@@ -6777,7 +6777,7 @@
           "Q4"
         ],
         "marketcap": [
-          5325889912,
+          5780834950,
           5706403080,
           null,
           null,
@@ -6785,7 +6785,7 @@
           null
         ],
         "ev": [
-          5531191912,
+          5986136950,
           5904797080,
           null,
           null,
@@ -6801,7 +6801,7 @@
           null
         ],
         "peForward": [
-          66.67932,
+          72.37517,
           55.888,
           null,
           null,

@@ -1030,44 +1030,44 @@
       }
     ],
     "targets": {
-      "low": 130,
+      "low": 133,
       "high": 335,
       "count": 23,
       "median": 185,
-      "average": 192.87,
-      "updated": "2026-09-03",
+      "average": 194.83,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
-          "low": 130,
+          "low": 133,
           "high": 335,
-          "count": 16,
+          "count": 17,
           "median": 190,
-          "average": 197,
-          "updated": "2026-09-03"
+          "average": 201,
+          "updated": "2026-09-14"
         },
         "2": {
-          "low": 130,
+          "low": 133,
           "high": 335,
           "count": 16,
           "median": 190,
-          "average": 197,
-          "updated": "2026-09-03"
+          "average": 199.81,
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 130,
+          "low": 133,
           "high": 335,
           "count": 13,
           "median": 190,
-          "average": 200.54,
-          "updated": "2026-09-03"
+          "average": 204,
+          "updated": "2026-09-14"
         },
         "4": {
-          "low": 130,
+          "low": 133,
           "high": 335,
-          "count": 11,
-          "median": 180,
-          "average": 191.55,
-          "updated": "2026-09-03"
+          "count": 10,
+          "median": 190,
+          "average": 197.3,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 133,
@@ -1075,7 +1075,7 @@
           "count": 5,
           "median": 190,
           "average": 213.6,
-          "updated": "2026-08-04"
+          "updated": "2026-09-11"
         }
       },
       "currency": "USD",
@@ -1129,38 +1129,88 @@
           "t": "2026-08-01"
         },
         {
-          "c": 184.05,
+          "c": 193.5,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Maintains",
-        "pt_now": 130,
-        "pt_old": null,
+        "action_rt": "Downgrades",
+        "pt_now": 175,
+        "pt_old": 130,
         "firm": "Morgan Stanley",
         "analyst": "James Faucette",
         "slug": "james-faucette",
-        "date": "2026-09-03",
+        "date": "2026-09-14",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "11:30:12",
+        "time": "12:16:54",
         "scores": {
           "score": 60.2,
           "stars": 4,
           "total": 495,
-          "avg_return": 3.3,
+          "avg_return": 3.2,
           "return_pct": null,
-          "analyst_rank": 2431,
+          "analyst_rank": 2489,
           "success_rate": 60.2,
           "stock_avg_return": 6,
           "stock_success_rate": 46.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Downgrades",
+        "pt_now": 194,
+        "pt_old": null,
+        "firm": "Wells Fargo",
+        "analyst": "Jason Kupferberg",
+        "slug": "jason-kupferberg",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "09:00:13",
+        "scores": {
+          "score": 46,
+          "stars": 0.1,
+          "total": 489,
+          "avg_return": -7.6,
+          "return_pct": null,
+          "analyst_rank": 12292,
+          "success_rate": 46,
+          "stock_avg_return": -3.4,
+          "stock_success_rate": 42.3,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 230,
+        "pt_old": null,
+        "firm": "Goldman Sachs",
+        "analyst": "James Schneider",
+        "slug": "james-schneider",
+        "date": "2026-09-11",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 59.6,
+          "stars": 4.9,
+          "total": 228,
+          "avg_return": 26,
+          "return_pct": null,
+          "analyst_rank": 365,
+          "success_rate": 59.6,
+          "stock_avg_return": -19.1,
+          "stock_success_rate": 20,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1176,16 +1226,16 @@
         "rating_old": "",
         "time": "20:35:24",
         "scores": {
-          "score": 43.2,
+          "score": 43.7,
           "stars": 0.3,
           "total": 449,
-          "avg_return": -3.3,
+          "avg_return": -3,
           "return_pct": null,
-          "analyst_rank": 11753,
-          "success_rate": 43.2,
+          "analyst_rank": 11644,
+          "success_rate": 43.7,
           "stock_avg_return": 1.5,
           "stock_success_rate": 55.6,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1201,66 +1251,16 @@
         "rating_old": "",
         "time": "09:40:35",
         "scores": {
-          "score": 59.2,
+          "score": 59,
           "stars": 4.6,
           "total": 490,
-          "avg_return": 8.2,
+          "avg_return": 8.1,
           "return_pct": null,
-          "analyst_rank": 935,
-          "success_rate": 59.2,
-          "stock_avg_return": -11,
+          "analyst_rank": 944,
+          "success_rate": 59,
+          "stock_avg_return": -7.8,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 190,
-        "pt_old": 135,
-        "firm": "Citi",
-        "analyst": "Bryan Keane",
-        "slug": "bryan-keane",
-        "date": "2026-08-24",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "06:50:11",
-        "scores": {
-          "score": 58,
-          "stars": 4.3,
-          "total": 393,
-          "avg_return": 6,
-          "return_pct": null,
-          "analyst_rank": 1692,
-          "success_rate": 58,
-          "stock_avg_return": 10,
-          "stock_success_rate": 77.3,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 194,
-        "pt_old": null,
-        "firm": "Wells Fargo",
-        "analyst": "Jason Kupferberg",
-        "slug": "jason-kupferberg",
-        "date": "2026-08-12",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:57:46",
-        "scores": {
-          "score": 45.4,
-          "stars": 0.1,
-          "total": 489,
-          "avg_return": -7.9,
-          "return_pct": null,
-          "analyst_rank": 12303,
-          "success_rate": 45.4,
-          "stock_avg_return": -4.3,
-          "stock_success_rate": 34.6,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
