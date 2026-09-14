@@ -890,41 +890,41 @@
     "targets": {
       "low": 160,
       "high": 215,
-      "count": 4,
+      "count": 3,
       "median": 213,
-      "average": 190.75,
+      "average": 196,
       "updated": "2026-07-29",
       "filtered": {
         "1": {
-          "low": 160,
+          "low": 213,
           "high": 215,
-          "count": 4,
-          "median": 213,
-          "average": 190.75,
+          "count": 2,
+          "median": 215,
+          "average": 214,
           "updated": "2026-07-29"
         },
         "2": {
-          "low": 175,
+          "low": 213,
           "high": 215,
-          "count": 3,
-          "median": 213,
-          "average": 201,
+          "count": 2,
+          "median": 215,
+          "average": 214,
           "updated": "2026-07-29"
         },
         "3": {
-          "low": 175,
+          "low": 213,
           "high": 215,
-          "count": 3,
-          "median": 213,
-          "average": 201,
+          "count": 2,
+          "median": 215,
+          "average": 214,
           "updated": "2026-07-29"
         },
         "4": {
-          "low": 175,
+          "low": 213,
           "high": 213,
-          "count": 2,
+          "count": 1,
           "median": 213,
-          "average": 194,
+          "average": 213,
           "updated": "2026-07-29"
         },
         "5": {
@@ -987,16 +987,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 149.93,
+          "c": 153.35,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Truist Financial",
+        "analyst": "Tobey Sommer",
+        "slug": "tobey-sommer",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 56.1,
+          "stars": 4.2,
+          "total": 499,
+          "avg_return": 4.8,
+          "return_pct": null,
+          "analyst_rank": 1929,
+          "success_rate": 56.1,
+          "stock_avg_return": 15.1,
+          "stock_success_rate": 70.8,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 160,
@@ -1009,41 +1033,16 @@
         "rating_old": "",
         "time": "13:48:58",
         "scores": {
-          "score": 38.5,
-          "stars": 1,
-          "total": 13,
-          "avg_return": -4.6,
+          "score": 15,
+          "stars": 0.9,
+          "total": 20,
+          "avg_return": -4.3,
           "return_pct": null,
-          "analyst_rank": 10061,
-          "success_rate": 38.5,
-          "stock_avg_return": -8.8,
+          "analyst_rank": 10162,
+          "success_rate": 15,
+          "stock_avg_return": -11.9,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 175,
-        "pt_old": 155,
-        "firm": "Truist Financial",
-        "analyst": "Tobey Sommer",
-        "slug": "tobey-sommer",
-        "date": "2026-07-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:13:26",
-        "scores": {
-          "score": 56.9,
-          "stars": 4.4,
-          "total": 501,
-          "avg_return": 6,
-          "return_pct": null,
-          "analyst_rank": 1546,
-          "success_rate": 56.9,
-          "stock_avg_return": 16.9,
-          "stock_success_rate": 72,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1059,16 +1058,16 @@
         "rating_old": "",
         "time": "09:10:13",
         "scores": {
-          "score": 40.5,
-          "stars": 2.5,
-          "total": 131,
-          "avg_return": 1.6,
+          "score": 36.4,
+          "stars": 1.3,
+          "total": 132,
+          "avg_return": -0.6,
           "return_pct": null,
-          "analyst_rank": 6206,
-          "success_rate": 40.5,
-          "stock_avg_return": 5.2,
+          "analyst_rank": 9326,
+          "success_rate": 36.4,
+          "stock_avg_return": 3.2,
           "stock_success_rate": 44.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1083,16 +1082,16 @@
         "rating_old": "",
         "time": "06:35:47",
         "scores": {
-          "score": 61.7,
+          "score": 60.9,
           "stars": 4.9,
           "total": 488,
-          "avg_return": 18.2,
+          "avg_return": 17.5,
           "return_pct": null,
-          "analyst_rank": 269,
-          "success_rate": 61.7,
-          "stock_avg_return": 19.7,
+          "analyst_rank": 285,
+          "success_rate": 60.9,
+          "stock_avg_return": 19.1,
           "stock_success_rate": 73.7,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1108,16 +1107,16 @@
         "rating_old": "",
         "time": "11:45:49",
         "scores": {
-          "score": 44.4,
+          "score": 43.8,
           "stars": 3.6,
           "total": 320,
-          "avg_return": 4.2,
+          "avg_return": 4.1,
           "return_pct": null,
-          "analyst_rank": 3441,
-          "success_rate": 44.4,
-          "stock_avg_return": 15.4,
+          "analyst_rank": 3401,
+          "success_rate": 43.8,
+          "stock_avg_return": 14.9,
           "stock_success_rate": 62.5,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
