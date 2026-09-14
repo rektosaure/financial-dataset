@@ -1014,7 +1014,7 @@
       "count": 37,
       "median": 271,
       "average": 268.35,
-      "updated": "2026-09-11",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 160,
@@ -1022,7 +1022,7 @@
           "count": 27,
           "median": 271,
           "average": 266.63,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 160,
@@ -1030,7 +1030,7 @@
           "count": 26,
           "median": 271,
           "average": 266.31,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 160,
@@ -1038,7 +1038,7 @@
           "count": 25,
           "median": 270,
           "average": 264.96,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 160,
@@ -1046,7 +1046,7 @@
           "count": 22,
           "median": 270,
           "average": 263.59,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 195,
@@ -1054,7 +1054,7 @@
           "count": 12,
           "median": 266,
           "average": 268.5,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1108,38 +1108,63 @@
           "t": "2026-08-01"
         },
         {
-          "c": 247.72,
+          "c": 257.5,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
       {
         "action_rt": "Maintains",
-        "pt_now": 275,
+        "pt_now": 235,
         "pt_old": null,
-        "firm": "Stifel Nicolaus",
-        "analyst": "J. Parker Lane",
-        "slug": "j.-parker-lane",
-        "date": "2026-09-11",
+        "firm": "Morgan Stanley",
+        "analyst": "Adam Wood",
+        "slug": "adam-wood",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:01:22",
+        "scores": {
+          "score": 53.8,
+          "stars": 4.2,
+          "total": 247,
+          "avg_return": 7.9,
+          "return_pct": null,
+          "analyst_rank": 1880,
+          "success_rate": 53.8,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 266,
+        "pt_old": null,
+        "firm": "Monness",
+        "analyst": "Brian White",
+        "slug": "brian-white",
+        "date": "2026-09-14",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "10:50:11",
+        "time": "00:00:00",
         "scores": {
-          "score": 36.6,
-          "stars": 0.1,
-          "total": 437,
-          "avg_return": -7,
+          "score": 68.1,
+          "stars": 4.9,
+          "total": 499,
+          "avg_return": 17.8,
           "return_pct": null,
-          "analyst_rank": 12284,
-          "success_rate": 36.6,
-          "stock_avg_return": 7.5,
-          "stock_success_rate": 57.9,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 148,
+          "success_rate": 68.1,
+          "stock_avg_return": 8.1,
+          "stock_success_rate": 58.6,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1153,18 +1178,43 @@
         "date": "2026-09-11",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "18:10:08",
         "scores": {
-          "score": 63.6,
+          "score": 63.2,
           "stars": 4.8,
-          "total": 418,
-          "avg_return": 14.8,
+          "total": 419,
+          "avg_return": 14.6,
           "return_pct": null,
-          "analyst_rank": 394,
-          "success_rate": 63.6,
+          "analyst_rank": 395,
+          "success_rate": 63.2,
           "stock_avg_return": 15.5,
           "stock_success_rate": 83.9,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 275,
+        "pt_old": null,
+        "firm": "Stifel Nicolaus",
+        "analyst": "J. Parker Lane",
+        "slug": "j.-parker-lane",
+        "date": "2026-09-11",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:50:11",
+        "scores": {
+          "score": 37.1,
+          "stars": 0.1,
+          "total": 437,
+          "avg_return": -7,
+          "return_pct": null,
+          "analyst_rank": 12274,
+          "success_rate": 37.1,
+          "stock_avg_return": 7.9,
+          "stock_success_rate": 60.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1180,66 +1230,16 @@
         "rating_old": "",
         "time": "11:20:35",
         "scores": {
-          "score": 50.4,
-          "stars": 0.2,
-          "total": 504,
-          "avg_return": -4.2,
-          "return_pct": null,
-          "analyst_rank": 11945,
-          "success_rate": 50.4,
-          "stock_avg_return": 11.6,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 265,
-        "pt_old": null,
-        "firm": "J.P. Morgan",
-        "analyst": "Samik Chatterjee",
-        "slug": "samik-chatterjee",
-        "date": "2026-09-09",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:50:52",
-        "scores": {
-          "score": 74.7,
-          "stars": 5,
-          "total": 499,
-          "avg_return": 53.8,
-          "return_pct": null,
-          "analyst_rank": 4,
-          "success_rate": 74.7,
-          "stock_avg_return": 8.2,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 400,
-        "pt_old": null,
-        "firm": "Needham",
-        "analyst": "Scott Berg",
-        "slug": "scott-berg",
-        "date": "2026-09-02",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "15:10:08",
-        "scores": {
-          "score": 41.6,
+          "score": 50,
           "stars": 0.2,
           "total": 500,
-          "avg_return": -4.3,
+          "avg_return": -4.8,
           "return_pct": null,
-          "analyst_rank": 12020,
-          "success_rate": 41.6,
-          "stock_avg_return": 5.1,
-          "stock_success_rate": 54.2,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 12027,
+          "success_rate": 50,
+          "stock_avg_return": 8.2,
+          "stock_success_rate": 64.7,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
