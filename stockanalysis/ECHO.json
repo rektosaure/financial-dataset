@@ -999,26 +999,26 @@
     "targets": {
       "low": 115,
       "high": 161,
-      "count": 6,
+      "count": 7,
       "median": 130,
-      "average": 131.83,
-      "updated": "2026-09-08",
+      "average": 132.14,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 115,
           "high": 161,
-          "count": 6,
+          "count": 7,
           "median": 130,
-          "average": 131.83,
-          "updated": "2026-09-08"
+          "average": 132.14,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 115,
           "high": 161,
-          "count": 5,
-          "median": 118,
-          "average": 132.2,
-          "updated": "2026-09-08"
+          "count": 6,
+          "median": 134,
+          "average": 132.5,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 115,
@@ -1096,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 93.14,
+          "c": 95.3,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 134,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Sean Diffley",
+        "slug": "sean-diffley",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 57.1,
+          "stars": 2.1,
+          "total": 35,
+          "avg_return": 1.2,
+          "return_pct": null,
+          "analyst_rank": 7138,
+          "success_rate": 57.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Upgrades",
         "pt_now": 150,
@@ -1116,18 +1141,18 @@
         "date": "2026-09-08",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "09:25:04",
+        "time": "09:25:26",
         "scores": {
-          "score": 60.3,
+          "score": 60.5,
           "stars": 4.4,
-          "total": 247,
-          "avg_return": 8.4,
+          "total": 248,
+          "avg_return": 8.5,
           "return_pct": null,
-          "analyst_rank": 1588,
-          "success_rate": 60.3,
-          "stock_avg_return": 0,
+          "analyst_rank": 1493,
+          "success_rate": 60.5,
+          "stock_avg_return": -0.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1143,16 +1168,16 @@
         "rating_old": "",
         "time": "14:46:45",
         "scores": {
-          "score": 58.3,
+          "score": 58.6,
           "stars": 4.7,
           "total": 307,
-          "avg_return": 14.4,
+          "avg_return": 14.5,
           "return_pct": null,
-          "analyst_rank": 681,
-          "success_rate": 58.3,
-          "stock_avg_return": 104.5,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 647,
+          "success_rate": 58.6,
+          "stock_avg_return": 105.8,
+          "stock_success_rate": 77.8,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1168,16 +1193,16 @@
         "rating_old": "",
         "time": "13:31:08",
         "scores": {
-          "score": 61.5,
+          "score": 61.8,
           "stars": 4.8,
-          "total": 467,
-          "avg_return": 11.2,
+          "total": 468,
+          "avg_return": 11.1,
           "return_pct": null,
-          "analyst_rank": 593,
-          "success_rate": 61.5,
-          "stock_avg_return": -5,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 542,
+          "success_rate": 61.8,
+          "stock_avg_return": -1.6,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1193,41 +1218,16 @@
         "rating_old": "",
         "time": "02:10:12",
         "scores": {
-          "score": 40.8,
-          "stars": 1.3,
+          "score": 41.2,
+          "stars": 1.2,
           "total": 211,
-          "avg_return": -0.3,
+          "avg_return": -0.5,
           "return_pct": null,
-          "analyst_rank": 9205,
-          "success_rate": 40.8,
-          "stock_avg_return": 119.2,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Upgrades",
-        "pt_now": 115,
-        "pt_old": null,
-        "firm": "Raymond James",
-        "analyst": "Ric Prentiss",
-        "slug": "ric-prentiss",
-        "date": "2026-07-17",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:45:21",
-        "scores": {
-          "score": 56.8,
-          "stars": 3.8,
-          "total": 468,
-          "avg_return": 3.2,
-          "return_pct": null,
-          "analyst_rank": 2935,
-          "success_rate": 56.8,
-          "stock_avg_return": -7.4,
-          "stock_success_rate": 23.5,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 9382,
+          "success_rate": 41.2,
+          "stock_avg_return": 120.8,
+          "stock_success_rate": 73.3,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -7866,7 +7866,7 @@
           "Q4"
         ],
         "marketcap": [
-          27056304543,
+          27625666331,
           31292155441,
           6551831659,
           4497298712,
@@ -7874,7 +7874,7 @@
           2276990771
         ],
         "ev": [
-          44135337543,
+          44704699331,
           58757320440,
           33625283659,
           4243493712.000001,
@@ -7898,7 +7898,7 @@
           0.916
         ],
         "peForward": [
-          13.93623,
+          14.27588,
           24.257,
           19.536,
           132.032,
@@ -8193,7 +8193,7 @@
           "Q3"
         ],
         "marketcap": [
-          27056304543,
+          27625666331,
           29416069032,
           33818696813.000004,
           31292155441,
@@ -8216,7 +8216,7 @@
           2268488102
         ],
         "ev": [
-          44135337543,
+          44704699331,
           57188083032,
           61843411813,
           58757320440,
@@ -8285,7 +8285,7 @@
           15.19
         ],
         "peForward": [
-          13.93623,
+          14.27588,
           48.77,
           270.406,
           24.257,
@@ -8951,7 +8951,7 @@
           "Q4"
         ],
         "marketcap": [
-          27056304543,
+          27625666331,
           31292155441,
           6551831659,
           4497298712,
@@ -8959,7 +8959,7 @@
           2276990771
         ],
         "ev": [
-          44135337543,
+          44704699331,
           58757320440,
           33625283659,
           4243493712.000001,
@@ -8983,7 +8983,7 @@
           0.916
         ],
         "peForward": [
-          13.93623,
+          14.27588,
           24.257,
           19.536,
           132.032,
