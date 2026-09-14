@@ -1009,52 +1009,52 @@
       }
     ],
     "targets": {
-      "low": 91.88,
+      "low": 91.73,
       "high": 800,
       "count": 6,
-      "median": 700,
-      "average": 533.98,
-      "updated": "2026-09-08",
+      "median": 600,
+      "average": 504.96,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
-          "low": 600,
-          "high": 739,
+          "low": 565,
+          "high": 700,
           "count": 3,
-          "median": 700,
-          "average": 679.67,
-          "updated": "2026-09-04"
+          "median": 600,
+          "average": 621.67,
+          "updated": "2026-09-14"
         },
         "2": {
-          "low": 600,
-          "high": 739,
+          "low": 565,
+          "high": 700,
           "count": 3,
-          "median": 700,
-          "average": 679.67,
-          "updated": "2026-09-04"
+          "median": 600,
+          "average": 621.67,
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 600,
-          "high": 739,
+          "low": 565,
+          "high": 700,
           "count": 3,
-          "median": 700,
-          "average": 679.67,
-          "updated": "2026-09-04"
+          "median": 600,
+          "average": 621.67,
+          "updated": "2026-09-14"
         },
         "4": {
-          "low": 600,
-          "high": 739,
+          "low": 565,
+          "high": 600,
           "count": 2,
-          "median": 739,
-          "average": 669.5,
-          "updated": "2026-09-03"
+          "median": 600,
+          "average": 582.5,
+          "updated": "2026-09-14"
         },
         "5": {
-          "low": 600,
-          "high": 739,
+          "low": 565,
+          "high": 600,
           "count": 2,
-          "median": 739,
-          "average": 669.5,
-          "updated": "2026-09-03"
+          "median": 600,
+          "average": 582.5,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1108,21 +1108,46 @@
           "t": "2026-08-01"
         },
         {
-          "c": 413.74,
+          "c": 392.56,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
       {
+        "action_rt": "Maintains",
+        "pt_now": 565,
+        "pt_old": 739,
+        "firm": "Goldman Sachs",
+        "analyst": "Neil Mehta",
+        "slug": "neil-mehta",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 64.4,
+          "stars": 4.8,
+          "total": 486,
+          "avg_return": 12.8,
+          "return_pct": null,
+          "analyst_rank": 381,
+          "success_rate": 64.4,
+          "stock_avg_return": 0.8,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
         "action_rt": "Initiates",
         "pt_now": 273,
         "pt_old": null,
-        "firm": "Bank of America Securities",
+        "firm": "Piper Sandler",
         "analyst": "Dimple Gosai",
         "slug": "",
         "date": "2026-09-08",
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "21:10:28",
         "scores": {
-          "score": 50,
+          "score": 49.2,
           "stars": 0,
-          "total": 116,
-          "avg_return": -38,
+          "total": 120,
+          "avg_return": -37.5,
           "return_pct": null,
-          "analyst_rank": 12436,
-          "success_rate": 50,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 12429,
+          "success_rate": 49.2,
+          "stock_avg_return": 5.2,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1155,41 +1180,16 @@
         "rating_old": "",
         "time": "13:55:43",
         "scores": {
-          "score": 56.5,
-          "stars": 3.8,
-          "total": 23,
-          "avg_return": 18.2,
+          "score": 53.8,
+          "stars": 3.9,
+          "total": 26,
+          "avg_return": 18.5,
           "return_pct": null,
-          "analyst_rank": 3099,
-          "success_rate": 56.5,
-          "stock_avg_return": 0,
+          "analyst_rank": 2841,
+          "success_rate": 53.8,
+          "stock_avg_return": -1,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 739,
-        "pt_old": null,
-        "firm": "Goldman Sachs",
-        "analyst": "Neil Mehta",
-        "slug": "neil-mehta",
-        "date": "2026-09-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:25:45",
-        "scores": {
-          "score": 64.4,
-          "stars": 4.8,
-          "total": 486,
-          "avg_return": 12.8,
-          "return_pct": null,
-          "analyst_rank": 401,
-          "success_rate": 64.4,
-          "stock_avg_return": 1.8,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1208,20 +1208,20 @@
           "score": 53.9,
           "stars": 5,
           "total": 330,
-          "avg_return": 45.7,
+          "avg_return": 46.1,
           "return_pct": null,
-          "analyst_rank": 118,
+          "analyst_rank": 108,
           "success_rate": 53.9,
           "stock_avg_return": 72.4,
           "stock_success_rate": 90.5,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
       {
         "action_rt": "Maintains",
-        "pt_now": 91.880713,
-        "pt_old": 88.391572,
+        "pt_now": 91.734642,
+        "pt_old": 88.251048,
         "firm": "Berenberg Bank",
         "analyst": "Kai Klose",
         "slug": "kai-klose",
@@ -1230,16 +1230,16 @@
         "rating_old": "",
         "time": "16:20:25",
         "scores": {
-          "score": 42.1,
+          "score": 41.4,
           "stars": 0.2,
-          "total": 501,
-          "avg_return": -4.4,
+          "total": 500,
+          "avg_return": -4.7,
           "return_pct": null,
-          "analyst_rank": 12032,
-          "success_rate": 42.1,
+          "analyst_rank": 12067,
+          "success_rate": 41.4,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
