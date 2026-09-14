@@ -851,7 +851,7 @@
       "count": 17,
       "median": 326,
       "average": 318.53,
-      "updated": "2026-09-10",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 273,
@@ -859,7 +859,7 @@
           "count": 14,
           "median": 326,
           "average": 321.29,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 273,
@@ -867,7 +867,7 @@
           "count": 13,
           "median": 326,
           "average": 321.46,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 273,
@@ -875,7 +875,7 @@
           "count": 13,
           "median": 326,
           "average": 321.46,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 273,
@@ -883,7 +883,7 @@
           "count": 12,
           "median": 326,
           "average": 320.83,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 305,
@@ -917,16 +917,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 263.515,
+          "c": 264.92,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 273,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Maxwell Skor",
+        "slug": "maxwell-skor",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 65.1,
+          "stars": 4.7,
+          "total": 109,
+          "avg_return": 24.2,
+          "return_pct": null,
+          "analyst_rank": 662,
+          "success_rate": 65.1,
+          "stock_avg_return": 21.2,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 344,
@@ -937,43 +962,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:15:57",
         "scores": {
-          "score": 42.3,
-          "stars": 4.5,
-          "total": 499,
-          "avg_return": 10.8,
+          "score": 39.8,
+          "stars": 4.4,
+          "total": 500,
+          "avg_return": 9.8,
           "return_pct": null,
-          "analyst_rank": 1223,
-          "success_rate": 42.3,
-          "stock_avg_return": 2.4,
+          "analyst_rank": 1429,
+          "success_rate": 39.8,
+          "stock_avg_return": 3.4,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 273,
-        "pt_old": null,
-        "firm": "Morgan Stanley",
-        "analyst": "Maxwell Skor",
-        "slug": "maxwell-skor",
-        "date": "2026-09-08",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:00:54",
-        "scores": {
-          "score": 66.7,
-          "stars": 4.7,
-          "total": 108,
-          "avg_return": 24.4,
-          "return_pct": null,
-          "analyst_rank": 644,
-          "success_rate": 66.7,
-          "stock_avg_return": 20.3,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -989,16 +989,16 @@
         "rating_old": "",
         "time": "12:19:19",
         "scores": {
-          "score": 40.3,
-          "stars": 4.2,
+          "score": 39.5,
+          "stars": 4.1,
           "total": 496,
-          "avg_return": 7.2,
+          "avg_return": 6.5,
           "return_pct": null,
-          "analyst_rank": 2001,
-          "success_rate": 40.3,
-          "stock_avg_return": 4.3,
+          "analyst_rank": 2228,
+          "success_rate": 39.5,
+          "stock_avg_return": 4.6,
           "stock_success_rate": 45,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1014,16 +1014,16 @@
         "rating_old": "",
         "time": "02:05:26",
         "scores": {
-          "score": 70.6,
+          "score": 70.2,
           "stars": 5,
           "total": 218,
-          "avg_return": 45.9,
+          "avg_return": 45.1,
           "return_pct": null,
-          "analyst_rank": 76,
-          "success_rate": 70.6,
-          "stock_avg_return": 32.7,
+          "analyst_rank": 79,
+          "success_rate": 70.2,
+          "stock_avg_return": 33.2,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1039,16 +1039,16 @@
         "rating_old": "",
         "time": "13:15:24",
         "scores": {
-          "score": 54.5,
+          "score": 54.3,
           "stars": 4.4,
           "total": 398,
-          "avg_return": 7.5,
+          "avg_return": 7.1,
           "return_pct": null,
-          "analyst_rank": 1507,
-          "success_rate": 54.5,
-          "stock_avg_return": 30.8,
+          "analyst_rank": 1575,
+          "success_rate": 54.3,
+          "stock_avg_return": 31,
           "stock_success_rate": 85,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
       }
     ],
@@ -6787,7 +6787,7 @@
           "Q3"
         ],
         "marketcap": [
-          17305895433,
+          17398166397,
           17583429316,
           null,
           null,
@@ -6810,7 +6810,7 @@
           null
         ],
         "ev": [
-          16892110445,
+          16984381409,
           17956822606,
           null,
           null,
@@ -6879,7 +6879,7 @@
           null
         ],
         "peForward": [
-          36.88902,
+          37.09881,
           37.52,
           null,
           null,
@@ -6902,7 +6902,7 @@
           null
         ],
         "ps": [
-          14.46758,
+          14.46539,
           14.7,
           null,
           null,
@@ -6948,7 +6948,7 @@
           null
         ],
         "ptbvRatio": [
-          10.57212,
+          10.57052,
           10.742,
           null,
           null,
@@ -6971,7 +6971,7 @@
           null
         ],
         "pfcf": [
-          44.50412,
+          44.68071,
           45.926,
           null,
           null,
@@ -6994,7 +6994,7 @@
           null
         ],
         "pocf": [
-          42.67156,
+          42.84088,
           44.035,
           null,
           null,
@@ -7017,7 +7017,7 @@
           null
         ],
         "evrevenue": [
-          14.12166,
+          14.11947,
           15.012,
           null,
           null,
@@ -7040,7 +7040,7 @@
           null
         ],
         "evebitda": [
-          56.12238,
+          56.11365,
           57.64,
           null,
           null,
@@ -7063,7 +7063,7 @@
           null
         ],
         "evebit": [
-          57.1621,
+          57.15322,
           60.765,
           null,
           null,
@@ -7086,7 +7086,7 @@
           null
         ],
         "evfcf": [
-          43.44002,
+          43.61223,
           46.901,
           null,
           null,
@@ -7427,7 +7427,7 @@
           -0.399
         ],
         "earningsyield": [
-          0.0489679,
+          0.0489753,
           0.04819,
           null,
           null,
@@ -7450,7 +7450,7 @@
           null
         ],
         "fcfyield": [
-          0.0224698,
+          0.022381,
           0.02177,
           null,
           null,

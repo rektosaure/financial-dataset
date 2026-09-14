@@ -819,19 +819,6 @@
     },
     "recommendations": [
       {
-        "buy": 5,
-        "date": "2025-09-30",
-        "hold": 3,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 6.764705882352941,
-        "total": 17,
-        "updated": "2025-09-30",
-        "consensus": "Buy",
-        "strongBuy": 9,
-        "strongSell": 0
-      },
-      {
         "buy": 4,
         "date": "2025-10-30",
         "hold": 5,
@@ -973,6 +960,19 @@
         "consensus": "Buy",
         "strongBuy": 12,
         "strongSell": 0
+      },
+      {
+        "buy": 7,
+        "date": "2026-09-11",
+        "hold": 7,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 5.961538461538462,
+        "total": 26,
+        "updated": "2026-09-11",
+        "consensus": "Buy",
+        "strongBuy": 12,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -980,48 +980,48 @@
       "high": 500,
       "count": 17,
       "median": 425,
-      "average": 390.71,
-      "updated": "2026-08-17",
+      "average": 392.76,
+      "updated": "2026-09-12",
       "filtered": {
         "1": {
           "low": 153,
           "high": 500,
           "count": 17,
           "median": 425,
-          "average": 390.71,
-          "updated": "2026-08-17"
+          "average": 392.76,
+          "updated": "2026-09-12"
         },
         "2": {
           "low": 153,
           "high": 500,
           "count": 17,
           "median": 425,
-          "average": 390.71,
-          "updated": "2026-08-17"
+          "average": 392.76,
+          "updated": "2026-09-12"
         },
         "3": {
           "low": 153,
           "high": 500,
-          "count": 16,
-          "median": 430,
-          "average": 388.56,
-          "updated": "2026-08-17"
+          "count": 17,
+          "median": 425,
+          "average": 392.76,
+          "updated": "2026-09-12"
         },
         "4": {
           "low": 275,
           "high": 500,
-          "count": 14,
-          "median": 450,
-          "average": 406.36,
-          "updated": "2026-08-17"
+          "count": 15,
+          "median": 430,
+          "average": 406.6,
+          "updated": "2026-09-12"
         },
         "5": {
           "low": 275,
           "high": 500,
           "count": 14,
           "median": 450,
-          "average": 406.36,
-          "updated": "2026-08-17"
+          "average": 408.86,
+          "updated": "2026-09-12"
         }
       },
       "currency": "USD",
@@ -1075,16 +1075,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 291.22,
+          "c": 257.04,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 310,
+        "pt_old": null,
+        "firm": "Susquehanna",
+        "analyst": "Mehdi Hosseini",
+        "slug": "mehdi-hosseini",
+        "date": "2026-09-12",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 63.4,
+          "stars": 5,
+          "total": 500,
+          "avg_return": 28.7,
+          "return_pct": null,
+          "analyst_rank": 85,
+          "success_rate": 63.4,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Upgrades",
         "pt_now": 350,
@@ -1097,16 +1122,16 @@
         "rating_old": "",
         "time": "10:50:53",
         "scores": {
-          "score": 55.3,
+          "score": 55.1,
           "stars": 4.9,
-          "total": 503,
-          "avg_return": 21.6,
+          "total": 494,
+          "avg_return": 21.3,
           "return_pct": null,
-          "analyst_rank": 283,
-          "success_rate": 55.3,
-          "stock_avg_return": 89.5,
+          "analyst_rank": 279,
+          "success_rate": 55.1,
+          "stock_avg_return": 89.1,
           "stock_success_rate": 93.8,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1122,16 +1147,16 @@
         "rating_old": "",
         "time": "10:51:17",
         "scores": {
-          "score": 75,
+          "score": 83.3,
           "stars": 4.8,
           "total": 12,
-          "avg_return": 149.7,
+          "avg_return": 152.3,
           "return_pct": null,
-          "analyst_rank": 436,
-          "success_rate": 75,
-          "stock_avg_return": 21,
+          "analyst_rank": 392,
+          "success_rate": 83.3,
+          "stock_avg_return": 13.5,
           "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1147,16 +1172,16 @@
         "rating_old": "",
         "time": "14:24:53",
         "scores": {
-          "score": 68.5,
+          "score": 68,
           "stars": 5,
           "total": 482,
-          "avg_return": 38.2,
+          "avg_return": 38.5,
           "return_pct": null,
-          "analyst_rank": 28,
-          "success_rate": 68.5,
-          "stock_avg_return": 102.9,
+          "analyst_rank": 26,
+          "success_rate": 68,
+          "stock_avg_return": 99.3,
           "stock_success_rate": 83.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1172,41 +1197,16 @@
         "rating_old": "",
         "time": "13:30:12",
         "scores": {
-          "score": 58,
+          "score": 57.1,
           "stars": 4.9,
-          "total": 498,
-          "avg_return": 22.8,
+          "total": 499,
+          "avg_return": 22.6,
           "return_pct": null,
-          "analyst_rank": 215,
-          "success_rate": 58,
+          "analyst_rank": 211,
+          "success_rate": 57.1,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 500,
-        "pt_old": 425,
-        "firm": "RBC Capital",
-        "analyst": "Srini Pajjuri",
-        "slug": "srini-pajjuri",
-        "date": "2026-08-05",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:48:02",
-        "scores": {
-          "score": 73.5,
-          "stars": 5,
-          "total": 170,
-          "avg_return": 46.3,
-          "return_pct": null,
-          "analyst_rank": 103,
-          "success_rate": 73.5,
-          "stock_avg_return": 77.4,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
