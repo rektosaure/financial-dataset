@@ -1051,44 +1051,44 @@
       }
     ],
     "targets": {
-      "low": 1200,
+      "low": 1100,
       "high": 1750,
       "count": 15,
       "median": 1549,
-      "average": 1551.6,
-      "updated": "2026-09-08",
+      "average": 1544.93,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
-          "low": 1200,
+          "low": 1100,
           "high": 1750,
           "count": 12,
           "median": 1600,
-          "average": 1573.33,
-          "updated": "2026-09-08"
+          "average": 1565,
+          "updated": "2026-09-14"
         },
         "2": {
-          "low": 1200,
+          "low": 1100,
           "high": 1750,
           "count": 12,
           "median": 1600,
-          "average": 1573.33,
-          "updated": "2026-09-08"
+          "average": 1565,
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 1200,
+          "low": 1100,
           "high": 1750,
-          "count": 11,
-          "median": 1549,
-          "average": 1564.09,
-          "updated": "2026-09-08"
+          "count": 10,
+          "median": 1600,
+          "average": 1558,
+          "updated": "2026-09-14"
         },
         "4": {
-          "low": 1200,
+          "low": 1450,
           "high": 1700,
-          "count": 4,
+          "count": 3,
           "median": 1600,
-          "average": 1487.5,
-          "updated": "2026-09-08"
+          "average": 1583.33,
+          "updated": "2026-09-14"
         },
         "5": {
           "count": 0,
@@ -1146,16 +1146,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 985.39,
+          "c": 1003.315,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 1600,
+        "pt_old": null,
+        "firm": "Clear Street",
+        "analyst": "Owen Lau",
+        "slug": "owen-lau",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 64.1,
+          "stars": 4.6,
+          "total": 343,
+          "avg_return": 9,
+          "return_pct": null,
+          "analyst_rank": 918,
+          "success_rate": 64.1,
+          "stock_avg_return": -27.1,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 1100,
+        "pt_old": 1200,
+        "firm": "UBS",
+        "analyst": "Kevin Mcveigh",
+        "slug": "kevin-mcveigh",
+        "date": "2026-09-12",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "17:15:31",
+        "scores": {
+          "score": 53.9,
+          "stars": 3.9,
+          "total": 323,
+          "avg_return": 4.6,
+          "return_pct": null,
+          "analyst_rank": 2713,
+          "success_rate": 53.9,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 1450,
@@ -1166,43 +1216,18 @@
         "date": "2026-09-08",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "12:40:15",
         "scores": {
-          "score": 51.8,
+          "score": 50,
           "stars": 4.2,
-          "total": 307,
-          "avg_return": 7.4,
+          "total": 310,
+          "avg_return": 7.1,
           "return_pct": null,
-          "analyst_rank": 1938,
-          "success_rate": 51.8,
-          "stock_avg_return": -26,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 1200,
-        "pt_old": 1130,
-        "firm": "UBS",
-        "analyst": "Kevin Mcveigh",
-        "slug": "kevin-mcveigh",
-        "date": "2026-08-17",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "13:00:50",
-        "scores": {
-          "score": 55.1,
-          "stars": 4,
-          "total": 321,
-          "avg_return": 5.1,
-          "return_pct": null,
-          "analyst_rank": 2528,
-          "success_rate": 55.1,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 1996,
+          "success_rate": 50,
+          "stock_avg_return": -22.2,
+          "stock_success_rate": 10,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1218,16 +1243,16 @@
         "rating_old": "",
         "time": "08:01:06",
         "scores": {
-          "score": 54.5,
-          "stars": 3.6,
+          "score": 53.5,
+          "stars": 3.5,
           "total": 497,
-          "avg_return": 2.5,
+          "avg_return": 2.2,
           "return_pct": null,
-          "analyst_rank": 3541,
-          "success_rate": 54.5,
-          "stock_avg_return": 25.2,
+          "analyst_rank": 3709,
+          "success_rate": 53.5,
+          "stock_avg_return": 26,
           "stock_success_rate": 57.5,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1243,41 +1268,16 @@
         "rating_old": "",
         "time": "13:10:35",
         "scores": {
-          "score": 68.2,
-          "stars": 3.3,
+          "score": 54.5,
+          "stars": 3.2,
           "total": 22,
-          "avg_return": 10.9,
+          "avg_return": 9.2,
           "return_pct": null,
-          "analyst_rank": 4158,
-          "success_rate": 68.2,
+          "analyst_rank": 4567,
+          "success_rate": 54.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 1344,
-        "pt_old": 1494,
-        "firm": "Mizuho Securities",
-        "analyst": "Sean Kennedy",
-        "slug": "sean-kennedy",
-        "date": "2026-08-04",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "01:10:17",
-        "scores": {
-          "score": 24.4,
-          "stars": 0.1,
-          "total": 45,
-          "avg_return": -17.9,
-          "return_pct": null,
-          "analyst_rank": 12163,
-          "success_rate": 24.4,
-          "stock_avg_return": -11.8,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
