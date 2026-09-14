@@ -1011,42 +1011,42 @@
     "targets": {
       "low": 1.47,
       "high": 43,
-      "count": 22,
+      "count": 21,
       "median": 35,
-      "average": 33.65,
-      "updated": "2026-09-09",
+      "average": 33.79,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 1.47,
           "high": 43,
-          "count": 16,
+          "count": 15,
           "median": 35,
-          "average": 33.45,
+          "average": 33.77,
           "updated": "2026-09-09"
         },
         "2": {
-          "low": 28.7,
-          "high": 43,
-          "count": 15,
-          "median": 35,
-          "average": 35.59,
-          "updated": "2026-09-09"
-        },
-        "3": {
-          "low": 28.7,
+          "low": 30.1,
           "high": 43,
           "count": 14,
           "median": 35,
-          "average": 35.98,
+          "average": 36.08,
+          "updated": "2026-09-09"
+        },
+        "3": {
+          "low": 31,
+          "high": 43,
+          "count": 12,
+          "median": 35,
+          "average": 36.08,
           "updated": "2026-09-09"
         },
         "4": {
           "low": 31,
-          "high": 43,
-          "count": 9,
+          "high": 42,
+          "count": 7,
           "median": 35,
-          "average": 36.44,
-          "updated": "2026-09-09"
+          "average": 35.43,
+          "updated": "2026-07-29"
         },
         "5": {
           "count": 0,
@@ -1104,16 +1104,65 @@
           "t": "2026-08-01"
         },
         {
-          "c": 22.75,
+          "c": 22.63,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 36,
+        "pt_old": 38,
+        "firm": "Wells Fargo",
+        "analyst": "Trey Bowers",
+        "slug": "trey-bowers",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:30:24",
+        "scores": {
+          "score": 26.4,
+          "stars": 0.2,
+          "total": 87,
+          "avg_return": -11.9,
+          "return_pct": null,
+          "analyst_rank": 12118,
+          "success_rate": 26.4,
+          "stock_avg_return": -14.6,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Bernstein",
+        "analyst": "Richard Clarke",
+        "slug": "richard-clarke",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 50.2,
+          "stars": 3.2,
+          "total": 203,
+          "avg_return": 2.8,
+          "return_pct": null,
+          "analyst_rank": 4466,
+          "success_rate": 50.2,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 37,
@@ -1124,18 +1173,18 @@
         "date": "2026-09-09",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:55:50",
         "scores": {
-          "score": 44.9,
-          "stars": 4,
-          "total": 354,
-          "avg_return": 6.4,
+          "score": 43.9,
+          "stars": 3.9,
+          "total": 360,
+          "avg_return": 5.6,
           "return_pct": null,
-          "analyst_rank": 2430,
-          "success_rate": 44.9,
-          "stock_avg_return": 18.2,
-          "stock_success_rate": 57.9,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 2637,
+          "success_rate": 43.9,
+          "stock_avg_return": 16.6,
+          "stock_success_rate": 60,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1156,36 +1205,11 @@
           "total": 177,
           "avg_return": -1.5,
           "return_pct": null,
-          "analyst_rank": 10295,
+          "analyst_rank": 10213,
           "success_rate": 46.9,
-          "stock_avg_return": -4.9,
+          "stock_avg_return": -5.4,
           "stock_success_rate": 46.4,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 28.7,
-        "pt_old": null,
-        "firm": "Bernstein",
-        "analyst": "Richard Clarke",
-        "slug": "richard-clarke",
-        "date": "2026-08-28",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 51.7,
-          "stars": 3.4,
-          "total": 203,
-          "avg_return": 3.4,
-          "return_pct": null,
-          "analyst_rank": 4114,
-          "success_rate": 51.7,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1201,41 +1225,16 @@
         "rating_old": "",
         "time": "02:25:29",
         "scores": {
-          "score": 54.3,
-          "stars": 4.5,
-          "total": 468,
-          "avg_return": 8.2,
+          "score": 52.9,
+          "stars": 4.4,
+          "total": 480,
+          "avg_return": 7.4,
           "return_pct": null,
-          "analyst_rank": 1254,
-          "success_rate": 54.3,
+          "analyst_rank": 1390,
+          "success_rate": 52.9,
           "stock_avg_return": 2.4,
           "stock_success_rate": 48.1,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 42,
-        "pt_old": 45,
-        "firm": "Bank of America Securities",
-        "analyst": "Andrew Didora",
-        "slug": "andrew-didora",
-        "date": "2026-07-15",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:20:51",
-        "scores": {
-          "score": 53.1,
-          "stars": 3,
-          "total": 303,
-          "avg_return": 1.7,
-          "return_pct": null,
-          "analyst_rank": 5037,
-          "success_rate": 53.1,
-          "stock_avg_return": 11.8,
-          "stock_success_rate": 56.5,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
