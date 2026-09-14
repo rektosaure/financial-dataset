@@ -927,10 +927,10 @@
     "targets": {
       "low": 12,
       "high": 21,
-      "count": 15,
+      "count": 14,
       "median": 16.5,
-      "average": 16.57,
-      "updated": "2026-09-09",
+      "average": 16.86,
+      "updated": "2026-09-03",
       "filtered": {
         "1": {
           "low": 12,
@@ -1024,24 +1024,24 @@
           "t": "2026-08-01"
         },
         {
-          "c": 15.23,
+          "c": 14.635,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
       {
         "action_rt": "Maintains",
-        "pt_now": 12.5,
-        "pt_old": 12,
+        "pt_now": null,
+        "pt_old": null,
         "firm": "Bernstein",
         "analyst": "Unknown Analyst",
         "slug": "",
-        "date": "2026-09-09",
+        "date": "2026-09-14",
         "rating_new": "Hold",
         "rating_old": "",
         "time": "00:00:00",
@@ -1055,9 +1055,8 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
+          "number_of_ranked_experts": 12499
+        }
       },
       {
         "action_rt": "Downgrades",
@@ -1071,16 +1070,16 @@
         "rating_old": "",
         "time": "13:41:26",
         "scores": {
-          "score": 92.3,
-          "stars": 3.6,
+          "score": 76.9,
+          "stars": 3.5,
           "total": 13,
-          "avg_return": 19.4,
+          "avg_return": 16.9,
           "return_pct": null,
-          "analyst_rank": 3520,
-          "success_rate": 92.3,
-          "stock_avg_return": 0.2,
+          "analyst_rank": 3839,
+          "success_rate": 76.9,
+          "stock_avg_return": 0.5,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1097,15 +1096,15 @@
         "time": "00:00:00",
         "scores": {
           "score": 63.3,
-          "stars": 4.6,
+          "stars": 4.7,
           "total": 49,
           "avg_return": 34.9,
           "return_pct": null,
-          "analyst_rank": 888,
+          "analyst_rank": 829,
           "success_rate": 63.3,
           "stock_avg_return": -1.8,
           "stock_success_rate": 28.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1122,15 +1121,15 @@
         "time": "12:46:15",
         "scores": {
           "score": 87.5,
-          "stars": 3.2,
+          "stars": 3.4,
           "total": 8,
-          "avg_return": 21.2,
+          "avg_return": 23.6,
           "return_pct": null,
-          "analyst_rank": 4456,
+          "analyst_rank": 4036,
           "success_rate": 87.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1146,16 +1145,16 @@
         "rating_old": "",
         "time": "13:40:16",
         "scores": {
-          "score": 56.4,
+          "score": 53.8,
           "stars": 3.2,
           "total": 78,
-          "avg_return": 4.6,
+          "avg_return": 4.3,
           "return_pct": null,
-          "analyst_rank": 4475,
-          "success_rate": 56.4,
+          "analyst_rank": 4512,
+          "success_rate": 53.8,
           "stock_avg_return": 6.2,
           "stock_success_rate": 63.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -7786,7 +7785,7 @@
           2.684
         ],
         "pfcf": [
-          17.80929,
+          17.94111,
           19.979,
           15.421,
           9.111,
@@ -7794,7 +7793,7 @@
           3.484
         ],
         "pocf": [
-          6.59977,
+          6.64863,
           6.299,
           4.639,
           5.04,
@@ -7826,7 +7825,7 @@
           2.762
         ],
         "evfcf": [
-          22.35777,
+          22.52326,
           25.64,
           20.241,
           11.022,
@@ -7954,7 +7953,7 @@
           0.31787
         ],
         "fcfyield": [
-          0.0561505,
+          0.0557379,
           0.05005,
           0.06485,
           0.10976,
@@ -7962,7 +7961,7 @@
           0.28703
         ],
         "dividendyield": [
-          0.04677,
+          0.04872,
           0.07806,
           0.09939,
           0.11277,
@@ -7986,7 +7985,7 @@
           0.02198
         ],
         "totalreturn": [
-          0.04691,
+          0.048499999999999995,
           0.07924,
           0.12001,
           0.17146,
@@ -8226,7 +8225,7 @@
           2.805
         ],
         "pfcf": [
-          17.80929,
+          17.94111,
           17.712,
           21.285,
           19.979,
@@ -8249,7 +8248,7 @@
           3.525
         ],
         "pocf": [
-          6.59977,
+          6.64863,
           6.564,
           7.213,
           6.299,
@@ -8341,7 +8340,7 @@
           3.014
         ],
         "evfcf": [
-          22.35777,
+          22.52326,
           22.464,
           26.052,
           25.64,
@@ -8705,7 +8704,7 @@
           0.24393
         ],
         "fcfyield": [
-          0.0561505,
+          0.0557379,
           0.05646,
           0.04698,
           0.05005,
@@ -8728,7 +8727,7 @@
           0.28365
         ],
         "dividendyield": [
-          0.04677,
+          0.04872,
           null,
           null,
           0.07806,
@@ -8797,7 +8796,7 @@
           0.00869
         ],
         "totalreturn": [
-          0.04691,
+          0.048499999999999995,
           0.00208,
           -0.0002,
           0.07811,
@@ -8902,7 +8901,7 @@
           2.684
         ],
         "pfcf": [
-          17.80929,
+          17.94111,
           19.979,
           15.421,
           9.111,
@@ -8910,7 +8909,7 @@
           3.484
         ],
         "pocf": [
-          6.59977,
+          6.64863,
           6.299,
           4.639,
           5.04,
@@ -8942,7 +8941,7 @@
           2.762
         ],
         "evfcf": [
-          22.35777,
+          22.52326,
           25.64,
           20.241,
           11.022,
@@ -9070,7 +9069,7 @@
           0.31787
         ],
         "fcfyield": [
-          0.0561505,
+          0.0557379,
           0.05005,
           0.06485,
           0.10976,
@@ -9078,7 +9077,7 @@
           0.28703
         ],
         "dividendyield": [
-          0.04677,
+          0.04872,
           0.07806,
           0.09939,
           0.11277,
@@ -9102,7 +9101,7 @@
           0.02198
         ],
         "totalreturn": [
-          0.04691,
+          0.048499999999999995,
           0.07924,
           0.12001,
           0.17146,

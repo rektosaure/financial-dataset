@@ -1000,41 +1000,37 @@
       "low": 40,
       "high": 67,
       "count": 7,
-      "median": 55,
-      "average": 54.43,
-      "updated": "2026-09-10",
+      "median": 58,
+      "average": 56,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 40,
           "high": 67,
           "count": 6,
-          "median": 55,
-          "average": 53.83,
-          "updated": "2026-09-10"
+          "median": 65,
+          "average": 55.67,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 40,
           "high": 67,
           "count": 4,
-          "median": 65,
-          "average": 56.75,
-          "updated": "2026-09-10"
+          "median": 66,
+          "average": 59.5,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 40,
-          "high": 65,
+          "high": 66,
           "count": 3,
-          "median": 55,
-          "average": 53.33,
-          "updated": "2026-08-27"
+          "median": 65,
+          "average": 57,
+          "updated": "2026-09-14"
         },
         "4": {
-          "low": 55,
-          "high": 55,
-          "count": 1,
-          "median": 55,
-          "average": 55,
-          "updated": "2026-08-13"
+          "count": 0,
+          "updated": ""
         },
         "5": {
           "count": 0,
@@ -1092,16 +1088,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 50.46,
+          "c": 51.38,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 66,
+        "pt_old": 55,
+        "firm": "Bank of America Securities",
+        "analyst": "Robert Ford",
+        "slug": "robert-ford",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 61.3,
+          "stars": 3.9,
+          "total": 62,
+          "avg_return": 11.2,
+          "return_pct": null,
+          "analyst_rank": 2626,
+          "success_rate": 61.3,
+          "stock_avg_return": 27.2,
+          "stock_success_rate": 90,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 67,
@@ -1112,18 +1133,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "11:20:12",
+        "time": "11:21:00",
         "scores": {
-          "score": 40,
-          "stars": 2.5,
-          "total": 20,
-          "avg_return": 4.5,
+          "score": 38.1,
+          "stars": 2.4,
+          "total": 21,
+          "avg_return": 3.3,
           "return_pct": null,
-          "analyst_rank": 6165,
-          "success_rate": 40,
-          "stock_avg_return": 38.4,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 6519,
+          "success_rate": 38.1,
+          "stock_avg_return": 28.3,
+          "stock_success_rate": 80,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1148,7 +1169,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1167,13 +1188,13 @@
           "score": 81.2,
           "stars": 3.9,
           "total": 16,
-          "avg_return": 24.3,
+          "avg_return": 23.2,
           "return_pct": null,
-          "analyst_rank": 2713,
+          "analyst_rank": 2772,
           "success_rate": 81.2,
-          "stock_avg_return": 29.9,
+          "stock_avg_return": 28.8,
           "stock_success_rate": 92.9,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1192,38 +1213,13 @@
           "score": 59.5,
           "stars": 3.7,
           "total": 37,
-          "avg_return": 12.2,
+          "avg_return": 12.4,
           "return_pct": null,
-          "analyst_rank": 3200,
+          "analyst_rank": 3140,
           "success_rate": 59.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 55,
-        "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Robert Ford",
-        "slug": "robert-ford",
-        "date": "2026-08-13",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "14:20:10",
-        "scores": {
-          "score": 61.3,
-          "stars": 4,
-          "total": 62,
-          "avg_return": 11.4,
-          "return_pct": null,
-          "analyst_rank": 2614,
-          "success_rate": 61.3,
-          "stock_avg_return": 28.5,
-          "stock_success_rate": 90,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
