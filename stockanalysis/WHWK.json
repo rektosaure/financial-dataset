@@ -918,7 +918,7 @@
       "count": 5,
       "median": 8,
       "average": 8.2,
-      "updated": "2026-08-07",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 7,
@@ -926,7 +926,7 @@
           "count": 3,
           "median": 9,
           "average": 8.67,
-          "updated": "2026-08-07"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 7,
@@ -934,7 +934,7 @@
           "count": 3,
           "median": 9,
           "average": 8.67,
-          "updated": "2026-08-07"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 7,
@@ -942,7 +942,7 @@
           "count": 3,
           "median": 9,
           "average": 8.67,
-          "updated": "2026-08-07"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 7,
@@ -950,7 +950,7 @@
           "count": 3,
           "median": 9,
           "average": 8.67,
-          "updated": "2026-08-07"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 7,
@@ -958,7 +958,7 @@
           "count": 1,
           "median": 7,
           "average": 7,
-          "updated": "2026-08-07"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1012,16 +1012,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 4.11,
+          "c": 4.1,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 7,
+        "pt_old": null,
+        "firm": "JonesTrading",
+        "analyst": "Boris Peaker",
+        "slug": "boris-peaker",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 47.8,
+          "stars": 4.8,
+          "total": 475,
+          "avg_return": 22.6,
+          "return_pct": null,
+          "analyst_rank": 378,
+          "success_rate": 47.8,
+          "stock_avg_return": -33.7,
+          "stock_success_rate": 16.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 7,
@@ -1043,7 +1068,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1059,42 +1084,17 @@
         "rating_old": "",
         "time": "07:56:19",
         "scores": {
-          "score": 54.6,
+          "score": 51.7,
           "stars": 4.8,
           "total": 238,
-          "avg_return": 28.5,
+          "avg_return": 27.3,
           "return_pct": null,
-          "analyst_rank": 376,
-          "success_rate": 54.6,
+          "analyst_rank": 412,
+          "success_rate": 51.7,
           "stock_avg_return": -10.6,
           "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 7,
-        "pt_old": null,
-        "firm": "JonesTrading",
-        "analyst": "Boris Peaker",
-        "slug": "boris-peaker",
-        "date": "2026-08-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "01:30:24",
-        "scores": {
-          "score": 48.8,
-          "stars": 4.9,
-          "total": 475,
-          "avg_return": 23,
-          "return_pct": null,
-          "analyst_rank": 365,
-          "success_rate": 48.8,
-          "stock_avg_return": -32.8,
-          "stock_success_rate": 16.7,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Initiates",
@@ -1111,13 +1111,13 @@
           "score": 37.9,
           "stars": 4.1,
           "total": 404,
-          "avg_return": 7.3,
+          "avg_return": 7.2,
           "return_pct": null,
-          "analyst_rank": 2247,
+          "analyst_rank": 2253,
           "success_rate": 37.9,
-          "stock_avg_return": 9.1,
+          "stock_avg_return": 7,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1133,16 +1133,16 @@
         "rating_old": "",
         "time": "12:45:57",
         "scores": {
-          "score": 42.5,
+          "score": 40.2,
           "stars": 4.5,
           "total": 127,
-          "avg_return": 19.9,
+          "avg_return": 19.5,
           "return_pct": null,
-          "analyst_rank": 1226,
-          "success_rate": 42.5,
-          "stock_avg_return": 1.9,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 1266,
+          "success_rate": 40.2,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -6387,7 +6387,7 @@
           "Q4"
         ],
         "marketcap": [
-          234307031,
+          232881806,
           114050636,
           77762522,
           49542237,
@@ -6395,7 +6395,7 @@
           504590800
         ],
         "ev": [
-          44325031,
+          42899806,
           -48546364,
           16089521.000000002,
           -68423763,
@@ -6626,7 +6626,7 @@
           "Q3"
         ],
         "marketcap": [
-          234307031,
+          232881806,
           246327647,
           162828146,
           114050636,
@@ -6649,7 +6649,7 @@
           612932545
         ],
         "ev": [
-          44325031,
+          42899806,
           123284646,
           17131145,
           -48546364,
@@ -7177,7 +7177,7 @@
           "Q4"
         ],
         "marketcap": [
-          234307031,
+          232881806,
           114050636,
           77762522,
           49542237,
@@ -7185,7 +7185,7 @@
           504590800
         ],
         "ev": [
-          44325031,
+          42899806,
           -48546364,
           16089521.000000002,
           -68423763,
