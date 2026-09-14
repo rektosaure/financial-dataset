@@ -1002,7 +1002,7 @@
       "count": 9,
       "median": 19,
       "average": 19.42,
-      "updated": "2026-08-19",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 13,
@@ -1010,7 +1010,7 @@
           "count": 7,
           "median": 19,
           "average": 19.68,
-          "updated": "2026-08-19"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 13,
@@ -1018,7 +1018,7 @@
           "count": 7,
           "median": 19,
           "average": 19.68,
-          "updated": "2026-08-19"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 13,
@@ -1026,7 +1026,7 @@
           "count": 7,
           "median": 19,
           "average": 19.68,
-          "updated": "2026-08-19"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 13,
@@ -1034,7 +1034,7 @@
           "count": 6,
           "median": 19,
           "average": 18.79,
-          "updated": "2026-08-19"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 19,
@@ -1042,7 +1042,7 @@
           "count": 1,
           "median": 19,
           "average": 19,
-          "updated": "2026-07-06"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1096,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 7.23,
+          "c": 7.4,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 19,
+        "pt_old": null,
+        "firm": "Lake Street",
+        "analyst": "Max Michaelis",
+        "slug": "max-michaelis",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 50.5,
+          "stars": 4.8,
+          "total": 95,
+          "avg_return": 35.4,
+          "return_pct": null,
+          "analyst_rank": 581,
+          "success_rate": 50.5,
+          "stock_avg_return": 174.5,
+          "stock_success_rate": 46.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 18,
@@ -1118,16 +1143,16 @@
         "rating_old": "",
         "time": "13:40:12",
         "scores": {
-          "score": 58.5,
-          "stars": 4.6,
-          "total": 494,
+          "score": 58.2,
+          "stars": 4.7,
+          "total": 493,
           "avg_return": 8.9,
           "return_pct": null,
-          "analyst_rank": 883,
-          "success_rate": 58.5,
-          "stock_avg_return": -37.5,
+          "analyst_rank": 852,
+          "success_rate": 58.2,
+          "stock_avg_return": -38.9,
           "stock_success_rate": 7.1,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1143,16 +1168,16 @@
         "rating_old": "",
         "time": "16:30:38",
         "scores": {
-          "score": 44.5,
-          "stars": 4.6,
-          "total": 449,
-          "avg_return": 13,
+          "score": 46,
+          "stars": 4.7,
+          "total": 450,
+          "avg_return": 13.2,
           "return_pct": null,
-          "analyst_rank": 977,
-          "success_rate": 44.5,
-          "stock_avg_return": -17.5,
+          "analyst_rank": 860,
+          "success_rate": 46,
+          "stock_avg_return": -21.7,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1171,13 +1196,13 @@
           "score": 43.7,
           "stars": 4,
           "total": 126,
-          "avg_return": 10.6,
+          "avg_return": 10.3,
           "return_pct": null,
-          "analyst_rank": 2424,
+          "analyst_rank": 2402,
           "success_rate": 43.7,
-          "stock_avg_return": -15.3,
+          "stock_avg_return": -19.6,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1193,41 +1218,16 @@
         "rating_old": "",
         "time": "13:40:06",
         "scores": {
-          "score": 35.4,
-          "stars": 4.3,
-          "total": 489,
-          "avg_return": 9.2,
+          "score": 33.3,
+          "stars": 4,
+          "total": 502,
+          "avg_return": 6.8,
           "return_pct": null,
-          "analyst_rank": 1771,
-          "success_rate": 35.4,
-          "stock_avg_return": 185.1,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 22,
-        "pt_old": null,
-        "firm": "Maxim Group",
-        "analyst": "Matthew Galinko",
-        "slug": "matthew-galinko",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:56:39",
-        "scores": {
-          "score": 39.9,
-          "stars": 4.6,
-          "total": 373,
-          "avg_return": 15,
-          "return_pct": null,
-          "analyst_rank": 1025,
-          "success_rate": 39.9,
-          "stock_avg_return": 213.4,
-          "stock_success_rate": 52.6,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 2392,
+          "success_rate": 33.3,
+          "stock_avg_return": 183.5,
+          "stock_success_rate": 45.8,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

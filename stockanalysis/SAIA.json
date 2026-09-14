@@ -1002,7 +1002,7 @@
       "count": 18,
       "median": 470,
       "average": 445.94,
-      "updated": "2026-09-10",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 285,
@@ -1010,7 +1010,7 @@
           "count": 18,
           "median": 470,
           "average": 445.94,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 400,
@@ -1018,7 +1018,7 @@
           "count": 17,
           "median": 470,
           "average": 455.41,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 400,
@@ -1026,7 +1026,7 @@
           "count": 16,
           "median": 475,
           "average": 454.5,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 400,
@@ -1096,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 351.05,
+          "c": 350.99,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 400,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Ken Hoexter",
+        "slug": "ken-hoexter",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:25:32",
+        "scores": {
+          "score": 49,
+          "stars": 3.4,
+          "total": 498,
+          "avg_return": 2.2,
+          "return_pct": null,
+          "analyst_rank": 4009,
+          "success_rate": 49,
+          "stock_avg_return": -15,
+          "stock_success_rate": 30.4,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 439,
@@ -1116,18 +1141,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "10:25:10",
+        "time": "10:27:20",
         "scores": {
-          "score": 63.5,
+          "score": 64,
           "stars": 4.5,
-          "total": 222,
-          "avg_return": 10.1,
+          "total": 225,
+          "avg_return": 10.2,
           "return_pct": null,
-          "analyst_rank": 1214,
-          "success_rate": 63.5,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 1158,
+          "success_rate": 64,
+          "stock_avg_return": 1.4,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1143,16 +1168,16 @@
         "rating_old": "",
         "time": "10:21:00",
         "scores": {
-          "score": 58.4,
+          "score": 58.8,
           "stars": 4.8,
           "total": 481,
-          "avg_return": 13.1,
+          "avg_return": 13.2,
           "return_pct": null,
-          "analyst_rank": 515,
-          "success_rate": 58.4,
+          "analyst_rank": 485,
+          "success_rate": 58.8,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1168,16 +1193,16 @@
         "rating_old": "",
         "time": "12:55:49",
         "scores": {
-          "score": 47.9,
+          "score": 48.1,
           "stars": 4.2,
           "total": 428,
-          "avg_return": 6.2,
+          "avg_return": 6.3,
           "return_pct": null,
-          "analyst_rank": 2087,
-          "success_rate": 47.9,
-          "stock_avg_return": -7.9,
-          "stock_success_rate": 26.1,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 2008,
+          "success_rate": 48.1,
+          "stock_avg_return": -7.4,
+          "stock_success_rate": 30.4,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1193,41 +1218,16 @@
         "rating_old": "",
         "time": "09:35:33",
         "scores": {
-          "score": 72.2,
+          "score": 72.7,
           "stars": 4.9,
-          "total": 335,
-          "avg_return": 18.7,
+          "total": 337,
+          "avg_return": 18.6,
           "return_pct": null,
-          "analyst_rank": 190,
-          "success_rate": 72.2,
-          "stock_avg_return": 14.8,
-          "stock_success_rate": 64,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 400,
-        "pt_old": 450,
-        "firm": "Bank of America Securities",
-        "analyst": "Ken Hoexter",
-        "slug": "ken-hoexter",
-        "date": "2026-09-04",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "02:25:37",
-        "scores": {
-          "score": 49.2,
-          "stars": 3.3,
-          "total": 498,
-          "avg_return": 2,
-          "return_pct": null,
-          "analyst_rank": 4239,
-          "success_rate": 49.2,
-          "stock_avg_return": -15.1,
-          "stock_success_rate": 30.4,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 178,
+          "success_rate": 72.7,
+          "stock_avg_return": 15,
+          "stock_success_rate": 68,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }

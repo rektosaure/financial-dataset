@@ -1014,7 +1014,7 @@
       "count": 9,
       "median": 57,
       "average": 57.89,
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 52,
@@ -1022,7 +1022,7 @@
           "count": 9,
           "median": 57,
           "average": 57.89,
-          "updated": "2026-08-27"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 52,
@@ -1030,23 +1030,23 @@
           "count": 9,
           "median": 57,
           "average": 57.89,
-          "updated": "2026-08-27"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 52,
-          "high": 68,
-          "count": 8,
+          "high": 60,
+          "count": 6,
           "median": 57,
-          "average": 58.13,
-          "updated": "2026-08-27"
+          "average": 56.5,
+          "updated": "2026-08-24"
         },
         "4": {
           "low": 57,
-          "high": 58,
-          "count": 3,
+          "high": 57,
+          "count": 2,
           "median": 57,
-          "average": 57.33,
-          "updated": "2026-08-27"
+          "average": 57,
+          "updated": "2026-08-04"
         },
         "5": {
           "low": 57,
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 43.22,
+          "c": 43.51,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 58,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Brian Morgan",
+        "slug": "brian-morgan",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 63.6,
+          "stars": 2.8,
+          "total": 33,
+          "avg_return": 4,
+          "return_pct": null,
+          "analyst_rank": 5559,
+          "success_rate": 63.6,
+          "stock_avg_return": -2.3,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": null,
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "10:00:55",
         "scores": {
-          "score": 66.7,
+          "score": 75,
           "stars": 1.9,
-          "total": 3,
-          "avg_return": 9.5,
+          "total": 4,
+          "avg_return": 4.3,
           "return_pct": null,
-          "analyst_rank": 7754,
-          "success_rate": 66.7,
-          "stock_avg_return": 17.3,
+          "analyst_rank": 7738,
+          "success_rate": 75,
+          "stock_avg_return": 6.5,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1163,33 +1188,8 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 58,
-        "pt_old": 57,
-        "firm": "Morgan Stanley",
-        "analyst": "Ioannis Masvoulas",
-        "slug": "ioannis-masvoulas",
-        "date": "2026-08-27",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:06:06",
-        "scores": {
-          "score": 60.4,
-          "stars": 4.2,
-          "total": 222,
-          "avg_return": 7.2,
-          "return_pct": null,
-          "analyst_rank": 2004,
-          "success_rate": 60.4,
-          "stock_avg_return": 2.6,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Reiterates",
@@ -1203,16 +1203,16 @@
         "rating_old": "",
         "time": "11:30:21",
         "scores": {
-          "score": 54.6,
-          "stars": 3.7,
-          "total": 350,
-          "avg_return": 3.6,
+          "score": 50.4,
+          "stars": 3.2,
+          "total": 353,
+          "avg_return": 2,
           "return_pct": null,
-          "analyst_rank": 3152,
-          "success_rate": 54.6,
-          "stock_avg_return": 8.2,
-          "stock_success_rate": 70.6,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 4477,
+          "success_rate": 50.4,
+          "stock_avg_return": 4.1,
+          "stock_success_rate": 58.8,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1228,16 +1228,16 @@
         "rating_old": "",
         "time": "12:20:48",
         "scores": {
-          "score": 56.5,
-          "stars": 3.1,
+          "score": 55.3,
+          "stars": 2.9,
           "total": 85,
-          "avg_return": 3.8,
+          "avg_return": 2.9,
           "return_pct": null,
-          "analyst_rank": 4788,
-          "success_rate": 56.5,
-          "stock_avg_return": 2.9,
+          "analyst_rank": 5187,
+          "success_rate": 55.3,
+          "stock_avg_return": -0.8,
           "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
