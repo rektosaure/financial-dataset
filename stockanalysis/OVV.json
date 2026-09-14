@@ -1055,48 +1055,48 @@
       "high": 92,
       "count": 20,
       "median": 73,
-      "average": 73.05,
-      "updated": "2026-09-11",
+      "average": 73.6,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 55,
           "high": 92,
           "count": 19,
           "median": 70,
-          "average": 73.05,
-          "updated": "2026-09-11"
+          "average": 73.63,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 55,
           "high": 92,
           "count": 18,
           "median": 74,
-          "average": 73.28,
-          "updated": "2026-09-11"
+          "average": 73.89,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 55,
           "high": 92,
           "count": 17,
           "median": 70,
-          "average": 73.24,
-          "updated": "2026-09-11"
+          "average": 73.88,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 55,
           "high": 85,
           "count": 15,
           "median": 70,
-          "average": 71.87,
-          "updated": "2026-09-11"
+          "average": 72.6,
+          "updated": "2026-09-14"
         },
         "5": {
-          "low": 67,
+          "low": 68,
           "high": 85,
-          "count": 7,
-          "median": 74,
-          "average": 74.43,
-          "updated": "2026-09-11"
+          "count": 6,
+          "median": 80,
+          "average": 77.5,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1150,16 +1150,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 63.69,
+          "c": 65.875,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 85,
+        "pt_old": 74,
+        "firm": "UBS",
+        "analyst": "Josh Silverstein",
+        "slug": "josh-silverstein",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 64.4,
+          "stars": 4.8,
+          "total": 436,
+          "avg_return": 13.3,
+          "return_pct": null,
+          "analyst_rank": 400,
+          "success_rate": 64.4,
+          "stock_avg_return": 35.2,
+          "stock_success_rate": 74.4,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 73,
@@ -1172,16 +1197,16 @@
         "rating_old": "",
         "time": "11:50:48",
         "scores": {
-          "score": 49.6,
+          "score": 48.6,
           "stars": 0.2,
-          "total": 244,
+          "total": 245,
           "avg_return": -5.9,
           "return_pct": null,
-          "analyst_rank": 11925,
-          "success_rate": 49.6,
-          "stock_avg_return": 11.4,
-          "stock_success_rate": 52.4,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 11924,
+          "success_rate": 48.6,
+          "stock_avg_return": 10.7,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1197,16 +1222,16 @@
         "rating_old": "",
         "time": "11:20:35",
         "scores": {
-          "score": 66.3,
+          "score": 66.1,
           "stars": 5,
           "total": 493,
           "avg_return": 24,
           "return_pct": null,
-          "analyst_rank": 100,
-          "success_rate": 66.3,
-          "stock_avg_return": -6.1,
+          "analyst_rank": 99,
+          "success_rate": 66.1,
+          "stock_avg_return": -5.2,
           "stock_success_rate": 60,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1222,16 +1247,16 @@
         "rating_old": "",
         "time": "20:55:36",
         "scores": {
-          "score": 20,
-          "stars": 3.6,
-          "total": 15,
-          "avg_return": 23.8,
+          "score": 64.7,
+          "stars": 3.8,
+          "total": 17,
+          "avg_return": 21.1,
           "return_pct": null,
-          "analyst_rank": 3482,
-          "success_rate": 20,
-          "stock_avg_return": 0,
+          "analyst_rank": 3081,
+          "success_rate": 64.7,
+          "stock_avg_return": -0.4,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1247,41 +1272,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 64.7,
-          "stars": 2.4,
+          "score": 52.9,
+          "stars": 2.3,
           "total": 17,
-          "avg_return": 3.5,
+          "avg_return": 2.9,
           "return_pct": null,
-          "analyst_rank": 6538,
-          "success_rate": 64.7,
-          "stock_avg_return": 9.4,
+          "analyst_rank": 6793,
+          "success_rate": 52.9,
+          "stock_avg_return": 8.2,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 79,
-        "pt_old": 78,
-        "firm": "Wells Fargo",
-        "analyst": "Sam Margolin",
-        "slug": "sam-margolin",
-        "date": "2026-09-02",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:36:00",
-        "scores": {
-          "score": 75.3,
-          "stars": 4.9,
-          "total": 336,
-          "avg_return": 19.7,
-          "return_pct": null,
-          "analyst_rank": 133,
-          "success_rate": 75.3,
-          "stock_avg_return": 9.7,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -7070,7 +7070,7 @@
           "Q4"
         ],
         "marketcap": [
-          17546823010,
+          18062014705,
           9925202966,
           10543140792,
           11932970363,
@@ -7078,7 +7078,7 @@
           8798545123
         ],
         "ev": [
-          21875823010,
+          22391014705,
           16329202966,
           17309140792,
           19008970362,
@@ -7094,7 +7094,7 @@
           30.055889
         ],
         "pe": [
-          18.41985,
+          19.15157,
           7.991,
           9.372,
           5.723,
@@ -7102,7 +7102,7 @@
           6.214
         ],
         "peForward": [
-          8.5309,
+          8.86978,
           8.017,
           7.248,
           5.523,
@@ -7310,7 +7310,7 @@
           0.18173
         ],
         "dividendyield": [
-          0.01884,
+          0.01812,
           0.03095,
           0.03086,
           0.02802,
@@ -7413,7 +7413,7 @@
           "Q3"
         ],
         "marketcap": [
-          17546823010,
+          18062014705,
           14795629343,
           16818793084,
           9925202966,
@@ -7436,7 +7436,7 @@
           8584455894.000001
         ],
         "ev": [
-          21875823010,
+          22391014705,
           22579629342,
           22922793083,
           16329202966,
@@ -7482,7 +7482,7 @@
           29.199202
         ],
         "pe": [
-          18.41985,
+          19.15157,
           16.082,
           null,
           7.991,
@@ -7505,7 +7505,7 @@
           null
         ],
         "peForward": [
-          8.5309,
+          8.86978,
           6.279,
           8.953,
           8.017,
@@ -8099,7 +8099,7 @@
           0.19419
         ],
         "dividendyield": [
-          0.01884,
+          0.01812,
           0.02279,
           0.02032,
           0.03095,
@@ -8217,7 +8217,7 @@
           "Q4"
         ],
         "marketcap": [
-          17546823010,
+          18062014705,
           9925202966,
           10543140792,
           11932970363,
@@ -8225,7 +8225,7 @@
           8798545123
         ],
         "ev": [
-          21875823010,
+          22391014705,
           16329202966,
           17309140792,
           19008970362,
@@ -8241,7 +8241,7 @@
           30.055889
         ],
         "pe": [
-          18.41985,
+          19.15157,
           7.991,
           9.372,
           5.723,
@@ -8249,7 +8249,7 @@
           6.214
         ],
         "peForward": [
-          8.5309,
+          8.86978,
           8.017,
           7.248,
           5.523,
@@ -8457,7 +8457,7 @@
           0.18173
         ],
         "dividendyield": [
-          0.01884,
+          0.01812,
           0.03095,
           0.03086,
           0.02802,

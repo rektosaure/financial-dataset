@@ -1035,7 +1035,7 @@
       "count": 22,
       "median": 104,
       "average": 102.86,
-      "updated": "2026-09-10",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 83,
@@ -1043,7 +1043,7 @@
           "count": 19,
           "median": 104,
           "average": 103.74,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 83,
@@ -1051,14 +1051,14 @@
           "count": 17,
           "median": 104,
           "average": 103.41,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 83,
+          "low": 90,
           "high": 120,
-          "count": 16,
+          "count": 14,
           "median": 104,
-          "average": 103,
+          "average": 103.93,
           "updated": "2026-09-10"
         },
         "4": {
@@ -1125,16 +1125,65 @@
           "t": "2026-08-01"
         },
         {
-          "c": 90.96,
+          "c": 93.32,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 110,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Travis Steed",
+        "slug": "travis-steed",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:31:19",
+        "scores": {
+          "score": 49.1,
+          "stars": 2.8,
+          "total": 377,
+          "avg_return": 1.2,
+          "return_pct": null,
+          "analyst_rank": 5497,
+          "success_rate": 49.1,
+          "stock_avg_return": 3.9,
+          "stock_success_rate": 56.8,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "William Blair",
+        "analyst": "Brandon Vazquez",
+        "slug": "brandon-vazquez",
+        "date": "2026-09-10",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:25:28",
+        "scores": {
+          "score": 33.3,
+          "stars": 0.2,
+          "total": 186,
+          "avg_return": -7,
+          "return_pct": null,
+          "analyst_rank": 12007,
+          "success_rate": 33.3,
+          "stock_avg_return": 2.3,
+          "stock_success_rate": 40,
+          "number_of_ranked_experts": 12499
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 110,
@@ -1147,16 +1196,16 @@
         "rating_old": "",
         "time": "10:16:39",
         "scores": {
-          "score": 51.3,
-          "stars": 2.7,
-          "total": 495,
-          "avg_return": 0.9,
+          "score": 49.4,
+          "stars": 2.3,
+          "total": 496,
+          "avg_return": 0.4,
           "return_pct": null,
-          "analyst_rank": 5682,
-          "success_rate": 51.3,
-          "stock_avg_return": -4.3,
+          "analyst_rank": 6687,
+          "success_rate": 49.4,
+          "stock_avg_return": -4.7,
           "stock_success_rate": 40.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1172,65 +1221,16 @@
         "rating_old": "",
         "time": "09:30:51",
         "scores": {
-          "score": 51,
+          "score": 50.3,
           "stars": 3.8,
-          "total": 502,
-          "avg_return": 3.5,
+          "total": 501,
+          "avg_return": 3.3,
           "return_pct": null,
-          "analyst_rank": 2965,
-          "success_rate": 51,
-          "stock_avg_return": 7.7,
+          "analyst_rank": 3083,
+          "success_rate": 50.3,
+          "stock_avg_return": 7.4,
           "stock_success_rate": 74.3,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Brandon Vazquez",
-        "slug": "brandon-vazquez",
-        "date": "2026-09-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 34.1,
-          "stars": 0.2,
-          "total": 185,
-          "avg_return": -6.3,
-          "return_pct": null,
-          "analyst_rank": 11938,
-          "success_rate": 34.1,
-          "stock_avg_return": 3.3,
-          "stock_success_rate": 40,
-          "number_of_ranked_experts": 12502
-        }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 110,
-        "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Travis Steed",
-        "slug": "travis-steed",
-        "date": "2026-09-08",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:26:00",
-        "scores": {
-          "score": 50.1,
-          "stars": 3,
-          "total": 377,
-          "avg_return": 1.6,
-          "return_pct": null,
-          "analyst_rank": 4971,
-          "success_rate": 50.1,
-          "stock_avg_return": 4.2,
-          "stock_success_rate": 62.2,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1251,11 +1251,11 @@
           "total": 372,
           "avg_return": 7.3,
           "return_pct": null,
-          "analyst_rank": 1719,
+          "analyst_rank": 1680,
           "success_rate": 51.9,
           "stock_avg_return": 7,
           "stock_success_rate": 62.5,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
