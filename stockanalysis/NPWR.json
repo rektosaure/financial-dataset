@@ -914,10 +914,10 @@
     "targets": {
       "low": 2.5,
       "high": 3.5,
-      "count": 2,
-      "median": 3.5,
-      "average": 3,
-      "updated": "2026-09-10",
+      "count": 3,
+      "median": 2.75,
+      "average": 2.92,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 2.5,
@@ -1003,16 +1003,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 1.91,
+          "c": 1.82,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 2.75,
+        "pt_old": null,
+        "firm": "Northland Securities",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:55:06",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 3.5,
@@ -1023,18 +1048,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "10:35:08",
+        "time": "10:36:06",
         "scores": {
-          "score": 55.9,
-          "stars": 3.4,
-          "total": 118,
-          "avg_return": 4.2,
+          "score": 55.5,
+          "stars": 3.3,
+          "total": 119,
+          "avg_return": 4,
           "return_pct": null,
-          "analyst_rank": 4074,
-          "success_rate": 55.9,
-          "stock_avg_return": -36.3,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 4131,
+          "success_rate": 55.5,
+          "stock_avg_return": -25.5,
+          "stock_success_rate": 25,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1050,16 +1075,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 52.5,
+          "score": 52.7,
           "stars": 3.9,
-          "total": 322,
-          "avg_return": 4.6,
+          "total": 328,
+          "avg_return": 4.7,
           "return_pct": null,
-          "analyst_rank": 2800,
-          "success_rate": 52.5,
+          "analyst_rank": 2715,
+          "success_rate": 52.7,
           "stock_avg_return": -38.5,
           "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
