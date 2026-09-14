@@ -997,36 +997,36 @@
       }
     ],
     "targets": {
-      "low": 7,
+      "low": 5,
       "high": 16,
-      "count": 6,
-      "median": 9,
-      "average": 9.33,
-      "updated": "2026-08-14",
+      "count": 7,
+      "median": 7,
+      "average": 8.71,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
-          "low": 7,
+          "low": 5,
           "high": 16,
-          "count": 5,
+          "count": 6,
           "median": 9,
-          "average": 9.8,
-          "updated": "2026-08-14"
+          "average": 9,
+          "updated": "2026-09-14"
         },
         "2": {
-          "low": 7,
+          "low": 5,
           "high": 16,
-          "count": 5,
+          "count": 6,
           "median": 9,
-          "average": 9.8,
-          "updated": "2026-08-14"
+          "average": 9,
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 7,
+          "low": 5,
           "high": 16,
-          "count": 4,
-          "median": 10,
-          "average": 10,
-          "updated": "2026-08-14"
+          "count": 5,
+          "median": 7,
+          "average": 9,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 7,
@@ -1096,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 4.61,
+          "c": 4.37,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 5,
+        "pt_old": null,
+        "firm": "J.P. Morgan",
+        "analyst": "Mark Strouse",
+        "slug": "mark-strouse",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:10:05",
+        "scores": {
+          "score": 43.6,
+          "stars": 3.9,
+          "total": 493,
+          "avg_return": 4.4,
+          "return_pct": null,
+          "analyst_rank": 2850,
+          "success_rate": 43.6,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 10,
@@ -1118,16 +1143,16 @@
         "rating_old": "",
         "time": "12:16:26",
         "scores": {
-          "score": 41.4,
-          "stars": 4.2,
+          "score": 41.2,
+          "stars": 4.3,
           "total": 490,
           "avg_return": 7.5,
           "return_pct": null,
-          "analyst_rank": 1926,
-          "success_rate": 41.4,
-          "stock_avg_return": -5.5,
+          "analyst_rank": 1861,
+          "success_rate": 41.2,
+          "stock_avg_return": -5.3,
           "stock_success_rate": 28.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1143,16 +1168,16 @@
         "rating_old": "",
         "time": "13:30:10",
         "scores": {
-          "score": 55.3,
+          "score": 55.1,
           "stars": 4.9,
-          "total": 503,
-          "avg_return": 21.6,
+          "total": 494,
+          "avg_return": 21.3,
           "return_pct": null,
-          "analyst_rank": 283,
-          "success_rate": 55.3,
-          "stock_avg_return": -32,
+          "analyst_rank": 279,
+          "success_rate": 55.1,
+          "stock_avg_return": -31.8,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1168,16 +1193,16 @@
         "rating_old": "",
         "time": "13:30:22",
         "scores": {
-          "score": 50.6,
+          "score": 44.6,
           "stars": 4.8,
           "total": 251,
-          "avg_return": 26.7,
+          "avg_return": 25.1,
           "return_pct": null,
-          "analyst_rank": 440,
-          "success_rate": 50.6,
-          "stock_avg_return": -5.8,
+          "analyst_rank": 527,
+          "success_rate": 44.6,
+          "stock_avg_return": -5.6,
           "stock_success_rate": 40,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1193,41 +1218,16 @@
         "rating_old": "",
         "time": "19:15:26",
         "scores": {
-          "score": 30.1,
+          "score": 34.2,
           "stars": 0.1,
           "total": 73,
-          "avg_return": -14,
+          "avg_return": -14.1,
           "return_pct": null,
-          "analyst_rank": 12157,
-          "success_rate": 30.1,
-          "stock_avg_return": -5.5,
+          "analyst_rank": 12139,
+          "success_rate": 34.2,
+          "stock_avg_return": -5.3,
           "stock_success_rate": 42.9,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 9,
-        "pt_old": null,
-        "firm": "Bernstein",
-        "analyst": "Sunaina Ocalan‏",
-        "slug": "sunaina-ocalan‏",
-        "date": "2026-06-16",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "20:42:35",
-        "scores": {
-          "score": 61.5,
-          "stars": 2.5,
-          "total": 13,
-          "avg_return": 5.8,
-          "return_pct": null,
-          "analyst_rank": 6199,
-          "success_rate": 61.5,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -7830,7 +7830,7 @@
           "Q4"
         ],
         "marketcap": [
-          1357536780,
+          1286862414,
           1755022920,
           402294893,
           261248788,
@@ -7838,7 +7838,7 @@
           1306422175
         ],
         "ev": [
-          2056928780,
+          1986254414,
           2481465919,
           236420892,
           -14450213,
@@ -7862,7 +7862,7 @@
           null
         ],
         "ps": [
-          1.36183,
+          1.28207,
           2.324,
           136.742,
           null,
@@ -7894,7 +7894,7 @@
           null
         ],
         "pocf": [
-          351.05683,
+          330.49602,
           18.384,
           null,
           null,
@@ -7902,7 +7902,7 @@
           null
         ],
         "evrevenue": [
-          2.06343,
+          1.98367,
           3.285,
           80.361,
           null,
@@ -8022,7 +8022,7 @@
           -0.126
         ],
         "earningsyield": [
-          -0.2922897,
+          -0.3104736,
           -0.20959,
           -1.11896,
           -0.27539,
@@ -8030,7 +8030,7 @@
           -0.07148
         ],
         "fcfyield": [
-          -0.13613630000000002,
+          -0.1446056,
           0.0095,
           -0.38193,
           -1.05551,
@@ -8117,7 +8117,7 @@
           "Q3"
         ],
         "marketcap": [
-          1357536780,
+          1286862414,
           2647492682,
           1224971319,
           1755022920,
@@ -8140,7 +8140,7 @@
           1149264685
         ],
         "ev": [
-          2056928780,
+          1986254414,
           3223408682,
           1662659319,
           2481465919,
@@ -8232,7 +8232,7 @@
           null
         ],
         "ps": [
-          1.36183,
+          1.28207,
           2.656,
           1.393,
           2.324,
@@ -8324,7 +8324,7 @@
           null
         ],
         "pocf": [
-          351.05683,
+          330.49602,
           null,
           null,
           18.384,
@@ -8347,7 +8347,7 @@
           null
         ],
         "evrevenue": [
-          2.06343,
+          1.98367,
           3.234,
           1.89,
           3.285,
@@ -8734,7 +8734,7 @@
           -0.101
         ],
         "earningsyield": [
-          -0.2922897,
+          -0.3104736,
           -0.14491,
           -0.30369,
           -0.20959,
@@ -8757,7 +8757,7 @@
           -0.0614
         ],
         "fcfyield": [
-          -0.13613630000000002,
+          -0.1446056,
           -0.06981,
           -0.03509,
           0.0095,
@@ -8829,7 +8829,7 @@
           "Q4"
         ],
         "marketcap": [
-          1357536780,
+          1286862414,
           1755022920,
           402294893,
           261248788,
@@ -8837,7 +8837,7 @@
           1306422175
         ],
         "ev": [
-          2056928780,
+          1986254414,
           2481465919,
           236420892,
           -14450213,
@@ -8861,7 +8861,7 @@
           null
         ],
         "ps": [
-          1.36183,
+          1.28207,
           2.324,
           136.742,
           null,
@@ -8893,7 +8893,7 @@
           null
         ],
         "pocf": [
-          351.05683,
+          330.49602,
           18.384,
           null,
           null,
@@ -8901,7 +8901,7 @@
           null
         ],
         "evrevenue": [
-          2.06343,
+          1.98367,
           3.285,
           80.361,
           null,
@@ -9021,7 +9021,7 @@
           -0.126
         ],
         "earningsyield": [
-          -0.2922897,
+          -0.3104736,
           -0.20959,
           -1.11896,
           -0.27539,
@@ -9029,7 +9029,7 @@
           -0.07148
         ],
         "fcfyield": [
-          -0.13613630000000002,
+          -0.1446056,
           0.0095,
           -0.38193,
           -1.05551,
