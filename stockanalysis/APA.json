@@ -1053,50 +1053,50 @@
     "targets": {
       "low": 30,
       "high": 62,
-      "count": 22,
-      "median": 41,
-      "average": 43.05,
-      "updated": "2026-09-10",
+      "count": 21,
+      "median": 43,
+      "average": 43.62,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 30,
           "high": 62,
-          "count": 21,
-          "median": 41,
-          "average": 43.24,
-          "updated": "2026-09-10"
+          "count": 20,
+          "median": 44,
+          "average": 43.85,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 30,
           "high": 62,
-          "count": 21,
-          "median": 41,
-          "average": 43.24,
-          "updated": "2026-09-10"
+          "count": 20,
+          "median": 44,
+          "average": 43.85,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 30,
           "high": 62,
-          "count": 21,
-          "median": 41,
-          "average": 43.24,
-          "updated": "2026-09-10"
+          "count": 20,
+          "median": 44,
+          "average": 43.85,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 30,
           "high": 54,
-          "count": 18,
-          "median": 41,
-          "average": 42,
-          "updated": "2026-09-07"
+          "count": 17,
+          "median": 43,
+          "average": 42.65,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 39,
           "high": 54,
-          "count": 9,
-          "median": 43,
-          "average": 44,
-          "updated": "2026-09-07"
+          "count": 8,
+          "median": 47,
+          "average": 45.13,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1150,16 +1150,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 44.73,
+          "c": 46.4,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 47,
+        "pt_old": 41,
+        "firm": "UBS",
+        "analyst": "Josh Silverstein",
+        "slug": "josh-silverstein",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "09:56:59",
+        "scores": {
+          "score": 64.4,
+          "stars": 4.8,
+          "total": 436,
+          "avg_return": 13.3,
+          "return_pct": null,
+          "analyst_rank": 400,
+          "success_rate": 64.4,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 40,
+        "pt_old": null,
+        "firm": "Evercore ISI",
+        "analyst": "Chris Baker",
+        "slug": "chris-baker",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 79.4,
+          "stars": 4.7,
+          "total": 34,
+          "avg_return": 44.8,
+          "return_pct": null,
+          "analyst_rank": 679,
+          "success_rate": 79.4,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 40,
@@ -1172,16 +1222,16 @@
         "rating_old": "",
         "time": "09:37:09",
         "scores": {
-          "score": 52.5,
+          "score": 52.7,
           "stars": 3.9,
-          "total": 322,
-          "avg_return": 4.6,
+          "total": 328,
+          "avg_return": 4.7,
           "return_pct": null,
-          "analyst_rank": 2800,
-          "success_rate": 52.5,
+          "analyst_rank": 2715,
+          "success_rate": 52.7,
           "stock_avg_return": -14.8,
           "stock_success_rate": 30,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1197,16 +1247,16 @@
         "rating_old": "",
         "time": "20:55:33",
         "scores": {
-          "score": 20,
-          "stars": 3.6,
-          "total": 15,
-          "avg_return": 23.8,
+          "score": 64.7,
+          "stars": 3.8,
+          "total": 17,
+          "avg_return": 21.1,
           "return_pct": null,
-          "analyst_rank": 3482,
-          "success_rate": 20,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 3081,
+          "success_rate": 64.7,
+          "stock_avg_return": 0.4,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1225,62 +1275,13 @@
           "score": 64.4,
           "stars": 4.8,
           "total": 486,
-          "avg_return": 12.9,
+          "avg_return": 12.8,
           "return_pct": null,
-          "analyst_rank": 389,
+          "analyst_rank": 381,
           "success_rate": 64.4,
-          "stock_avg_return": -55.3,
+          "stock_avg_return": -55.1,
           "stock_success_rate": 6.7,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Seaport Global",
-        "analyst": "Unknown Analyst",
-        "slug": "",
-        "date": "2026-09-03",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "14:25:18",
-        "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
-          "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 54,
-        "pt_old": 50,
-        "firm": "Raymond James",
-        "analyst": "John Freeman",
-        "slug": "john-freeman",
-        "date": "2026-09-02",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:41:06",
-        "scores": {
-          "score": 70.9,
-          "stars": 5,
-          "total": 502,
-          "avg_return": 30.8,
-          "return_pct": null,
-          "analyst_rank": 30,
-          "success_rate": 70.9,
-          "stock_avg_return": 41.5,
-          "stock_success_rate": 64.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
