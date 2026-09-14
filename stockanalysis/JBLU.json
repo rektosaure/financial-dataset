@@ -999,41 +999,41 @@
     "targets": {
       "low": 4,
       "high": 8,
-      "count": 11,
-      "median": 5,
-      "average": 5.21,
-      "updated": "2026-09-11",
+      "count": 10,
+      "median": 5.3,
+      "average": 5.23,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 4,
           "high": 8,
           "count": 8,
           "median": 6,
-          "average": 5.5,
-          "updated": "2026-09-11"
+          "average": 5.38,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 4,
           "high": 6,
-          "count": 7,
-          "median": 5,
-          "average": 5.14,
+          "count": 6,
+          "median": 6,
+          "average": 5.17,
           "updated": "2026-09-11"
         },
         "3": {
           "low": 4,
           "high": 6,
-          "count": 6,
+          "count": 5,
           "median": 6,
-          "average": 5.33,
+          "average": 5.4,
           "updated": "2026-09-11"
         },
         "4": {
           "low": 4,
           "high": 6,
-          "count": 6,
+          "count": 5,
           "median": 6,
-          "average": 5.33,
+          "average": 5.4,
           "updated": "2026-09-11"
         },
         "5": {
@@ -1092,16 +1092,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 4.4,
+          "c": 4.415,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-12"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 4,
+        "pt_old": 4.5,
+        "firm": "Goldman Sachs",
+        "analyst": "Catherine O'Brien",
+        "slug": "catherine-o-brien",
+        "date": "2026-09-14",
+        "rating_new": "Sell",
+        "rating_old": "",
+        "time": "11:35:26",
+        "scores": {
+          "score": 51.6,
+          "stars": 1,
+          "total": 157,
+          "avg_return": -1.4,
+          "return_pct": null,
+          "analyst_rank": 10065,
+          "success_rate": 51.6,
+          "stock_avg_return": 3.4,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 5,
@@ -1114,41 +1139,16 @@
         "rating_old": "",
         "time": "09:16:10",
         "scores": {
-          "score": 52.5,
+          "score": 52.6,
           "stars": 4.4,
-          "total": 488,
-          "avg_return": 7.1,
+          "total": 489,
+          "avg_return": 7.4,
           "return_pct": null,
-          "analyst_rank": 1484,
-          "success_rate": 52.5,
+          "analyst_rank": 1391,
+          "success_rate": 52.6,
           "stock_avg_return": 9.1,
           "stock_success_rate": 60,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 4,
-        "pt_old": 4.5,
-        "firm": "Goldman Sachs",
-        "analyst": "Catherine O'Brien",
-        "slug": "catherine-o-brien",
-        "date": "2026-09-10",
-        "rating_new": "Sell",
-        "rating_old": "",
-        "time": "22:30:21",
-        "scores": {
-          "score": 51.9,
-          "stars": 0.9,
-          "total": 156,
-          "avg_return": -1.6,
-          "return_pct": null,
-          "analyst_rank": 10235,
-          "success_rate": 51.9,
-          "stock_avg_return": 3.8,
-          "stock_success_rate": 70.6,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1164,16 +1164,16 @@
         "rating_old": "",
         "time": "15:15:27",
         "scores": {
-          "score": 58.7,
-          "stars": 4.4,
+          "score": 59.5,
+          "stars": 4.5,
           "total": 121,
-          "avg_return": 14.7,
+          "avg_return": 15,
           "return_pct": null,
-          "analyst_rank": 1380,
-          "success_rate": 58.7,
+          "analyst_rank": 1311,
+          "success_rate": 59.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1189,16 +1189,16 @@
         "rating_old": "",
         "time": "11:46:07",
         "scores": {
-          "score": 46.8,
-          "stars": 0.6,
-          "total": 77,
-          "avg_return": -4,
+          "score": 50.6,
+          "stars": 0.8,
+          "total": 83,
+          "avg_return": -3,
           "return_pct": null,
-          "analyst_rank": 10917,
-          "success_rate": 46.8,
-          "stock_avg_return": 6.6,
-          "stock_success_rate": 80,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 10576,
+          "success_rate": 50.6,
+          "stock_avg_return": 5.8,
+          "stock_success_rate": 72.7,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1217,13 +1217,13 @@
           "score": 50.4,
           "stars": 2.9,
           "total": 224,
-          "avg_return": 1.7,
+          "avg_return": 1.8,
           "return_pct": null,
-          "analyst_rank": 5357,
+          "analyst_rank": 5241,
           "success_rate": 50.4,
           "stock_avg_return": -2.6,
           "stock_success_rate": 31.2,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
       }
     ],
