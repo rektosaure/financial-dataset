@@ -191,7 +191,7 @@
           "revenueNext": {
             "last": 1964234970,
             "this": 2126856090,
-            "growth": 8.279107259759266
+            "growth": 8.279107259759254
           },
           "revenueThis": {
             "last": 1636472000,
@@ -1022,31 +1022,31 @@
       "high": 123,
       "count": 16,
       "median": 100,
-      "average": 97.25,
-      "updated": "2026-09-01",
+      "average": 98.88,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 78,
           "high": 123,
           "count": 13,
           "median": 100,
-          "average": 100.15,
-          "updated": "2026-09-01"
+          "average": 102.15,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 78,
           "high": 123,
           "count": 12,
           "median": 100,
-          "average": 101,
-          "updated": "2026-09-01"
+          "average": 100.58,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 78,
           "high": 123,
-          "count": 10,
+          "count": 8,
           "median": 100,
-          "average": 99.1,
+          "average": 99.13,
           "updated": "2026-09-01"
         },
         "4": {
@@ -1058,12 +1058,8 @@
           "updated": "2026-09-01"
         },
         "5": {
-          "low": 123,
-          "high": 123,
-          "count": 1,
-          "median": 123,
-          "average": 123,
-          "updated": "2026-08-27"
+          "count": 0,
+          "updated": ""
         }
       },
       "currency": "USD",
@@ -1117,16 +1113,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 96.91,
+          "c": 96.76,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 118,
+        "pt_old": 100,
+        "firm": "Citi",
+        "analyst": "Filippo Falorni",
+        "slug": "filippo-falorni",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:36:48",
+        "scores": {
+          "score": 57.1,
+          "stars": 2.9,
+          "total": 191,
+          "avg_return": 1.7,
+          "return_pct": null,
+          "analyst_rank": 5242,
+          "success_rate": 57.1,
+          "stock_avg_return": 28.5,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 90,
@@ -1139,16 +1160,16 @@
         "rating_old": "",
         "time": "23:20:07",
         "scores": {
-          "score": 62.1,
-          "stars": 4.5,
+          "score": 61.9,
+          "stars": 4.6,
           "total": 433,
-          "avg_return": 7.2,
+          "avg_return": 7.1,
           "return_pct": null,
-          "analyst_rank": 1144,
-          "success_rate": 62.1,
+          "analyst_rank": 1093,
+          "success_rate": 61.9,
           "stock_avg_return": 49.6,
           "stock_success_rate": 64.9,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1164,16 +1185,16 @@
         "rating_old": "",
         "time": "11:01:52",
         "scores": {
-          "score": 46.9,
-          "stars": 4.8,
+          "score": 45.3,
+          "stars": 4.7,
           "total": 508,
-          "avg_return": 16.3,
+          "avg_return": 15,
           "return_pct": null,
-          "analyst_rank": 609,
-          "success_rate": 46.9,
-          "stock_avg_return": 18,
+          "analyst_rank": 678,
+          "success_rate": 45.3,
+          "stock_avg_return": 12.8,
           "stock_success_rate": 53.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1189,16 +1210,16 @@
         "rating_old": "",
         "time": "12:01:04",
         "scores": {
-          "score": 51.2,
-          "stars": 3.3,
+          "score": 50.4,
+          "stars": 2.9,
           "total": 494,
-          "avg_return": 2,
+          "avg_return": 1.1,
           "return_pct": null,
-          "analyst_rank": 4257,
-          "success_rate": 51.2,
-          "stock_avg_return": 46,
+          "analyst_rank": 5322,
+          "success_rate": 50.4,
+          "stock_avg_return": 43,
           "stock_success_rate": 69.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1214,41 +1235,16 @@
         "rating_old": "",
         "time": "10:36:02",
         "scores": {
-          "score": 47.4,
-          "stars": 3.4,
+          "score": 46,
+          "stars": 3.1,
           "total": 498,
-          "avg_return": 2.5,
+          "avg_return": 1.8,
           "return_pct": null,
-          "analyst_rank": 3962,
-          "success_rate": 47.4,
-          "stock_avg_return": 10.9,
+          "analyst_rank": 4641,
+          "success_rate": 46,
+          "stock_avg_return": 6.1,
           "stock_success_rate": 60,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 100,
-        "pt_old": 95,
-        "firm": "Goldman Sachs",
-        "analyst": "Bonnie Herzog",
-        "slug": "bonnie-herzog",
-        "date": "2026-08-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:55:31",
-        "scores": {
-          "score": 57.1,
-          "stars": 4.3,
-          "total": 441,
-          "avg_return": 5.8,
-          "return_pct": null,
-          "analyst_rank": 1733,
-          "success_rate": 57.1,
-          "stock_avg_return": -1.9,
-          "stock_success_rate": 40,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
