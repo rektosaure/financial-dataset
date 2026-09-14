@@ -1014,7 +1014,7 @@
       "count": 14,
       "median": 38,
       "average": 36.21,
-      "updated": "2026-09-11",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 28,
@@ -1022,7 +1022,7 @@
           "count": 13,
           "median": 38,
           "average": 36,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 28,
@@ -1030,15 +1030,15 @@
           "count": 11,
           "median": 38,
           "average": 36,
-          "updated": "2026-09-11"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 28,
           "high": 38,
-          "count": 9,
-          "median": 37,
-          "average": 35.11,
-          "updated": "2026-09-11"
+          "count": 8,
+          "median": 38,
+          "average": 34.88,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 28,
@@ -1104,16 +1104,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 31.39,
+          "c": 31.72,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 38,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Peter Galbo",
+        "slug": "peter-galbo",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 50.8,
+          "stars": 3,
+          "total": 331,
+          "avg_return": 1.6,
+          "return_pct": null,
+          "analyst_rank": 5025,
+          "success_rate": 50.8,
+          "stock_avg_return": 8.4,
+          "stock_success_rate": 75,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 38,
@@ -1126,16 +1151,16 @@
         "rating_old": "",
         "time": "09:16:35",
         "scores": {
-          "score": 57.5,
-          "stars": 4.2,
+          "score": 57.1,
+          "stars": 4.1,
           "total": 499,
-          "avg_return": 4.2,
+          "avg_return": 3.8,
           "return_pct": null,
-          "analyst_rank": 2106,
-          "success_rate": 57.5,
-          "stock_avg_return": -1.1,
-          "stock_success_rate": 46.7,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 2359,
+          "success_rate": 57.1,
+          "stock_avg_return": -2,
+          "stock_success_rate": 43.3,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1152,15 +1177,15 @@
         "time": "12:10:24",
         "scores": {
           "score": 50,
-          "stars": 1.9,
+          "stars": 1.7,
           "total": 6,
-          "avg_return": 2.3,
+          "avg_return": 0.6,
           "return_pct": null,
-          "analyst_rank": 7862,
+          "analyst_rank": 8352,
           "success_rate": 50,
-          "stock_avg_return": 1.5,
+          "stock_avg_return": -0.7,
           "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1176,41 +1201,16 @@
         "rating_old": "",
         "time": "10:56:05",
         "scores": {
-          "score": 61.4,
-          "stars": 4.5,
+          "score": 61.9,
+          "stars": 4.6,
           "total": 433,
           "avg_return": 7.1,
           "return_pct": null,
-          "analyst_rank": 1141,
-          "success_rate": 61.4,
-          "stock_avg_return": 2.2,
-          "stock_success_rate": 43.8,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 38,
-        "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Peter Galbo",
-        "slug": "peter-galbo",
-        "date": "2026-09-01",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "23:05:29",
-        "scores": {
-          "score": 50.5,
-          "stars": 2.9,
-          "total": 331,
-          "avg_return": 1.5,
-          "return_pct": null,
-          "analyst_rank": 5226,
-          "success_rate": 50.5,
-          "stock_avg_return": 10.4,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 1093,
+          "success_rate": 61.9,
+          "stock_avg_return": 1.9,
+          "stock_success_rate": 31.2,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1226,16 +1226,16 @@
         "rating_old": "",
         "time": "15:05:34",
         "scores": {
-          "score": 45.3,
-          "stars": 1.8,
+          "score": 45.1,
+          "stars": 1.7,
           "total": 486,
-          "avg_return": 0.1,
+          "avg_return": 0,
           "return_pct": null,
-          "analyst_rank": 8082,
-          "success_rate": 45.3,
+          "analyst_rank": 8279,
+          "success_rate": 45.1,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }

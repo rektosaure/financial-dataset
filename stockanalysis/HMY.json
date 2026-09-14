@@ -685,19 +685,6 @@
     "recommendations": [
       {
         "buy": 0,
-        "date": "2025-09-30",
-        "hold": 3,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 0,
-        "total": 3,
-        "updated": "2025-09-30",
-        "consensus": "Hold",
-        "strongBuy": 0,
-        "strongSell": 0
-      },
-      {
-        "buy": 0,
         "date": "2025-10-20",
         "hold": 2,
         "sell": 0,
@@ -838,55 +825,44 @@
         "consensus": "Buy",
         "strongBuy": 1,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-09-08",
+        "hold": 2,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 3.3333333333333335,
+        "total": 3,
+        "updated": "2026-09-08",
+        "consensus": "Buy",
+        "strongBuy": 1,
+        "strongSell": 0
       }
     ],
     "targets": {
-      "low": 24,
-      "high": 24,
-      "count": 1,
-      "median": 24,
-      "average": 24,
-      "updated": "2026-03-13",
+      "count": 0,
+      "updated": "",
       "filtered": {
         "1": {
-          "low": 24,
-          "high": 24,
-          "count": 1,
-          "median": 24,
-          "average": 24,
-          "updated": "2026-03-13"
+          "count": 0,
+          "updated": ""
         },
         "2": {
-          "low": 24,
-          "high": 24,
-          "count": 1,
-          "median": 24,
-          "average": 24,
-          "updated": "2026-03-13"
+          "count": 0,
+          "updated": ""
         },
         "3": {
-          "low": 24,
-          "high": 24,
-          "count": 1,
-          "median": 24,
-          "average": 24,
-          "updated": "2026-03-13"
+          "count": 0,
+          "updated": ""
         },
         "4": {
-          "low": 24,
-          "high": 24,
-          "count": 1,
-          "median": 24,
-          "average": 24,
-          "updated": "2026-03-13"
+          "count": 0,
+          "updated": ""
         },
         "5": {
-          "low": 24,
-          "high": 24,
-          "count": 1,
-          "median": 24,
-          "average": 24,
-          "updated": "2026-03-13"
+          "count": 0,
+          "updated": ""
         }
       },
       "currency": "USD",
@@ -940,42 +916,16 @@
           "t": "2026-08-01"
         },
         {
-          "c": 20.64,
+          "c": 19.66,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
-    "ratings": [
-      {
-        "action_rt": "Maintains",
-        "pt_now": 24,
-        "pt_old": 26,
-        "firm": "BMO Capital",
-        "analyst": "Raj Ray",
-        "slug": "raj-ray",
-        "date": "2026-03-13",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:40:34",
-        "scores": {
-          "score": 66.8,
-          "stars": 4.9,
-          "total": 190,
-          "avg_return": 29.5,
-          "return_pct": null,
-          "analyst_rank": 293,
-          "success_rate": 66.8,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      }
-    ],
+    "ratings": [],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
