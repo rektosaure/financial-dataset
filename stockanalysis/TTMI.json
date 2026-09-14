@@ -998,51 +998,51 @@
     ],
     "targets": {
       "low": 203,
-      "high": 220,
-      "count": 4,
+      "high": 224,
+      "count": 5,
       "median": 208,
-      "average": 209,
-      "updated": "2026-08-18",
+      "average": 212,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 205,
-          "high": 220,
-          "count": 3,
-          "median": 208,
-          "average": 211,
-          "updated": "2026-08-18"
+          "high": 224,
+          "count": 4,
+          "median": 220,
+          "average": 214.25,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 205,
-          "high": 220,
-          "count": 3,
-          "median": 208,
-          "average": 211,
-          "updated": "2026-08-18"
+          "high": 224,
+          "count": 4,
+          "median": 220,
+          "average": 214.25,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 205,
-          "high": 220,
-          "count": 3,
-          "median": 208,
-          "average": 211,
-          "updated": "2026-08-18"
+          "high": 224,
+          "count": 4,
+          "median": 220,
+          "average": 214.25,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 205,
-          "high": 220,
-          "count": 3,
-          "median": 208,
-          "average": 211,
-          "updated": "2026-08-18"
+          "high": 224,
+          "count": 4,
+          "median": 220,
+          "average": 214.25,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 205,
-          "high": 220,
-          "count": 3,
-          "median": 208,
-          "average": 211,
-          "updated": "2026-08-18"
+          "high": 224,
+          "count": 4,
+          "median": 220,
+          "average": 214.25,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1096,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 125.68,
+          "c": 113.22,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 224,
+        "pt_old": null,
+        "firm": "Truist Financial",
+        "analyst": "William Stein",
+        "slug": "william-stein",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 76.3,
+          "stars": 5,
+          "total": 482,
+          "avg_return": 37.3,
+          "return_pct": null,
+          "analyst_rank": 9,
+          "success_rate": 76.3,
+          "stock_avg_return": 77.4,
+          "stock_success_rate": 61.1,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 205,
@@ -1118,42 +1143,18 @@
         "rating_old": "",
         "time": "12:45:17",
         "scores": {
-          "score": 66.7,
+          "score": 67.5,
           "stars": 5,
-          "total": 457,
-          "avg_return": 51.4,
+          "total": 458,
+          "avg_return": 52.4,
           "return_pct": null,
-          "analyst_rank": 18,
-          "success_rate": 66.7,
-          "stock_avg_return": 173.2,
-          "stock_success_rate": 70,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 17,
+          "success_rate": 67.5,
+          "stock_avg_return": 173.5,
+          "stock_success_rate": 80,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Truist Financial",
-        "analyst": "William Stein",
-        "slug": "william-stein",
-        "date": "2026-08-18",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:30:26",
-        "scores": {
-          "score": 76.1,
-          "stars": 5,
-          "total": 481,
-          "avg_return": 37.1,
-          "return_pct": null,
-          "analyst_rank": 10,
-          "success_rate": 76.1,
-          "stock_avg_return": 77.2,
-          "stock_success_rate": 61.1,
-          "number_of_ranked_experts": 12514
-        }
       },
       {
         "action_rt": "Reiterates",
@@ -1170,13 +1171,13 @@
           "score": 57.7,
           "stars": 4.9,
           "total": 494,
-          "avg_return": 28.4,
+          "avg_return": 28.8,
           "return_pct": null,
-          "analyst_rank": 149,
+          "analyst_rank": 142,
           "success_rate": 57.7,
-          "stock_avg_return": 104.7,
+          "stock_avg_return": 105,
           "stock_success_rate": 73.5,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1197,11 +1198,11 @@
           "total": 457,
           "avg_return": 22.3,
           "return_pct": null,
-          "analyst_rank": 300,
+          "analyst_rank": 275,
           "success_rate": 55.4,
-          "stock_avg_return": 81,
+          "stock_avg_return": 81.2,
           "stock_success_rate": 63.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1226,7 +1227,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
