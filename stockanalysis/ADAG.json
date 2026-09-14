@@ -855,7 +855,7 @@
       "count": 4,
       "median": 9,
       "average": 8.5,
-      "updated": "2026-09-11",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 7,
@@ -863,7 +863,7 @@
           "count": 2,
           "median": 8,
           "average": 7.5,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 7,
@@ -871,7 +871,7 @@
           "count": 2,
           "median": 8,
           "average": 7.5,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 7,
@@ -879,7 +879,7 @@
           "count": 2,
           "median": 8,
           "average": 7.5,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 7,
@@ -887,7 +887,7 @@
           "count": 2,
           "median": 8,
           "average": 7.5,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 7,
@@ -895,7 +895,7 @@
           "count": 2,
           "median": 8,
           "average": 7.5,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -949,16 +949,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 3.4,
+          "c": 3.46,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 7,
+        "pt_old": null,
+        "firm": "H.C. Wainwright",
+        "analyst": "Arthur He CFA",
+        "slug": "arthur-he-cfa",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 55.9,
+          "stars": 4.9,
+          "total": 161,
+          "avg_return": 34.8,
+          "return_pct": null,
+          "analyst_rank": 363,
+          "success_rate": 55.9,
+          "stock_avg_return": 36.6,
+          "stock_success_rate": 62.5,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 10,
@@ -969,18 +994,18 @@
         "date": "2026-09-11",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:40:07",
         "scores": {
-          "score": 48.1,
-          "stars": 0.8,
-          "total": 27,
-          "avg_return": -5.1,
+          "score": 50,
+          "stars": 0.7,
+          "total": 28,
+          "avg_return": -6,
           "return_pct": null,
-          "analyst_rank": 10535,
-          "success_rate": 48.1,
-          "stock_avg_return": 12.6,
-          "stock_success_rate": 40,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 10759,
+          "success_rate": 50,
+          "stock_avg_return": 14.7,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -996,16 +1021,16 @@
         "rating_old": "",
         "time": "15:05:24",
         "scores": {
-          "score": 66.8,
+          "score": 65.7,
           "stars": 4.9,
-          "total": 238,
-          "avg_return": 27.2,
+          "total": 239,
+          "avg_return": 25.5,
           "return_pct": null,
-          "analyst_rank": 239,
-          "success_rate": 66.8,
-          "stock_avg_return": 22.1,
-          "stock_success_rate": 57.1,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 271,
+          "success_rate": 65.7,
+          "stock_avg_return": 24,
+          "stock_success_rate": 62.5,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1021,16 +1046,16 @@
         "rating_old": "",
         "time": "10:36:06",
         "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
+          "score": 50,
+          "stars": 0.6,
+          "total": 2,
+          "avg_return": -42.7,
           "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 11104,
+          "success_rate": 50,
+          "stock_avg_return": 2.7,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1046,42 +1071,17 @@
         "rating_old": "",
         "time": "15:20:08",
         "scores": {
-          "score": 66.7,
+          "score": 65.1,
           "stars": 4.7,
-          "total": 108,
-          "avg_return": 24.4,
+          "total": 109,
+          "avg_return": 24.2,
           "return_pct": null,
-          "analyst_rank": 644,
-          "success_rate": 66.7,
+          "analyst_rank": 662,
+          "success_rate": 65.1,
           "stock_avg_return": -19.5,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         }
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 7,
-        "pt_old": null,
-        "firm": "H.C. Wainwright",
-        "analyst": "Arthur He CFA",
-        "slug": "arthur-he-cfa",
-        "date": "2026-04-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:10:26",
-        "scores": {
-          "score": 58.4,
-          "stars": 4.9,
-          "total": 161,
-          "avg_return": 36.1,
-          "return_pct": null,
-          "analyst_rank": 326,
-          "success_rate": 58.4,
-          "stock_avg_return": 36,
-          "stock_success_rate": 62.5,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
@@ -4548,7 +4548,7 @@
           "H2"
         ],
         "marketcap": [
-          228287370,
+          224594486,
           89078098,
           88098860,
           84662284,
@@ -4556,7 +4556,7 @@
           351594295
         ],
         "ev": [
-          106468567,
+          102775683,
           33099877.999999996,
           13215600,
           -18858977,
@@ -4749,7 +4749,7 @@
           "H2"
         ],
         "marketcap": [
-          228287370,
+          224594486,
           277504895,
           89078098,
           91863632,
@@ -4762,7 +4762,7 @@
           351594295
         ],
         "ev": [
-          106468567,
+          102775683,
           224474024,
           33099877.999999996,
           25162672,
@@ -4970,7 +4970,7 @@
           "H2"
         ],
         "marketcap": [
-          228287370,
+          224594486,
           89078098,
           88098860,
           84662284,
@@ -4978,7 +4978,7 @@
           351594295
         ],
         "ev": [
-          106468567,
+          102775683,
           33099877.999999996,
           13215600,
           -18858977,
