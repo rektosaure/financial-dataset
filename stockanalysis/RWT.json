@@ -1009,52 +1009,52 @@
       }
     ],
     "targets": {
-      "low": 5.5,
+      "low": 4.75,
       "high": 6.5,
       "count": 7,
       "median": 6,
-      "average": 5.86,
-      "updated": "2026-08-21",
+      "average": 5.75,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
-          "low": 5.5,
+          "low": 4.75,
           "high": 6,
           "count": 5,
           "median": 5.5,
-          "average": 5.7,
-          "updated": "2026-07-31"
+          "average": 5.55,
+          "updated": "2026-09-14"
         },
         "2": {
-          "low": 5.5,
+          "low": 4.75,
           "high": 6,
           "count": 5,
           "median": 5.5,
-          "average": 5.7,
-          "updated": "2026-07-31"
+          "average": 5.55,
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 5.5,
+          "low": 4.75,
           "high": 6,
           "count": 5,
           "median": 5.5,
-          "average": 5.7,
-          "updated": "2026-07-31"
+          "average": 5.55,
+          "updated": "2026-09-14"
         },
         "4": {
-          "low": 5.5,
+          "low": 4.75,
           "high": 6,
           "count": 5,
           "median": 5.5,
-          "average": 5.7,
-          "updated": "2026-07-31"
+          "average": 5.55,
+          "updated": "2026-09-14"
         },
         "5": {
-          "low": 5.5,
+          "low": 4.75,
           "high": 6,
           "count": 3,
           "median": 5.5,
-          "average": 5.67,
-          "updated": "2026-07-31"
+          "average": 5.42,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 3.53,
+          "c": 3.77,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 4.75,
+        "pt_old": 5.5,
+        "firm": "KBW",
+        "analyst": "Bose George",
+        "slug": "bose-george",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:31:12",
+        "scores": {
+          "score": 73.3,
+          "stars": 4.9,
+          "total": 491,
+          "avg_return": 13,
+          "return_pct": null,
+          "analyst_rank": 149,
+          "success_rate": 73.3,
+          "stock_avg_return": 5.5,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 6.5,
@@ -1131,15 +1156,15 @@
         "time": "11:15:48",
         "scores": {
           "score": 0,
-          "stars": 0.9,
+          "stars": 0.7,
           "total": 5,
-          "avg_return": -10.5,
+          "avg_return": -14.5,
           "return_pct": null,
-          "analyst_rank": 10295,
+          "analyst_rank": 10693,
           "success_rate": 0,
-          "stock_avg_return": -11.2,
+          "stock_avg_return": -26,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1155,16 +1180,16 @@
         "rating_old": "",
         "time": "12:50:48",
         "scores": {
-          "score": 64.2,
+          "score": 64.4,
           "stars": 4.8,
           "total": 503,
-          "avg_return": 10.7,
+          "avg_return": 10.5,
           "return_pct": null,
-          "analyst_rank": 471,
-          "success_rate": 64.2,
-          "stock_avg_return": -5.5,
+          "analyst_rank": 465,
+          "success_rate": 64.4,
+          "stock_avg_return": -9.1,
           "stock_success_rate": 28.6,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1189,32 +1214,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 5.5,
-        "pt_old": 6,
-        "firm": "KBW",
-        "analyst": "Bose George",
-        "slug": "bose-george",
-        "date": "2026-07-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:37:12",
-        "scores": {
-          "score": 73.9,
-          "stars": 4.9,
-          "total": 491,
-          "avg_return": 13.2,
-          "return_pct": null,
-          "analyst_rank": 129,
-          "success_rate": 73.9,
-          "stock_avg_return": 6.2,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1230,16 +1230,16 @@
         "rating_old": "",
         "time": "10:10:15",
         "scores": {
-          "score": 62.8,
+          "score": 62.4,
           "stars": 4.7,
-          "total": 425,
-          "avg_return": 10,
+          "total": 426,
+          "avg_return": 9.8,
           "return_pct": null,
-          "analyst_rank": 667,
-          "success_rate": 62.8,
+          "analyst_rank": 686,
+          "success_rate": 62.4,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -6398,7 +6398,7 @@
           "Q4"
         ],
         "marketcap": [
-          445924134,
+          479839490,
           700552621,
           863701433,
           879094998,
@@ -6422,7 +6422,7 @@
           4.895
         ],
         "peForward": [
-          3.58948,
+          3.81699,
           6.382,
           8.277,
           10.772,
@@ -6430,7 +6430,7 @@
           9.544
         ],
         "ps": [
-          1.7048,
+          1.76002,
           3.95,
           3.362,
           5.308,
@@ -6446,7 +6446,7 @@
           1.091
         ],
         "ptbvRatio": [
-          0.53282,
+          0.55008,
           0.795,
           0.801,
           0.811,
@@ -6526,7 +6526,7 @@
           0.0262
         ],
         "earningsyield": [
-          -0.0153255,
+          -0.0148446,
           -0.09996,
           0.06253,
           -0.00259,
@@ -6534,7 +6534,7 @@
           0.21131
         ],
         "dividendyield": [
-          0.20282,
+          0.19073,
           0.13966,
           0.12466,
           0.12866,
@@ -6558,7 +6558,7 @@
           -0.24694
         ],
         "totalreturn": [
-          0.24989,
+          0.24379,
           0.15396,
           -0.0117,
           0.13672,
@@ -6637,7 +6637,7 @@
           "Q3"
         ],
         "marketcap": [
-          445924134,
+          479839490,
           592573465,
           701221563,
           700552621,
@@ -6706,7 +6706,7 @@
           4.556
         ],
         "peForward": [
-          3.58948,
+          3.81699,
           4.952,
           5.722,
           6.382,
@@ -6729,7 +6729,7 @@
           10.214
         ],
         "ps": [
-          1.7048,
+          1.76002,
           2.265,
           4.187,
           3.95,
@@ -6775,7 +6775,7 @@
           1.059
         ],
         "ptbvRatio": [
-          0.53282,
+          0.55008,
           0.708,
           0.817,
           0.795,
@@ -7024,7 +7024,7 @@
           0.00691
         ],
         "earningsyield": [
-          -0.0153255,
+          -0.0148446,
           0.00965,
           -0.13074,
           -0.09996,
@@ -7047,7 +7047,7 @@
           0.22635
         ],
         "dividendyield": [
-          0.20282,
+          0.19073,
           0.1519,
           0.13316,
           0.13966,
@@ -7116,7 +7116,7 @@
           0.00081
         ],
         "totalreturn": [
-          0.24989,
+          0.24379,
           0.20959,
           0.19339,
           0.18293,
@@ -7165,7 +7165,7 @@
           "Q4"
         ],
         "marketcap": [
-          445924134,
+          479839490,
           700552621,
           863701433,
           879094998,
@@ -7189,7 +7189,7 @@
           4.895
         ],
         "peForward": [
-          3.58948,
+          3.81699,
           6.382,
           8.277,
           10.772,
@@ -7197,7 +7197,7 @@
           9.544
         ],
         "ps": [
-          1.7048,
+          1.76002,
           3.95,
           3.362,
           5.308,
@@ -7213,7 +7213,7 @@
           1.091
         ],
         "ptbvRatio": [
-          0.53282,
+          0.55008,
           0.795,
           0.801,
           0.811,
@@ -7293,7 +7293,7 @@
           0.0262
         ],
         "earningsyield": [
-          -0.0153255,
+          -0.0148446,
           -0.09996,
           0.06253,
           -0.00259,
@@ -7301,7 +7301,7 @@
           0.21131
         ],
         "dividendyield": [
-          0.20282,
+          0.19073,
           0.13966,
           0.12466,
           0.12866,
@@ -7325,7 +7325,7 @@
           -0.24694
         ],
         "totalreturn": [
-          0.24989,
+          0.24379,
           0.15396,
           -0.0117,
           0.13672,
