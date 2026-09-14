@@ -897,7 +897,7 @@
       "count": 8,
       "median": 35,
       "average": 35.63,
-      "updated": "2026-09-09",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 20,
@@ -905,7 +905,7 @@
           "count": 8,
           "median": 35,
           "average": 35.63,
-          "updated": "2026-09-09"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 20,
@@ -913,23 +913,23 @@
           "count": 8,
           "median": 35,
           "average": 35.63,
-          "updated": "2026-09-09"
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 20,
+          "low": 21,
           "high": 73,
-          "count": 8,
-          "median": 35,
-          "average": 35.63,
-          "updated": "2026-09-09"
+          "count": 6,
+          "median": 40,
+          "average": 40.67,
+          "updated": "2026-09-14"
         },
         "4": {
-          "low": 25,
+          "low": 35,
           "high": 73,
-          "count": 5,
-          "median": 40,
-          "average": 44.6,
-          "updated": "2026-09-09"
+          "count": 4,
+          "median": 50,
+          "average": 49.5,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 35,
@@ -937,7 +937,7 @@
           "count": 3,
           "median": 50,
           "average": 52.67,
-          "updated": "2026-08-06"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -991,16 +991,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 8.49,
+          "c": 8.45,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 35,
+        "pt_old": null,
+        "firm": "Needham",
+        "analyst": "Joseph Stringer",
+        "slug": "joseph-stringer",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 47.6,
+          "stars": 4.9,
+          "total": 492,
+          "avg_return": 24.7,
+          "return_pct": null,
+          "analyst_rank": 322,
+          "success_rate": 47.6,
+          "stock_avg_return": -49,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 25,
@@ -1011,18 +1036,18 @@
         "date": "2026-09-09",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:50:19",
         "scores": {
-          "score": 44.8,
-          "stars": 4,
-          "total": 134,
-          "avg_return": 9.4,
+          "score": 42.6,
+          "stars": 3.8,
+          "total": 136,
+          "avg_return": 7.9,
           "return_pct": null,
-          "analyst_rank": 2591,
-          "success_rate": 44.8,
-          "stock_avg_return": -35.5,
+          "analyst_rank": 2919,
+          "success_rate": 42.6,
+          "stock_avg_return": -34,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1038,16 +1063,16 @@
         "rating_old": "",
         "time": "13:39:26",
         "scores": {
-          "score": 45.8,
-          "stars": 3.5,
-          "total": 406,
-          "avg_return": 3,
+          "score": 42.4,
+          "stars": 2.7,
+          "total": 408,
+          "avg_return": 1.1,
           "return_pct": null,
-          "analyst_rank": 3813,
-          "success_rate": 45.8,
+          "analyst_rank": 5854,
+          "success_rate": 42.4,
           "stock_avg_return": -164.4,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1063,41 +1088,16 @@
         "rating_old": "",
         "time": "13:07:02",
         "scores": {
-          "score": 51.9,
+          "score": 51.1,
           "stars": 4.9,
-          "total": 482,
-          "avg_return": 27.5,
+          "total": 481,
+          "avg_return": 26.7,
           "return_pct": null,
-          "analyst_rank": 224,
-          "success_rate": 51.9,
-          "stock_avg_return": -21.8,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 35,
-        "pt_old": null,
-        "firm": "Needham",
-        "analyst": "Joseph Stringer",
-        "slug": "joseph-stringer",
-        "date": "2026-08-06",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:25:38",
-        "scores": {
-          "score": 48.4,
-          "stars": 4.9,
-          "total": 492,
-          "avg_return": 25.7,
-          "return_pct": null,
-          "analyst_rank": 308,
-          "success_rate": 48.4,
-          "stock_avg_return": -42.4,
+          "analyst_rank": 231,
+          "success_rate": 51.1,
+          "stock_avg_return": -30.7,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1113,16 +1113,16 @@
         "rating_old": "",
         "time": "11:11:16",
         "scores": {
-          "score": 51.6,
-          "stars": 3.5,
+          "score": 46.8,
+          "stars": 2.9,
           "total": 186,
-          "avg_return": 4,
+          "avg_return": 2.2,
           "return_pct": null,
-          "analyst_rank": 3820,
-          "success_rate": 51.6,
-          "stock_avg_return": -25.4,
-          "stock_success_rate": 28.6,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 5155,
+          "success_rate": 46.8,
+          "stock_avg_return": -33.6,
+          "stock_success_rate": 14.3,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -4726,14 +4726,14 @@
           "Q4"
         ],
         "marketcap": [
-          389664757,
+          395172386,
           474362140,
           207564193,
           null,
           null
         ],
         "ev": [
-          11236757,
+          16744386,
           185639139,
           -116696807,
           null,
@@ -4747,7 +4747,7 @@
           null
         ],
         "ps": [
-          37.63059,
+          37.67491,
           52.736,
           null,
           null,
@@ -4761,14 +4761,14 @@
           null
         ],
         "ptbvRatio": [
-          1.03935,
+          1.04057,
           1.744,
           0.642,
           null,
           null
         ],
         "evrevenue": [
-          1.08515,
+          1.12948,
           20.638,
           null,
           null,
@@ -4845,14 +4845,14 @@
           -1.771
         ],
         "earningsyield": [
-          -0.2424238,
+          -0.2421386,
           -0.16992,
           -0.34259,
           null,
           null
         ],
         "fcfyield": [
-          -0.22606359999999998,
+          -0.22579760000000001,
           -0.17359,
           -0.24999,
           null,
@@ -4919,7 +4919,7 @@
           "Q1"
         ],
         "marketcap": [
-          389664757,
+          395172386,
           1089536510,
           776201880,
           474362140,
@@ -4936,7 +4936,7 @@
           null
         ],
         "ev": [
-          11236757,
+          16744386,
           708696510,
           496631879,
           185639139,
@@ -4970,7 +4970,7 @@
           null
         ],
         "ps": [
-          37.63059,
+          37.67491,
           105.218,
           75.243,
           52.736,
@@ -5004,7 +5004,7 @@
           null
         ],
         "ptbvRatio": [
-          1.03935,
+          1.04057,
           2.906,
           2.047,
           1.744,
@@ -5021,7 +5021,7 @@
           null
         ],
         "evrevenue": [
-          1.08515,
+          1.12948,
           68.44,
           48.142,
           20.638,
@@ -5205,7 +5205,7 @@
           null
         ],
         "earningsyield": [
-          -0.2424238,
+          -0.2421386,
           -0.0867,
           -0.11586,
           -0.16992,
@@ -5222,7 +5222,7 @@
           null
         ],
         "fcfyield": [
-          -0.22606359999999998,
+          -0.22579760000000001,
           -0.08085,
           -0.11418,
           -0.17359,
@@ -5279,14 +5279,14 @@
           "Q4"
         ],
         "marketcap": [
-          389664757,
+          395172386,
           474362140,
           207564193,
           null,
           null
         ],
         "ev": [
-          11236757,
+          16744386,
           185639139,
           -116696807,
           null,
@@ -5300,7 +5300,7 @@
           null
         ],
         "ps": [
-          37.63059,
+          37.67491,
           52.736,
           null,
           null,
@@ -5314,14 +5314,14 @@
           null
         ],
         "ptbvRatio": [
-          1.03935,
+          1.04057,
           1.744,
           0.642,
           null,
           null
         ],
         "evrevenue": [
-          1.08515,
+          1.12948,
           20.638,
           null,
           null,
@@ -5398,14 +5398,14 @@
           -1.771
         ],
         "earningsyield": [
-          -0.2424238,
+          -0.2421386,
           -0.16992,
           -0.34259,
           null,
           null
         ],
         "fcfyield": [
-          -0.22606359999999998,
+          -0.22579760000000001,
           -0.17359,
           -0.24999,
           null,
