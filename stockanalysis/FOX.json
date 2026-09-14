@@ -968,35 +968,35 @@
     ],
     "targets": {
       "low": 54,
-      "high": 54,
-      "count": 1,
-      "median": 54,
-      "average": 54,
-      "updated": "2026-07-08",
+      "high": 95,
+      "count": 2,
+      "median": 95,
+      "average": 74.5,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 54,
-          "high": 54,
-          "count": 1,
-          "median": 54,
-          "average": 54,
-          "updated": "2026-07-08"
+          "high": 95,
+          "count": 2,
+          "median": 95,
+          "average": 74.5,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 54,
-          "high": 54,
-          "count": 1,
-          "median": 54,
-          "average": 54,
-          "updated": "2026-07-08"
+          "high": 95,
+          "count": 2,
+          "median": 95,
+          "average": 74.5,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 54,
-          "high": 54,
-          "count": 1,
-          "median": 54,
-          "average": 54,
-          "updated": "2026-07-08"
+          "high": 95,
+          "count": 2,
+          "median": 95,
+          "average": 74.5,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 54,
@@ -1062,16 +1062,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 58.45,
+          "c": 60.81,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 95,
+        "pt_old": null,
+        "firm": "Citizens JMP",
+        "analyst": "Matthew Condon",
+        "slug": "matthew-condon",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:35:06",
+        "scores": {
+          "score": 53.8,
+          "stars": 3.7,
+          "total": 65,
+          "avg_return": 8.6,
+          "return_pct": null,
+          "analyst_rank": 3271,
+          "success_rate": 53.8,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Downgrades",
         "pt_now": null,
@@ -1087,13 +1112,13 @@
           "score": 64.5,
           "stars": 4.7,
           "total": 197,
-          "avg_return": 17,
+          "avg_return": 17.2,
           "return_pct": null,
-          "analyst_rank": 639,
+          "analyst_rank": 628,
           "success_rate": 64.5,
           "stock_avg_return": 12.7,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1108,16 +1133,16 @@
         "rating_old": "",
         "time": "09:55:36",
         "scores": {
-          "score": 49.6,
+          "score": 49.9,
           "stars": 4.5,
           "total": 391,
           "avg_return": 9.2,
           "return_pct": null,
-          "analyst_rank": 1371,
-          "success_rate": 49.6,
-          "stock_avg_return": 11.7,
+          "analyst_rank": 1341,
+          "success_rate": 49.9,
+          "stock_avg_return": 11.3,
           "stock_success_rate": 53.8,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -7174,7 +7199,7 @@
           0.09114
         ],
         "dividendyield": [
-          0.009752,
+          0.009323,
           0.01201,
           0.01062,
           0.01669,
@@ -7198,7 +7223,7 @@
           0.04202
         ],
         "totalreturn": [
-          0.057517,
+          0.057042999999999996,
           0.05973,
           0.0502,
           0.11274,
@@ -7917,7 +7942,7 @@
           0.08917
         ],
         "dividendyield": [
-          0.009752,
+          0.009323,
           null,
           0.0106,
           null,
@@ -7986,7 +8011,7 @@
           0.04463
         ],
         "totalreturn": [
-          0.057517,
+          0.057042999999999996,
           0.06346,
           0.07351,
           0.04545,
@@ -8259,7 +8284,7 @@
           0.09114
         ],
         "dividendyield": [
-          0.009752,
+          0.009323,
           0.01201,
           0.01062,
           0.01669,
@@ -8283,7 +8308,7 @@
           0.04202
         ],
         "totalreturn": [
-          0.057517,
+          0.057042999999999996,
           0.05973,
           0.0502,
           0.11274,

@@ -817,19 +817,19 @@
     ],
     "targets": {
       "low": 175,
-      "high": 306,
+      "high": 275,
       "count": 13,
-      "median": 235,
-      "average": 231.62,
-      "updated": "2026-08-19",
+      "median": 213,
+      "average": 222.69,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 175,
-          "high": 306,
+          "high": 275,
           "count": 13,
-          "median": 235,
-          "average": 231.62,
-          "updated": "2026-08-19"
+          "median": 213,
+          "average": 222.69,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 175,
@@ -879,16 +879,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 158.26,
+          "c": 164.08,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Downgrades",
+        "pt_now": 190,
+        "pt_old": 306,
+        "firm": "Melius Research",
+        "analyst": "Scott Mikus",
+        "slug": "scott-mikus",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:50:12",
+        "scores": {
+          "score": 50,
+          "stars": 1,
+          "total": 4,
+          "avg_return": -10.9,
+          "return_pct": null,
+          "analyst_rank": 10088,
+          "success_rate": 50,
+          "stock_avg_return": -28.1,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Upgrades",
         "pt_now": 205,
@@ -901,16 +926,16 @@
         "rating_old": "",
         "time": "09:10:39",
         "scores": {
-          "score": 58.6,
+          "score": 58.3,
           "stars": 4.7,
           "total": 345,
-          "avg_return": 12.1,
+          "avg_return": 11.8,
           "return_pct": null,
-          "analyst_rank": 778,
-          "success_rate": 58.6,
-          "stock_avg_return": -2.2,
+          "analyst_rank": 772,
+          "success_rate": 58.3,
+          "stock_avg_return": -3.9,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -926,16 +951,16 @@
         "rating_old": "",
         "time": "12:16:22",
         "scores": {
-          "score": 67,
+          "score": 66.3,
           "stars": 4.8,
-          "total": 364,
-          "avg_return": 14.7,
+          "total": 365,
+          "avg_return": 14.1,
           "return_pct": null,
-          "analyst_rank": 400,
-          "success_rate": 67,
+          "analyst_rank": 405,
+          "success_rate": 66.3,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -951,16 +976,16 @@
         "rating_old": "",
         "time": "15:55:16",
         "scores": {
-          "score": 57.9,
+          "score": 56,
           "stars": 4.8,
-          "total": 497,
-          "avg_return": 12.6,
+          "total": 500,
+          "avg_return": 11.9,
           "return_pct": null,
-          "analyst_rank": 573,
-          "success_rate": 57.9,
+          "analyst_rank": 621,
+          "success_rate": 56,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -976,41 +1001,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 36.7,
+          "score": 43.3,
           "stars": 1.1,
           "total": 30,
-          "avg_return": -2.4,
+          "avg_return": -2.5,
           "return_pct": null,
-          "analyst_rank": 9862,
-          "success_rate": 36.7,
-          "stock_avg_return": -19.6,
+          "analyst_rank": 9789,
+          "success_rate": 43.3,
+          "stock_avg_return": -21,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 195,
-        "pt_old": 250,
-        "firm": "Wells Fargo",
-        "analyst": "David E. Strauss",
-        "slug": "david-e.-strauss",
-        "date": "2026-08-07",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 64.1,
-          "stars": 4.8,
-          "total": 390,
-          "avg_return": 11.6,
-          "return_pct": null,
-          "analyst_rank": 597,
-          "success_rate": 64.1,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }

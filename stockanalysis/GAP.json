@@ -935,25 +935,25 @@
         "1": {
           "low": 20,
           "high": 42,
-          "count": 14,
+          "count": 15,
           "median": 27,
-          "average": 27.64,
-          "updated": "2026-09-02"
+          "average": 27.33,
+          "updated": "2026-09-08"
         },
         "2": {
           "low": 20,
           "high": 42,
-          "count": 12,
+          "count": 13,
           "median": 27,
-          "average": 28.08,
-          "updated": "2026-09-02"
+          "average": 27.69,
+          "updated": "2026-09-08"
         },
         "3": {
           "low": 20,
           "high": 42,
-          "count": 10,
-          "median": 29,
-          "average": 28.7,
+          "count": 11,
+          "median": 27,
+          "average": 28.18,
           "updated": "2026-09-02"
         },
         "4": {
@@ -1024,16 +1024,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 21.51,
+          "c": 20.92,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Guggenheim",
+        "analyst": "Simeon Siegel",
+        "slug": "simeon-siegel",
+        "date": "2026-09-11",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 50.1,
+          "stars": 3.4,
+          "total": 365,
+          "avg_return": 2.5,
+          "return_pct": null,
+          "analyst_rank": 4039,
+          "success_rate": 50.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": null,
@@ -1044,18 +1068,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "18:30:09",
         "scores": {
-          "score": 61.9,
+          "score": 60.5,
           "stars": 3.7,
-          "total": 42,
-          "avg_return": 10.3,
+          "total": 43,
+          "avg_return": 9.9,
           "return_pct": null,
-          "analyst_rank": 3333,
-          "success_rate": 61.9,
-          "stock_avg_return": 9.9,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 3374,
+          "success_rate": 60.5,
+          "stock_avg_return": 7.7,
+          "stock_success_rate": 75,
+          "number_of_ranked_experts": 12499
         }
       },
       {
@@ -1063,23 +1087,23 @@
         "pt_now": 23,
         "pt_old": null,
         "firm": "BMO Capital",
-        "analyst": "Unknown Analyst",
-        "slug": "",
+        "analyst": "Kelly Crago",
+        "slug": "kelly-crago",
         "date": "2026-09-08",
         "rating_new": "Hold",
         "rating_old": "",
         "time": "20:21:00",
         "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
+          "score": 54.2,
+          "stars": 2.6,
+          "total": 24,
+          "avg_return": 4.3,
           "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
+          "analyst_rank": 5895,
+          "success_rate": 54.2,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1096,15 +1120,15 @@
         "time": "12:17:52",
         "scores": {
           "score": 47.7,
-          "stars": 3.8,
+          "stars": 3.9,
           "total": 491,
-          "avg_return": 4,
+          "avg_return": 4.1,
           "return_pct": null,
-          "analyst_rank": 2884,
+          "analyst_rank": 2812,
           "success_rate": 47.7,
           "stock_avg_return": 0.8,
           "stock_success_rate": 40,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1120,41 +1144,16 @@
         "rating_old": "",
         "time": "12:36:08",
         "scores": {
-          "score": 45.2,
-          "stars": 1.4,
+          "score": 45.9,
+          "stars": 1.5,
           "total": 279,
-          "avg_return": -0.1,
+          "avg_return": 0,
           "return_pct": null,
-          "analyst_rank": 8922,
-          "success_rate": 45.2,
-          "stock_avg_return": 28.1,
+          "analyst_rank": 8739,
+          "success_rate": 45.9,
+          "stock_avg_return": 28.3,
           "stock_success_rate": 57.9,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 23,
-        "pt_old": 21,
-        "firm": "Morgan Stanley",
-        "analyst": "Alexandra Straton",
-        "slug": "alexandra-straton",
-        "date": "2026-08-31",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 52.1,
-          "stars": 3.4,
-          "total": 219,
-          "avg_return": 3.2,
-          "return_pct": null,
-          "analyst_rank": 4029,
-          "success_rate": 52.1,
-          "stock_avg_return": 1.9,
-          "stock_success_rate": 69.2,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
