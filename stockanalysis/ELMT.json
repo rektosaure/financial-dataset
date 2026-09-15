@@ -733,51 +733,51 @@
     ],
     "targets": {
       "low": 20,
-      "high": 21,
+      "high": 26,
       "count": 4,
-      "median": 21,
-      "average": 20.75,
-      "updated": "2026-08-17",
+      "median": 25,
+      "average": 23,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 20,
-          "high": 21,
+          "high": 26,
           "count": 4,
-          "median": 21,
-          "average": 20.75,
-          "updated": "2026-08-17"
+          "median": 25,
+          "average": 23,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 20,
-          "high": 21,
+          "high": 26,
           "count": 4,
-          "median": 21,
-          "average": 20.75,
-          "updated": "2026-08-17"
+          "median": 25,
+          "average": 23,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 20,
-          "high": 21,
+          "high": 26,
           "count": 3,
-          "median": 21,
-          "average": 20.67,
-          "updated": "2026-08-14"
+          "median": 25,
+          "average": 23.67,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 20,
-          "high": 21,
+          "high": 26,
           "count": 3,
-          "median": 21,
-          "average": 20.67,
-          "updated": "2026-08-14"
+          "median": 25,
+          "average": 23.67,
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 20,
-          "high": 21,
+          "high": 26,
           "count": 3,
-          "median": 21,
-          "average": 20.67,
-          "updated": "2026-08-14"
+          "median": 25,
+          "average": 23.67,
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -803,16 +803,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 23.49,
+          "c": 19.57,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 25,
+        "pt_old": 21,
+        "firm": "Needham",
+        "analyst": "James Ricchiuti",
+        "slug": "james-ricchiuti",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:50:13",
+        "scores": {
+          "score": 57.7,
+          "stars": 4.9,
+          "total": 494,
+          "avg_return": 28.8,
+          "return_pct": null,
+          "analyst_rank": 142,
+          "success_rate": 57.7,
+          "stock_avg_return": -5.2,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 26,
+        "pt_old": 21,
+        "firm": "Roth MKM",
+        "analyst": "Chip Moore",
+        "slug": "chip-moore",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 54.4,
+          "stars": 4.9,
+          "total": 281,
+          "avg_return": 29.5,
+          "return_pct": null,
+          "analyst_rank": 293,
+          "success_rate": 54.4,
+          "stock_avg_return": -5.2,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 21,
@@ -825,66 +875,16 @@
         "rating_old": "",
         "time": "11:14:02",
         "scores": {
-          "score": 35.3,
-          "stars": 2.5,
-          "total": 326,
-          "avg_return": 1,
+          "score": 34.5,
+          "stars": 2.3,
+          "total": 328,
+          "avg_return": 0.7,
           "return_pct": null,
-          "analyst_rank": 6341,
-          "success_rate": 35.3,
-          "stock_avg_return": -4.1,
+          "analyst_rank": 6752,
+          "success_rate": 34.5,
+          "stock_avg_return": -5.6,
           "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 21,
-        "pt_old": null,
-        "firm": "Roth MKM",
-        "analyst": "Chip Moore",
-        "slug": "chip-moore",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:21:05",
-        "scores": {
-          "score": 54.1,
-          "stars": 4.9,
-          "total": 281,
-          "avg_return": 29.6,
-          "return_pct": null,
-          "analyst_rank": 305,
-          "success_rate": 54.1,
-          "stock_avg_return": -3.6,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 21,
-        "pt_old": null,
-        "firm": "Needham",
-        "analyst": "James Ricchiuti",
-        "slug": "james-ricchiuti",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:20:08",
-        "scores": {
-          "score": 57.3,
-          "stars": 4.9,
-          "total": 494,
-          "avg_return": 28.4,
-          "return_pct": null,
-          "analyst_rank": 151,
-          "success_rate": 57.3,
-          "stock_avg_return": -3.6,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -900,16 +900,16 @@
         "rating_old": "",
         "time": "10:50:31",
         "scores": {
-          "score": 47.4,
+          "score": 48.7,
           "stars": 4.8,
           "total": 76,
-          "avg_return": 42,
+          "avg_return": 42.1,
           "return_pct": null,
-          "analyst_rank": 578,
-          "success_rate": 47.4,
-          "stock_avg_return": 14.7,
+          "analyst_rank": 550,
+          "success_rate": 48.7,
+          "stock_avg_return": 12.8,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1140,12 +1140,12 @@
           0.31436
         ],
         "marketcap": [
-          685947895,
+          596092376,
           null,
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           null,
           null
         ]
@@ -2006,12 +2006,12 @@
           7613000
         ],
         "marketcap": [
-          685947895,
+          596092376,
           null,
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           null,
           null
         ]
@@ -2707,12 +2707,12 @@
           7613000
         ],
         "marketcap": [
-          685947895,
+          596092376,
           null,
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           null,
           null
         ]
@@ -2891,12 +2891,12 @@
           5079000
         ],
         "marketcap": [
-          685947895,
+          596092376,
           null,
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           null,
           null
         ]
@@ -3379,12 +3379,12 @@
           5079000
         ],
         "marketcap": [
-          685947895,
+          596092376,
           null,
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           null,
           null
         ]
@@ -3478,12 +3478,12 @@
           0.31436
         ],
         "marketcap": [
-          685947895,
+          596092376,
           null,
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           null,
           null
         ]
@@ -3517,7 +3517,7 @@
           "Q4"
         ],
         "marketcap": [
-          685947895,
+          596092376,
           522549011.99999994,
           null,
           null,
@@ -3526,7 +3526,7 @@
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           581232012,
           null,
           null,
@@ -3535,7 +3535,7 @@
           null
         ],
         "lastCloseRatios": [
-          16.19,
+          21.5,
           17.43,
           null,
           null,
@@ -3544,7 +3544,7 @@
           null
         ],
         "peForward": [
-          48.93478,
+          42.54348,
           171.386,
           null,
           null,
@@ -3553,7 +3553,7 @@
           null
         ],
         "ps": [
-          2.94829,
+          2.5431,
           3.046,
           null,
           null,
@@ -3562,7 +3562,7 @@
           null
         ],
         "pb": [
-          2.62947,
+          3.49189,
           2.786,
           null,
           null,
@@ -3571,7 +3571,7 @@
           null
         ],
         "ptbvRatio": [
-          3.81827,
+          3.29352,
           2.961,
           null,
           null,
@@ -3580,7 +3580,7 @@
           null
         ],
         "evrevenue": [
-          2.73741,
+          2.33222,
           3.388,
           null,
           null,
@@ -3711,7 +3711,7 @@
           null
         ],
         "earningsyield": [
-          -0.0042953,
+          -0.0049796,
           -0.00686,
           null,
           null,
@@ -3720,7 +3720,7 @@
           null
         ],
         "fcfyield": [
-          -0.017941,
+          -0.020799500000000002,
           -0.02221,
           null,
           null,
@@ -3834,12 +3834,12 @@
           0.31436
         ],
         "marketcap": [
-          685947895,
+          596092376,
           null,
           null
         ],
         "ev": [
-          637754895,
+          547899376,
           null,
           null
         ]
