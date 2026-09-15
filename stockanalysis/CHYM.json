@@ -1019,50 +1019,50 @@
     "targets": {
       "low": 26,
       "high": 50,
-      "count": 17,
-      "median": 38,
-      "average": 36.41,
-      "updated": "2026-09-09",
+      "count": 19,
+      "median": 39,
+      "average": 37.74,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 27,
           "high": 50,
-          "count": 14,
-          "median": 38,
-          "average": 37,
-          "updated": "2026-09-09"
+          "count": 15,
+          "median": 39,
+          "average": 38.07,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 27,
           "high": 50,
-          "count": 12,
-          "median": 38,
-          "average": 36.67,
-          "updated": "2026-09-09"
+          "count": 13,
+          "median": 39,
+          "average": 37.92,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 27,
           "high": 50,
           "count": 12,
-          "median": 38,
-          "average": 36.67,
-          "updated": "2026-09-09"
+          "median": 39,
+          "average": 37.25,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 27,
           "high": 50,
           "count": 9,
-          "median": 38,
-          "average": 37.22,
-          "updated": "2026-09-09"
+          "median": 40,
+          "average": 38,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 28,
           "high": 50,
           "count": 5,
-          "median": 37,
-          "average": 38,
-          "updated": "2026-09-09"
+          "median": 40,
+          "average": 39.4,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1116,16 +1116,91 @@
           "t": "2026-08-01"
         },
         {
-          "c": 33,
+          "c": 33.97,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 44,
+        "pt_old": 37,
+        "firm": "B. Riley Securities",
+        "analyst": "Hal Goetsch",
+        "slug": "hal-goetsch",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "12:45:07",
+        "scores": {
+          "score": 54.9,
+          "stars": 4.8,
+          "total": 164,
+          "avg_return": 27.1,
+          "return_pct": null,
+          "analyst_rank": 503,
+          "success_rate": 54.9,
+          "stock_avg_return": 20.3,
+          "stock_success_rate": 75,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Upgrades",
+        "pt_now": 46,
+        "pt_old": null,
+        "firm": "Rothschild & Co Redburn",
+        "analyst": "Harry Bartlett",
+        "slug": "harry-bartlett",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "08:50:32",
+        "scores": {
+          "score": 75,
+          "stars": 2.1,
+          "total": 4,
+          "avg_return": 7.2,
+          "return_pct": null,
+          "analyst_rank": 7356,
+          "success_rate": 75,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 42,
+        "pt_old": 40,
+        "firm": "Scotiabank",
+        "analyst": "Lance Jessurun",
+        "slug": "lance-jessurun",
+        "date": "2026-09-09",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "13:55:42",
+        "scores": {
+          "score": 37.5,
+          "stars": 0.3,
+          "total": 32,
+          "avg_return": -13,
+          "return_pct": null,
+          "analyst_rank": 11738,
+          "success_rate": 37.5,
+          "stock_avg_return": -1.2,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 33,
@@ -1138,41 +1213,16 @@
         "rating_old": "",
         "time": "13:30:24",
         "scores": {
-          "score": 46.6,
+          "score": 45.8,
           "stars": 0.2,
-          "total": 283,
-          "avg_return": -5.3,
+          "total": 284,
+          "avg_return": -6.2,
           "return_pct": null,
-          "analyst_rank": 11940,
-          "success_rate": 46.6,
-          "stock_avg_return": 36.4,
+          "analyst_rank": 12023,
+          "success_rate": 45.8,
+          "stock_avg_return": 27.1,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 37,
-        "pt_old": null,
-        "firm": "B. Riley Securities",
-        "analyst": "Hal Goetsch",
-        "slug": "hal-goetsch",
-        "date": "2026-09-09",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:30:17",
-        "scores": {
-          "score": 56.4,
-          "stars": 4.8,
-          "total": 163,
-          "avg_return": 28.8,
-          "return_pct": null,
-          "analyst_rank": 469,
-          "success_rate": 56.4,
-          "stock_avg_return": 31.5,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1188,65 +1238,16 @@
         "rating_old": "",
         "time": "11:15:59",
         "scores": {
-          "score": 45,
+          "score": 43.4,
           "stars": 4.8,
           "total": 491,
-          "avg_return": 18.5,
+          "avg_return": 17.4,
           "return_pct": null,
-          "analyst_rank": 567,
-          "success_rate": 45,
-          "stock_avg_return": 48,
-          "stock_success_rate": 83.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "J.P. Morgan",
-        "analyst": "Tien Tsin Huang",
-        "slug": "tien-tsin-huang",
-        "date": "2026-09-09",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:50:20",
-        "scores": {
-          "score": 54.3,
-          "stars": 4,
-          "total": 492,
-          "avg_return": 4,
-          "return_pct": null,
-          "analyst_rank": 2539,
-          "success_rate": 54.3,
-          "stock_avg_return": 31.4,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12514
-        }
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 40,
-        "pt_old": 39,
-        "firm": "Morgan Stanley",
-        "analyst": "James Faucette",
-        "slug": "james-faucette",
-        "date": "2026-09-09",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:40:11",
-        "scores": {
-          "score": 60.8,
-          "stars": 4,
-          "total": 495,
-          "avg_return": 3.4,
-          "return_pct": null,
-          "analyst_rank": 2412,
-          "success_rate": 60.8,
-          "stock_avg_return": 30.2,
-          "stock_success_rate": 85.7,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 605,
+          "success_rate": 43.4,
+          "stock_avg_return": 37.9,
+          "stock_success_rate": 71.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

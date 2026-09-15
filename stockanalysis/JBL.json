@@ -993,7 +993,7 @@
       "count": 9,
       "median": 440,
       "average": 435.11,
-      "updated": "2026-09-08",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 375,
@@ -1001,7 +1001,7 @@
           "count": 9,
           "median": 440,
           "average": 435.11,
-          "updated": "2026-09-08"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 375,
@@ -1009,7 +1009,7 @@
           "count": 9,
           "median": 440,
           "average": 435.11,
-          "updated": "2026-09-08"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 375,
@@ -1017,7 +1017,7 @@
           "count": 9,
           "median": 440,
           "average": 435.11,
-          "updated": "2026-09-08"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 375,
@@ -1025,7 +1025,7 @@
           "count": 8,
           "median": 450,
           "average": 434.5,
-          "updated": "2026-09-08"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 375,
@@ -1033,7 +1033,7 @@
           "count": 6,
           "median": 450,
           "average": 439.33,
-          "updated": "2026-09-08"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1087,16 +1087,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 318.08,
+          "c": 298.72,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 430,
+        "pt_old": null,
+        "firm": "UBS",
+        "analyst": "David Vogt",
+        "slug": "david-vogt",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "01:10:10",
+        "scores": {
+          "score": 63.4,
+          "stars": 4.5,
+          "total": 112,
+          "avg_return": 14.3,
+          "return_pct": null,
+          "analyst_rank": 1363,
+          "success_rate": 63.4,
+          "stock_avg_return": -10.7,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 375,
@@ -1104,46 +1129,21 @@
         "firm": "Goldman Sachs",
         "analyst": "Mark Delaney",
         "slug": "mark-delaney",
-        "date": "2026-09-08",
+        "date": "2026-09-14",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "10:35:06",
+        "time": "00:00:00",
         "scores": {
-          "score": 63,
+          "score": 63.7,
           "stars": 4.9,
-          "total": 443,
-          "avg_return": 22,
+          "total": 444,
+          "avg_return": 22.2,
           "return_pct": null,
-          "analyst_rank": 193,
-          "success_rate": 63,
-          "stock_avg_return": 36.5,
-          "stock_success_rate": 84,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Upgrades",
-        "pt_now": 430,
-        "pt_old": null,
-        "firm": "UBS",
-        "analyst": "David Vogt",
-        "slug": "david-vogt",
-        "date": "2026-08-11",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "01:01:03",
-        "scores": {
-          "score": 61.6,
-          "stars": 4.4,
-          "total": 112,
-          "avg_return": 13.6,
-          "return_pct": null,
-          "analyst_rank": 1571,
-          "success_rate": 61.6,
-          "stock_avg_return": -12.8,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 166,
+          "success_rate": 63.7,
+          "stock_avg_return": 35.6,
+          "stock_success_rate": 84.6,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1159,16 +1159,16 @@
         "rating_old": "",
         "time": "12:31:03",
         "scores": {
-          "score": 74.1,
+          "score": 75.2,
           "stars": 5,
           "total": 499,
-          "avg_return": 52.9,
+          "avg_return": 54.1,
           "return_pct": null,
           "analyst_rank": 3,
-          "success_rate": 74.1,
-          "stock_avg_return": 43.9,
+          "success_rate": 75.2,
+          "stock_avg_return": 44.4,
           "stock_success_rate": 82.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1184,16 +1184,16 @@
         "rating_old": "",
         "time": "02:40:29",
         "scores": {
-          "score": 66.7,
+          "score": 67.5,
           "stars": 5,
-          "total": 457,
-          "avg_return": 51.4,
+          "total": 458,
+          "avg_return": 52.4,
           "return_pct": null,
-          "analyst_rank": 18,
-          "success_rate": 66.7,
-          "stock_avg_return": 30.8,
+          "analyst_rank": 17,
+          "success_rate": 67.5,
+          "stock_avg_return": 32.8,
           "stock_success_rate": 83.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1209,16 +1209,16 @@
         "rating_old": "",
         "time": "15:11:09",
         "scores": {
-          "score": 69.2,
+          "score": 71,
           "stars": 5,
-          "total": 484,
-          "avg_return": 33.8,
+          "total": 486,
+          "avg_return": 34.5,
           "return_pct": null,
-          "analyst_rank": 30,
-          "success_rate": 69.2,
-          "stock_avg_return": 26.3,
+          "analyst_rank": 23,
+          "success_rate": 71,
+          "stock_avg_return": 26.5,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
