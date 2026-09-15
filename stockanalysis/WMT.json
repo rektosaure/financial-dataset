@@ -42,8 +42,8 @@
   },
   "statistics": {
     "valuation": {
-      "marketcap": "850,100,909,723",
-      "enterpriseValue": "913,663,909,723"
+      "marketcap": "865,413,039,968",
+      "enterpriseValue": "928,976,039,968"
     },
     "dates": {
       "earningsdate": "Aug 20, 2026",
@@ -59,22 +59,22 @@
       "float": "4,350,248,458"
     },
     "ratios": {
-      "pe": "38.828",
-      "peForward": "n/a",
-      "ps": "1.155",
-      "psForward": "1.105",
-      "pb": "8.662",
-      "ptbvRatio": "12.148",
-      "pfcf": "62.928",
-      "pocf": "19.805",
-      "pegRatio": "n/a"
+      "pe": "39.527",
+      "peForward": "36.385",
+      "ps": "1.176",
+      "psForward": "1.125",
+      "pb": "8.819",
+      "ptbvRatio": "12.367",
+      "pfcf": "64.062",
+      "pocf": "20.162",
+      "pegRatio": "3.540"
     },
     "evRatios": {
-      "evEarnings": "41.39",
-      "evSales": "1.24",
-      "evEbitda": "20.73",
-      "evEbit": "31.53",
-      "evFcf": "67.63"
+      "evEarnings": "42.08",
+      "evSales": "1.26",
+      "evEbitda": "21.08",
+      "evEbit": "32.06",
+      "evFcf": "68.77"
     },
     "financialPosition": {
       "currentRatio": "0.767",
@@ -89,7 +89,7 @@
       "roa": "6.414%",
       "roic": "13.312%",
       "roce": "16.255%",
-      "wacc": "7.107%",
+      "wacc": "7.114%",
       "revPerEmployee": "350,400",
       "profitPerEmployee": "10,512",
       "employees": "2,100,000",
@@ -102,11 +102,11 @@
     },
     "stockPrice": {
       "beta": "0.595",
-      "ch1y": "6.71%",
-      "sma50": "110.331",
-      "sma200": "118.721",
-      "rsi": "47.021",
-      "averageVolume": "26,961,662"
+      "ch1y": "5.40%",
+      "sma50": "110.275",
+      "sma200": "118.746",
+      "rsi": "52.528",
+      "averageVolume": "27,383,959"
     },
     "shortSelling": {
       "shortInterest": "85,346,340",
@@ -153,18 +153,18 @@
     },
     "dividends": {
       "dps": "$0.990",
-      "dividendYield": "0.924%",
+      "dividendYield": "0.908%",
       "dividendGrowth": "5.319%",
       "dividendGrowthYears": "53",
       "payoutRatio": "35.875%",
       "buybackYield": "0.701%",
-      "totalReturn": "1.625%",
-      "earningsYield": "2.597%",
-      "fcfYield": "1.589%"
+      "totalReturn": "1.609%",
+      "earningsYield": "2.551%",
+      "fcfYield": "1.561%"
     },
     "analystForecasts": {
-      "priceTarget": "$127.38",
-      "priceTargetChange": "18.88%",
+      "priceTarget": "$127.43",
+      "priceTargetChange": "16.82%",
       "analystRatings": "Buy",
       "analystCount": "43",
       "revenue3y": "4.90%",
@@ -181,9 +181,9 @@
     },
     "fairValue": {
       "lynchFairValue": "$47.04",
-      "lynchUpside": "-56.10%",
+      "lynchUpside": "-56.88%",
       "grahamNumber": "$27.71",
-      "grahamUpside": "-74.14%"
+      "grahamUpside": "-74.59%"
     }
   },
   "forecast": {
@@ -853,19 +853,6 @@
     "recommendations": [
       {
         "buy": 9,
-        "date": "2025-09-30",
-        "hold": 1,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 8.214285714285714,
-        "total": 42,
-        "updated": "2025-09-30",
-        "consensus": "Strong Buy",
-        "strongBuy": 31,
-        "strongSell": 1
-      },
-      {
-        "buy": 9,
         "date": "2025-10-29",
         "hold": 1,
         "sell": 0,
@@ -1006,6 +993,19 @@
         "consensus": "Buy",
         "strongBuy": 27,
         "strongSell": 0
+      },
+      {
+        "buy": 10,
+        "date": "2026-09-14",
+        "hold": 5,
+        "sell": 1,
+        "month": "Sep '26",
+        "score": 7.325581395348837,
+        "total": 43,
+        "updated": "2026-09-14",
+        "consensus": "Buy",
+        "strongBuy": 27,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -1014,7 +1014,7 @@
       "count": 28,
       "median": 130,
       "average": 129,
-      "updated": "2026-09-11",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 110,
@@ -1022,7 +1022,7 @@
           "count": 24,
           "median": 130,
           "average": 127.96,
-          "updated": "2026-09-11"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 110,
@@ -1030,7 +1030,7 @@
           "count": 23,
           "median": 128,
           "average": 127.57,
-          "updated": "2026-09-11"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 110,
@@ -1038,7 +1038,7 @@
           "count": 21,
           "median": 126,
           "average": 126.76,
-          "updated": "2026-09-11"
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 110,
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 107.15,
+          "c": 109.08,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 125,
+        "pt_old": null,
+        "firm": "TD Cowen",
+        "analyst": "Oliver Chen",
+        "slug": "oliver-chen",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "08:06:59",
+        "scores": {
+          "score": 46,
+          "stars": 3.1,
+          "total": 498,
+          "avg_return": 1.8,
+          "return_pct": null,
+          "analyst_rank": 4641,
+          "success_rate": 46,
+          "stock_avg_return": 21.9,
+          "stock_success_rate": 81.4,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 120,
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "14:30:50",
         "scores": {
-          "score": 62.4,
+          "score": 61.7,
           "stars": 4.9,
-          "total": 356,
-          "avg_return": 18.1,
+          "total": 358,
+          "avg_return": 18.2,
           "return_pct": null,
-          "analyst_rank": 373,
-          "success_rate": 62.4,
-          "stock_avg_return": 26.6,
-          "stock_success_rate": 80.6,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 371,
+          "success_rate": 61.7,
+          "stock_avg_return": 26.1,
+          "stock_success_rate": 78.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1155,16 +1180,16 @@
         "rating_old": "",
         "time": "10:10:26",
         "scores": {
-          "score": 48,
-          "stars": 3.8,
+          "score": 48.6,
+          "stars": 3.9,
           "total": 488,
-          "avg_return": 3.8,
+          "avg_return": 4,
           "return_pct": null,
-          "analyst_rank": 2968,
-          "success_rate": 48,
-          "stock_avg_return": 18.9,
-          "stock_success_rate": 76.9,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 2836,
+          "success_rate": 48.6,
+          "stock_avg_return": 18.4,
+          "stock_success_rate": 82.1,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1182,14 +1207,14 @@
         "scores": {
           "score": 57.9,
           "stars": 4.7,
-          "total": 432,
-          "avg_return": 11.1,
+          "total": 435,
+          "avg_return": 11,
           "return_pct": null,
-          "analyst_rank": 708,
+          "analyst_rank": 698,
           "success_rate": 57.9,
-          "stock_avg_return": 20.8,
-          "stock_success_rate": 79.3,
-          "number_of_ranked_experts": 12502
+          "stock_avg_return": 20.5,
+          "stock_success_rate": 80,
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1204,41 +1229,16 @@
         "rating_old": "",
         "time": "09:37:31",
         "scores": {
-          "score": 49.5,
+          "score": 49.4,
           "stars": 0.1,
-          "total": 461,
-          "avg_return": -6.7,
+          "total": 464,
+          "avg_return": -6.8,
           "return_pct": null,
-          "analyst_rank": 12228,
-          "success_rate": 49.5,
-          "stock_avg_return": 22.2,
-          "stock_success_rate": 80,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 132,
-        "pt_old": null,
-        "firm": "D.A. Davidson",
-        "analyst": "Michael Baker",
-        "slug": "michael-baker",
-        "date": "2026-09-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:25:34",
-        "scores": {
-          "score": 54.5,
-          "stars": 4.4,
-          "total": 486,
-          "avg_return": 6.5,
-          "return_pct": null,
-          "analyst_rank": 1552,
-          "success_rate": 54.5,
-          "stock_avg_return": 20.9,
-          "stock_success_rate": 74.4,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 12232,
+          "success_rate": 49.4,
+          "stock_avg_return": 21.8,
+          "stock_success_rate": 80.6,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1246,7 +1246,7 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 127.38,
+      "avg": 127.43,
       "median": 130,
       "low": 81,
       "high": 155,
