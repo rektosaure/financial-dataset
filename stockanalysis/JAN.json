@@ -837,34 +837,34 @@
     "targets": {
       "low": 27,
       "high": 38,
-      "count": 13,
+      "count": 14,
       "median": 34,
-      "average": 33.08,
-      "updated": "2026-09-11",
+      "average": 33.29,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 27,
           "high": 38,
           "count": 12,
           "median": 34,
-          "average": 33,
-          "updated": "2026-09-11"
+          "average": 33.17,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 29,
           "high": 38,
-          "count": 9,
+          "count": 10,
           "median": 34,
-          "average": 33.44,
-          "updated": "2026-09-11"
+          "average": 33.7,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 29,
           "high": 38,
           "count": 9,
           "median": 34,
-          "average": 33.44,
-          "updated": "2026-09-11"
+          "average": 33.78,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 31,
@@ -872,7 +872,7 @@
           "count": 4,
           "median": 34,
           "average": 33.75,
-          "updated": "2026-09-11"
+          "updated": "2026-09-09"
         },
         "5": {
           "count": 0,
@@ -906,12 +906,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 30.92,
+          "c": 31.07,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
@@ -920,24 +920,49 @@
         "action_rt": "Initiates",
         "pt_now": 36,
         "pt_old": null,
+        "firm": "Jefferies",
+        "analyst": "Joe Dickstein",
+        "slug": "joe-dickstein",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "09:25:04",
+        "scores": {
+          "score": 68.2,
+          "stars": 3.6,
+          "total": 22,
+          "avg_return": 14.5,
+          "return_pct": null,
+          "analyst_rank": 3412,
+          "success_rate": 68.2,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Initiates",
+        "pt_now": 36,
+        "pt_old": null,
         "firm": "Janney Montgomery",
         "analyst": "Robert Stevenson",
         "slug": "robert-stevenson",
-        "date": "2026-09-11",
+        "date": "2026-09-09",
         "rating_new": "Buy",
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 67.1,
+          "score": 65.8,
           "stars": 4,
-          "total": 76,
-          "avg_return": 10.1,
+          "total": 79,
+          "avg_return": 9.7,
           "return_pct": null,
-          "analyst_rank": 2443,
-          "success_rate": 67.1,
-          "stock_avg_return": 0,
+          "analyst_rank": 2476,
+          "success_rate": 65.8,
+          "stock_avg_return": -0.1,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -953,16 +978,16 @@
         "rating_old": "",
         "time": "14:30:58",
         "scores": {
-          "score": 54.7,
-          "stars": 3.7,
+          "score": 55,
+          "stars": 3.8,
           "total": 278,
           "avg_return": 4,
           "return_pct": null,
-          "analyst_rank": 3196,
-          "success_rate": 54.7,
-          "stock_avg_return": 12.2,
+          "analyst_rank": 3110,
+          "success_rate": 55,
+          "stock_avg_return": 12.1,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -978,16 +1003,16 @@
         "rating_old": "",
         "time": "10:31:48",
         "scores": {
-          "score": 54.7,
-          "stars": 3.6,
+          "score": 51.2,
+          "stars": 3.5,
           "total": 86,
-          "avg_return": 6.6,
+          "avg_return": 6.3,
           "return_pct": null,
-          "analyst_rank": 3521,
-          "success_rate": 54.7,
-          "stock_avg_return": 9.8,
+          "analyst_rank": 3648,
+          "success_rate": 51.2,
+          "stock_avg_return": 9.7,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1003,41 +1028,16 @@
         "rating_old": "",
         "time": "07:59:38",
         "scores": {
-          "score": 44.6,
-          "stars": 1,
+          "score": 43.3,
+          "stars": 0.9,
           "total": 240,
-          "avg_return": -1,
+          "avg_return": -1.4,
           "return_pct": null,
-          "analyst_rank": 10058,
-          "success_rate": 44.6,
-          "stock_avg_return": 11.1,
+          "analyst_rank": 10316,
+          "success_rate": 43.3,
+          "stock_avg_return": 11,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 38,
-        "pt_old": 34,
-        "firm": "Bank of America Securities",
-        "analyst": "Farrell Granath",
-        "slug": "farrell-granath",
-        "date": "2026-08-24",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:55:31",
-        "scores": {
-          "score": 72.1,
-          "stars": 3.7,
-          "total": 43,
-          "avg_return": 9.5,
-          "return_pct": null,
-          "analyst_rank": 3277,
-          "success_rate": 72.1,
-          "stock_avg_return": 15.5,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1248,12 +1248,12 @@
           0.666555
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           null,
           null
         ]
@@ -1947,12 +1947,12 @@
           116002000
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           null,
           null
         ]
@@ -2316,12 +2316,12 @@
           116002000
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           null,
           null
         ]
@@ -2465,12 +2465,12 @@
           97466000
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           null,
           null
         ]
@@ -2806,12 +2806,12 @@
           97466000
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           null,
           null
         ]
@@ -2890,12 +2890,12 @@
           null
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           null,
           null
         ]
@@ -2923,77 +2923,77 @@
           "Q1"
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           6099288905,
           4412846016,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           6031550905,
           4495882015,
           null,
           null
         ],
         "lastCloseRatios": [
-          30.92,
+          31.07,
           28.604605,
           23.312834,
           null,
           null
         ],
         "pe": [
-          721.64818,
+          508.66882,
           -2423.238,
           null,
           null,
           null
         ],
         "ps": [
-          13.16719,
+          13.23107,
           8.535,
           8.859,
           null,
           null
         ],
         "pb": [
-          2.43841,
+          2.45024,
           1.646,
           1.449,
           null,
           null
         ],
         "ptbvRatio": [
-          3.75091,
+          3.7691,
           2.403,
           2.241,
           null,
           null
         ],
         "pocf": [
-          53.06361,
+          53.32103,
           33.297,
           42.588,
           null,
           null
         ],
         "evrevenue": [
-          11.01278,
+          11.07666,
           8.441,
           9.026,
           null,
           null
         ],
         "evebitda": [
-          43.991,
+          44.24616,
           34.237,
           36.76,
           null,
           null
         ],
         "evebit": [
-          739.85577,
+          744.14713,
           null,
           650.07,
           null,
@@ -3066,14 +3066,14 @@
           -0.00731
         ],
         "earningsyield": [
-          0.0013857,
+          0.001379,
           -0.00041,
           -0.003,
           null,
           null
         ],
         "dividendyield": [
-          0.01843,
+          0.018349999999999998,
           0.00559,
           0.00075,
           null,
@@ -3087,7 +3087,7 @@
           null
         ],
         "totalreturn": [
-          0.01843,
+          0.018349999999999998,
           0.00559,
           0.00075,
           null,
@@ -3180,12 +3180,12 @@
           null
         ],
         "marketcap": [
-          9519982794,
+          9566166410,
           null,
           null
         ],
         "ev": [
-          7962327794,
+          8008511410,
           null,
           null
         ]
