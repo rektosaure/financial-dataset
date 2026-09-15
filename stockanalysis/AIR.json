@@ -968,50 +968,50 @@
     ],
     "targets": {
       "low": 145,
-      "high": 290.09,
+      "high": 290.3,
       "count": 3,
       "median": 155,
-      "average": 196.7,
+      "average": 196.77,
       "updated": "2026-07-30",
       "filtered": {
         "1": {
           "low": 155,
-          "high": 290.09,
+          "high": 290.3,
           "count": 2,
-          "median": 290.09,
-          "average": 222.54,
+          "median": 290.3,
+          "average": 222.65,
           "updated": "2026-07-30"
         },
         "2": {
           "low": 155,
-          "high": 290.09,
+          "high": 290.3,
           "count": 2,
-          "median": 290.09,
-          "average": 222.54,
+          "median": 290.3,
+          "average": 222.65,
           "updated": "2026-07-30"
         },
         "3": {
           "low": 155,
-          "high": 290.09,
+          "high": 290.3,
           "count": 2,
-          "median": 290.09,
-          "average": 222.54,
+          "median": 290.3,
+          "average": 222.65,
           "updated": "2026-07-30"
         },
         "4": {
           "low": 155,
-          "high": 290.09,
+          "high": 290.3,
           "count": 2,
-          "median": 290.09,
-          "average": 222.54,
+          "median": 290.3,
+          "average": 222.65,
           "updated": "2026-07-30"
         },
         "5": {
-          "low": 290.09,
-          "high": 290.09,
-          "count": 1,
-          "median": 290.09,
-          "average": 290.09,
+          "low": 155,
+          "high": 290.3,
+          "count": 2,
+          "median": 290.3,
+          "average": 222.65,
           "updated": "2026-07-30"
         }
       },
@@ -1066,20 +1066,44 @@
           "t": "2026-08-01"
         },
         {
-          "c": 125.48,
+          "c": 120.08,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
       {
+        "action_rt": "Initiates",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Guggenheim",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "20:20:08",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        }
+      },
+      {
         "action_rt": "Maintains",
-        "pt_now": 290.08925,
-        "pt_old": 261.08032499999996,
+        "pt_now": 290.2995,
+        "pt_old": 261.26955000000004,
         "firm": "RBC Capital",
         "analyst": "Kenneth Herbert",
         "slug": "kenneth-herbert",
@@ -1088,16 +1112,16 @@
         "rating_old": "",
         "time": "11:10:15",
         "scores": {
-          "score": 63.9,
+          "score": 64.5,
           "stars": 4.9,
           "total": 496,
-          "avg_return": 22.6,
+          "avg_return": 22.7,
           "return_pct": null,
-          "analyst_rank": 142,
-          "success_rate": 63.9,
-          "stock_avg_return": 30.2,
+          "analyst_rank": 131,
+          "success_rate": 64.5,
+          "stock_avg_return": 30.4,
           "stock_success_rate": 85.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1116,13 +1140,13 @@
           "score": 15.8,
           "stars": 0.6,
           "total": 19,
-          "avg_return": -9.3,
+          "avg_return": -9.2,
           "return_pct": null,
-          "analyst_rank": 11096,
+          "analyst_rank": 11070,
           "success_rate": 15.8,
-          "stock_avg_return": -2.3,
+          "stock_avg_return": -1.6,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1138,16 +1162,16 @@
         "rating_old": "",
         "time": "07:25:30",
         "scores": {
-          "score": 55.7,
-          "stars": 4.7,
-          "total": 497,
+          "score": 56,
+          "stars": 4.8,
+          "total": 500,
           "avg_return": 11.9,
           "return_pct": null,
-          "analyst_rank": 643,
-          "success_rate": 55.7,
-          "stock_avg_return": 12.7,
+          "analyst_rank": 621,
+          "success_rate": 56,
+          "stock_avg_return": 13.5,
           "stock_success_rate": 80,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1166,37 +1190,13 @@
           "score": 53.8,
           "stars": 4.7,
           "total": 52,
-          "avg_return": 42.4,
+          "avg_return": 42.3,
           "return_pct": null,
-          "analyst_rank": 688,
+          "analyst_rank": 683,
           "success_rate": 53.8,
           "stock_avg_return": 52.8,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
-        }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Louie DiPalma",
-        "slug": "louie-dipalma",
-        "date": "2026-07-22",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:48:12",
-        "scores": {
-          "score": 45.9,
-          "stars": 1.9,
-          "total": 333,
-          "avg_return": 0.2,
-          "return_pct": null,
-          "analyst_rank": 7771,
-          "success_rate": 45.9,
-          "stock_avg_return": 37.9,
-          "stock_success_rate": 92.3,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
       }
     ],

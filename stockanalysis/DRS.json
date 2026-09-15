@@ -927,10 +927,10 @@
     "targets": {
       "low": 47,
       "high": 57,
-      "count": 6,
-      "median": 54,
-      "average": 52.67,
-      "updated": "2026-08-05",
+      "count": 7,
+      "median": 53,
+      "average": 52.43,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 47,
@@ -1024,16 +1024,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 36.07,
+          "c": 35.91,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 51,
+        "pt_old": null,
+        "firm": "Guggenheim",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:20:08",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 53,
@@ -1046,16 +1071,16 @@
         "rating_old": "",
         "time": "12:40:57",
         "scores": {
-          "score": 66.5,
+          "score": 66.3,
           "stars": 4.8,
-          "total": 364,
-          "avg_return": 14.2,
+          "total": 365,
+          "avg_return": 14.1,
           "return_pct": null,
-          "analyst_rank": 407,
-          "success_rate": 66.5,
+          "analyst_rank": 405,
+          "success_rate": 66.3,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1071,16 +1096,16 @@
         "rating_old": "",
         "time": "12:16:12",
         "scores": {
-          "score": 50.2,
-          "stars": 4.1,
-          "total": 416,
-          "avg_return": 5.8,
+          "score": 50.1,
+          "stars": 4.2,
+          "total": 417,
+          "avg_return": 5.9,
           "return_pct": null,
-          "analyst_rank": 2127,
-          "success_rate": 50.2,
+          "analyst_rank": 2066,
+          "success_rate": 50.1,
           "stock_avg_return": -17,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1099,13 +1124,13 @@
           "score": 58.3,
           "stars": 4.7,
           "total": 345,
-          "avg_return": 11.7,
+          "avg_return": 11.8,
           "return_pct": null,
-          "analyst_rank": 804,
+          "analyst_rank": 772,
           "success_rate": 58.3,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1121,41 +1146,16 @@
         "rating_old": "",
         "time": "11:40:10",
         "scores": {
-          "score": 59.5,
+          "score": 59.9,
           "stars": 4.9,
           "total": 494,
-          "avg_return": 18.4,
+          "avg_return": 18.5,
           "return_pct": null,
-          "analyst_rank": 289,
-          "success_rate": 59.5,
+          "analyst_rank": 262,
+          "success_rate": 59.9,
           "stock_avg_return": 14.7,
           "stock_success_rate": 72.7,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 54,
-        "pt_old": null,
-        "firm": "Canaccord Genuity",
-        "analyst": "Austin Moeller",
-        "slug": "austin-moeller",
-        "date": "2026-07-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "17:06:03",
-        "scores": {
-          "score": 35.3,
-          "stars": 2.5,
-          "total": 326,
-          "avg_return": 1,
-          "return_pct": null,
-          "analyst_rank": 6341,
-          "success_rate": 35.3,
-          "stock_avg_return": 6,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
