@@ -1014,7 +1014,7 @@
       "count": 14,
       "median": 290,
       "average": 289,
-      "updated": "2026-09-08",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 256,
@@ -1022,7 +1022,7 @@
           "count": 12,
           "median": 290,
           "average": 289.25,
-          "updated": "2026-09-03"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 256,
@@ -1030,15 +1030,15 @@
           "count": 11,
           "median": 290,
           "average": 288.73,
-          "updated": "2026-09-03"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 256,
           "high": 315,
-          "count": 11,
+          "count": 10,
           "median": 290,
-          "average": 288.73,
-          "updated": "2026-09-03"
+          "average": 288.1,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 256,
@@ -1046,7 +1046,7 @@
           "count": 9,
           "median": 288,
           "average": 287.89,
-          "updated": "2026-09-03"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 285,
@@ -1054,7 +1054,7 @@
           "count": 3,
           "median": 288,
           "average": 289.33,
-          "updated": "2026-09-03"
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 222.54,
+          "c": 222.31,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 295,
+        "pt_old": null,
+        "firm": "Jefferies",
+        "analyst": "Philip Ng",
+        "slug": "philip-ng",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 58.6,
+          "stars": 4.8,
+          "total": 486,
+          "avg_return": 11.8,
+          "return_pct": null,
+          "analyst_rank": 576,
+          "success_rate": 58.6,
+          "stock_avg_return": 15.5,
+          "stock_success_rate": 71.4,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 250,
@@ -1128,7 +1153,7 @@
         "date": "2026-09-08",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "16:05:30",
         "scores": {
           "score": null,
           "stars": null,
@@ -1139,32 +1164,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 295,
-        "pt_old": null,
-        "firm": "Jefferies",
-        "analyst": "Philip Ng",
-        "slug": "philip-ng",
-        "date": "2026-09-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "20:00:22",
-        "scores": {
-          "score": 59.2,
-          "stars": 4.8,
-          "total": 485,
-          "avg_return": 12,
-          "return_pct": null,
-          "analyst_rank": 586,
-          "success_rate": 59.2,
-          "stock_avg_return": 16,
-          "stock_success_rate": 78.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1180,16 +1180,16 @@
         "rating_old": "",
         "time": "11:30:31",
         "scores": {
-          "score": 35.5,
-          "stars": 0.8,
+          "score": 9.7,
+          "stars": 0.7,
           "total": 31,
-          "avg_return": -4.2,
+          "avg_return": -5.8,
           "return_pct": null,
-          "analyst_rank": 10484,
-          "success_rate": 35.5,
-          "stock_avg_return": -1.2,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 10873,
+          "success_rate": 9.7,
+          "stock_avg_return": -3.7,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1205,16 +1205,16 @@
         "rating_old": "",
         "time": "22:05:28",
         "scores": {
-          "score": 49.8,
-          "stars": 3.5,
-          "total": 227,
-          "avg_return": 3.6,
+          "score": 47.4,
+          "stars": 2.9,
+          "total": 228,
+          "avg_return": 1.9,
           "return_pct": null,
-          "analyst_rank": 3875,
-          "success_rate": 49.8,
-          "stock_avg_return": 3.2,
-          "stock_success_rate": 35.7,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 5250,
+          "success_rate": 47.4,
+          "stock_avg_return": 1.6,
+          "stock_success_rate": 28.6,
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1229,16 +1229,16 @@
         "rating_old": "",
         "time": "16:35:58",
         "scores": {
-          "score": 46.1,
-          "stars": 1.6,
-          "total": 141,
-          "avg_return": 0.1,
+          "score": 44.8,
+          "stars": 1.5,
+          "total": 143,
+          "avg_return": -0.1,
           "return_pct": null,
-          "analyst_rank": 8434,
-          "success_rate": 46.1,
-          "stock_avg_return": 11,
-          "stock_success_rate": 72.7,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 8735,
+          "success_rate": 44.8,
+          "stock_avg_return": 9.3,
+          "stock_success_rate": 54.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
