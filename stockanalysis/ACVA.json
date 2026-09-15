@@ -916,41 +916,41 @@
       "low": 6,
       "high": 10.5,
       "count": 6,
-      "median": 9,
-      "average": 8.33,
-      "updated": "2026-08-24",
+      "median": 10,
+      "average": 8.67,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 6,
           "high": 10.5,
           "count": 5,
-          "median": 8.5,
-          "average": 8.2,
-          "updated": "2026-08-17"
+          "median": 10,
+          "average": 8.6,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 6,
           "high": 10.5,
           "count": 5,
-          "median": 8.5,
-          "average": 8.2,
-          "updated": "2026-08-17"
+          "median": 10,
+          "average": 8.6,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 6,
           "high": 10.5,
-          "count": 5,
-          "median": 8.5,
-          "average": 8.2,
-          "updated": "2026-08-17"
+          "count": 4,
+          "median": 10.5,
+          "average": 9.25,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 6,
-          "high": 10,
+          "high": 10.5,
           "count": 3,
-          "median": 8.5,
-          "average": 8.17,
-          "updated": "2026-08-17"
+          "median": 10,
+          "average": 8.83,
+          "updated": "2026-09-14"
         },
         "5": {
           "count": 0,
@@ -1013,11 +1013,36 @@
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 10.5,
+        "pt_old": 8.5,
+        "firm": "Citi",
+        "analyst": "Ronald Josey",
+        "slug": "ronald-josey",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:30:24",
+        "scores": {
+          "score": 51.3,
+          "stars": 4.1,
+          "total": 485,
+          "avg_return": 4.9,
+          "return_pct": null,
+          "analyst_rank": 2229,
+          "success_rate": 51.3,
+          "stock_avg_return": -4.2,
+          "stock_success_rate": 57.1,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Downgrades",
         "pt_now": null,
@@ -1028,18 +1053,18 @@
         "date": "2026-09-11",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "16:50:11",
+        "time": "16:50:13",
         "scores": {
           "score": 39.3,
-          "stars": 0.1,
+          "stars": 0.2,
           "total": 257,
-          "avg_return": -7.1,
+          "avg_return": -6.2,
           "return_pct": null,
-          "analyst_rank": 12131,
+          "analyst_rank": 12024,
           "success_rate": 39.3,
-          "stock_avg_return": 21.8,
-          "stock_success_rate": 65.2,
-          "number_of_ranked_experts": 12502
+          "stock_avg_return": 32.5,
+          "stock_success_rate": 69.6,
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1056,14 +1081,14 @@
         "scores": {
           "score": 54.9,
           "stars": 4.8,
-          "total": 494,
-          "avg_return": 13.1,
+          "total": 495,
+          "avg_return": 13.4,
           "return_pct": null,
-          "analyst_rank": 586,
+          "analyst_rank": 558,
           "success_rate": 54.9,
-          "stock_avg_return": 5,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "stock_avg_return": 6.3,
+          "stock_success_rate": 52,
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1087,32 +1112,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 8.5,
-        "pt_old": 7,
-        "firm": "Citi",
-        "analyst": "Ronald Josey",
-        "slug": "ronald-josey",
-        "date": "2026-08-17",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "10:40:43",
-        "scores": {
-          "score": 50.5,
-          "stars": 4,
-          "total": 485,
-          "avg_return": 4.4,
-          "return_pct": null,
-          "analyst_rank": 2530,
-          "success_rate": 50.5,
-          "stock_avg_return": -4.2,
-          "stock_success_rate": 57.1,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1129,15 +1129,15 @@
         "time": "16:02:05",
         "scores": {
           "score": 50,
-          "stars": 3.5,
+          "stars": 3.6,
           "total": 52,
-          "avg_return": 8,
+          "avg_return": 8.9,
           "return_pct": null,
-          "analyst_rank": 3792,
+          "analyst_rank": 3546,
           "success_rate": 50,
-          "stock_avg_return": 1.5,
+          "stock_avg_return": 43.3,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -6176,7 +6176,7 @@
           null
         ],
         "ps": [
-          2.20593,
+          2.21123,
           1.818,
           5.683,
           5.082,
@@ -6192,7 +6192,7 @@
           5.271
         ],
         "ptbvRatio": [
-          39.91107,
+          40.00691,
           16.642,
           36.16,
           9.293,
@@ -6200,7 +6200,7 @@
           6.642
         ],
         "pfcf": [
-          60.71653,
+          60.86234,
           19.973,
           59.5,
           null,
@@ -6208,7 +6208,7 @@
           35.433
         ],
         "pocf": [
-          45.43635,
+          45.54546,
           17.65,
           55.37,
           null,
@@ -6216,7 +6216,7 @@
           34.366
         ],
         "evrevenue": [
-          2.21522,
+          2.22052,
           1.75,
           5.477,
           4.404,
@@ -6224,7 +6224,7 @@
           6.504
         ],
         "evfcf": [
-          60.97211,
+          61.11793,
           19.233,
           57.341,
           null,
@@ -6320,7 +6320,7 @@
           -0.137
         ],
         "earningsyield": [
-          -0.0357215,
+          -0.035636,
           -0.0479,
           -0.02201,
           -0.03077,
@@ -6328,7 +6328,7 @@
           -0.02667
         ],
         "fcfyield": [
-          0.01647,
+          0.0164305,
           0.05007,
           0.01681,
           -0.00827,
@@ -6507,7 +6507,7 @@
           null
         ],
         "ps": [
-          2.20593,
+          2.21123,
           1.566,
           0.945,
           1.818,
@@ -6553,7 +6553,7 @@
           4.814
         ],
         "ptbvRatio": [
-          39.91107,
+          40.00691,
           28.341,
           8.71,
           16.642,
@@ -6576,7 +6576,7 @@
           5.903
         ],
         "pfcf": [
-          60.71653,
+          60.86234,
           null,
           9.391,
           null,
@@ -6599,7 +6599,7 @@
           36.601
         ],
         "pocf": [
-          45.43635,
+          45.54546,
           null,
           8.376,
           null,
@@ -6645,7 +6645,7 @@
           null
         ],
         "evrevenue": [
-          2.21522,
+          2.22052,
           1.448,
           0.901,
           1.75,
@@ -6691,7 +6691,7 @@
           null
         ],
         "evfcf": [
-          60.97211,
+          61.11793,
           null,
           8.952,
           null,
@@ -7009,7 +7009,7 @@
           -0.106
         ],
         "earningsyield": [
-          -0.0357215,
+          -0.035636,
           -0.0503,
           -0.0843,
           -0.0479,
@@ -7032,7 +7032,7 @@
           -0.02313
         ],
         "fcfyield": [
-          0.01647,
+          0.0164305,
           0.02319,
           0.10649,
           0.05007,
@@ -7136,7 +7136,7 @@
           null
         ],
         "ps": [
-          2.20593,
+          2.21123,
           1.818,
           5.683,
           5.082,
@@ -7152,7 +7152,7 @@
           5.271
         ],
         "ptbvRatio": [
-          39.91107,
+          40.00691,
           16.642,
           36.16,
           9.293,
@@ -7160,7 +7160,7 @@
           6.642
         ],
         "pfcf": [
-          60.71653,
+          60.86234,
           19.973,
           59.5,
           null,
@@ -7168,7 +7168,7 @@
           35.433
         ],
         "pocf": [
-          45.43635,
+          45.54546,
           17.65,
           55.37,
           null,
@@ -7176,7 +7176,7 @@
           34.366
         ],
         "evrevenue": [
-          2.21522,
+          2.22052,
           1.75,
           5.477,
           4.404,
@@ -7184,7 +7184,7 @@
           6.504
         ],
         "evfcf": [
-          60.97211,
+          61.11793,
           19.233,
           57.341,
           null,
@@ -7280,7 +7280,7 @@
           -0.137
         ],
         "earningsyield": [
-          -0.0357215,
+          -0.035636,
           -0.0479,
           -0.02201,
           -0.03077,
@@ -7288,7 +7288,7 @@
           -0.02667
         ],
         "fcfyield": [
-          0.01647,
+          0.0164305,
           0.05007,
           0.01681,
           -0.00827,
