@@ -768,7 +768,7 @@
       "count": 11,
       "median": 60,
       "average": 59.45,
-      "updated": "2026-07-15",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 51,
@@ -776,38 +776,38 @@
           "count": 11,
           "median": 60,
           "average": 59.45,
-          "updated": "2026-07-15"
+          "updated": "2026-09-14"
         },
         "2": {
-          "low": 51,
+          "low": 55,
           "high": 73,
-          "count": 11,
+          "count": 9,
           "median": 60,
-          "average": 59.45,
+          "average": 60.78,
           "updated": "2026-07-15"
         },
         "3": {
-          "low": 51,
+          "low": 55,
           "high": 73,
-          "count": 11,
+          "count": 9,
           "median": 60,
-          "average": 59.45,
+          "average": 60.78,
           "updated": "2026-07-15"
         },
         "4": {
-          "low": 51,
+          "low": 55,
           "high": 73,
-          "count": 10,
+          "count": 8,
           "median": 60,
-          "average": 59.9,
+          "average": 61.5,
           "updated": "2026-07-09"
         },
         "5": {
           "low": 55,
           "high": 68,
-          "count": 5,
+          "count": 4,
           "median": 60,
-          "average": 59.8,
+          "average": 60.75,
           "updated": "2026-07-08"
         }
       },
@@ -842,16 +842,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 31.82,
+          "c": 28.64,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 56,
+        "pt_old": null,
+        "firm": "J.P. Morgan",
+        "analyst": "Chigusa Katoku",
+        "slug": "chigusa-katoku",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "12:18:07",
+        "scores": {
+          "score": 27.3,
+          "stars": 1.1,
+          "total": 11,
+          "avg_return": -4.3,
+          "return_pct": null,
+          "analyst_rank": 9792,
+          "success_rate": 27.3,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 51,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Christine Yao",
+        "slug": "christine-yao",
+        "date": "2026-09-12",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "17:35:35",
+        "scores": {
+          "score": 50,
+          "stars": 1.2,
+          "total": 2,
+          "avg_return": -9.8,
+          "return_pct": null,
+          "analyst_rank": 9472,
+          "success_rate": 50,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 55,
@@ -864,16 +914,16 @@
         "rating_old": "",
         "time": "20:16:14",
         "scores": {
-          "score": 45.2,
-          "stars": 3.1,
+          "score": 47.6,
+          "stars": 3.2,
           "total": 252,
-          "avg_return": 2.4,
+          "avg_return": 2.7,
           "return_pct": null,
-          "analyst_rank": 4797,
-          "success_rate": 45.2,
-          "stock_avg_return": -27.2,
+          "analyst_rank": 4385,
+          "success_rate": 47.6,
+          "stock_avg_return": -25.3,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -889,16 +939,16 @@
         "rating_old": "",
         "time": "15:40:43",
         "scores": {
-          "score": 54.4,
+          "score": 53.7,
           "stars": 4.3,
           "total": 294,
           "avg_return": 7.3,
           "return_pct": null,
-          "analyst_rank": 1847,
-          "success_rate": 54.4,
-          "stock_avg_return": -23.3,
+          "analyst_rank": 1848,
+          "success_rate": 53.7,
+          "stock_avg_return": -21.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -914,66 +964,16 @@
         "rating_old": "",
         "time": "10:01:28",
         "scores": {
-          "score": 63.7,
+          "score": 64.4,
           "stars": 4.9,
           "total": 491,
           "avg_return": 16.8,
           "return_pct": null,
-          "analyst_rank": 247,
-          "success_rate": 63.7,
-          "stock_avg_return": -32.8,
+          "analyst_rank": 225,
+          "success_rate": 64.4,
+          "stock_avg_return": -31,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 73,
-        "pt_old": 63,
-        "firm": "TD Cowen",
-        "analyst": "Michael Elias",
-        "slug": "michael-elias",
-        "date": "2026-06-22",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:55:56",
-        "scores": {
-          "score": 50.4,
-          "stars": 4.4,
-          "total": 117,
-          "avg_return": 16.3,
-          "return_pct": null,
-          "analyst_rank": 1450,
-          "success_rate": 50.4,
-          "stock_avg_return": -33.9,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 56,
-        "pt_old": 44,
-        "firm": "Jefferies",
-        "analyst": "Julien Dumoulin Smith",
-        "slug": "julien-dumoulin-smith",
-        "date": "2026-05-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "16:21:02",
-        "scores": {
-          "score": 60.9,
-          "stars": 4.7,
-          "total": 471,
-          "avg_return": 8.3,
-          "return_pct": null,
-          "analyst_rank": 860,
-          "success_rate": 60.9,
-          "stock_avg_return": -28.6,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1154,12 +1154,12 @@
           null
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           null,
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           null,
           null
         ]
@@ -1919,12 +1919,12 @@
           75002000
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           null,
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           null,
           null
         ]
@@ -2530,12 +2530,12 @@
           75002000
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           null,
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           null,
           null
         ]
@@ -2709,12 +2709,12 @@
           -5653000
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           null,
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           null,
           null
         ]
@@ -3160,12 +3160,12 @@
           -5653000
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           null,
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           null,
           null
         ]
@@ -3259,12 +3259,12 @@
           null
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           null,
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           null,
           null
         ]
@@ -3298,7 +3298,7 @@
           "Q1"
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           7102270987,
           null,
           null,
@@ -3307,7 +3307,7 @@
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           7908875987,
           null,
           null,
@@ -3316,7 +3316,7 @@
           null
         ],
         "lastCloseRatios": [
-          31.82,
+          28.64,
           29.27,
           null,
           null,
@@ -3325,7 +3325,7 @@
           null
         ],
         "pe": [
-          567.61557,
+          432.85725,
           267.929,
           null,
           null,
@@ -3334,7 +3334,7 @@
           null
         ],
         "peForward": [
-          31.57372,
+          28.10047,
           35.857,
           null,
           null,
@@ -3343,7 +3343,7 @@
           null
         ],
         "ps": [
-          8.09944,
+          7.29,
           6.205,
           null,
           null,
@@ -3352,7 +3352,7 @@
           null
         ],
         "pb": [
-          17.39797,
+          15.65927,
           12.191,
           null,
           null,
@@ -3370,7 +3370,7 @@
           null
         ],
         "pocf": [
-          346.32038,
+          311.71011,
           256.418,
           null,
           null,
@@ -3379,7 +3379,7 @@
           null
         ],
         "pegRatio": [
-          0.45286,
+          0.40304,
           0.535,
           null,
           null,
@@ -3388,7 +3388,7 @@
           null
         ],
         "evrevenue": [
-          8.61259,
+          7.80315,
           6.91,
           null,
           null,
@@ -3397,7 +3397,7 @@
           null
         ],
         "evebitda": [
-          62.66558,
+          56.7761,
           44.364,
           null,
           null,
@@ -3406,7 +3406,7 @@
           null
         ],
         "evebit": [
-          104.17329,
+          94.3828,
           69.997,
           null,
           null,
@@ -3546,7 +3546,7 @@
           null
         ],
         "earningsyield": [
-          0.0017618,
+          0.0019573999999999998,
           0.00499,
           null,
           null,
@@ -3555,7 +3555,7 @@
           null
         ],
         "fcfyield": [
-          -0.0100816,
+          -0.011201000000000001,
           -0.01065,
           null,
           null,
@@ -3660,12 +3660,12 @@
           null
         ],
         "marketcap": [
-          9686927248,
+          8718843381,
           null,
           null
         ],
         "ev": [
-          10300655248,
+          9332571381,
           null,
           null
         ]

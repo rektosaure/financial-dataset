@@ -1010,51 +1010,51 @@
     ],
     "targets": {
       "low": 23,
-      "high": 40,
+      "high": 36,
       "count": 11,
       "median": 28.5,
-      "average": 28.95,
-      "updated": "2026-08-27",
+      "average": 28.5,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 23,
-          "high": 40,
+          "high": 36,
           "count": 11,
           "median": 28.5,
-          "average": 28.95,
-          "updated": "2026-08-27"
+          "average": 28.5,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 23,
-          "high": 40,
+          "high": 36,
           "count": 11,
           "median": 28.5,
-          "average": 28.95,
-          "updated": "2026-08-27"
+          "average": 28.5,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 23,
-          "high": 40,
+          "high": 36,
           "count": 11,
           "median": 28.5,
-          "average": 28.95,
-          "updated": "2026-08-27"
+          "average": 28.5,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 23,
-          "high": 40,
+          "high": 36,
           "count": 10,
           "median": 29,
-          "average": 29.55,
-          "updated": "2026-08-27"
+          "average": 29.05,
+          "updated": "2026-09-14"
         },
         "5": {
-          "low": 27,
-          "high": 40,
-          "count": 6,
+          "low": 28.5,
+          "high": 36,
+          "count": 5,
           "median": 30,
-          "average": 31.75,
-          "updated": "2026-08-27"
+          "average": 31.7,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 20.96,
+          "c": 19.53,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 35,
+        "pt_old": 34,
+        "firm": "UBS",
+        "analyst": "Josh Silverstein",
+        "slug": "josh-silverstein",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 64.4,
+          "stars": 4.8,
+          "total": 436,
+          "avg_return": 13.3,
+          "return_pct": null,
+          "analyst_rank": 400,
+          "success_rate": 64.4,
+          "stock_avg_return": -19.3,
+          "stock_success_rate": 20,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 30,
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "10:52:00",
         "scores": {
-          "score": 66.3,
+          "score": 65.4,
           "stars": 4.8,
           "total": 205,
-          "avg_return": 20.8,
+          "avg_return": 19.7,
           "return_pct": null,
-          "analyst_rank": 442,
-          "success_rate": 66.3,
-          "stock_avg_return": 12.2,
+          "analyst_rank": 482,
+          "success_rate": 65.4,
+          "stock_avg_return": 11,
           "stock_success_rate": 57.1,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1155,16 +1180,16 @@
         "rating_old": "",
         "time": "11:41:03",
         "scores": {
-          "score": 61.9,
+          "score": 60.7,
           "stars": 4.2,
-          "total": 134,
-          "avg_return": 9.7,
+          "total": 135,
+          "avg_return": 9,
           "return_pct": null,
-          "analyst_rank": 1929,
-          "success_rate": 61.9,
-          "stock_avg_return": -1.1,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 2073,
+          "success_rate": 60.7,
+          "stock_avg_return": -6,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1180,16 +1205,16 @@
         "rating_old": "",
         "time": "11:16:24",
         "scores": {
-          "score": 54.1,
+          "score": 53.5,
           "stars": 4.8,
           "total": 495,
-          "avg_return": 16.4,
+          "avg_return": 15.7,
           "return_pct": null,
-          "analyst_rank": 450,
-          "success_rate": 54.1,
-          "stock_avg_return": 19,
-          "stock_success_rate": 61.9,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 469,
+          "success_rate": 53.5,
+          "stock_avg_return": 17.5,
+          "stock_success_rate": 52.4,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1205,41 +1230,16 @@
         "rating_old": "",
         "time": "10:32:20",
         "scores": {
-          "score": 50.7,
+          "score": 52.2,
           "stars": 4.3,
           "total": 67,
-          "avg_return": 17.6,
+          "avg_return": 18.1,
           "return_pct": null,
-          "analyst_rank": 1834,
-          "success_rate": 50.7,
+          "analyst_rank": 1728,
+          "success_rate": 52.2,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 27,
-        "pt_old": null,
-        "firm": "J.P. Morgan",
-        "analyst": "Arun Jayaram",
-        "slug": "arun-jayaram",
-        "date": "2026-07-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:43:40",
-        "scores": {
-          "score": 62.6,
-          "stars": 4.8,
-          "total": 473,
-          "avg_return": 10,
-          "return_pct": null,
-          "analyst_rank": 608,
-          "success_rate": 62.6,
-          "stock_avg_return": -5,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
