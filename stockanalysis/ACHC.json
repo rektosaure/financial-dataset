@@ -30,11 +30,11 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "2,640,323,799",
-      "enterpriseValue": "5,056,664,799"
+      "marketcap": "2,606,807,700",
+      "enterpriseValue": "5,023,148,700"
     },
     "dates": {
-      "earningsdate": "Jul 28, 2026",
+      "earningsdate": "Nov 4, 2026",
       "exdivdate": "n/a"
     },
     "shares": {
@@ -43,25 +43,25 @@
       "sharesgrowthyoy": "-1.291%",
       "sharesgrowthqoq": "0.567%",
       "sharesInsiders": "1.657%",
-      "sharesInstitutions": "143.575%",
+      "sharesInstitutions": "143.576%",
       "float": "91,530,286"
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "17.065",
-      "ps": "0.784",
-      "psForward": "0.750",
-      "pb": "1.302",
-      "ptbvRatio": "4.587",
+      "peForward": "16.848",
+      "ps": "0.774",
+      "psForward": "0.740",
+      "pb": "1.286",
+      "ptbvRatio": "4.528",
       "pfcf": "n/a",
-      "pocf": "12.542",
+      "pocf": "12.383",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "1.50",
-      "evEbitda": "9.45",
-      "evEbit": "14.93",
+      "evSales": "1.49",
+      "evEbitda": "9.39",
+      "evEbit": "14.83",
       "evFcf": "n/a"
     },
     "financialPosition": {
@@ -77,7 +77,7 @@
       "roa": "3.572%",
       "roic": "7.277%",
       "roce": "6.764%",
-      "wacc": "6.163%",
+      "wacc": "6.153%",
       "revPerEmployee": "134,707",
       "profitPerEmployee": "-45,050",
       "employees": "25,000",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "0.624",
-      "ch1y": "34.70%",
-      "sma50": "30.542",
-      "sma200": "23.212",
-      "rsi": "46.654",
-      "averageVolume": "1,507,293"
+      "ch1y": "28.85%",
+      "sma50": "30.464",
+      "sma200": "23.274",
+      "rsi": "44.982",
+      "averageVolume": "1,506,155"
     },
     "shortSelling": {
       "shortInterest": "22,583,163",
@@ -147,12 +147,12 @@
       "payoutRatio": "n/a",
       "buybackYield": "1.291%",
       "totalReturn": "1.291%",
-      "earningsYield": "-42.655%",
-      "fcfYield": "-5.076%"
+      "earningsYield": "-43.204%",
+      "fcfYield": "-5.142%"
     },
     "analystForecasts": {
       "priceTarget": "$33.39",
-      "priceTargetChange": "17.74%",
+      "priceTargetChange": "19.25%",
       "analystRatings": "Buy",
       "analystCount": "14",
       "revenue3y": "4.82%",
@@ -1039,27 +1039,27 @@
       }
     ],
     "targets": {
-      "low": 14.5,
+      "low": 30,
       "high": 40,
-      "count": 12,
+      "count": 11,
       "median": 32,
-      "average": 32.79,
+      "average": 34.45,
       "updated": "2026-08-28",
       "filtered": {
         "1": {
-          "low": 14.5,
+          "low": 30,
           "high": 40,
-          "count": 11,
-          "median": 32,
-          "average": 32.86,
+          "count": 10,
+          "median": 36,
+          "average": 34.7,
           "updated": "2026-07-30"
         },
         "2": {
-          "low": 14.5,
+          "low": 30,
           "high": 40,
-          "count": 10,
+          "count": 9,
           "median": 32,
-          "average": 32.55,
+          "average": 34.56,
           "updated": "2026-07-30"
         },
         "3": {
@@ -1079,8 +1079,12 @@
           "updated": "2026-07-30"
         },
         "5": {
-          "count": 0,
-          "updated": ""
+          "low": 39,
+          "high": 39,
+          "count": 1,
+          "median": 39,
+          "average": 39,
+          "updated": "2026-05-04"
         }
       },
       "currency": "USD",
@@ -1134,16 +1138,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 28.36,
+          "c": 28,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Joanna Gajuk",
+        "slug": "joanna-gajuk",
+        "date": "2026-09-14",
+        "rating_new": "Sell",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 53,
+          "stars": 2.8,
+          "total": 270,
+          "avg_return": 1.3,
+          "return_pct": null,
+          "analyst_rank": 5545,
+          "success_rate": 53,
+          "stock_avg_return": -30.9,
+          "stock_success_rate": 11.1,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 32,
@@ -1156,16 +1184,16 @@
         "rating_old": "",
         "time": "08:26:02",
         "scores": {
-          "score": 51.1,
+          "score": 52.2,
           "stars": 0.4,
-          "total": 311,
-          "avg_return": -3.5,
+          "total": 314,
+          "avg_return": -3.2,
           "return_pct": null,
-          "analyst_rank": 11549,
-          "success_rate": 51.1,
+          "analyst_rank": 11471,
+          "success_rate": 52.2,
           "stock_avg_return": -32.4,
           "stock_success_rate": 6.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1181,16 +1209,16 @@
         "rating_old": "",
         "time": "11:10:23",
         "scores": {
-          "score": 53.5,
+          "score": 53.6,
           "stars": 4.4,
-          "total": 465,
+          "total": 466,
           "avg_return": 7.2,
           "return_pct": null,
-          "analyst_rank": 1453,
-          "success_rate": 53.5,
-          "stock_avg_return": -2,
+          "analyst_rank": 1426,
+          "success_rate": 53.6,
+          "stock_avg_return": -1.8,
           "stock_success_rate": 47.8,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1206,16 +1234,16 @@
         "rating_old": "",
         "time": "10:56:45",
         "scores": {
-          "score": 59,
+          "score": 59.8,
           "stars": 3.8,
           "total": 122,
-          "avg_return": 6.5,
+          "avg_return": 6.6,
           "return_pct": null,
-          "analyst_rank": 2981,
-          "success_rate": 59,
-          "stock_avg_return": 22.6,
+          "analyst_rank": 2898,
+          "success_rate": 59.8,
+          "stock_avg_return": 23,
           "stock_success_rate": 71.4,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1231,41 +1259,16 @@
         "rating_old": "",
         "time": "09:16:36",
         "scores": {
-          "score": 53.2,
-          "stars": 2.4,
+          "score": 51.9,
+          "stars": 2.1,
           "total": 77,
-          "avg_return": 1.4,
+          "avg_return": 0.6,
           "return_pct": null,
-          "analyst_rank": 6576,
-          "success_rate": 53.2,
-          "stock_avg_return": 2.8,
+          "analyst_rank": 7296,
+          "success_rate": 51.9,
+          "stock_avg_return": 3.2,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 36,
-        "pt_old": null,
-        "firm": "TD Cowen",
-        "analyst": "Ryan Langston",
-        "slug": "ryan-langston",
-        "date": "2026-07-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "21:30:09",
-        "scores": {
-          "score": 46.4,
-          "stars": 1.3,
-          "total": 151,
-          "avg_return": -0.5,
-          "return_pct": null,
-          "analyst_rank": 9255,
-          "success_rate": 46.4,
-          "stock_avg_return": 3.3,
-          "stock_success_rate": 46.2,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
