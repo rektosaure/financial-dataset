@@ -927,42 +927,42 @@
     "targets": {
       "low": 101,
       "high": 435,
-      "count": 12,
+      "count": 14,
       "median": 150,
-      "average": 187.75,
-      "updated": "2026-08-31",
+      "average": 180.07,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 101,
           "high": 435,
-          "count": 11,
+          "count": 13,
           "median": 150,
-          "average": 189.64,
-          "updated": "2026-08-31"
+          "average": 181.08,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 101,
           "high": 435,
-          "count": 9,
+          "count": 11,
           "median": 150,
-          "average": 172.89,
-          "updated": "2026-07-28"
+          "average": 165.82,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 101,
           "high": 435,
-          "count": 8,
+          "count": 9,
           "median": 150,
-          "average": 178.88,
-          "updated": "2026-07-28"
+          "average": 172.11,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 101,
           "high": 435,
-          "count": 8,
+          "count": 9,
           "median": 150,
-          "average": 178.88,
-          "updated": "2026-07-28"
+          "average": 172.11,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 180,
@@ -1024,16 +1024,91 @@
           "t": "2026-08-01"
         },
         {
-          "c": 145.77,
+          "c": 143.35,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-12"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Downgrades",
+        "pt_now": 118,
+        "pt_old": null,
+        "firm": "Wolfe Research",
+        "analyst": "Peter Supino",
+        "slug": "peter-supino",
+        "date": "2026-09-14",
+        "rating_new": "Sell",
+        "rating_old": "",
+        "time": "09:50:27",
+        "scores": {
+          "score": 57.1,
+          "stars": 4.2,
+          "total": 98,
+          "avg_return": 12.2,
+          "return_pct": null,
+          "analyst_rank": 1949,
+          "success_rate": 57.1,
+          "stock_avg_return": 21.8,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Initiates",
+        "pt_now": 150,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Sean Diffley",
+        "slug": "sean-diffley",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "09:50:26",
+        "scores": {
+          "score": 57.1,
+          "stars": 2.1,
+          "total": 35,
+          "avg_return": 1.2,
+          "return_pct": null,
+          "analyst_rank": 7138,
+          "success_rate": 57.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 150,
+        "pt_old": null,
+        "firm": "Bernstein",
+        "analyst": "Laurent Yoon",
+        "slug": "laurent-yoon",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 50.6,
+          "stars": 1.3,
+          "total": 79,
+          "avg_return": -0.7,
+          "return_pct": null,
+          "analyst_rank": 9205,
+          "success_rate": 50.6,
+          "stock_avg_return": 0.9,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": null,
@@ -1046,42 +1121,17 @@
         "rating_old": "",
         "time": "12:10:55",
         "scores": {
-          "score": 55.1,
+          "score": 55.7,
           "stars": 4.1,
           "total": 158,
           "avg_return": 8.5,
           "return_pct": null,
-          "analyst_rank": 2285,
-          "success_rate": 55.1,
+          "analyst_rank": 2164,
+          "success_rate": 55.7,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 150,
-        "pt_old": null,
-        "firm": "Bernstein",
-        "analyst": "Laurent Yoon",
-        "slug": "laurent-yoon",
-        "date": "2026-08-31",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:35:44",
-        "scores": {
-          "score": 50.6,
-          "stars": 1.2,
-          "total": 79,
-          "avg_return": -1.1,
-          "return_pct": null,
-          "analyst_rank": 9616,
-          "success_rate": 50.6,
-          "stock_avg_return": 0.9,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Maintains",
@@ -1095,66 +1145,16 @@
         "rating_old": "",
         "time": "10:35:46",
         "scores": {
-          "score": 61.5,
+          "score": 61.8,
           "stars": 4.8,
-          "total": 467,
-          "avg_return": 11.2,
+          "total": 468,
+          "avg_return": 11.1,
           "return_pct": null,
-          "analyst_rank": 593,
-          "success_rate": 61.5,
-          "stock_avg_return": -4.5,
+          "analyst_rank": 542,
+          "success_rate": 61.8,
+          "stock_avg_return": -5.7,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 160,
-        "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Jessica Reif Ehrlich",
-        "slug": "jessica-reif-ehrlich",
-        "date": "2026-07-27",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:40:48",
-        "scores": {
-          "score": 49.6,
-          "stars": 4.4,
-          "total": 391,
-          "avg_return": 9.3,
-          "return_pct": null,
-          "analyst_rank": 1393,
-          "success_rate": 49.6,
-          "stock_avg_return": -29.7,
-          "stock_success_rate": 15.4,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 140,
-        "pt_old": 235,
-        "firm": "UBS",
-        "analyst": "John Hodulik",
-        "slug": "john-hodulik",
-        "date": "2026-07-27",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "12:56:20",
-        "scores": {
-          "score": 60.3,
-          "stars": 4.4,
-          "total": 247,
-          "avg_return": 8.4,
-          "return_pct": null,
-          "analyst_rank": 1588,
-          "success_rate": 60.3,
-          "stock_avg_return": 26.3,
-          "stock_success_rate": 80,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
