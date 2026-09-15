@@ -1053,50 +1053,50 @@
     "targets": {
       "low": 195,
       "high": 263,
-      "count": 25,
+      "count": 24,
       "median": 225,
-      "average": 230.44,
-      "updated": "2026-09-09",
+      "average": 230.13,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 195,
           "high": 263,
           "count": 22,
           "median": 233,
-          "average": 229.68,
-          "updated": "2026-08-20"
+          "average": 230.64,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 195,
           "high": 263,
           "count": 22,
           "median": 233,
-          "average": 229.68,
-          "updated": "2026-08-20"
+          "average": 230.64,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 195,
           "high": 263,
           "count": 22,
           "median": 233,
-          "average": 229.68,
-          "updated": "2026-08-20"
+          "average": 230.64,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 195,
           "high": 263,
-          "count": 21,
+          "count": 20,
           "median": 233,
-          "average": 230.1,
-          "updated": "2026-08-20"
+          "average": 229.7,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 205,
           "high": 263,
           "count": 11,
           "median": 241,
-          "average": 236.55,
-          "updated": "2026-08-20"
+          "average": 237.45,
+          "updated": "2026-09-14"
         }
       },
       "currency": "USD",
@@ -1150,38 +1150,63 @@
           "t": "2026-08-01"
         },
         {
-          "c": 204.97,
+          "c": 205.72,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Initiates",
-        "pt_now": 259,
-        "pt_old": null,
-        "firm": "Stifel Nicolaus",
-        "analyst": "Unknown Analyst",
-        "slug": "",
-        "date": "2026-09-09",
+        "action_rt": "Maintains",
+        "pt_now": 253,
+        "pt_old": 243,
+        "firm": "UBS",
+        "analyst": "Josh Silverstein",
+        "slug": "josh-silverstein",
+        "date": "2026-09-14",
         "rating_new": "Buy",
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
+          "score": 64.4,
+          "stars": 4.8,
+          "total": 436,
+          "avg_return": 13.3,
           "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
-          "stock_avg_return": 0,
+          "analyst_rank": 400,
+          "success_rate": 64.4,
+          "stock_avg_return": 25,
+          "stock_success_rate": 76.7,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Initiates",
+        "pt_now": 259,
+        "pt_old": null,
+        "firm": "Stifel Nicolaus",
+        "analyst": "Tim O'Toole",
+        "slug": "tim-o-toole",
+        "date": "2026-09-09",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:55:26",
+        "scores": {
+          "score": 64.7,
+          "stars": 3.8,
+          "total": 17,
+          "avg_return": 21.1,
+          "return_pct": null,
+          "analyst_rank": 3081,
+          "success_rate": 64.7,
+          "stock_avg_return": -0.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1197,16 +1222,16 @@
         "rating_old": "",
         "time": "20:35:23",
         "scores": {
-          "score": 70,
+          "score": 70.1,
           "stars": 5,
-          "total": 476,
-          "avg_return": 26,
+          "total": 478,
+          "avg_return": 26.2,
           "return_pct": null,
-          "analyst_rank": 63,
-          "success_rate": 70,
-          "stock_avg_return": 42.1,
+          "analyst_rank": 54,
+          "success_rate": 70.1,
+          "stock_avg_return": 42.4,
           "stock_success_rate": 90.9,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1227,11 +1252,11 @@
           "total": 486,
           "avg_return": 12.8,
           "return_pct": null,
-          "analyst_rank": 401,
+          "analyst_rank": 381,
           "success_rate": 64.4,
-          "stock_avg_return": 20.7,
+          "stock_avg_return": 22.4,
           "stock_success_rate": 84.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1247,41 +1272,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 68,
+          "score": 68.6,
           "stars": 4.9,
           "total": 475,
-          "avg_return": 17.3,
+          "avg_return": 17.6,
           "return_pct": null,
-          "analyst_rank": 180,
-          "success_rate": 68,
-          "stock_avg_return": 18.4,
-          "stock_success_rate": 73.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Downgrades",
-        "pt_now": 216,
-        "pt_old": null,
-        "firm": "Morgan Stanley",
-        "analyst": "Devin McDermott",
-        "slug": "devin-mcdermott",
-        "date": "2026-08-19",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "13:16:57",
-        "scores": {
-          "score": 60.1,
-          "stars": 4.7,
-          "total": 501,
-          "avg_return": 10,
-          "return_pct": null,
-          "analyst_rank": 676,
-          "success_rate": 60.1,
-          "stock_avg_return": 24.3,
-          "stock_success_rate": 76.9,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 156,
+          "success_rate": 68.6,
+          "stock_avg_return": 19,
+          "stock_success_rate": 75.6,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }

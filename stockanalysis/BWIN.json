@@ -1096,16 +1096,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 29.65,
+          "c": 32,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Downgrades",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "William Blair",
+        "analyst": "Adam Klauber",
+        "slug": "adam-klauber",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "17:45:07",
+        "scores": {
+          "score": 53.8,
+          "stars": 4.1,
+          "total": 240,
+          "avg_return": 6.7,
+          "return_pct": null,
+          "analyst_rank": 2254,
+          "success_rate": 53.8,
+          "stock_avg_return": -8.4,
+          "stock_success_rate": 42.9,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 37,
@@ -1118,16 +1142,16 @@
         "rating_old": "",
         "time": "11:56:24",
         "scores": {
-          "score": 73.1,
+          "score": 73.4,
           "stars": 4.9,
           "total": 372,
           "avg_return": 11.6,
           "return_pct": null,
-          "analyst_rank": 347,
-          "success_rate": 73.1,
-          "stock_avg_return": 19.8,
-          "stock_success_rate": 80,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 335,
+          "success_rate": 73.4,
+          "stock_avg_return": 24.7,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1143,42 +1167,18 @@
         "rating_old": "",
         "time": "11:06:22",
         "scores": {
-          "score": 57.5,
-          "stars": 4.5,
+          "score": 57.7,
+          "stars": 4.6,
           "total": 506,
           "avg_return": 7.3,
           "return_pct": null,
-          "analyst_rank": 1154,
-          "success_rate": 57.5,
+          "analyst_rank": 1115,
+          "success_rate": 57.7,
           "stock_avg_return": 5.2,
           "stock_success_rate": 53.3,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Adam Klauber",
-        "slug": "adam-klauber",
-        "date": "2026-07-31",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "17:05:52",
-        "scores": {
-          "score": 54.6,
-          "stars": 4.1,
-          "total": 240,
-          "avg_return": 6.5,
-          "return_pct": null,
-          "analyst_rank": 2300,
-          "success_rate": 54.6,
-          "stock_avg_return": -10.9,
-          "stock_success_rate": 42.9,
-          "number_of_ranked_experts": 12502
-        }
       },
       {
         "action_rt": "Maintains",
@@ -1192,16 +1192,16 @@
         "rating_old": "",
         "time": "11:00:31",
         "scores": {
-          "score": 62.9,
+          "score": 63.6,
           "stars": 4.4,
           "total": 140,
-          "avg_return": 11.3,
+          "avg_return": 11.9,
           "return_pct": null,
-          "analyst_rank": 1579,
-          "success_rate": 62.9,
-          "stock_avg_return": 5.2,
+          "analyst_rank": 1433,
+          "success_rate": 63.6,
+          "stock_avg_return": 9.4,
           "stock_success_rate": 71.4,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1217,16 +1217,16 @@
         "rating_old": "",
         "time": "04:46:11",
         "scores": {
-          "score": 60.2,
+          "score": 60.4,
           "stars": 4.5,
           "total": 495,
-          "avg_return": 6.6,
+          "avg_return": 6.7,
           "return_pct": null,
-          "analyst_rank": 1165,
-          "success_rate": 60.2,
-          "stock_avg_return": 20.7,
+          "analyst_rank": 1128,
+          "success_rate": 60.4,
+          "stock_avg_return": 22.7,
           "stock_success_rate": 75,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
       }
     ],

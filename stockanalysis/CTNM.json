@@ -915,9 +915,9 @@
       "low": 18,
       "high": 28,
       "count": 5,
-      "median": 24,
-      "average": 23.8,
-      "updated": "2026-09-03",
+      "median": 23,
+      "average": 23.6,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 18,
@@ -1016,11 +1016,60 @@
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 23,
+        "pt_old": 24,
+        "firm": "LifeSci Capital",
+        "analyst": "Gaurav Maini",
+        "slug": "gaurav-maini",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "22:35:22",
+        "scores": {
+          "score": 36.4,
+          "stars": 0.2,
+          "total": 22,
+          "avg_return": -24.6,
+          "return_pct": null,
+          "analyst_rank": 12074,
+          "success_rate": 36.4,
+          "stock_avg_return": -4.3,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "William Blair",
+        "analyst": "Myles Minter",
+        "slug": "myles-minter",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "22:25:20",
+        "scores": {
+          "score": 60,
+          "stars": 5,
+          "total": 420,
+          "avg_return": 33.8,
+          "return_pct": null,
+          "analyst_rank": 105,
+          "success_rate": 60,
+          "stock_avg_return": 57.4,
+          "stock_success_rate": 87.5,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 23,
@@ -1036,13 +1085,13 @@
           "score": 54.1,
           "stars": 4.8,
           "total": 499,
-          "avg_return": 13.5,
+          "avg_return": 13.1,
           "return_pct": null,
-          "analyst_rank": 582,
+          "analyst_rank": 597,
           "success_rate": 54.1,
-          "stock_avg_return": 22.6,
+          "stock_avg_return": 21.6,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1058,16 +1107,16 @@
         "rating_old": "",
         "time": "14:05:17",
         "scores": {
-          "score": 64.8,
+          "score": 65.3,
           "stars": 4.9,
           "total": 193,
-          "avg_return": 42.1,
+          "avg_return": 41.8,
           "return_pct": null,
-          "analyst_rank": 155,
-          "success_rate": 64.8,
-          "stock_avg_return": 65.8,
+          "analyst_rank": 154,
+          "success_rate": 65.3,
+          "stock_avg_return": 64.3,
           "stock_success_rate": 72.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1083,67 +1132,18 @@
         "rating_old": "",
         "time": "12:58:25",
         "scores": {
-          "score": 65.4,
+          "score": 64.8,
           "stars": 4.8,
-          "total": 286,
-          "avg_return": 15.9,
+          "total": 287,
+          "avg_return": 15.1,
           "return_pct": null,
-          "analyst_rank": 475,
-          "success_rate": 65.4,
+          "analyst_rank": 507,
+          "success_rate": 64.8,
           "stock_avg_return": 33.1,
           "stock_success_rate": 75,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 28,
-        "pt_old": null,
-        "firm": "Stifel Nicolaus",
-        "analyst": "Paul Matteis",
-        "slug": "paul-matteis",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "14:06:06",
-        "scores": {
-          "score": 51.4,
-          "stars": 4.8,
-          "total": 492,
-          "avg_return": 15.9,
-          "return_pct": null,
-          "analyst_rank": 526,
-          "success_rate": 51.4,
-          "stock_avg_return": -0.7,
-          "stock_success_rate": 55.6,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Myles Minter",
-        "slug": "myles-minter",
-        "date": "2026-07-31",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:00:20",
-        "scores": {
-          "score": 62,
-          "stars": 5,
-          "total": 418,
-          "avg_return": 34.8,
-          "return_pct": null,
-          "analyst_rank": 90,
-          "success_rate": 62,
-          "stock_avg_return": 59.3,
-          "stock_success_rate": 87.5,
-          "number_of_ranked_experts": 12502
-        }
       }
     ],
     "priceTargets": {
