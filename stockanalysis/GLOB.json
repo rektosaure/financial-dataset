@@ -1044,15 +1044,15 @@
       "count": 15,
       "median": 44,
       "average": 46.27,
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 37,
           "high": 78,
-          "count": 8,
+          "count": 7,
           "median": 44,
-          "average": 47,
-          "updated": "2026-08-17"
+          "average": 48.43,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 37,
@@ -1060,7 +1060,7 @@
           "count": 6,
           "median": 44,
           "average": 49,
-          "updated": "2026-08-17"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 37,
@@ -1068,15 +1068,15 @@
           "count": 3,
           "median": 44,
           "average": 44.33,
-          "updated": "2026-08-17"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 37,
           "high": 52,
-          "count": 3,
-          "median": 44,
-          "average": 44.33,
-          "updated": "2026-08-17"
+          "count": 2,
+          "median": 52,
+          "average": 44.5,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 52,
@@ -1138,16 +1138,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 37.75,
+          "c": 40.49,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 37,
+        "pt_old": null,
+        "firm": "Citi",
+        "analyst": "Bryan Keane",
+        "slug": "bryan-keane",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "01:20:18",
+        "scores": {
+          "score": 58.4,
+          "stars": 4.3,
+          "total": 394,
+          "avg_return": 6.1,
+          "return_pct": null,
+          "analyst_rank": 1632,
+          "success_rate": 58.4,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 50,
@@ -1160,41 +1185,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 31.2,
+          "score": 34.4,
           "stars": 0.4,
           "total": 32,
-          "avg_return": -10.6,
+          "avg_return": -10.7,
           "return_pct": null,
-          "analyst_rank": 11595,
-          "success_rate": 31.2,
-          "stock_avg_return": 6.1,
+          "analyst_rank": 11555,
+          "success_rate": 34.4,
+          "stock_avg_return": 5.7,
           "stock_success_rate": 55.6,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 37,
-        "pt_old": null,
-        "firm": "Citi",
-        "analyst": "Bryan Keane",
-        "slug": "bryan-keane",
-        "date": "2026-08-17",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:40:32",
-        "scores": {
-          "score": 59.3,
-          "stars": 4.4,
-          "total": 393,
-          "avg_return": 6.6,
-          "return_pct": null,
-          "analyst_rank": 1534,
-          "success_rate": 59.3,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1211,15 +1211,15 @@
         "time": "00:00:00",
         "scores": {
           "score": 47.4,
-          "stars": 2.3,
+          "stars": 2.1,
           "total": 19,
-          "avg_return": 3.1,
+          "avg_return": 1.8,
           "return_pct": null,
-          "analyst_rank": 6795,
+          "analyst_rank": 7212,
           "success_rate": 47.4,
           "stock_avg_return": 22.2,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1235,16 +1235,16 @@
         "rating_old": "",
         "time": "12:45:27",
         "scores": {
-          "score": 44.4,
+          "score": 41.1,
           "stars": 0.2,
-          "total": 178,
-          "avg_return": -6.4,
+          "total": 180,
+          "avg_return": -7.4,
           "return_pct": null,
-          "analyst_rank": 11902,
-          "success_rate": 44.4,
+          "analyst_rank": 12003,
+          "success_rate": 41.1,
           "stock_avg_return": -15.4,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1259,16 +1259,16 @@
         "rating_old": "",
         "time": "12:40:21",
         "scores": {
-          "score": 60.4,
-          "stars": 4.8,
-          "total": 227,
-          "avg_return": 26.5,
+          "score": 59.6,
+          "stars": 4.9,
+          "total": 228,
+          "avg_return": 26,
           "return_pct": null,
-          "analyst_rank": 379,
-          "success_rate": 60.4,
+          "analyst_rank": 365,
+          "success_rate": 59.6,
           "stock_avg_return": -41.5,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
