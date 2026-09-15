@@ -939,39 +939,52 @@
         "consensus": "Buy",
         "strongBuy": 11,
         "strongSell": 0
+      },
+      {
+        "buy": 5,
+        "date": "2026-09-03",
+        "hold": 2,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 7.5,
+        "total": 18,
+        "updated": "2026-09-03",
+        "consensus": "Buy",
+        "strongBuy": 11,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 14,
-      "high": 20,
-      "count": 14,
+      "high": 21,
+      "count": 15,
       "median": 18,
-      "average": 17.82,
-      "updated": "2026-09-03",
+      "average": 18.03,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 14,
-          "high": 20,
-          "count": 14,
+          "high": 21,
+          "count": 15,
           "median": 18,
-          "average": 17.82,
-          "updated": "2026-09-03"
+          "average": 18.03,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 14,
-          "high": 20,
-          "count": 14,
+          "high": 21,
+          "count": 15,
           "median": 18,
-          "average": 17.82,
-          "updated": "2026-09-03"
+          "average": 18.03,
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 14,
-          "high": 20,
-          "count": 14,
+          "high": 21,
+          "count": 15,
           "median": 18,
-          "average": 17.82,
-          "updated": "2026-09-03"
+          "average": 18.03,
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 14,
@@ -984,9 +997,9 @@
         "5": {
           "low": 16,
           "high": 20,
-          "count": 8,
-          "median": 18,
-          "average": 17.94,
+          "count": 7,
+          "median": 17.5,
+          "average": 17.79,
           "updated": "2026-09-03"
         }
       },
@@ -1041,16 +1054,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 16.54,
+          "c": 17.47,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 21,
+        "pt_old": null,
+        "firm": "Stephens",
+        "analyst": "Todd Weller CFA",
+        "slug": "todd-weller-cfa",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:15:08",
+        "scores": {
+          "score": 62.1,
+          "stars": 3.9,
+          "total": 29,
+          "avg_return": 17.7,
+          "return_pct": null,
+          "analyst_rank": 2670,
+          "success_rate": 62.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 16,
@@ -1063,16 +1101,16 @@
         "rating_old": "",
         "time": "14:10:13",
         "scores": {
-          "score": 62.9,
+          "score": 62.6,
           "stars": 4.8,
-          "total": 491,
-          "avg_return": 11.6,
+          "total": 492,
+          "avg_return": 11.3,
           "return_pct": null,
-          "analyst_rank": 485,
-          "success_rate": 62.9,
+          "analyst_rank": 483,
+          "success_rate": 62.6,
           "stock_avg_return": 15.5,
           "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1088,16 +1126,16 @@
         "rating_old": "",
         "time": "13:21:11",
         "scores": {
-          "score": 57.6,
-          "stars": 4.7,
-          "total": 340,
-          "avg_return": 12.4,
+          "score": 56.3,
+          "stars": 4.6,
+          "total": 341,
+          "avg_return": 11.7,
           "return_pct": null,
-          "analyst_rank": 791,
-          "success_rate": 57.6,
-          "stock_avg_return": 16.4,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 882,
+          "success_rate": 56.3,
+          "stock_avg_return": 22.7,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1113,16 +1151,16 @@
         "rating_old": "",
         "time": "11:36:10",
         "scores": {
-          "score": 56.6,
-          "stars": 4.8,
+          "score": 55.6,
+          "stars": 4.7,
           "total": 493,
-          "avg_return": 12.2,
+          "avg_return": 11.6,
           "return_pct": null,
-          "analyst_rank": 623,
-          "success_rate": 56.6,
-          "stock_avg_return": 1.4,
-          "stock_success_rate": 42.9,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 671,
+          "success_rate": 55.6,
+          "stock_avg_return": 6.9,
+          "stock_success_rate": 57.1,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1138,41 +1176,16 @@
         "rating_old": "",
         "time": "11:10:14",
         "scores": {
-          "score": 54.1,
+          "score": 53.7,
           "stars": 4.5,
           "total": 492,
-          "avg_return": 8.3,
+          "avg_return": 7.6,
           "return_pct": null,
-          "analyst_rank": 1191,
-          "success_rate": 54.1,
-          "stock_avg_return": -6,
-          "stock_success_rate": 40,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 19,
-        "pt_old": null,
-        "firm": "TD Cowen",
-        "analyst": "Shaul Eyal",
-        "slug": "shaul-eyal",
-        "date": "2026-09-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:00:59",
-        "scores": {
-          "score": 59.3,
-          "stars": 4.9,
-          "total": 492,
-          "avg_return": 17.1,
-          "return_pct": null,
-          "analyst_rank": 358,
-          "success_rate": 59.3,
-          "stock_avg_return": 5.1,
-          "stock_success_rate": 44.4,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 1290,
+          "success_rate": 53.7,
+          "stock_avg_return": -0.9,
+          "stock_success_rate": 60,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

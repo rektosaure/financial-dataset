@@ -915,9 +915,9 @@
     "targets": {
       "low": 8,
       "high": 20,
-      "count": 7,
+      "count": 6,
       "median": 15,
-      "average": 14.64,
+      "average": 14.58,
       "updated": "2026-08-31",
       "filtered": {
         "1": {
@@ -1012,16 +1012,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 10.82,
+          "c": 10.75,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Guggenheim",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "20:20:08",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 8,
@@ -1034,16 +1058,16 @@
         "rating_old": "",
         "time": "10:30:43",
         "scores": {
-          "score": 61.5,
+          "score": 59.9,
           "stars": 4.9,
           "total": 494,
-          "avg_return": 19,
+          "avg_return": 18.5,
           "return_pct": null,
-          "analyst_rank": 243,
-          "success_rate": 61.5,
-          "stock_avg_return": -34.9,
+          "analyst_rank": 262,
+          "success_rate": 59.9,
+          "stock_avg_return": -35.9,
           "stock_success_rate": 20,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1059,16 +1083,16 @@
         "rating_old": "",
         "time": "11:30:35",
         "scores": {
-          "score": 35,
-          "stars": 2.5,
-          "total": 326,
-          "avg_return": 1.2,
+          "score": 34.5,
+          "stars": 2.3,
+          "total": 328,
+          "avg_return": 0.7,
           "return_pct": null,
-          "analyst_rank": 6190,
-          "success_rate": 35,
-          "stock_avg_return": 14.8,
+          "analyst_rank": 6752,
+          "success_rate": 34.5,
+          "stock_avg_return": 15.6,
           "stock_success_rate": 57.1,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1084,16 +1108,16 @@
         "rating_old": "",
         "time": "16:35:08",
         "scores": {
-          "score": 57.9,
+          "score": 56,
           "stars": 4.8,
-          "total": 497,
-          "avg_return": 12.6,
+          "total": 500,
+          "avg_return": 11.9,
           "return_pct": null,
-          "analyst_rank": 573,
-          "success_rate": 57.9,
+          "analyst_rank": 621,
+          "success_rate": 56,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1109,42 +1133,17 @@
         "rating_old": "",
         "time": "16:40:11",
         "scores": {
-          "score": 22.2,
-          "stars": 0.7,
-          "total": 18,
-          "avg_return": -7.5,
+          "score": 15.8,
+          "stars": 0.6,
+          "total": 19,
+          "avg_return": -9.2,
           "return_pct": null,
-          "analyst_rank": 10874,
-          "success_rate": 22.2,
-          "stock_avg_return": -22.5,
+          "analyst_rank": 11070,
+          "success_rate": 15.8,
+          "stock_avg_return": -21.8,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 15,
-        "pt_old": null,
-        "firm": "B. Riley Securities",
-        "analyst": "Unknown Analyst",
-        "slug": "",
-        "date": "2026-08-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:18:00",
-        "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
-          "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {

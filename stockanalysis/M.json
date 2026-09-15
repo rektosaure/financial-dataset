@@ -1014,7 +1014,7 @@
       "count": 10,
       "median": 23,
       "average": 22.7,
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 10,
@@ -1022,7 +1022,7 @@
           "count": 10,
           "median": 23,
           "average": 22.7,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 10,
@@ -1030,7 +1030,7 @@
           "count": 8,
           "median": 24,
           "average": 22.88,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 10,
@@ -1038,7 +1038,7 @@
           "count": 8,
           "median": 24,
           "average": 22.88,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 22,
@@ -1104,18 +1104,43 @@
           "t": "2026-08-01"
         },
         {
-          "c": 22.7,
+          "c": 22.08,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
       {
         "action_rt": "Maintains",
+        "pt_now": 25,
+        "pt_old": null,
+        "firm": "TD Cowen",
+        "analyst": "Oliver Chen",
+        "slug": "oliver-chen",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "06:06:00",
+        "scores": {
+          "score": 46,
+          "stars": 3.1,
+          "total": 498,
+          "avg_return": 1.8,
+          "return_pct": null,
+          "analyst_rank": 4641,
+          "success_rate": 46,
+          "stock_avg_return": -15.7,
+          "stock_success_rate": 18.2,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
         "pt_now": 30,
         "pt_old": null,
         "firm": "Morgan Stanley",
@@ -1124,7 +1149,7 @@
         "date": "2026-09-14",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "12:01:36",
         "scores": {
           "score": 52.3,
           "stars": 3.5,
@@ -1213,50 +1238,25 @@
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 24,
-        "pt_old": null,
-        "firm": "Citi",
-        "analyst": "Paul Lejuez",
-        "slug": "paul-lejuez",
-        "date": "2026-09-11",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "10:26:37",
-        "scores": {
-          "score": 53.6,
-          "stars": 4.4,
-          "total": 489,
-          "avg_return": 6.9,
-          "return_pct": null,
-          "analyst_rank": 1465,
-          "success_rate": 53.6,
-          "stock_avg_return": -27.1,
-          "stock_success_rate": 57.1,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 23.15,
-      "median": 23.5,
+      "avg": 23.36,
+      "median": 24,
       "low": 10,
       "high": 30,
-      "numPriceTargets": 10
+      "numPriceTargets": 11
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Hold",
-      "score": 0.3845999999999994,
+      "score": 0.7692499999999991,
       "count": 13,
       "strongBuy": 1,
-      "buy": 1,
-      "hold": 10,
+      "buy": 2,
+      "hold": 9,
       "sell": 0,
       "strongSell": 1
     }

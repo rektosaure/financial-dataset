@@ -904,7 +904,7 @@
       "count": 3,
       "median": 15,
       "average": 15.33,
-      "updated": "2026-08-06",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 15,
@@ -912,7 +912,7 @@
           "count": 3,
           "median": 15,
           "average": 15.33,
-          "updated": "2026-08-06"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 15,
@@ -998,16 +998,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 8.2,
+          "c": 7.91,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 15,
+        "pt_old": null,
+        "firm": "BTIG",
+        "analyst": "Marvin Fong",
+        "slug": "marvin-fong",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 41,
+          "stars": 1.4,
+          "total": 400,
+          "avg_return": -0.1,
+          "return_pct": null,
+          "analyst_rank": 8901,
+          "success_rate": 41,
+          "stock_avg_return": 32,
+          "stock_success_rate": 86.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 16,
@@ -1020,41 +1045,16 @@
         "rating_old": "",
         "time": "18:35:55",
         "scores": {
-          "score": 62.8,
+          "score": 62.6,
           "stars": 4.9,
           "total": 500,
-          "avg_return": 16.9,
+          "avg_return": 16.8,
           "return_pct": null,
-          "analyst_rank": 264,
-          "success_rate": 62.8,
-          "stock_avg_return": 36.9,
-          "stock_success_rate": 72.4,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 15,
-        "pt_old": null,
-        "firm": "BTIG",
-        "analyst": "Marvin Fong",
-        "slug": "marvin-fong",
-        "date": "2026-05-06",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:50:15",
-        "scores": {
-          "score": 40.8,
-          "stars": 1.5,
-          "total": 400,
-          "avg_return": 0,
-          "return_pct": null,
-          "analyst_rank": 8790,
-          "success_rate": 40.8,
-          "stock_avg_return": 32.7,
-          "stock_success_rate": 86.7,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 253,
+          "success_rate": 62.6,
+          "stock_avg_return": 36.3,
+          "stock_success_rate": 65.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1070,16 +1070,16 @@
         "rating_old": "",
         "time": "18:23:08",
         "scores": {
-          "score": 67.9,
+          "score": 67.5,
           "stars": 5,
-          "total": 507,
-          "avg_return": 29.5,
+          "total": 508,
+          "avg_return": 29.3,
           "return_pct": null,
-          "analyst_rank": 50,
-          "success_rate": 67.9,
-          "stock_avg_return": -30.4,
+          "analyst_rank": 47,
+          "success_rate": 67.5,
+          "stock_avg_return": -30.8,
           "stock_success_rate": 20,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

@@ -998,51 +998,51 @@
     ],
     "targets": {
       "low": 4,
-      "high": 11,
-      "count": 5,
-      "median": 5,
-      "average": 6.3,
-      "updated": "2026-09-10",
+      "high": 10,
+      "count": 6,
+      "median": 7,
+      "average": 6.58,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 4,
-          "high": 5,
-          "count": 3,
-          "median": 4.5,
-          "average": 4.5,
-          "updated": "2026-09-10"
+          "high": 9,
+          "count": 4,
+          "median": 5,
+          "average": 5.63,
+          "updated": "2026-09-11"
         },
         "2": {
           "low": 4.5,
-          "high": 5,
-          "count": 2,
+          "high": 9,
+          "count": 3,
           "median": 5,
-          "average": 4.75,
-          "updated": "2026-09-10"
+          "average": 6.17,
+          "updated": "2026-09-11"
         },
         "3": {
           "low": 4.5,
-          "high": 5,
-          "count": 2,
+          "high": 9,
+          "count": 3,
           "median": 5,
-          "average": 4.75,
-          "updated": "2026-09-10"
+          "average": 6.17,
+          "updated": "2026-09-11"
         },
         "4": {
           "low": 4.5,
-          "high": 4.5,
-          "count": 1,
-          "median": 4.5,
-          "average": 4.5,
-          "updated": "2026-09-10"
+          "high": 9,
+          "count": 2,
+          "median": 9,
+          "average": 6.75,
+          "updated": "2026-09-11"
         },
         "5": {
           "low": 4.5,
-          "high": 4.5,
-          "count": 1,
-          "median": 4.5,
-          "average": 4.5,
-          "updated": "2026-09-10"
+          "high": 9,
+          "count": 2,
+          "median": 9,
+          "average": 6.75,
+          "updated": "2026-09-11"
         }
       },
       "currency": "USD",
@@ -1096,38 +1096,63 @@
           "t": "2026-08-01"
         },
         {
-          "c": 3.96,
+          "c": 4.07,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
       {
         "action_rt": "Maintains",
-        "pt_now": 4.5,
-        "pt_old": 4,
-        "firm": "Roth MKM",
-        "analyst": "Chip Moore",
-        "slug": "chip-moore",
-        "date": "2026-09-10",
-        "rating_new": "Hold",
+        "pt_now": 10,
+        "pt_old": 11,
+        "firm": "Needham",
+        "analyst": "Sean Milligan",
+        "slug": "sean-milligan",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
         "rating_old": "",
-        "time": "04:35:13",
+        "time": "09:15:52",
         "scores": {
-          "score": 54.1,
-          "stars": 4.9,
-          "total": 281,
-          "avg_return": 29.6,
+          "score": 34.2,
+          "stars": 0.1,
+          "total": 73,
+          "avg_return": -14.1,
           "return_pct": null,
-          "analyst_rank": 305,
-          "success_rate": 54.1,
-          "stock_avg_return": 203.8,
-          "stock_success_rate": 87.5,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 12139,
+          "success_rate": 34.2,
+          "stock_avg_return": -49.4,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 9,
+        "pt_old": null,
+        "firm": "Stifel Nicolaus",
+        "analyst": "Stephen Gengaro",
+        "slug": "stephen-gengaro",
+        "date": "2026-09-11",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 53.5,
+          "stars": 4.8,
+          "total": 495,
+          "avg_return": 15.7,
+          "return_pct": null,
+          "analyst_rank": 469,
+          "success_rate": 53.5,
+          "stock_avg_return": 53.7,
+          "stock_success_rate": 57.9,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1141,44 +1166,45 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:30:34",
         "scores": {
-          "score": 26.6,
+          "score": 26.1,
           "stars": 0,
           "total": 184,
-          "avg_return": -16.6,
+          "avg_return": -17,
           "return_pct": null,
-          "analyst_rank": 12387,
-          "success_rate": 26.6,
-          "stock_avg_return": 4.2,
+          "analyst_rank": 12385,
+          "success_rate": 26.1,
+          "stock_avg_return": 3.2,
           "stock_success_rate": 40,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
       {
         "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Stifel Nicolaus",
-        "analyst": "Stephen Gengaro",
-        "slug": "stephen-gengaro",
-        "date": "2026-09-02",
-        "rating_new": "Buy",
+        "pt_now": 4.5,
+        "pt_old": 4,
+        "firm": "Roth MKM",
+        "analyst": "Chip Moore",
+        "slug": "chip-moore",
+        "date": "2026-09-10",
+        "rating_new": "Hold",
         "rating_old": "",
-        "time": "15:10:19",
+        "time": "04:35:13",
         "scores": {
-          "score": 54.1,
-          "stars": 4.8,
-          "total": 495,
-          "avg_return": 16.4,
+          "score": 54.4,
+          "stars": 4.9,
+          "total": 281,
+          "avg_return": 29.5,
           "return_pct": null,
-          "analyst_rank": 450,
-          "success_rate": 54.1,
-          "stock_avg_return": 55.1,
-          "stock_success_rate": 57.9,
-          "number_of_ranked_experts": 12502
-        }
+          "analyst_rank": 293,
+          "success_rate": 54.4,
+          "stock_avg_return": 203.8,
+          "stock_success_rate": 87.5,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
       },
       {
         "action_rt": "Maintains",
@@ -1192,41 +1218,16 @@
         "rating_old": "",
         "time": "12:19:18",
         "scores": {
-          "score": 43.2,
-          "stars": 3.8,
+          "score": 43.6,
+          "stars": 3.9,
           "total": 493,
-          "avg_return": 4.3,
+          "avg_return": 4.4,
           "return_pct": null,
-          "analyst_rank": 2982,
-          "success_rate": 43.2,
+          "analyst_rank": 2850,
+          "success_rate": 43.6,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 4,
-        "pt_old": 8,
-        "firm": "TD Cowen",
-        "analyst": "Jeff Osborne",
-        "slug": "jeff-osborne",
-        "date": "2026-08-05",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "21:30:06",
-        "scores": {
-          "score": 41.3,
-          "stars": 1.2,
-          "total": 494,
-          "avg_return": -0.3,
-          "return_pct": null,
-          "analyst_rank": 9500,
-          "success_rate": 41.3,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

@@ -1053,41 +1053,41 @@
     "targets": {
       "low": 26,
       "high": 45,
-      "count": 24,
+      "count": 23,
       "median": 39,
-      "average": 38.54,
+      "average": 38.26,
       "updated": "2026-09-02",
       "filtered": {
         "1": {
           "low": 26,
           "high": 45,
-          "count": 19,
+          "count": 18,
           "median": 39,
-          "average": 38.21,
+          "average": 37.83,
           "updated": "2026-09-02"
         },
         "2": {
           "low": 26,
           "high": 45,
-          "count": 16,
-          "median": 39,
-          "average": 37.63,
+          "count": 14,
+          "median": 38,
+          "average": 37.36,
           "updated": "2026-09-02"
         },
         "3": {
           "low": 26,
           "high": 45,
-          "count": 13,
+          "count": 14,
           "median": 38,
-          "average": 37.54,
-          "updated": "2026-08-28"
+          "average": 37.36,
+          "updated": "2026-09-02"
         },
         "4": {
           "low": 34,
           "high": 45,
-          "count": 8,
-          "median": 39,
-          "average": 38.75,
+          "count": 6,
+          "median": 38,
+          "average": 38.17,
           "updated": "2026-08-10"
         },
         "5": {
@@ -1150,16 +1150,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 33.36,
+          "c": 31.84,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Needham",
+        "analyst": "Mayank Tandon",
+        "slug": "mayank-tandon",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 42.3,
+          "stars": 1.1,
+          "total": 497,
+          "avg_return": -0.5,
+          "return_pct": null,
+          "analyst_rank": 9791,
+          "success_rate": 42.3,
+          "stock_avg_return": 16.1,
+          "stock_success_rate": 55.6,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Downgrades",
         "pt_now": 35,
@@ -1173,15 +1197,15 @@
         "time": "09:05:22",
         "scores": {
           "score": 53.3,
-          "stars": 2.9,
+          "stars": 3,
           "total": 45,
-          "avg_return": 4.6,
+          "avg_return": 4.7,
           "return_pct": null,
-          "analyst_rank": 5216,
+          "analyst_rank": 5041,
           "success_rate": 53.3,
           "stock_avg_return": 35.2,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1197,16 +1221,16 @@
         "rating_old": "",
         "time": "11:00:28",
         "scores": {
-          "score": 52.1,
-          "stars": 3.6,
+          "score": 51.7,
+          "stars": 3.5,
           "total": 261,
-          "avg_return": 3.8,
+          "avg_return": 3.4,
           "return_pct": null,
-          "analyst_rank": 3552,
-          "success_rate": 52.1,
-          "stock_avg_return": 3.2,
+          "analyst_rank": 3671,
+          "success_rate": 51.7,
+          "stock_avg_return": -0.2,
           "stock_success_rate": 36.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1222,16 +1246,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 43.1,
+          "score": 42.1,
           "stars": 0.1,
-          "total": 497,
-          "avg_return": -5.4,
+          "total": 501,
+          "avg_return": -5.9,
           "return_pct": null,
-          "analyst_rank": 12173,
-          "success_rate": 43.1,
+          "analyst_rank": 12214,
+          "success_rate": 42.1,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1247,40 +1271,16 @@
         "rating_old": "",
         "time": "19:45:37",
         "scores": {
-          "score": 38.6,
-          "stars": 2.3,
-          "total": 166,
-          "avg_return": 1.1,
+          "score": 34.7,
+          "stars": 1,
+          "total": 167,
+          "avg_return": -1.1,
           "return_pct": null,
-          "analyst_rank": 6739,
-          "success_rate": 38.6,
+          "analyst_rank": 9962,
+          "success_rate": 34.7,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Wolfe Research",
-        "analyst": "Darrin Peller",
-        "slug": "darrin-peller",
-        "date": "2026-08-25",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "20:10:07",
-        "scores": {
-          "score": 61.3,
-          "stars": 4.7,
-          "total": 493,
-          "avg_return": 8.5,
-          "return_pct": null,
-          "analyst_rank": 810,
-          "success_rate": 61.3,
-          "stock_avg_return": 4.9,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       }
     ],

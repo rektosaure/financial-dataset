@@ -1055,40 +1055,40 @@
       "high": 255,
       "count": 21,
       "median": 235,
-      "average": 233.05,
-      "updated": "2026-09-14",
+      "average": 233.52,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 210,
           "high": 250,
           "count": 18,
           "median": 235,
-          "average": 232.72,
-          "updated": "2026-09-11"
+          "average": 233.28,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 212,
           "high": 250,
           "count": 15,
           "median": 235,
-          "average": 233.8,
-          "updated": "2026-09-11"
+          "average": 234.47,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 212,
           "high": 250,
           "count": 14,
           "median": 235,
-          "average": 233.36,
-          "updated": "2026-09-11"
+          "average": 234.07,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 212,
           "high": 250,
           "count": 12,
-          "median": 235,
-          "average": 234.33,
-          "updated": "2026-09-11"
+          "median": 237,
+          "average": 235.17,
+          "updated": "2026-09-15"
         },
         "5": {
           "count": 0,
@@ -1146,16 +1146,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 214.16,
+          "c": 209.12,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 245,
+        "pt_old": 235,
+        "firm": "Oppenheimer",
+        "analyst": "Brian Bittner",
+        "slug": "brian-bittner",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:55:35",
+        "scores": {
+          "score": 61.4,
+          "stars": 4.6,
+          "total": 497,
+          "avg_return": 6.9,
+          "return_pct": null,
+          "analyst_rank": 1033,
+          "success_rate": 61.4,
+          "stock_avg_return": 23,
+          "stock_success_rate": 84.3,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 210,
+        "pt_old": null,
+        "firm": "Wells Fargo",
+        "analyst": "Zachary Fadem",
+        "slug": "zachary-fadem",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 50.6,
+          "stars": 1.2,
+          "total": 506,
+          "avg_return": -0.4,
+          "return_pct": null,
+          "analyst_rank": 9552,
+          "success_rate": 50.6,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 255,
@@ -1227,56 +1277,6 @@
           "success_rate": 57.2,
           "stock_avg_return": 13.1,
           "stock_success_rate": 70.8,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 220,
-        "pt_old": 216,
-        "firm": "Stephens",
-        "analyst": "Jim Salera",
-        "slug": "jim-salera",
-        "date": "2026-09-11",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "10:06:03",
-        "scores": {
-          "score": 31.3,
-          "stars": 0.2,
-          "total": 83,
-          "avg_return": -11.4,
-          "return_pct": null,
-          "analyst_rank": 12049,
-          "success_rate": 31.3,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 245,
-        "pt_old": 236,
-        "firm": "Deutsche Bank ",
-        "analyst": "Lauren Silberman",
-        "slug": "lauren-silberman",
-        "date": "2026-09-01",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:50:21",
-        "scores": {
-          "score": 63.5,
-          "stars": 4.6,
-          "total": 230,
-          "avg_return": 10.5,
-          "return_pct": null,
-          "analyst_rank": 1106,
-          "success_rate": 63.5,
-          "stock_avg_return": 22.9,
-          "stock_success_rate": 70.6,
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"

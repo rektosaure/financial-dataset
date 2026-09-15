@@ -978,10 +978,10 @@
     "targets": {
       "low": 8,
       "high": 32,
-      "count": 7,
+      "count": 8,
       "median": 22,
-      "average": 22.14,
-      "updated": "2026-09-09",
+      "average": 21.75,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 8,
@@ -1075,16 +1075,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 15.09,
+          "c": 15.25,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 19,
+        "pt_old": null,
+        "firm": "Citi",
+        "analyst": "Vikram Bagri",
+        "slug": "vikram-bagri",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "13:10:07",
+        "scores": {
+          "score": 37.1,
+          "stars": 0,
+          "total": 175,
+          "avg_return": -18.5,
+          "return_pct": null,
+          "analyst_rank": 12383,
+          "success_rate": 37.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 22,
@@ -1097,16 +1122,16 @@
         "rating_old": "",
         "time": "12:16:00",
         "scores": {
-          "score": 38.2,
+          "score": 36.9,
           "stars": 4.6,
-          "total": 502,
-          "avg_return": 14.9,
+          "total": 509,
+          "avg_return": 13.6,
           "return_pct": null,
-          "analyst_rank": 901,
-          "success_rate": 38.2,
-          "stock_avg_return": 0,
+          "analyst_rank": 1017,
+          "success_rate": 36.9,
+          "stock_avg_return": -4.1,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1122,16 +1147,16 @@
         "rating_old": "",
         "time": "12:36:04",
         "scores": {
-          "score": 60.6,
+          "score": 59.4,
           "stars": 4.6,
-          "total": 470,
+          "total": 471,
           "avg_return": 8.2,
           "return_pct": null,
-          "analyst_rank": 945,
-          "success_rate": 60.6,
-          "stock_avg_return": -27.5,
+          "analyst_rank": 954,
+          "success_rate": 59.4,
+          "stock_avg_return": -18.8,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1147,16 +1172,16 @@
         "rating_old": "",
         "time": "11:10:11",
         "scores": {
-          "score": 54.1,
+          "score": 53.8,
           "stars": 3.1,
-          "total": 259,
-          "avg_return": 2.2,
+          "total": 260,
+          "avg_return": 2,
           "return_pct": null,
-          "analyst_rank": 4685,
-          "success_rate": 54.1,
-          "stock_avg_return": 17.2,
-          "stock_success_rate": 72.2,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 4777,
+          "success_rate": 53.8,
+          "stock_avg_return": 14.4,
+          "stock_success_rate": 68.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1172,42 +1197,17 @@
         "rating_old": "",
         "time": "09:20:17",
         "scores": {
-          "score": 46.6,
+          "score": 46.3,
           "stars": 4.1,
-          "total": 161,
-          "avg_return": 9.5,
+          "total": 162,
+          "avg_return": 9.7,
           "return_pct": null,
-          "analyst_rank": 2290,
-          "success_rate": 46.6,
+          "analyst_rank": 2162,
+          "success_rate": 46.3,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 30,
-        "pt_old": null,
-        "firm": "Canaccord Genuity",
-        "analyst": "George Gianarikas",
-        "slug": "george-gianarikas",
-        "date": "2026-09-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:56:10",
-        "scores": {
-          "score": 38.7,
-          "stars": 3.3,
-          "total": 388,
-          "avg_return": 2.9,
-          "return_pct": null,
-          "analyst_rank": 4295,
-          "success_rate": 38.7,
-          "stock_avg_return": -6.3,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {

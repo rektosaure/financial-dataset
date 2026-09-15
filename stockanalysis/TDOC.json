@@ -998,47 +998,51 @@
     ],
     "targets": {
       "low": 5.5,
-      "high": 11,
-      "count": 16,
+      "high": 10.5,
+      "count": 14,
       "median": 7.5,
-      "average": 7.75,
-      "updated": "2026-09-01",
+      "average": 7.57,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 5.5,
-          "high": 11,
-          "count": 15,
+          "high": 10.5,
+          "count": 12,
           "median": 7.5,
-          "average": 7.8,
-          "updated": "2026-09-01"
+          "average": 7.75,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 5.5,
-          "high": 11,
-          "count": 14,
+          "high": 10.5,
+          "count": 12,
           "median": 7.5,
-          "average": 7.93,
-          "updated": "2026-09-01"
+          "average": 7.75,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 5.5,
-          "high": 11,
-          "count": 14,
+          "high": 10.5,
+          "count": 11,
           "median": 7.5,
-          "average": 7.93,
-          "updated": "2026-09-01"
+          "average": 7.73,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 6,
-          "high": 11,
-          "count": 10,
+          "high": 10.5,
+          "count": 8,
           "median": 8,
-          "average": 8.25,
-          "updated": "2026-09-01"
+          "average": 8.06,
+          "updated": "2026-09-15"
         },
         "5": {
-          "count": 0,
-          "updated": ""
+          "low": 7,
+          "high": 7,
+          "count": 1,
+          "median": 7,
+          "average": 7,
+          "updated": "2026-08-04"
         }
       },
       "currency": "USD",
@@ -1092,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 6.32,
+          "c": 6.58,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 10.5,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Allen Lutz",
+        "slug": "allen-lutz",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 65,
+          "stars": 4.7,
+          "total": 331,
+          "avg_return": 11.2,
+          "return_pct": null,
+          "analyst_rank": 666,
+          "success_rate": 65,
+          "stock_avg_return": 3.3,
+          "stock_success_rate": 62.5,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 10,
@@ -1114,16 +1143,16 @@
         "rating_old": "",
         "time": "12:36:06",
         "scores": {
-          "score": 49.3,
-          "stars": 4.6,
-          "total": 489,
-          "avg_return": 10.5,
+          "score": 49.2,
+          "stars": 4.5,
+          "total": 484,
+          "avg_return": 9.7,
           "return_pct": null,
-          "analyst_rank": 1067,
-          "success_rate": 49.3,
-          "stock_avg_return": 3.8,
-          "stock_success_rate": 40.4,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 1131,
+          "success_rate": 49.2,
+          "stock_avg_return": 1.8,
+          "stock_success_rate": 39.1,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1139,42 +1168,17 @@
         "rating_old": "",
         "time": "12:10:07",
         "scores": {
-          "score": 42.8,
-          "stars": 0.2,
+          "score": 42.3,
+          "stars": 0.1,
           "total": 362,
-          "avg_return": -5.4,
+          "avg_return": -6.2,
           "return_pct": null,
-          "analyst_rank": 12048,
-          "success_rate": 42.8,
+          "analyst_rank": 12136,
+          "success_rate": 42.3,
           "stock_avg_return": -60.7,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 10.5,
-        "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Allen Lutz",
-        "slug": "allen-lutz",
-        "date": "2026-09-01",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "02:15:22",
-        "scores": {
-          "score": 65.5,
-          "stars": 4.7,
-          "total": 330,
-          "avg_return": 11.5,
-          "return_pct": null,
-          "analyst_rank": 660,
-          "success_rate": 65.5,
-          "stock_avg_return": 4.7,
-          "stock_success_rate": 62.5,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Reiterates",
@@ -1188,16 +1192,16 @@
         "rating_old": "",
         "time": "14:01:07",
         "scores": {
-          "score": 58.5,
-          "stars": 4.7,
+          "score": 58.7,
+          "stars": 4.8,
           "total": 499,
-          "avg_return": 10.9,
+          "avg_return": 11.1,
           "return_pct": null,
-          "analyst_rank": 662,
-          "success_rate": 58.5,
-          "stock_avg_return": -33.3,
+          "analyst_rank": 610,
+          "success_rate": 58.7,
+          "stock_avg_return": -33.5,
           "stock_success_rate": 8.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1213,16 +1217,16 @@
         "rating_old": "",
         "time": "01:50:18",
         "scores": {
-          "score": 54.1,
-          "stars": 4.2,
+          "score": 53,
+          "stars": 4.1,
           "total": 492,
-          "avg_return": 5.4,
+          "avg_return": 4.7,
           "return_pct": null,
-          "analyst_rank": 1941,
-          "success_rate": 54.1,
+          "analyst_rank": 2204,
+          "success_rate": 53,
           "stock_avg_return": 18.4,
           "stock_success_rate": 54.2,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
