@@ -996,51 +996,51 @@
       }
     ],
     "targets": {
-      "low": 50,
+      "low": 51,
       "high": 60,
       "count": 10,
       "median": 56,
-      "average": 55.5,
-      "updated": "2026-08-21",
+      "average": 56.4,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
-          "low": 50,
+          "low": 55,
           "high": 60,
-          "count": 9,
-          "median": 55,
-          "average": 55.33,
-          "updated": "2026-08-21"
+          "count": 8,
+          "median": 56,
+          "average": 57,
+          "updated": "2026-09-14"
         },
         "2": {
-          "low": 50,
+          "low": 55,
           "high": 60,
           "count": 8,
           "median": 56,
-          "average": 55.88,
-          "updated": "2026-08-21"
+          "average": 57,
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 50,
+          "low": 55,
           "high": 60,
           "count": 8,
           "median": 56,
-          "average": 55.88,
-          "updated": "2026-08-21"
+          "average": 57,
+          "updated": "2026-09-14"
         },
         "4": {
-          "low": 50,
+          "low": 55,
           "high": 60,
           "count": 8,
           "median": 56,
-          "average": 55.88,
-          "updated": "2026-08-21"
+          "average": 57,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 55,
           "high": 60,
-          "count": 5,
-          "median": 55,
-          "average": 57,
+          "count": 4,
+          "median": 60,
+          "average": 57.5,
           "updated": "2026-08-11"
         }
       },
@@ -1095,16 +1095,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 37.44,
+          "c": 39.09,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 59,
+        "pt_old": null,
+        "firm": "Lucid Capital",
+        "analyst": "Dev Prasad",
+        "slug": "dev-prasad",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "14:55:07",
+        "scores": {
+          "score": 76.5,
+          "stars": 4.7,
+          "total": 17,
+          "avg_return": 81.3,
+          "return_pct": null,
+          "analyst_rank": 639,
+          "success_rate": 76.5,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 55,
+        "pt_old": null,
+        "firm": "BTIG",
+        "analyst": "Jeet Mukherjee",
+        "slug": "jeet-mukherjee",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "01:20:10",
+        "scores": {
+          "score": 58.6,
+          "stars": 4.7,
+          "total": 111,
+          "avg_return": 26.4,
+          "return_pct": null,
+          "analyst_rank": 665,
+          "success_rate": 58.6,
+          "stock_avg_return": 112,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": null,
@@ -1115,18 +1165,18 @@
         "date": "2026-09-09",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "10:00:25",
         "scores": {
-          "score": 54.9,
-          "stars": 4.9,
-          "total": 237,
-          "avg_return": 29.5,
+          "score": 51.7,
+          "stars": 4.8,
+          "total": 238,
+          "avg_return": 27.3,
           "return_pct": null,
-          "analyst_rank": 368,
-          "success_rate": 54.9,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 412,
+          "success_rate": 51.7,
+          "stock_avg_return": 3.6,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1141,16 +1191,16 @@
         "rating_old": "",
         "time": "09:55:19",
         "scores": {
-          "score": 46.3,
-          "stars": 4.7,
-          "total": 497,
-          "avg_return": 15.3,
+          "score": 43.1,
+          "stars": 4.6,
+          "total": 496,
+          "avg_return": 13.3,
           "return_pct": null,
-          "analyst_rank": 667,
-          "success_rate": 46.3,
-          "stock_avg_return": 25.1,
+          "analyst_rank": 895,
+          "success_rate": 43.1,
+          "stock_avg_return": 17,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1166,66 +1216,16 @@
         "rating_old": "",
         "time": "13:36:19",
         "scores": {
-          "score": 62.2,
+          "score": 58.1,
           "stars": 5,
-          "total": 495,
-          "avg_return": 41.7,
+          "total": 497,
+          "avg_return": 38.1,
           "return_pct": null,
-          "analyst_rank": 36,
-          "success_rate": 62.2,
-          "stock_avg_return": 64.8,
+          "analyst_rank": 68,
+          "success_rate": 58.1,
+          "stock_avg_return": 54.1,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 55,
-        "pt_old": null,
-        "firm": "BTIG",
-        "analyst": "Jeet Mukherjee",
-        "slug": "jeet-mukherjee",
-        "date": "2026-08-11",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:15:37",
-        "scores": {
-          "score": 66.7,
-          "stars": 4.8,
-          "total": 111,
-          "avg_return": 32.4,
-          "return_pct": null,
-          "analyst_rank": 447,
-          "success_rate": 66.7,
-          "stock_avg_return": 126.8,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 60,
-        "pt_old": null,
-        "firm": "Oppenheimer",
-        "analyst": "Jay Olson",
-        "slug": "jay-olson",
-        "date": "2026-08-05",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:56:23",
-        "scores": {
-          "score": 51.9,
-          "stars": 4.9,
-          "total": 482,
-          "avg_return": 27.5,
-          "return_pct": null,
-          "analyst_rank": 224,
-          "success_rate": 51.9,
-          "stock_avg_return": 50.1,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -5644,7 +5644,7 @@
           "Q4"
         ],
         "marketcap": [
-          967465512,
+          1010102213,
           13457964,
           12326682,
           17297578,
@@ -5652,7 +5652,7 @@
           177461556
         ],
         "ev": [
-          781616512,
+          824253213,
           -9562036,
           -30206319,
           -47944422,
@@ -5660,7 +5660,7 @@
           21697556
         ],
         "lastCloseRatios": [
-          37.44,
+          39.09,
           10.67,
           9.802,
           13.84,
@@ -5668,7 +5668,7 @@
           116
         ],
         "pb": [
-          5.59203,
+          5.83847,
           0.724,
           0.321,
           0.267,
@@ -5676,7 +5676,7 @@
           1.211
         ],
         "ptbvRatio": [
-          5.59364,
+          5.84016,
           0.724,
           0.321,
           0.267,
@@ -5756,7 +5756,7 @@
           -0.253
         ],
         "earningsyield": [
-          -0.20210329999999999,
+          -0.1935725,
           -1.56673,
           -2.44648,
           -1.97143,
@@ -5764,7 +5764,7 @@
           -0.20734
         ],
         "fcfyield": [
-          -0.0350007,
+          -0.0335233,
           -1.52096,
           -2.01319,
           -1.86171,
@@ -5851,7 +5851,7 @@
           "Q3"
         ],
         "marketcap": [
-          967465512,
+          1010102213,
           644468850,
           42245657,
           13457964,
@@ -5874,7 +5874,7 @@
           321790810
         ],
         "ev": [
-          781616512,
+          824253213,
           442714850,
           22570657,
           -9562036,
@@ -5897,7 +5897,7 @@
           159859809
         ],
         "lastCloseRatios": [
-          37.44,
+          39.09,
           25,
           31.52,
           10.67,
@@ -5920,7 +5920,7 @@
           210.4
         ],
         "pb": [
-          5.59203,
+          5.83847,
           3.726,
           -0.308,
           0.724,
@@ -5943,7 +5943,7 @@
           2.073
         ],
         "ptbvRatio": [
-          5.59364,
+          5.84016,
           3.726,
           null,
           0.724,
@@ -6171,7 +6171,7 @@
           -0.212
         ],
         "earningsyield": [
-          -0.20210329999999999,
+          -0.1935725,
           -0.3034,
           -4.36632,
           -1.5668,
@@ -6194,7 +6194,7 @@
           -0.10118
         ],
         "fcfyield": [
-          -0.0350007,
+          -0.0335233,
           -0.05254,
           -0.5708,
           -1.52096,
@@ -6266,7 +6266,7 @@
           "Q4"
         ],
         "marketcap": [
-          967465512,
+          1010102213,
           13457964,
           12326682,
           17297578,
@@ -6274,7 +6274,7 @@
           177461556
         ],
         "ev": [
-          781616512,
+          824253213,
           -9562036,
           -30206319,
           -47944422,
@@ -6282,7 +6282,7 @@
           21697556
         ],
         "lastCloseRatios": [
-          37.44,
+          39.09,
           10.67,
           9.802,
           13.84,
@@ -6290,7 +6290,7 @@
           116
         ],
         "pb": [
-          5.59203,
+          5.83847,
           0.724,
           0.321,
           0.267,
@@ -6298,7 +6298,7 @@
           1.211
         ],
         "ptbvRatio": [
-          5.59364,
+          5.84016,
           0.724,
           0.321,
           0.267,
@@ -6378,7 +6378,7 @@
           -0.253
         ],
         "earningsyield": [
-          -0.20210329999999999,
+          -0.1935725,
           -1.56673,
           -2.44648,
           -1.97143,
@@ -6386,7 +6386,7 @@
           -0.20734
         ],
         "fcfyield": [
-          -0.0350007,
+          -0.0335233,
           -1.52096,
           -2.01319,
           -1.86171,
