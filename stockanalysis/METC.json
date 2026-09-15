@@ -930,7 +930,7 @@
       "count": 6,
       "median": 18,
       "average": 17.17,
-      "updated": "2026-08-18",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 11,
@@ -938,7 +938,7 @@
           "count": 6,
           "median": 18,
           "average": 17.17,
-          "updated": "2026-08-18"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 11,
@@ -946,7 +946,7 @@
           "count": 5,
           "median": 18,
           "average": 18.4,
-          "updated": "2026-08-18"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 11,
@@ -954,15 +954,15 @@
           "count": 5,
           "median": 18,
           "average": 18.4,
-          "updated": "2026-08-18"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 11,
           "high": 26,
-          "count": 5,
-          "median": 18,
-          "average": 18.4,
-          "updated": "2026-08-18"
+          "count": 4,
+          "median": 24,
+          "average": 18.5,
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 24,
@@ -1024,16 +1024,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 11.19,
+          "c": 10.29,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 11,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Carlos De Alba",
+        "slug": "carlos-de-alba",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 55.7,
+          "stars": 4.7,
+          "total": 273,
+          "avg_return": 15.4,
+          "return_pct": null,
+          "analyst_rank": 702,
+          "success_rate": 55.7,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12499
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 24,
@@ -1046,41 +1071,16 @@
         "rating_old": "",
         "time": "13:30:12",
         "scores": {
-          "score": 57.1,
-          "stars": 4.9,
+          "score": 54.6,
+          "stars": 4.8,
           "total": 163,
-          "avg_return": 34.1,
+          "avg_return": 32,
           "return_pct": null,
-          "analyst_rank": 372,
-          "success_rate": 57.1,
-          "stock_avg_return": -4.8,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 11,
-        "pt_old": 13,
-        "firm": "Morgan Stanley",
-        "analyst": "Carlos De Alba",
-        "slug": "carlos-de-alba",
-        "date": "2026-08-18",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "10:55:24",
-        "scores": {
-          "score": 56.8,
-          "stars": 4.7,
-          "total": 273,
-          "avg_return": 15.7,
-          "return_pct": null,
-          "analyst_rank": 683,
-          "success_rate": 56.8,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 409,
+          "success_rate": 54.6,
+          "stock_avg_return": -9.5,
+          "stock_success_rate": 25,
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1099,13 +1099,13 @@
           "score": 41.5,
           "stars": 4.1,
           "total": 494,
-          "avg_return": 6.1,
+          "avg_return": 6,
           "return_pct": null,
-          "analyst_rank": 2334,
+          "analyst_rank": 2329,
           "success_rate": 41.5,
           "stock_avg_return": -29.9,
           "stock_success_rate": 20,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1124,13 +1124,13 @@
           "score": 69.3,
           "stars": 4.8,
           "total": 150,
-          "avg_return": 23.8,
+          "avg_return": 23.4,
           "return_pct": null,
-          "analyst_rank": 459,
+          "analyst_rank": 452,
           "success_rate": 69.3,
-          "stock_avg_return": 43.9,
+          "stock_avg_return": 42.9,
           "stock_success_rate": 56.2,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       },
@@ -1146,16 +1146,16 @@
         "rating_old": "",
         "time": "10:21:15",
         "scores": {
-          "score": 43.4,
-          "stars": 1.4,
+          "score": 42.9,
+          "stars": 1.3,
           "total": 489,
-          "avg_return": -0.1,
+          "avg_return": -0.3,
           "return_pct": null,
-          "analyst_rank": 8982,
-          "success_rate": 43.4,
+          "analyst_rank": 9312,
+          "success_rate": 42.9,
           "stock_avg_return": 7.6,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12499
         },
         "curr": "USD"
       }
@@ -6856,7 +6856,7 @@
           "Q4"
         ],
         "marketcap": [
-          709314394,
+          652264979,
           1122113326,
           537680050,
           871151728,
@@ -6864,7 +6864,7 @@
           599887378
         ],
         "ev": [
-          895197394,
+          838147979,
           1064644326,
           604804049,
           945654728,
@@ -6872,7 +6872,7 @@
           601998377
         ],
         "lastCloseRatios": [
-          11.19,
+          10.29,
           18,
           10.029993,
           16.135679,
@@ -6896,7 +6896,7 @@
           5.005
         ],
         "ps": [
-          1.3762,
+          1.26551,
           2.091,
           0.807,
           1.256,
@@ -6904,7 +6904,7 @@
           2.117
         ],
         "pb": [
-          1.88485,
+          1.73326,
           2.32,
           1.482,
           2.357,
@@ -6912,7 +6912,7 @@
           2.842
         ],
         "ptbvRatio": [
-          1.88614,
+          1.73444,
           2.32,
           1.482,
           2.357,
@@ -6936,7 +6936,7 @@
           11.246
         ],
         "evrevenue": [
-          1.73685,
+          1.62616,
           1.984,
           0.908,
           1.364,
@@ -7080,7 +7080,7 @@
           0.14
         ],
         "earningsyield": [
-          -0.0873224,
+          -0.09495990000000001,
           -0.04585,
           0.02082,
           0.09449,
@@ -7088,7 +7088,7 @@
           0.06628
         ],
         "fcfyield": [
-          -0.1652215,
+          -0.1796724,
           -0.0568,
           0.07872,
           0.08838,
@@ -7199,7 +7199,7 @@
           "Q3"
         ],
         "marketcap": [
-          709314394,
+          652264979,
           810216136,
           980609470,
           1122113326,
@@ -7222,7 +7222,7 @@
           542986295
         ],
         "ev": [
-          895197394,
+          838147979,
           923842135,
           1010286469,
           1064644326,
@@ -7245,7 +7245,7 @@
           537043295
         ],
         "lastCloseRatios": [
-          11.19,
+          10.29,
           13.23,
           15.46,
           18,
@@ -7314,7 +7314,7 @@
           10.443
         ],
         "ps": [
-          1.3762,
+          1.26551,
           1.572,
           1.873,
           2.091,
@@ -7337,7 +7337,7 @@
           2.198
         ],
         "pb": [
-          1.88485,
+          1.73326,
           2.154,
           2.244,
           2.32,
@@ -7360,7 +7360,7 @@
           2.802
         ],
         "ptbvRatio": [
-          1.88614,
+          1.73444,
           2.154,
           2.244,
           2.32,
@@ -7429,7 +7429,7 @@
           10.833
         ],
         "evrevenue": [
-          1.73685,
+          1.62616,
           1.792,
           1.93,
           1.984,
@@ -7839,7 +7839,7 @@
           0.034
         ],
         "earningsyield": [
-          -0.0873224,
+          -0.09495990000000001,
           -0.07621,
           -0.0615,
           -0.04585,
@@ -7862,7 +7862,7 @@
           0.03016
         ],
         "fcfyield": [
-          -0.1652215,
+          -0.1796724,
           -0.14465,
           -0.12376,
           -0.0568,
@@ -8003,7 +8003,7 @@
           "Q4"
         ],
         "marketcap": [
-          709314394,
+          652264979,
           1122113326,
           537680050,
           871151728,
@@ -8011,7 +8011,7 @@
           599887378
         ],
         "ev": [
-          895197394,
+          838147979,
           1064644326,
           604804049,
           945654728,
@@ -8019,7 +8019,7 @@
           601998377
         ],
         "lastCloseRatios": [
-          11.19,
+          10.29,
           18,
           10.029993,
           16.135679,
@@ -8043,7 +8043,7 @@
           5.005
         ],
         "ps": [
-          1.3762,
+          1.26551,
           2.091,
           0.807,
           1.256,
@@ -8051,7 +8051,7 @@
           2.117
         ],
         "pb": [
-          1.88485,
+          1.73326,
           2.32,
           1.482,
           2.357,
@@ -8059,7 +8059,7 @@
           2.842
         ],
         "ptbvRatio": [
-          1.88614,
+          1.73444,
           2.32,
           1.482,
           2.357,
@@ -8083,7 +8083,7 @@
           11.246
         ],
         "evrevenue": [
-          1.73685,
+          1.62616,
           1.984,
           0.908,
           1.364,
@@ -8227,7 +8227,7 @@
           0.14
         ],
         "earningsyield": [
-          -0.0873224,
+          -0.09495990000000001,
           -0.04585,
           0.02082,
           0.09449,
@@ -8235,7 +8235,7 @@
           0.06628
         ],
         "fcfyield": [
-          -0.1652215,
+          -0.1796724,
           -0.0568,
           0.07872,
           0.08838,
