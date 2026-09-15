@@ -1057,31 +1057,31 @@
       "high": 46,
       "count": 16,
       "median": 42,
-      "average": 42,
-      "updated": "2026-09-08",
+      "average": 41.78,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 38,
-          "high": 46,
-          "count": 14,
+          "high": 44,
+          "count": 12,
           "median": 41,
-          "average": 41.79,
-          "updated": "2026-09-08"
+          "average": 41.13,
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 38,
           "high": 44,
           "count": 12,
           "median": 41,
-          "average": 41.21,
-          "updated": "2026-09-08"
+          "average": 41.13,
+          "updated": "2026-09-14"
         },
         "3": {
-          "low": 38,
+          "low": 39,
           "high": 44,
-          "count": 11,
+          "count": 9,
           "median": 41,
-          "average": 41.27,
+          "average": 41.33,
           "updated": "2026-09-08"
         },
         "4": {
@@ -1148,38 +1148,63 @@
           "t": "2026-08-01"
         },
         {
-          "c": 35.12,
+          "c": 35.37,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
       {
         "action_rt": "Maintains",
-        "pt_now": 39,
-        "pt_old": 41,
-        "firm": "Mizuho Securities",
-        "analyst": "Haendel St. Juste",
-        "slug": "haendel-st.-juste",
-        "date": "2026-09-08",
+        "pt_now": 42,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Adam Kramer",
+        "slug": "adam-kramer",
+        "date": "2026-09-14",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "10:36:43",
+        "time": "11:55:55",
         "scores": {
-          "score": 52.6,
-          "stars": 3.9,
-          "total": 466,
-          "avg_return": 3.9,
+          "score": 34.1,
+          "stars": 0.9,
+          "total": 44,
+          "avg_return": -2.8,
           "return_pct": null,
-          "analyst_rank": 2779,
-          "success_rate": 52.6,
-          "stock_avg_return": 3.7,
-          "stock_success_rate": 44.4,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 10131,
+          "success_rate": 34.1,
+          "stock_avg_return": -12.1,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 43,
+        "pt_old": 44,
+        "firm": "Evercore ISI",
+        "analyst": "Steve Sakwa",
+        "slug": "steve-sakwa",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:46:04",
+        "scores": {
+          "score": 51.3,
+          "stars": 2.9,
+          "total": 493,
+          "avg_return": 1.1,
+          "return_pct": null,
+          "analyst_rank": 5260,
+          "success_rate": 51.3,
+          "stock_avg_return": -1.5,
+          "stock_success_rate": 37.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1193,18 +1218,43 @@
         "date": "2026-09-08",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:26:04",
         "scores": {
-          "score": 48.3,
-          "stars": 3.2,
+          "score": 46.9,
+          "stars": 3.1,
           "total": 495,
-          "avg_return": 1.9,
+          "avg_return": 1.6,
           "return_pct": null,
-          "analyst_rank": 4559,
-          "success_rate": 48.3,
+          "analyst_rank": 4821,
+          "success_rate": 46.9,
           "stock_avg_return": -4.9,
           "stock_success_rate": 20,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 39,
+        "pt_old": 41,
+        "firm": "Mizuho Securities",
+        "analyst": "Haendel St. Juste",
+        "slug": "haendel-st.-juste",
+        "date": "2026-09-08",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:36:43",
+        "scores": {
+          "score": 51.2,
+          "stars": 3.9,
+          "total": 469,
+          "avg_return": 3.7,
+          "return_pct": null,
+          "analyst_rank": 2868,
+          "success_rate": 51.2,
+          "stock_avg_return": 3.7,
+          "stock_success_rate": 44.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1220,66 +1270,16 @@
         "rating_old": "",
         "time": "10:36:03",
         "scores": {
-          "score": 50,
-          "stars": 3.3,
-          "total": 248,
-          "avg_return": 2.8,
-          "return_pct": null,
-          "analyst_rank": 4355,
-          "success_rate": 50,
-          "stock_avg_return": -3.5,
-          "stock_success_rate": 26.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 46,
-        "pt_old": null,
-        "firm": "Barclays",
-        "analyst": "Richard Hightower",
-        "slug": "richard-hightower",
-        "date": "2026-08-17",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "08:57:48",
-        "scores": {
-          "score": 44.6,
-          "stars": 1,
-          "total": 240,
-          "avg_return": -0.8,
-          "return_pct": null,
-          "analyst_rank": 9918,
-          "success_rate": 44.6,
-          "stock_avg_return": 1.9,
-          "stock_success_rate": 52.9,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 44,
-        "pt_old": 45,
-        "firm": "Deutsche Bank ",
-        "analyst": "Peter Abramowitz",
-        "slug": "peter-abramowitz",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:31:12",
-        "scores": {
-          "score": 56.9,
+          "score": 47.4,
           "stars": 3.1,
-          "total": 58,
-          "avg_return": 4.7,
+          "total": 249,
+          "avg_return": 2.2,
           "return_pct": null,
-          "analyst_rank": 4825,
-          "success_rate": 56.9,
-          "stock_avg_return": -5.7,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 4829,
+          "success_rate": 47.4,
+          "stock_avg_return": -4.6,
+          "stock_success_rate": 26.3,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -7134,7 +7134,7 @@
           "Q4"
         ],
         "marketcap": [
-          12055439477,
+          12141255532,
           12122219878,
           14323572065,
           12594658251,
@@ -7142,7 +7142,7 @@
           18548090876
         ],
         "ev": [
-          18047457477,
+          18133273532,
           19053787877,
           21507663064,
           19470501250,
@@ -7150,7 +7150,7 @@
           25525947876
         ],
         "lastCloseRatios": [
-          35.12,
+          35.37,
           35.538315,
           40.27099,
           34.045052,
@@ -7158,7 +7158,7 @@
           49.600815
         ],
         "pe": [
-          22.23584,
+          22.39413,
           32.511,
           169.01,
           28.656,
@@ -7166,7 +7166,7 @@
           127.227
         ],
         "ps": [
-          6.82513,
+          6.87372,
           6.931,
           8.425,
           7.716,
@@ -7174,7 +7174,7 @@
           14.186
         ],
         "pb": [
-          3.89671,
+          3.92445,
           2.922,
           3.211,
           2.543,
@@ -7182,7 +7182,7 @@
           3.885
         ],
         "ptbvRatio": [
-          4.16352,
+          4.19316,
           3.76,
           4.213,
           3.218,
@@ -7190,7 +7190,7 @@
           5.525
         ],
         "pocf": [
-          13.58727,
+          13.68399,
           13.426,
           16.335,
           15.126,
@@ -7198,7 +7198,7 @@
           27.936
         ],
         "evrevenue": [
-          10.21749,
+          10.26607,
           10.895,
           12.65,
           11.929,
@@ -7206,7 +7206,7 @@
           19.523
         ],
         "evebitda": [
-          17.34037,
+          17.42282,
           18.406,
           21.441,
           19.868,
@@ -7214,7 +7214,7 @@
           33.205
         ],
         "evebit": [
-          48.06157,
+          48.29011,
           53.08,
           69.108,
           66.761,
@@ -7302,7 +7302,7 @@
           0.01536
         ],
         "earningsyield": [
-          0.042910899999999995,
+          0.0426076,
           0.03116,
           0.00625,
           0.03528,
@@ -7310,7 +7310,7 @@
           0.00809
         ],
         "dividendyield": [
-          0.04954,
+          0.04919,
           0.0484,
           0.04221,
           0.04935,
@@ -7334,7 +7334,7 @@
           -0.02298
         ],
         "totalreturn": [
-          0.05986,
+          0.05950999999999999,
           0.04556,
           0.03913,
           0.0295,
@@ -7429,7 +7429,7 @@
           "Q3"
         ],
         "marketcap": [
-          12055439477,
+          12141255532,
           12970632868,
           11099160978,
           12122219878,
@@ -7452,7 +7452,7 @@
           15726947226
         ],
         "ev": [
-          18047457477,
+          18133273532,
           19676853867,
           18005492977,
           19053787877,
@@ -7475,7 +7475,7 @@
           22539790225
         ],
         "lastCloseRatios": [
-          35.12,
+          35.37,
           39.625301,
           33.115314,
           35.538315,
@@ -7498,7 +7498,7 @@
           43.51076
         ],
         "pe": [
-          22.23584,
+          22.39413,
           25.073,
           22.84,
           32.511,
@@ -7521,7 +7521,7 @@
           286.648
         ],
         "ps": [
-          6.82513,
+          6.87372,
           7.343,
           6.282,
           6.931,
@@ -7544,7 +7544,7 @@
           12.3
         ],
         "pb": [
-          3.89671,
+          3.92445,
           3.378,
           2.703,
           2.922,
@@ -7567,7 +7567,7 @@
           3.644
         ],
         "ptbvRatio": [
-          4.16352,
+          4.19316,
           4.48,
           3.423,
           3.76,
@@ -7590,7 +7590,7 @@
           5.225
         ],
         "pocf": [
-          13.58727,
+          13.68399,
           14.619,
           12.679,
           13.426,
@@ -7613,7 +7613,7 @@
           24.928
         ],
         "evrevenue": [
-          10.21749,
+          10.26607,
           11.14,
           10.192,
           10.895,
@@ -7636,7 +7636,7 @@
           17.629
         ],
         "evebitda": [
-          17.34037,
+          17.42282,
           18.906,
           17.219,
           18.406,
@@ -7659,7 +7659,7 @@
           29.706
         ],
         "evebit": [
-          48.06157,
+          48.29011,
           52.401,
           48.219,
           53.08,
@@ -7908,7 +7908,7 @@
           0.00489
         ],
         "earningsyield": [
-          0.042910899999999995,
+          0.0426076,
           0.04026,
           0.04422,
           0.03116,
@@ -7931,7 +7931,7 @@
           0.00376
         ],
         "dividendyield": [
-          0.04954,
+          0.04919,
           0.04366,
           0.05209,
           0.0484,
@@ -8000,7 +8000,7 @@
           -0.02088
         ],
         "totalreturn": [
-          0.05986,
+          0.05950999999999999,
           0.06907,
           0.05638,
           0.04421,
@@ -8095,7 +8095,7 @@
           "Q4"
         ],
         "marketcap": [
-          12055439477,
+          12141255532,
           12122219878,
           14323572065,
           12594658251,
@@ -8103,7 +8103,7 @@
           18548090876
         ],
         "ev": [
-          18047457477,
+          18133273532,
           19053787877,
           21507663064,
           19470501250,
@@ -8111,7 +8111,7 @@
           25525947876
         ],
         "lastCloseRatios": [
-          35.12,
+          35.37,
           35.538315,
           40.27099,
           34.045052,
@@ -8119,7 +8119,7 @@
           49.600815
         ],
         "pe": [
-          22.23584,
+          22.39413,
           32.511,
           169.01,
           28.656,
@@ -8127,7 +8127,7 @@
           127.227
         ],
         "ps": [
-          6.82513,
+          6.87372,
           6.931,
           8.425,
           7.716,
@@ -8135,7 +8135,7 @@
           14.186
         ],
         "pb": [
-          3.89671,
+          3.92445,
           2.922,
           3.211,
           2.543,
@@ -8143,7 +8143,7 @@
           3.885
         ],
         "ptbvRatio": [
-          4.16352,
+          4.19316,
           3.76,
           4.213,
           3.218,
@@ -8151,7 +8151,7 @@
           5.525
         ],
         "pocf": [
-          13.58727,
+          13.68399,
           13.426,
           16.335,
           15.126,
@@ -8159,7 +8159,7 @@
           27.936
         ],
         "evrevenue": [
-          10.21749,
+          10.26607,
           10.895,
           12.65,
           11.929,
@@ -8167,7 +8167,7 @@
           19.523
         ],
         "evebitda": [
-          17.34037,
+          17.42282,
           18.406,
           21.441,
           19.868,
@@ -8175,7 +8175,7 @@
           33.205
         ],
         "evebit": [
-          48.06157,
+          48.29011,
           53.08,
           69.108,
           66.761,
@@ -8263,7 +8263,7 @@
           0.01536
         ],
         "earningsyield": [
-          0.042910899999999995,
+          0.0426076,
           0.03116,
           0.00625,
           0.03528,
@@ -8271,7 +8271,7 @@
           0.00809
         ],
         "dividendyield": [
-          0.04954,
+          0.04919,
           0.0484,
           0.04221,
           0.04935,
@@ -8295,7 +8295,7 @@
           -0.02298
         ],
         "totalreturn": [
-          0.05986,
+          0.05950999999999999,
           0.04556,
           0.03913,
           0.0295,
