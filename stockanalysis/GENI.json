@@ -1002,7 +1002,7 @@
       "count": 13,
       "median": 10,
       "average": 10,
-      "updated": "2026-09-03",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 8,
@@ -1010,7 +1010,7 @@
           "count": 10,
           "median": 12,
           "average": 10.75,
-          "updated": "2026-08-27"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 8,
@@ -1018,7 +1018,7 @@
           "count": 10,
           "median": 12,
           "average": 10.75,
-          "updated": "2026-08-27"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 8,
@@ -1026,7 +1026,7 @@
           "count": 10,
           "median": 12,
           "average": 10.75,
-          "updated": "2026-08-27"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 8,
@@ -1034,14 +1034,14 @@
           "count": 8,
           "median": 12,
           "average": 10.94,
-          "updated": "2026-08-10"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 8,
           "high": 12,
-          "count": 2,
-          "median": 12,
-          "average": 10,
+          "count": 3,
+          "median": 9,
+          "average": 9.67,
           "updated": "2026-08-06"
         }
       },
@@ -1096,16 +1096,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 6.82,
+          "c": 6.8,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-14"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 12,
+        "pt_old": null,
+        "firm": "Northland Securities",
+        "analyst": "Greg Gibas",
+        "slug": "greg-gibas",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 46,
+          "stars": 4.5,
+          "total": 311,
+          "avg_return": 11.9,
+          "return_pct": null,
+          "analyst_rank": 1238,
+          "success_rate": 46,
+          "stock_avg_return": -8.7,
+          "stock_success_rate": 36.4,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 6,
@@ -1127,7 +1152,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1143,16 +1168,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 53.5,
-          "stars": 3.7,
+          "score": 53.7,
+          "stars": 3.6,
           "total": 484,
-          "avg_return": 2.9,
+          "avg_return": 2.6,
           "return_pct": null,
-          "analyst_rank": 3319,
-          "success_rate": 53.5,
-          "stock_avg_return": -5.9,
+          "analyst_rank": 3430,
+          "success_rate": 53.7,
+          "stock_avg_return": -8.2,
           "stock_success_rate": 47.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1168,41 +1193,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 34,
+          "score": 33.5,
           "stars": 0.2,
           "total": 194,
-          "avg_return": -6.9,
+          "avg_return": -7.1,
           "return_pct": null,
-          "analyst_rank": 12034,
-          "success_rate": 34,
+          "analyst_rank": 12033,
+          "success_rate": 33.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 12,
-        "pt_old": null,
-        "firm": "Northland Securities",
-        "analyst": "Greg Gibas",
-        "slug": "greg-gibas",
-        "date": "2026-08-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:50:05",
-        "scores": {
-          "score": 46,
-          "stars": 4.5,
-          "total": 311,
-          "avg_return": 12.1,
-          "return_pct": null,
-          "analyst_rank": 1281,
-          "success_rate": 46,
-          "stock_avg_return": -0.8,
-          "stock_success_rate": 36.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1218,16 +1218,16 @@
         "rating_old": "",
         "time": "16:40:06",
         "scores": {
-          "score": 42,
-          "stars": 3.3,
+          "score": 42.4,
+          "stars": 3.2,
           "total": 455,
-          "avg_return": 2.5,
+          "avg_return": 2.2,
           "return_pct": null,
-          "analyst_rank": 4310,
-          "success_rate": 42,
-          "stock_avg_return": -5,
+          "analyst_rank": 4440,
+          "success_rate": 42.4,
+          "stock_avg_return": -12.5,
           "stock_success_rate": 27.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       }
     ],
