@@ -896,7 +896,7 @@
       "count": 6,
       "median": 6,
       "average": 15.17,
-      "updated": "2026-08-11",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 5,
@@ -904,7 +904,7 @@
           "count": 5,
           "median": 5,
           "average": 17,
-          "updated": "2026-08-11"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 5,
@@ -912,7 +912,7 @@
           "count": 5,
           "median": 5,
           "average": 17,
-          "updated": "2026-08-11"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 5,
@@ -920,7 +920,7 @@
           "count": 5,
           "median": 5,
           "average": 17,
-          "updated": "2026-08-11"
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 5,
@@ -928,7 +928,7 @@
           "count": 4,
           "median": 7,
           "average": 20,
-          "updated": "2026-08-10"
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 5,
@@ -936,7 +936,7 @@
           "count": 4,
           "median": 7,
           "average": 20,
-          "updated": "2026-08-10"
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -990,16 +990,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 8.255,
+          "c": 6.88,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 7,
+        "pt_old": null,
+        "firm": "Stifel Nicolaus",
+        "analyst": "Paul Matteis",
+        "slug": "paul-matteis",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:46:05",
+        "scores": {
+          "score": 50.6,
+          "stars": 4.8,
+          "total": 492,
+          "avg_return": 15.3,
+          "return_pct": null,
+          "analyst_rank": 556,
+          "success_rate": 50.6,
+          "stock_avg_return": 100.5,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 6,
+        "pt_old": null,
+        "firm": "LifeSci Capital",
+        "analyst": "Gaurav Maini",
+        "slug": "gaurav-maini",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 36.4,
+          "stars": 0.2,
+          "total": 22,
+          "avg_return": -24.6,
+          "return_pct": null,
+          "analyst_rank": 12074,
+          "success_rate": 36.4,
+          "stock_avg_return": -88.4,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 5,
@@ -1015,38 +1065,13 @@
           "score": 52.9,
           "stars": 3.3,
           "total": 17,
-          "avg_return": 13.2,
+          "avg_return": 12.5,
           "return_pct": null,
-          "analyst_rank": 4234,
+          "analyst_rank": 4285,
           "success_rate": 52.9,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Downgrades",
-        "pt_now": 6,
-        "pt_old": 60,
-        "firm": "LifeSci Capital",
-        "analyst": "Gaurav Maini",
-        "slug": "gaurav-maini",
-        "date": "2026-08-10",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "19:35:20",
-        "scores": {
-          "score": 40.9,
-          "stars": 0.2,
-          "total": 22,
-          "avg_return": -22.5,
-          "return_pct": null,
-          "analyst_rank": 12017,
-          "success_rate": 40.9,
-          "stock_avg_return": -88.4,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1062,16 +1087,16 @@
         "rating_old": "",
         "time": "19:20:32",
         "scores": {
-          "score": 54.1,
-          "stars": 4,
+          "score": 52.5,
+          "stars": 3.9,
           "total": 61,
-          "avg_return": 13.3,
+          "avg_return": 11.8,
           "return_pct": null,
-          "analyst_rank": 2459,
-          "success_rate": 54.1,
+          "analyst_rank": 2722,
+          "success_rate": 52.5,
           "stock_avg_return": -88.9,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1086,40 +1111,16 @@
         "rating_old": "",
         "time": "17:20:17",
         "scores": {
-          "score": 56.1,
+          "score": 54.3,
           "stars": 4.9,
           "total": 451,
-          "avg_return": 29.5,
+          "avg_return": 28.7,
           "return_pct": null,
-          "analyst_rank": 161,
-          "success_rate": 56.1,
+          "analyst_rank": 184,
+          "success_rate": 54.3,
           "stock_avg_return": -59.8,
           "stock_success_rate": 12.5,
-          "number_of_ranked_experts": 12514
-        }
-      },
-      {
-        "action_rt": "Downgrades",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Citizens JMP",
-        "analyst": "Jonathan Wolleben",
-        "slug": "jonathan-wolleben",
-        "date": "2026-08-10",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "15:56:06",
-        "scores": {
-          "score": 54.2,
-          "stars": 4.9,
-          "total": 504,
-          "avg_return": 23.5,
-          "return_pct": null,
-          "analyst_rank": 249,
-          "success_rate": 54.2,
-          "stock_avg_return": -87.9,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       }
     ],
@@ -3554,35 +3555,35 @@
           "Q4"
         ],
         "marketcap": [
-          373454416,
+          311061305,
           1836028338,
           null,
           null,
           null
         ],
         "ev": [
-          113270416,
+          50877305,
           1519996338,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          7.85,
+          6.88,
           41.14,
           null,
           null,
           null
         ],
         "pb": [
-          1.33398,
+          1.16915,
           5.984,
           null,
           null,
           null
         ],
         "ptbvRatio": [
-          1.40345,
+          1.17039,
           5.984,
           null,
           null,
@@ -3652,14 +3653,14 @@
           -0.523
         ],
         "earningsyield": [
-          -0.2610788,
+          -0.3130669,
           -0.041,
           null,
           null,
           null
         ],
         "fcfyield": [
-          -0.20430710000000002,
+          -0.24499030000000002,
           -0.03631,
           null,
           null,
@@ -3717,7 +3718,7 @@
           "Q4"
         ],
         "marketcap": [
-          373454416,
+          311061305,
           1986163017,
           1803972747,
           1836028338,
@@ -3731,7 +3732,7 @@
           null
         ],
         "ev": [
-          113270416,
+          50877305,
           1704609016,
           1502347746,
           1519996338,
@@ -3745,7 +3746,7 @@
           null
         ],
         "lastCloseRatios": [
-          7.85,
+          6.88,
           43.99,
           40.09,
           41.14,
@@ -3759,7 +3760,7 @@
           null
         ],
         "pb": [
-          1.33398,
+          1.16915,
           7.473,
           6.259,
           5.984,
@@ -3773,7 +3774,7 @@
           null
         ],
         "ptbvRatio": [
-          1.40345,
+          1.17039,
           7.473,
           6.259,
           5.984,
@@ -3911,7 +3912,7 @@
           -0.287
         ],
         "earningsyield": [
-          -0.2610788,
+          -0.3130669,
           -0.04903,
           -0.04743,
           -0.041,
@@ -3925,7 +3926,7 @@
           null
         ],
         "fcfyield": [
-          -0.20430710000000002,
+          -0.24499030000000002,
           -0.03837,
           -0.03999,
           -0.03631,
@@ -3976,35 +3977,35 @@
           "Q4"
         ],
         "marketcap": [
-          373454416,
+          311061305,
           1836028338,
           null,
           null,
           null
         ],
         "ev": [
-          113270416,
+          50877305,
           1519996338,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          7.85,
+          6.88,
           41.14,
           null,
           null,
           null
         ],
         "pb": [
-          1.33398,
+          1.16915,
           5.984,
           null,
           null,
           null
         ],
         "ptbvRatio": [
-          1.40345,
+          1.17039,
           5.984,
           null,
           null,
@@ -4074,14 +4075,14 @@
           -0.523
         ],
         "earningsyield": [
-          -0.2610788,
+          -0.3130669,
           -0.041,
           null,
           null,
           null
         ],
         "fcfyield": [
-          -0.20430710000000002,
+          -0.24499030000000002,
           -0.03631,
           null,
           null,

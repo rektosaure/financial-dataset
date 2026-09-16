@@ -918,23 +918,23 @@
       "count": 11,
       "median": 43,
       "average": 39.36,
-      "updated": "2026-09-10",
+      "updated": "2026-09-13",
       "filtered": {
         "1": {
           "low": 23,
           "high": 47,
-          "count": 10,
+          "count": 9,
           "median": 43,
-          "average": 38.6,
-          "updated": "2026-09-10"
+          "average": 38.44,
+          "updated": "2026-09-13"
         },
         "2": {
           "low": 23,
           "high": 47,
-          "count": 10,
+          "count": 9,
           "median": 43,
-          "average": 38.6,
-          "updated": "2026-09-10"
+          "average": 38.44,
+          "updated": "2026-09-13"
         },
         "3": {
           "low": 23,
@@ -942,7 +942,7 @@
           "count": 9,
           "median": 43,
           "average": 38.44,
-          "updated": "2026-09-10"
+          "updated": "2026-09-13"
         },
         "4": {
           "low": 23,
@@ -950,7 +950,7 @@
           "count": 6,
           "median": 43,
           "average": 35.33,
-          "updated": "2026-09-10"
+          "updated": "2026-09-13"
         },
         "5": {
           "low": 26,
@@ -958,7 +958,7 @@
           "count": 3,
           "median": 29,
           "average": 33.67,
-          "updated": "2026-08-11"
+          "updated": "2026-09-13"
         }
       },
       "currency": "USD",
@@ -1012,16 +1012,65 @@
           "t": "2026-08-01"
         },
         {
-          "c": 24.07,
+          "c": 24.32,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "TD Cowen",
+        "analyst": "Tara Bancroft",
+        "slug": "tara-bancroft",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:15:08",
+        "scores": {
+          "score": 51.7,
+          "stars": 4.8,
+          "total": 238,
+          "avg_return": 27.3,
+          "return_pct": null,
+          "analyst_rank": 412,
+          "success_rate": 51.7,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        }
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 46,
+        "pt_old": null,
+        "firm": "LifeSci Capital",
+        "analyst": "Charles Zhu",
+        "slug": "charles-zhu",
+        "date": "2026-09-13",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "23:45:20",
+        "scores": {
+          "score": 65.7,
+          "stars": 4.9,
+          "total": 239,
+          "avg_return": 25.5,
+          "return_pct": null,
+          "analyst_rank": 271,
+          "success_rate": 65.7,
+          "stock_avg_return": -8.1,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 45,
@@ -1032,18 +1081,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "10:10:30",
         "scores": {
-          "score": 49.6,
+          "score": 48.2,
           "stars": 4.7,
-          "total": 496,
-          "avg_return": 14.6,
+          "total": 498,
+          "avg_return": 12,
           "return_pct": null,
-          "analyst_rank": 628,
-          "success_rate": 49.6,
-          "stock_avg_return": 20.4,
-          "stock_success_rate": 45,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 839,
+          "success_rate": 48.2,
+          "stock_avg_return": 16.4,
+          "stock_success_rate": 40,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1059,16 +1108,16 @@
         "rating_old": "",
         "time": "11:00:36",
         "scores": {
-          "score": 53.8,
-          "stars": 2.2,
+          "score": 38.5,
+          "stars": 0.8,
           "total": 13,
-          "avg_return": 2.9,
+          "avg_return": -7.7,
           "return_pct": null,
-          "analyst_rank": 7032,
-          "success_rate": 53.8,
-          "stock_avg_return": 6.3,
-          "stock_success_rate": 60,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 10543,
+          "success_rate": 38.5,
+          "stock_avg_return": -8.2,
+          "stock_success_rate": 20,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1084,66 +1133,16 @@
         "rating_old": "",
         "time": "12:50:11",
         "scores": {
-          "score": 61.6,
+          "score": 59.2,
           "stars": 4.8,
           "total": 255,
-          "avg_return": 23.2,
+          "avg_return": 22,
           "return_pct": null,
-          "analyst_rank": 380,
-          "success_rate": 61.6,
+          "analyst_rank": 419,
+          "success_rate": 59.2,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 23,
-        "pt_old": 22,
-        "firm": "Morgan Stanley",
-        "analyst": "Terence Flynn",
-        "slug": "terence-flynn",
-        "date": "2026-08-10",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "12:25:42",
-        "scores": {
-          "score": 59.4,
-          "stars": 4.7,
-          "total": 397,
-          "avg_return": 10,
-          "return_pct": null,
-          "analyst_rank": 838,
-          "success_rate": 59.4,
-          "stock_avg_return": 34.6,
-          "stock_success_rate": 58.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 42,
-        "pt_old": 34,
-        "firm": "Goldman Sachs",
-        "analyst": "Richard Law CFA",
-        "slug": "richard-law-cfa",
-        "date": "2026-08-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 49.3,
-          "stars": 3.7,
-          "total": 69,
-          "avg_return": 9.3,
-          "return_pct": null,
-          "analyst_rank": 3191,
-          "success_rate": 49.3,
-          "stock_avg_return": 18.2,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

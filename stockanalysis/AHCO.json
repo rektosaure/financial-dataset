@@ -998,43 +998,43 @@
     ],
     "targets": {
       "low": 8,
-      "high": 13,
+      "high": 10,
       "count": 5,
       "median": 10,
-      "average": 10.2,
-      "updated": "2026-09-09",
+      "average": 9.6,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 8,
-          "high": 13,
+          "high": 10,
           "count": 5,
           "median": 10,
-          "average": 10.2,
-          "updated": "2026-09-09"
+          "average": 9.6,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 8,
-          "high": 13,
+          "high": 10,
           "count": 5,
           "median": 10,
-          "average": 10.2,
-          "updated": "2026-09-09"
+          "average": 9.6,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 8,
-          "high": 13,
+          "high": 10,
           "count": 5,
           "median": 10,
-          "average": 10.2,
-          "updated": "2026-09-09"
+          "average": 9.6,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 8,
-          "high": 13,
+          "high": 10,
           "count": 5,
           "median": 10,
-          "average": 10.2,
-          "updated": "2026-09-09"
+          "average": 9.6,
+          "updated": "2026-09-15"
         },
         "5": {
           "count": 0,
@@ -1092,12 +1092,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 5.88,
+          "c": 5.82,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
@@ -1106,24 +1106,24 @@
         "action_rt": "Maintains",
         "pt_now": 10,
         "pt_old": null,
-        "firm": "Canaccord Genuity",
-        "analyst": "Richard Close",
-        "slug": "richard-close",
-        "date": "2026-09-09",
+        "firm": "Jefferies",
+        "analyst": "Brian Tanquilut",
+        "slug": "brian-tanquilut",
+        "date": "2026-09-15",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "11:37:11",
+        "time": "00:00:00",
         "scores": {
-          "score": 49.3,
-          "stars": 4.6,
-          "total": 489,
-          "avg_return": 10.5,
+          "score": 53,
+          "stars": 4.4,
+          "total": 491,
+          "avg_return": 7,
           "return_pct": null,
-          "analyst_rank": 1067,
-          "success_rate": 49.3,
-          "stock_avg_return": -18.3,
-          "stock_success_rate": 27.6,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 1467,
+          "success_rate": 53,
+          "stock_avg_return": -7.5,
+          "stock_success_rate": 21.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1137,19 +1137,44 @@
         "date": "2026-09-09",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "12:50:12",
         "scores": {
-          "score": 63.1,
-          "stars": 4.8,
+          "score": 64.1,
+          "stars": 4.9,
           "total": 499,
-          "avg_return": 13.1,
+          "avg_return": 13.3,
           "return_pct": null,
-          "analyst_rank": 407,
-          "success_rate": 63.1,
-          "stock_avg_return": -15.2,
-          "stock_success_rate": 26.7,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 356,
+          "success_rate": 64.1,
+          "stock_avg_return": -15.5,
+          "stock_success_rate": 29,
+          "number_of_ranked_experts": 12498
         }
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 10,
+        "pt_old": null,
+        "firm": "Canaccord Genuity",
+        "analyst": "Richard Close",
+        "slug": "richard-close",
+        "date": "2026-09-09",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:37:11",
+        "scores": {
+          "score": 49.2,
+          "stars": 4.5,
+          "total": 484,
+          "avg_return": 9.7,
+          "return_pct": null,
+          "analyst_rank": 1131,
+          "success_rate": 49.2,
+          "stock_avg_return": -18.4,
+          "stock_success_rate": 30,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
       },
       {
         "action_rt": "Reiterates",
@@ -1163,16 +1188,16 @@
         "rating_old": "",
         "time": "12:40:06",
         "scores": {
-          "score": 57.9,
-          "stars": 4.1,
-          "total": 240,
-          "avg_return": 6.3,
+          "score": 55.6,
+          "stars": 4,
+          "total": 241,
+          "avg_return": 5.5,
           "return_pct": null,
-          "analyst_rank": 2304,
-          "success_rate": 57.9,
-          "stock_avg_return": -11.2,
+          "analyst_rank": 2579,
+          "success_rate": 55.6,
+          "stock_avg_return": -11.8,
           "stock_success_rate": 29.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1188,41 +1213,16 @@
         "rating_old": "",
         "time": "10:49:16",
         "scores": {
-          "score": 52.5,
+          "score": 53.6,
           "stars": 4.4,
-          "total": 465,
-          "avg_return": 7,
+          "total": 466,
+          "avg_return": 7.2,
           "return_pct": null,
-          "analyst_rank": 1602,
-          "success_rate": 52.5,
-          "stock_avg_return": -18.7,
+          "analyst_rank": 1426,
+          "success_rate": 53.6,
+          "stock_avg_return": -19.8,
           "stock_success_rate": 14.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 10,
-        "pt_old": 15,
-        "firm": "Robert W. Baird",
-        "analyst": "Eric Coldwell",
-        "slug": "eric-coldwell",
-        "date": "2026-08-05",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:31:27",
-        "scores": {
-          "score": 58.9,
-          "stars": 4.6,
-          "total": 499,
-          "avg_return": 7.8,
-          "return_pct": null,
-          "analyst_rank": 1048,
-          "success_rate": 58.9,
-          "stock_avg_return": -12.6,
-          "stock_success_rate": 25.7,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
