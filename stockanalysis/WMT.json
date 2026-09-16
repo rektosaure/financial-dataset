@@ -1108,12 +1108,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 109.08,
+          "c": 107.89,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
@@ -1139,6 +1139,31 @@
           "success_rate": 46,
           "stock_avg_return": 21.9,
           "stock_success_rate": 81.4,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 132,
+        "pt_old": null,
+        "firm": "Goldman Sachs",
+        "analyst": "Kate McShane",
+        "slug": "kate-mcshane",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 51.9,
+          "stars": 3.6,
+          "total": 493,
+          "avg_return": 2.6,
+          "return_pct": null,
+          "analyst_rank": 3466,
+          "success_rate": 51.9,
+          "stock_avg_return": 18,
+          "stock_success_rate": 80.6,
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
@@ -1216,31 +1241,6 @@
           "stock_success_rate": 80,
           "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 132,
-        "pt_old": null,
-        "firm": "Barclays",
-        "analyst": "Seth Sigman",
-        "slug": "seth-sigman",
-        "date": "2026-09-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:37:31",
-        "scores": {
-          "score": 49.4,
-          "stars": 0.1,
-          "total": 464,
-          "avg_return": -6.8,
-          "return_pct": null,
-          "analyst_rank": 12232,
-          "success_rate": 49.4,
-          "stock_avg_return": 21.8,
-          "stock_success_rate": 80.6,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
