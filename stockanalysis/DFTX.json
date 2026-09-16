@@ -839,19 +839,6 @@
     },
     "recommendations": [
       {
-        "buy": 3,
-        "date": "2025-09-30",
-        "hold": 0,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 8.5,
-        "total": 10,
-        "updated": "2025-09-30",
-        "consensus": "Strong Buy",
-        "strongBuy": 7,
-        "strongSell": 0
-      },
-      {
         "buy": 4,
         "date": "2025-10-31",
         "hold": 0,
@@ -993,55 +980,68 @@
         "consensus": "Strong Buy",
         "strongBuy": 14,
         "strongSell": 0
+      },
+      {
+        "buy": 4,
+        "date": "2026-09-15",
+        "hold": 0,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 8.88888888888889,
+        "total": 18,
+        "updated": "2026-09-15",
+        "consensus": "Strong Buy",
+        "strongBuy": 14,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 53,
       "high": 91,
       "count": 15,
-      "median": 70,
-      "average": 70.6,
-      "updated": "2026-09-15",
+      "median": 72,
+      "average": 72,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
-          "low": 60,
+          "low": 65,
           "high": 91,
           "count": 13,
-          "median": 72,
-          "average": 73.15,
-          "updated": "2026-09-15"
+          "median": 75,
+          "average": 74.77,
+          "updated": "2026-09-16"
         },
         "2": {
-          "low": 60,
+          "low": 65,
           "high": 91,
           "count": 12,
           "median": 75,
-          "average": 73.25,
-          "updated": "2026-09-15"
+          "average": 75,
+          "updated": "2026-09-16"
         },
         "3": {
-          "low": 60,
+          "low": 65,
           "high": 91,
           "count": 12,
           "median": 75,
-          "average": 73.25,
-          "updated": "2026-09-15"
+          "average": 75,
+          "updated": "2026-09-16"
         },
         "4": {
-          "low": 60,
+          "low": 65,
           "high": 91,
           "count": 10,
-          "median": 70,
-          "average": 72.2,
-          "updated": "2026-09-14"
+          "median": 75,
+          "average": 74.3,
+          "updated": "2026-09-16"
         },
         "5": {
-          "low": 60,
+          "low": 65,
           "high": 90,
           "count": 8,
           "median": 70,
-          "average": 70.88,
-          "updated": "2026-09-14"
+          "average": 71.75,
+          "updated": "2026-09-16"
         }
       },
       "currency": "USD",
@@ -1095,16 +1095,116 @@
           "t": "2026-08-01"
         },
         {
-          "c": 40.25,
+          "c": 36.82,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 67,
+        "pt_old": 60,
+        "firm": "Stifel Nicolaus",
+        "analyst": "Paul Matteis",
+        "slug": "paul-matteis",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "02:05:33",
+        "scores": {
+          "score": 50.6,
+          "stars": 4.8,
+          "total": 492,
+          "avg_return": 15.3,
+          "return_pct": null,
+          "analyst_rank": 556,
+          "success_rate": 50.6,
+          "stock_avg_return": 11.9,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 55,
+        "pt_old": null,
+        "firm": "Maxim Group",
+        "analyst": "Michael Okunewitch",
+        "slug": "michael-okunewitch",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 38.6,
+          "stars": 0.6,
+          "total": 321,
+          "avg_return": -1.9,
+          "return_pct": null,
+          "analyst_rank": 10951,
+          "success_rate": 38.6,
+          "stock_avg_return": 81.6,
+          "stock_success_rate": 71.4,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 90,
+        "pt_old": null,
+        "firm": "JonesTrading",
+        "analyst": "Justin Walsh",
+        "slug": "justin-walsh",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "14:50:18",
+        "scores": {
+          "score": 40.2,
+          "stars": 4.8,
+          "total": 371,
+          "avg_return": 22.5,
+          "return_pct": null,
+          "analyst_rank": 543,
+          "success_rate": 40.2,
+          "stock_avg_return": 81.8,
+          "stock_success_rate": 85.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 78,
+        "pt_old": 64,
+        "firm": "Canaccord Genuity",
+        "analyst": "Sumant Kulkarni",
+        "slug": "sumant-kulkarni",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:45:53",
+        "scores": {
+          "score": 48.9,
+          "stars": 4.7,
+          "total": 497,
+          "avg_return": 13.1,
+          "return_pct": null,
+          "analyst_rank": 716,
+          "success_rate": 48.9,
+          "stock_avg_return": 87.1,
+          "stock_success_rate": 73.3,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 79,
@@ -1115,7 +1215,7 @@
         "date": "2026-09-15",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "11:05:07",
+        "time": "11:05:59",
         "scores": {
           "score": 100,
           "stars": 3.3,
@@ -1129,115 +1229,15 @@
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 75,
-        "pt_old": 70,
-        "firm": "Oppenheimer",
-        "analyst": "Jay Olson",
-        "slug": "jay-olson",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "20:00:20",
-        "scores": {
-          "score": 51.1,
-          "stars": 4.9,
-          "total": 481,
-          "avg_return": 26.7,
-          "return_pct": null,
-          "analyst_rank": 231,
-          "success_rate": 51.1,
-          "stock_avg_return": 135.9,
-          "stock_success_rate": 83.3,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 91,
-        "pt_old": 75,
-        "firm": "Bank of America Securities",
-        "analyst": "Tazeen Ahmad",
-        "slug": "tazeen-ahmad",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "16:30:22",
-        "scores": {
-          "score": 58.7,
-          "stars": 4.3,
-          "total": 470,
-          "avg_return": 4.9,
-          "return_pct": null,
-          "analyst_rank": 1784,
-          "success_rate": 58.7,
-          "stock_avg_return": -15.7,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 78,
-        "pt_old": 75,
-        "firm": "LifeSci Capital",
-        "analyst": "Francois Brisebois",
-        "slug": "francois-brisebois",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "16:10:27",
-        "scores": {
-          "score": 42.8,
-          "stars": 3.9,
-          "total": 404,
-          "avg_return": 5.2,
-          "return_pct": null,
-          "analyst_rank": 2753,
-          "success_rate": 42.8,
-          "stock_avg_return": 75,
-          "stock_success_rate": 76.2,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 70,
-        "pt_old": null,
-        "firm": "H.C. Wainwright",
-        "analyst": "Patrick Trucchio",
-        "slug": "patrick-trucchio",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "15:10:11",
-        "scores": {
-          "score": 58.1,
-          "stars": 5,
-          "total": 497,
-          "avg_return": 38.1,
-          "return_pct": null,
-          "analyst_rank": 68,
-          "success_rate": 58.1,
-          "stock_avg_return": 127.2,
-          "stock_success_rate": 88.2,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 67.47,
-      "median": 66,
-      "low": 52,
-      "high": 90,
+      "avg": 71.35,
+      "median": 70,
+      "low": 55,
+      "high": 91,
       "numPriceTargets": 17
     },
     "currentRatings": {
