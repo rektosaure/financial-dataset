@@ -1011,42 +1011,42 @@
     "targets": {
       "low": 40,
       "high": 65,
-      "count": 10,
+      "count": 11,
       "median": 55,
-      "average": 53,
-      "updated": "2026-09-11",
+      "average": 53.91,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 40,
-          "high": 61,
-          "count": 9,
-          "median": 53,
-          "average": 51.67,
-          "updated": "2026-09-11"
+          "high": 63,
+          "count": 10,
+          "median": 55,
+          "average": 52.8,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 40,
-          "high": 61,
-          "count": 9,
-          "median": 53,
-          "average": 51.67,
-          "updated": "2026-09-11"
+          "high": 63,
+          "count": 10,
+          "median": 55,
+          "average": 52.8,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 40,
-          "high": 61,
-          "count": 8,
+          "high": 63,
+          "count": 9,
           "median": 55,
-          "average": 52.13,
-          "updated": "2026-09-11"
+          "average": 53.33,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 40,
-          "high": 61,
-          "count": 8,
+          "high": 63,
+          "count": 9,
           "median": 55,
-          "average": 52.13,
-          "updated": "2026-09-11"
+          "average": 53.33,
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 40,
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 40.81,
+          "c": 41.08,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 63,
+        "pt_old": null,
+        "firm": "Wolfe Research",
+        "analyst": "Nigel Coe",
+        "slug": "nigel-coe",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:41:14",
+        "scores": {
+          "score": 53.7,
+          "stars": 4.3,
+          "total": 294,
+          "avg_return": 7.3,
+          "return_pct": null,
+          "analyst_rank": 1848,
+          "success_rate": 53.7,
+          "stock_avg_return": 12.5,
+          "stock_success_rate": 60,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 46,
@@ -1217,37 +1242,12 @@
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 45,
-        "pt_old": 50,
-        "firm": "Truist Financial",
-        "analyst": "Keith Hughes",
-        "slug": "keith-hughes",
-        "date": "2026-09-10",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:30:34",
-        "scores": {
-          "score": 57.7,
-          "stars": 4.8,
-          "total": 496,
-          "avg_return": 15.5,
-          "return_pct": null,
-          "analyst_rank": 404,
-          "success_rate": 57.7,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 54.86,
+      "avg": 55.29,
       "median": 56,
       "low": 40,
       "high": 75,

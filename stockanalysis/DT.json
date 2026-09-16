@@ -1033,49 +1033,49 @@
       "low": 40,
       "high": 65,
       "count": 26,
-      "median": 60,
-      "average": 58.31,
-      "updated": "2026-09-10",
+      "median": 61,
+      "average": 58.96,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 42,
           "high": 65,
           "count": 23,
-          "median": 60,
-          "average": 59,
-          "updated": "2026-08-25"
+          "median": 61,
+          "average": 59.74,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 42,
           "high": 65,
           "count": 23,
-          "median": 60,
-          "average": 59,
-          "updated": "2026-08-25"
+          "median": 61,
+          "average": 59.74,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 42,
           "high": 65,
           "count": 23,
-          "median": 60,
-          "average": 59,
-          "updated": "2026-08-25"
+          "median": 61,
+          "average": 59.74,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 47,
           "high": 65,
-          "count": 22,
+          "count": 21,
           "median": 61,
-          "average": 59.77,
-          "updated": "2026-08-25"
+          "average": 60.33,
+          "updated": "2026-09-15"
         },
         "5": {
-          "low": 47,
+          "low": 60,
           "high": 65,
           "count": 7,
-          "median": 61,
-          "average": 59.86,
-          "updated": "2026-08-18"
+          "median": 62,
+          "average": 62,
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -1129,16 +1129,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 53.34,
+          "c": 55.17,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 62,
+        "pt_old": null,
+        "firm": "BTIG",
+        "analyst": "Gray Powell",
+        "slug": "gray-powell",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:30:32",
+        "scores": {
+          "score": 57.6,
+          "stars": 4.8,
+          "total": 420,
+          "avg_return": 13.4,
+          "return_pct": null,
+          "analyst_rank": 574,
+          "success_rate": 57.6,
+          "stock_avg_return": 3.1,
+          "stock_success_rate": 52.9,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 62,
+        "pt_old": 60,
+        "firm": "BMO Capital",
+        "analyst": "Keith Bachman",
+        "slug": "keith-bachman",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 53.7,
+          "stars": 4.5,
+          "total": 492,
+          "avg_return": 7.6,
+          "return_pct": null,
+          "analyst_rank": 1290,
+          "success_rate": 53.7,
+          "stock_avg_return": 13.2,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Downgrades",
         "pt_now": 54,
@@ -1149,18 +1199,18 @@
         "date": "2026-09-10",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "20:15:11",
+        "time": "20:16:33",
         "scores": {
-          "score": 23.1,
-          "stars": 0.8,
-          "total": 13,
-          "avg_return": -7,
+          "score": 15,
+          "stars": 0.9,
+          "total": 20,
+          "avg_return": -4.3,
           "return_pct": null,
-          "analyst_rank": 10496,
-          "success_rate": 23.1,
+          "analyst_rank": 10162,
+          "success_rate": 15,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1176,16 +1226,16 @@
         "rating_old": "",
         "time": "09:15:37",
         "scores": {
-          "score": 53.2,
+          "score": 53,
           "stars": 4.4,
-          "total": 252,
-          "avg_return": 10.1,
+          "total": 253,
+          "avg_return": 9.4,
           "return_pct": null,
-          "analyst_rank": 1485,
-          "success_rate": 53.2,
-          "stock_avg_return": 8.6,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 1571,
+          "success_rate": 53,
+          "stock_avg_return": 9.6,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1200,66 +1250,16 @@
         "rating_old": "",
         "time": "16:31:02",
         "scores": {
-          "score": 56.8,
+          "score": 55.5,
           "stars": 4.3,
           "total": 236,
-          "avg_return": 8.5,
+          "avg_return": 8.2,
           "return_pct": null,
-          "analyst_rank": 1705,
-          "success_rate": 56.8,
-          "stock_avg_return": 1,
+          "analyst_rank": 1781,
+          "success_rate": 55.5,
+          "stock_avg_return": 1.9,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 65,
-        "pt_old": 62,
-        "firm": "Citi",
-        "analyst": "Fatima Boolani",
-        "slug": "fatima-boolani",
-        "date": "2026-08-18",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:00:47",
-        "scores": {
-          "score": 65.8,
-          "stars": 4.9,
-          "total": 313,
-          "avg_return": 21.1,
-          "return_pct": null,
-          "analyst_rank": 275,
-          "success_rate": 65.8,
-          "stock_avg_return": 6.8,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 61,
-        "pt_old": null,
-        "firm": "Scotiabank",
-        "analyst": "Patrick Colville",
-        "slug": "patrick-colville",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "14:30:26",
-        "scores": {
-          "score": 54.8,
-          "stars": 4.3,
-          "total": 283,
-          "avg_return": 7.8,
-          "return_pct": null,
-          "analyst_rank": 1749,
-          "success_rate": 54.8,
-          "stock_avg_return": 1.6,
-          "stock_success_rate": 60,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

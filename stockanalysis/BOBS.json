@@ -829,10 +829,10 @@
     "targets": {
       "low": 19,
       "high": 24,
-      "count": 8,
+      "count": 9,
       "median": 22,
-      "average": 21.63,
-      "updated": "2026-08-07",
+      "average": 21.67,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 19,
@@ -840,30 +840,30 @@
           "count": 8,
           "median": 22,
           "average": 21.63,
-          "updated": "2026-08-07"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 19,
           "high": 24,
-          "count": 7,
+          "count": 8,
           "median": 22,
-          "average": 21.57,
-          "updated": "2026-08-07"
+          "average": 21.63,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 19,
           "high": 24,
-          "count": 7,
+          "count": 8,
           "median": 22,
-          "average": 21.57,
-          "updated": "2026-08-07"
+          "average": 21.63,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 19,
           "high": 24,
-          "count": 7,
+          "count": 6,
           "median": 22,
-          "average": 21.57,
+          "average": 21.33,
           "updated": "2026-08-07"
         },
         "5": {
@@ -906,16 +906,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 16.15,
+          "c": 14.56,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 22,
+        "pt_old": null,
+        "firm": "Goldman Sachs",
+        "analyst": "Kate McShane",
+        "slug": "kate-mcshane",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 51.9,
+          "stars": 3.6,
+          "total": 493,
+          "avg_return": 2.6,
+          "return_pct": null,
+          "analyst_rank": 3466,
+          "success_rate": 51.9,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": null,
@@ -928,16 +953,16 @@
         "rating_old": "",
         "time": "18:30:21",
         "scores": {
-          "score": 55.6,
-          "stars": 4.5,
+          "score": 53.7,
+          "stars": 4.3,
           "total": 486,
-          "avg_return": 7.2,
+          "avg_return": 6.2,
           "return_pct": null,
-          "analyst_rank": 1344,
-          "success_rate": 55.6,
-          "stock_avg_return": 7.5,
+          "analyst_rank": 1644,
+          "success_rate": 53.7,
+          "stock_avg_return": -3.4,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -952,16 +977,16 @@
         "rating_old": "",
         "time": "13:35:51",
         "scores": {
-          "score": 61.7,
+          "score": 59.4,
           "stars": 4.8,
-          "total": 321,
-          "avg_return": 17.3,
+          "total": 323,
+          "avg_return": 16.9,
           "return_pct": null,
-          "analyst_rank": 454,
-          "success_rate": 61.7,
-          "stock_avg_return": 14,
+          "analyst_rank": 484,
+          "success_rate": 59.4,
+          "stock_avg_return": 2.4,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -980,13 +1005,13 @@
           "score": 71.9,
           "stars": 4.6,
           "total": 57,
-          "avg_return": 27.6,
+          "avg_return": 26.2,
           "return_pct": null,
-          "analyst_rank": 958,
+          "analyst_rank": 973,
           "success_rate": 71.9,
-          "stock_avg_return": 20,
+          "stock_avg_return": 7.8,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1005,39 +1030,15 @@
           "score": 65.4,
           "stars": 4.9,
           "total": 497,
-          "avg_return": 14.4,
+          "avg_return": 14.2,
           "return_pct": null,
-          "analyst_rank": 306,
+          "analyst_rank": 286,
           "success_rate": 65.4,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "KeyBanc",
-        "analyst": "Bradley Thomas",
-        "slug": "bradley-thomas",
-        "date": "2026-08-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:40:22",
-        "scores": {
-          "score": 59.5,
-          "stars": 4.7,
-          "total": 432,
-          "avg_return": 11.9,
-          "return_pct": null,
-          "analyst_rank": 638,
-          "success_rate": 59.5,
-          "stock_avg_return": 3.9,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12514
-        }
       }
     ],
     "priceTargets": {
