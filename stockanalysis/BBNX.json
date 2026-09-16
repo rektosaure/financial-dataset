@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "752,677,480",
-      "enterpriseValue": "578,700,480"
+      "marketcap": "865,151,700",
+      "enterpriseValue": "691,174,700"
     },
     "dates": {
       "earningsdate": "Oct 27, 2026",
@@ -49,17 +49,17 @@
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "6.408",
-      "psForward": "4.925",
-      "pb": "2.907",
-      "ptbvRatio": "2.975",
+      "ps": "7.269",
+      "psForward": "5.588",
+      "pb": "3.374",
+      "ptbvRatio": "3.375",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "4.95",
+      "evSales": "5.81",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "n/a",
-      "ch1y": "-36.65%",
-      "sma50": "17.241",
-      "sma200": "16.444",
-      "rsi": "41.234",
-      "averageVolume": "1,044,801"
+      "ch1y": "-27.19%",
+      "sma50": "17.291",
+      "sma200": "16.382",
+      "rsi": "56.709",
+      "averageVolume": "1,063,391"
     },
     "shortSelling": {
       "shortInterest": "9,400,691",
@@ -147,12 +147,12 @@
       "payoutRatio": "n/a",
       "buybackYield": "-102.323%",
       "totalReturn": "-102.323%",
-      "earningsYield": "-9.569%",
-      "fcfYield": "-8.053%"
+      "earningsYield": "-8.435%",
+      "fcfYield": "-7.098%"
     },
     "analystForecasts": {
       "priceTarget": "$20.31",
-      "priceTargetChange": "21.40%",
+      "priceTargetChange": "5.62%",
       "analystRatings": "Buy",
       "analystCount": "12",
       "revenue3y": "35.53%",
@@ -976,44 +976,44 @@
       }
     ],
     "targets": {
-      "low": 18,
+      "low": 16,
       "high": 30.4,
-      "count": 9,
+      "count": 10,
       "median": 20,
-      "average": 21.6,
-      "updated": "2026-09-14",
+      "average": 21.54,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
-          "low": 18,
+          "low": 16,
+          "high": 27,
+          "count": 7,
+          "median": 20,
+          "average": 20,
+          "updated": "2026-09-15"
+        },
+        "2": {
+          "low": 16,
           "high": 27,
           "count": 6,
           "median": 20,
-          "average": 20.33,
-          "updated": "2026-09-14"
-        },
-        "2": {
-          "low": 18,
-          "high": 27,
-          "count": 5,
-          "median": 19,
-          "average": 20.4,
-          "updated": "2026-09-14"
+          "average": 20,
+          "updated": "2026-09-15"
         },
         "3": {
-          "low": 18,
+          "low": 16,
           "high": 27,
-          "count": 3,
+          "count": 4,
           "median": 20,
-          "average": 21.67,
-          "updated": "2026-09-14"
+          "average": 20.25,
+          "updated": "2026-09-15"
         },
         "4": {
-          "low": 18,
+          "low": 16,
           "high": 27,
-          "count": 2,
-          "median": 27,
-          "average": 22.5,
-          "updated": "2026-09-14"
+          "count": 3,
+          "median": 18,
+          "average": 20.33,
+          "updated": "2026-09-15"
         },
         "5": {
           "count": 0,
@@ -1071,16 +1071,116 @@
           "t": "2026-08-01"
         },
         {
-          "c": 16.73,
+          "c": 19.23,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 16,
+        "pt_old": 14,
+        "firm": "Robert W. Baird",
+        "analyst": "Jeff Johnson",
+        "slug": "jeff-johnson",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "11:00:10",
+        "scores": {
+          "score": 49.4,
+          "stars": 4.5,
+          "total": 389,
+          "avg_return": 9.7,
+          "return_pct": null,
+          "analyst_rank": 1282,
+          "success_rate": 49.4,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 25,
+        "pt_old": 22,
+        "firm": "UBS",
+        "analyst": "Patrick Wood",
+        "slug": "patrick-wood",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:41:41",
+        "scores": {
+          "score": 48.5,
+          "stars": 0.5,
+          "total": 194,
+          "avg_return": -3.1,
+          "return_pct": null,
+          "analyst_rank": 11171,
+          "success_rate": 48.5,
+          "stock_avg_return": 4.8,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 20,
+        "pt_old": 18,
+        "firm": "Bank of America Securities",
+        "analyst": "Travis Steed",
+        "slug": "travis-steed",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:10:09",
+        "scores": {
+          "score": 49.1,
+          "stars": 2.8,
+          "total": 377,
+          "avg_return": 1.2,
+          "return_pct": null,
+          "analyst_rank": 5497,
+          "success_rate": 49.1,
+          "stock_avg_return": 22.8,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 18,
+        "pt_old": 16,
+        "firm": "TD Cowen",
+        "analyst": "Mathew Blackman",
+        "slug": "mathew-blackman",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "16:10:14",
+        "scores": {
+          "score": 46.6,
+          "stars": 4.1,
+          "total": 174,
+          "avg_return": 8.9,
+          "return_pct": null,
+          "analyst_rank": 2306,
+          "success_rate": 46.6,
+          "stock_avg_return": -7,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": null,
@@ -1104,105 +1204,6 @@
           "stock_success_rate": 0,
           "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 27,
-        "pt_old": 24,
-        "firm": "Leerink Partners",
-        "analyst": "Mike Kratky",
-        "slug": "mike-kratky",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:40:38",
-        "scores": {
-          "score": 46.5,
-          "stars": 4.3,
-          "total": 155,
-          "avg_return": 13.1,
-          "return_pct": null,
-          "analyst_rank": 1643,
-          "success_rate": 46.5,
-          "stock_avg_return": -21.2,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Truist Financial",
-        "analyst": "Richard Newitter",
-        "slug": "richard-newitter",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:40:11",
-        "scores": {
-          "score": 47.3,
-          "stars": 4.1,
-          "total": 493,
-          "avg_return": 5.3,
-          "return_pct": null,
-          "analyst_rank": 2300,
-          "success_rate": 47.3,
-          "stock_avg_return": -6.2,
-          "stock_success_rate": 30,
-          "number_of_ranked_experts": 12498
-        }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 18,
-        "pt_old": 16,
-        "firm": "TD Cowen",
-        "analyst": "Mathew Blackman",
-        "slug": "mathew-blackman",
-        "date": "2026-09-14",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 46.6,
-          "stars": 4.1,
-          "total": 174,
-          "avg_return": 8.9,
-          "return_pct": null,
-          "analyst_rank": 2306,
-          "success_rate": 46.6,
-          "stock_avg_return": -7,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 18,
-        "pt_old": 15.5,
-        "firm": "Bank of America Securities",
-        "analyst": "Travis Steed",
-        "slug": "travis-steed",
-        "date": "2026-08-11",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "12:55:43",
-        "scores": {
-          "score": 49.1,
-          "stars": 2.8,
-          "total": 377,
-          "avg_return": 1.2,
-          "return_pct": null,
-          "analyst_rank": 5497,
-          "success_rate": 49.1,
-          "stock_avg_return": 22.8,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
@@ -4542,49 +4543,49 @@
           "Q4"
         ],
         "marketcap": [
-          752677480,
+          865151700,
           1341430507,
           null,
           null,
           null
         ],
         "ev": [
-          578700480,
+          691174700,
           1120430506,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          16.57,
+          19.23,
           30.47,
           null,
           null,
           null
         ],
         "ps": [
-          6.4075,
+          7.26939,
           13.381,
           null,
           null,
           null
         ],
         "pb": [
-          2.90735,
+          3.37407,
           4.664,
           null,
           null,
           null
         ],
         "ptbvRatio": [
-          2.97456,
+          3.37467,
           4.664,
           null,
           null,
           null
         ],
         "evrevenue": [
-          4.94566,
+          5.80756,
           11.176,
           null,
           null,
@@ -4668,14 +4669,14 @@
           -2.429
         ],
         "earningsyield": [
-          -0.09569290000000001,
+          -0.08434710000000001,
           -0.05457,
           null,
           null,
           null
         ],
         "fcfyield": [
-          -0.08053110000000001,
+          -0.0709829,
           -0.04191,
           null,
           null,
@@ -4736,7 +4737,7 @@
           "Q3"
         ],
         "marketcap": [
-          752677480,
+          865151700,
           698281761,
           444709103,
           1341430507,
@@ -4751,7 +4752,7 @@
           null
         ],
         "ev": [
-          578700480,
+          691174700,
           505673760,
           232887102,
           1120430506,
@@ -4766,7 +4767,7 @@
           null
         ],
         "lastCloseRatios": [
-          16.57,
+          19.23,
           15.67,
           10.02,
           30.47,
@@ -4781,7 +4782,7 @@
           null
         ],
         "ps": [
-          6.4075,
+          7.26939,
           5.867,
           4.034,
           13.381,
@@ -4796,7 +4797,7 @@
           null
         ],
         "pb": [
-          2.90735,
+          3.37407,
           2.724,
           1.64,
           4.664,
@@ -4811,7 +4812,7 @@
           null
         ],
         "ptbvRatio": [
-          2.97456,
+          3.37467,
           2.724,
           1.64,
           4.664,
@@ -4826,7 +4827,7 @@
           null
         ],
         "evrevenue": [
-          4.94566,
+          5.80756,
           4.249,
           2.113,
           11.176,
@@ -5003,7 +5004,7 @@
           null
         ],
         "earningsyield": [
-          -0.09569290000000001,
+          -0.08434710000000001,
           -0.1045,
           -0.1494,
           -0.05457,
@@ -5018,7 +5019,7 @@
           null
         ],
         "fcfyield": [
-          -0.08053110000000001,
+          -0.0709829,
           -0.08795,
           -0.13744,
           -0.04191,
@@ -5071,49 +5072,49 @@
           "Q4"
         ],
         "marketcap": [
-          752677480,
+          865151700,
           1341430507,
           null,
           null,
           null
         ],
         "ev": [
-          578700480,
+          691174700,
           1120430506,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          16.57,
+          19.23,
           30.47,
           null,
           null,
           null
         ],
         "ps": [
-          6.4075,
+          7.26939,
           13.381,
           null,
           null,
           null
         ],
         "pb": [
-          2.90735,
+          3.37407,
           4.664,
           null,
           null,
           null
         ],
         "ptbvRatio": [
-          2.97456,
+          3.37467,
           4.664,
           null,
           null,
           null
         ],
         "evrevenue": [
-          4.94566,
+          5.80756,
           11.176,
           null,
           null,
@@ -5197,14 +5198,14 @@
           -2.429
         ],
         "earningsyield": [
-          -0.09569290000000001,
+          -0.08434710000000001,
           -0.05457,
           null,
           null,
           null
         ],
         "fcfyield": [
-          -0.08053110000000001,
+          -0.0709829,
           -0.04191,
           null,
           null,

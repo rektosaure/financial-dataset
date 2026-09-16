@@ -1053,50 +1053,50 @@
     "targets": {
       "low": 250,
       "high": 1250,
-      "count": 33,
-      "median": 600,
-      "average": 610.12,
-      "updated": "2026-09-14",
+      "count": 34,
+      "median": 620,
+      "average": 610.41,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 250,
           "high": 1250,
-          "count": 32,
-          "median": 625,
-          "average": 610.44,
-          "updated": "2026-09-14"
+          "count": 33,
+          "median": 620,
+          "average": 610.73,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 250,
           "high": 1250,
-          "count": 32,
-          "median": 625,
-          "average": 610.44,
-          "updated": "2026-09-14"
+          "count": 33,
+          "median": 620,
+          "average": 610.73,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 250,
           "high": 1250,
-          "count": 31,
+          "count": 32,
           "median": 625,
-          "average": 616.26,
-          "updated": "2026-09-14"
+          "average": 616.38,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 250,
           "high": 1250,
-          "count": 31,
+          "count": 32,
           "median": 625,
-          "average": 616.26,
-          "updated": "2026-09-14"
+          "average": 616.38,
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 250,
           "high": 1250,
-          "count": 26,
-          "median": 641,
-          "average": 637.46,
-          "updated": "2026-09-14"
+          "count": 27,
+          "median": 640,
+          "average": 636.81,
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -1150,16 +1150,91 @@
           "t": "2026-08-01"
         },
         {
-          "c": 489.27,
+          "c": 504.2,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 600,
+        "pt_old": null,
+        "firm": "Piper Sandler",
+        "analyst": "David O'Connor",
+        "slug": "david-o-connor",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:45:36",
+        "scores": {
+          "score": 75,
+          "stars": 4.2,
+          "total": 16,
+          "avg_return": 33.7,
+          "return_pct": null,
+          "analyst_rank": 2039,
+          "success_rate": 75,
+          "stock_avg_return": 2.4,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 594,
+        "pt_old": null,
+        "firm": "Truist Financial",
+        "analyst": "William Stein",
+        "slug": "william-stein",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:30:32",
+        "scores": {
+          "score": 76.3,
+          "stars": 5,
+          "total": 482,
+          "avg_return": 37.3,
+          "return_pct": null,
+          "analyst_rank": 9,
+          "success_rate": 76.3,
+          "stock_avg_return": 120.9,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 620,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Vivek Arya",
+        "slug": "vivek-arya",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:00:14",
+        "scores": {
+          "score": 57.1,
+          "stars": 4.9,
+          "total": 499,
+          "avg_return": 22.6,
+          "return_pct": null,
+          "analyst_rank": 211,
+          "success_rate": 57.1,
+          "stock_avg_return": 78.9,
+          "stock_success_rate": 59.1,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 650,
@@ -1170,7 +1245,7 @@
         "date": "2026-09-14",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "10:30:49",
         "scores": {
           "score": 64.6,
           "stars": 5,
@@ -1181,7 +1256,7 @@
           "success_rate": 64.6,
           "stock_avg_return": 2.7,
           "stock_success_rate": 53.3,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1206,82 +1281,7 @@
           "success_rate": 67.5,
           "stock_avg_return": 78.3,
           "stock_success_rate": 79.3,
-          "number_of_ranked_experts": 12499
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 600,
-        "pt_old": null,
-        "firm": "Piper Sandler",
-        "analyst": "David O'Connor",
-        "slug": "david-o-connor",
-        "date": "2026-09-09",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "20:21:58",
-        "scores": {
-          "score": 75,
-          "stars": 4.2,
-          "total": 16,
-          "avg_return": 33.7,
-          "return_pct": null,
-          "analyst_rank": 2039,
-          "success_rate": 75,
-          "stock_avg_return": 2.4,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12499
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 575,
-        "pt_old": null,
-        "firm": "Citi",
-        "analyst": "Atif Malik",
-        "slug": "atif-malik",
-        "date": "2026-09-09",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:10:32",
-        "scores": {
-          "score": 76.3,
-          "stars": 5,
-          "total": 497,
-          "avg_return": 45.9,
-          "return_pct": null,
-          "analyst_rank": 4,
-          "success_rate": 76.3,
-          "stock_avg_return": -0.8,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12499
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 641,
-        "pt_old": 565,
-        "firm": "Raymond James",
-        "analyst": "Simon Leopold",
-        "slug": "simon-leopold",
-        "date": "2026-08-25",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:15:23",
-        "scores": {
-          "score": 60.8,
-          "stars": 5,
-          "total": 480,
-          "avg_return": 31.1,
-          "return_pct": null,
-          "analyst_rank": 96,
-          "success_rate": 60.8,
-          "stock_avg_return": 60.2,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
