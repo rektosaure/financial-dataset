@@ -1055,15 +1055,15 @@
       "high": 400,
       "count": 31,
       "median": 180,
-      "average": 196.61,
-      "updated": "2026-09-09",
+      "average": 201.45,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 100,
           "high": 400,
           "count": 30,
           "median": 180,
-          "average": 196.83,
+          "average": 199.17,
           "updated": "2026-09-09"
         },
         "2": {
@@ -1071,23 +1071,23 @@
           "high": 400,
           "count": 29,
           "median": 180,
-          "average": 196.72,
+          "average": 199.14,
           "updated": "2026-09-09"
         },
         "3": {
-          "low": 120,
+          "low": 156,
           "high": 400,
           "count": 27,
           "median": 180,
-          "average": 198.89,
+          "average": 201.48,
           "updated": "2026-09-09"
         },
         "4": {
-          "low": 120,
+          "low": 156,
           "high": 400,
           "count": 26,
           "median": 180,
-          "average": 198.27,
+          "average": 200.96,
           "updated": "2026-09-09"
         },
         "5": {
@@ -1150,27 +1150,27 @@
           "t": "2026-08-01"
         },
         {
-          "c": 180.15,
+          "c": 187.8,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Initiates",
-        "pt_now": 190,
+        "action_rt": "Reiterates",
+        "pt_now": 270,
         "pt_old": null,
-        "firm": "Piper Sandler",
+        "firm": "StoneX",
         "analyst": "Unknown Analyst",
         "slug": "",
-        "date": "2026-09-09",
-        "rating_new": "Hold",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
         "rating_old": "",
-        "time": "20:20:14",
+        "time": "10:37:10",
         "scores": {
           "score": null,
           "stars": null,
@@ -1181,7 +1181,32 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Initiates",
+        "pt_now": 190,
+        "pt_old": null,
+        "firm": "Piper Sandler",
+        "analyst": "David O'Connor",
+        "slug": "david-o-connor",
+        "date": "2026-09-09",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "20:21:58",
+        "scores": {
+          "score": 75,
+          "stars": 4.2,
+          "total": 16,
+          "avg_return": 33.7,
+          "return_pct": null,
+          "analyst_rank": 2039,
+          "success_rate": 75,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1197,16 +1222,16 @@
         "rating_old": "",
         "time": "11:36:51",
         "scores": {
-          "score": 73.5,
+          "score": 72.4,
           "stars": 5,
           "total": 170,
-          "avg_return": 46.3,
+          "avg_return": 46.4,
           "return_pct": null,
-          "analyst_rank": 103,
-          "success_rate": 73.5,
+          "analyst_rank": 102,
+          "success_rate": 72.4,
           "stock_avg_return": -4.7,
           "stock_success_rate": 40,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1222,16 +1247,16 @@
         "rating_old": "",
         "time": "11:10:54",
         "scores": {
-          "score": 75,
-          "stars": 2.2,
-          "total": 8,
-          "avg_return": 4.7,
+          "score": 66.7,
+          "stars": 2.4,
+          "total": 9,
+          "avg_return": 6.1,
           "return_pct": null,
-          "analyst_rank": 7000,
-          "success_rate": 75,
-          "stock_avg_return": 11.9,
+          "analyst_rank": 6433,
+          "success_rate": 66.7,
+          "stock_avg_return": 11.8,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1247,41 +1272,16 @@
         "rating_old": "",
         "time": "10:40:20",
         "scores": {
-          "score": 64.9,
+          "score": 64.6,
           "stars": 5,
-          "total": 336,
-          "avg_return": 32.6,
+          "total": 339,
+          "avg_return": 32.1,
           "return_pct": null,
-          "analyst_rank": 125,
-          "success_rate": 64.9,
+          "analyst_rank": 117,
+          "success_rate": 64.6,
           "stock_avg_return": 4.9,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 180,
-        "pt_old": null,
-        "firm": "Barclays",
-        "analyst": "Thomas O'Malley",
-        "slug": "thomas-o-malley",
-        "date": "2026-09-09",
-        "rating_new": "Sell",
-        "rating_old": "",
-        "time": "09:36:31",
-        "scores": {
-          "score": 62.1,
-          "stars": 5,
-          "total": 488,
-          "avg_return": 41.7,
-          "return_pct": null,
-          "analyst_rank": 41,
-          "success_rate": 62.1,
-          "stock_avg_return": 5.4,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
