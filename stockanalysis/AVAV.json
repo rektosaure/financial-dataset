@@ -874,19 +874,6 @@
     "recommendations": [
       {
         "buy": 3,
-        "date": "2025-09-30",
-        "hold": 0,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 8.846153846153847,
-        "total": 13,
-        "updated": "2025-09-30",
-        "consensus": "Strong Buy",
-        "strongBuy": 10,
-        "strongSell": 0
-      },
-      {
-        "buy": 3,
         "date": "2025-10-23",
         "hold": 0,
         "sell": 0,
@@ -1027,55 +1014,68 @@
         "consensus": "Buy",
         "strongBuy": 11,
         "strongSell": 0
+      },
+      {
+        "buy": 6,
+        "date": "2026-09-15",
+        "hold": 3,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 7,
+        "total": 20,
+        "updated": "2026-09-15",
+        "consensus": "Buy",
+        "strongBuy": 11,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 170,
       "high": 326,
       "count": 16,
-      "median": 225,
-      "average": 223.88,
-      "updated": "2026-09-14",
+      "median": 220,
+      "average": 222.31,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 170,
           "high": 326,
           "count": 11,
           "median": 210,
-          "average": 218.64,
-          "updated": "2026-09-14"
+          "average": 216.36,
+          "updated": "2026-09-16"
         },
         "2": {
           "low": 170,
           "high": 326,
           "count": 11,
           "median": 210,
-          "average": 218.64,
-          "updated": "2026-09-14"
+          "average": 216.36,
+          "updated": "2026-09-16"
         },
         "3": {
           "low": 170,
           "high": 326,
           "count": 10,
           "median": 210,
-          "average": 216.5,
-          "updated": "2026-09-14"
+          "average": 214,
+          "updated": "2026-09-16"
         },
         "4": {
           "low": 170,
           "high": 326,
           "count": 10,
           "median": 210,
-          "average": 216.5,
-          "updated": "2026-09-14"
+          "average": 214,
+          "updated": "2026-09-16"
         },
         "5": {
           "low": 180,
           "high": 230,
           "count": 7,
-          "median": 210,
-          "average": 207,
-          "updated": "2026-09-14"
+          "median": 205,
+          "average": 203.43,
+          "updated": "2026-09-16"
         }
       },
       "currency": "USD",
@@ -1129,16 +1129,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 153.4,
+          "c": 153.5,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 204,
+        "pt_old": 229,
+        "firm": "Jefferies",
+        "analyst": "Sheila Kahyaoglu",
+        "slug": "sheila-kahyaoglu",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 56,
+          "stars": 4.8,
+          "total": 500,
+          "avg_return": 11.9,
+          "return_pct": null,
+          "analyst_rank": 621,
+          "success_rate": 56,
+          "stock_avg_return": 35.3,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 326,
+        "pt_old": null,
+        "firm": "Goldman Sachs",
+        "analyst": "Noah Poponak",
+        "slug": "noah-poponak",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "13:47:18",
+        "scores": {
+          "score": 50.1,
+          "stars": 4.2,
+          "total": 417,
+          "avg_return": 5.9,
+          "return_pct": null,
+          "analyst_rank": 2066,
+          "success_rate": 50.1,
+          "stock_avg_return": -6.6,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 185,
@@ -1191,31 +1241,6 @@
       },
       {
         "action_rt": "Maintains",
-        "pt_now": 326,
-        "pt_old": null,
-        "firm": "Goldman Sachs",
-        "analyst": "Noah Poponak",
-        "slug": "noah-poponak",
-        "date": "2026-09-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:50:21",
-        "scores": {
-          "score": 50.1,
-          "stars": 4.2,
-          "total": 417,
-          "avg_return": 5.9,
-          "return_pct": null,
-          "analyst_rank": 2066,
-          "success_rate": 50.1,
-          "stock_avg_return": -6.6,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
         "pt_now": null,
         "pt_old": null,
         "firm": "William Blair",
@@ -1237,37 +1262,12 @@
           "stock_success_rate": 43.3,
           "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 247,
-        "pt_old": null,
-        "firm": "Clear Street",
-        "analyst": "Brian Dobson",
-        "slug": "brian-dobson",
-        "date": "2026-09-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:20:28",
-        "scores": {
-          "score": 35.5,
-          "stars": 0.2,
-          "total": 183,
-          "avg_return": -7.8,
-          "return_pct": null,
-          "analyst_rank": 12068,
-          "success_rate": 35.5,
-          "stock_avg_return": -7.8,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 222.82,
+      "avg": 221.5,
       "median": 220,
       "low": 148.57,
       "high": 326,

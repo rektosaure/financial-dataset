@@ -1014,7 +1014,7 @@
       "count": 19,
       "median": 430,
       "average": 436.68,
-      "updated": "2026-09-09",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 387,
@@ -1022,39 +1022,39 @@
           "count": 19,
           "median": 430,
           "average": 436.68,
-          "updated": "2026-09-09"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 387,
           "high": 490,
-          "count": 18,
-          "median": 435,
-          "average": 438.72,
-          "updated": "2026-09-09"
+          "count": 17,
+          "median": 430,
+          "average": 438.94,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 387,
-          "high": 480,
+          "high": 490,
           "count": 15,
           "median": 430,
-          "average": 438.13,
-          "updated": "2026-09-09"
+          "average": 439.47,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 387,
-          "high": 480,
-          "count": 12,
+          "high": 490,
+          "count": 13,
           "median": 440,
-          "average": 437.67,
-          "updated": "2026-09-09"
+          "average": 441.69,
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 440,
-          "high": 480,
-          "count": 4,
+          "high": 490,
+          "count": 5,
           "median": 475,
-          "average": 467.5,
-          "updated": "2026-08-27"
+          "average": 472,
+          "updated": "2026-09-09"
         }
       },
       "currency": "USD",
@@ -1108,16 +1108,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 410.01,
+          "c": 417.09,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 430,
+        "pt_old": null,
+        "firm": "Morgan Stanley",
+        "analyst": "Kallum Titchmarsh",
+        "slug": "kallum-titchmarsh",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "11:25:29",
+        "scores": {
+          "score": 59.1,
+          "stars": 4.1,
+          "total": 93,
+          "avg_return": 10.5,
+          "return_pct": null,
+          "analyst_rank": 2294,
+          "success_rate": 59.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Upgrades",
+        "pt_now": 490,
+        "pt_old": 375,
+        "firm": "UBS",
+        "analyst": "Doug Schenkel",
+        "slug": "doug-schenkel",
+        "date": "2026-09-09",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "12:40:08",
+        "scores": {
+          "score": 65.4,
+          "stars": 4.9,
+          "total": 309,
+          "avg_return": 26.6,
+          "return_pct": null,
+          "analyst_rank": 179,
+          "success_rate": 65.4,
+          "stock_avg_return": 3.1,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 450,
@@ -1130,41 +1180,16 @@
         "rating_old": "",
         "time": "10:50:12",
         "scores": {
-          "score": 73.3,
+          "score": 71.4,
           "stars": 4.5,
-          "total": 45,
-          "avg_return": 25.9,
+          "total": 49,
+          "avg_return": 23.5,
           "return_pct": null,
-          "analyst_rank": 1263,
-          "success_rate": 73.3,
-          "stock_avg_return": 4.4,
-          "stock_success_rate": 85.7,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Upgrades",
-        "pt_now": 490,
-        "pt_old": 375,
-        "firm": "UBS",
-        "analyst": "Lu Li",
-        "slug": "lu-li",
-        "date": "2026-09-09",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 70,
-          "stars": 2.4,
-          "total": 10,
-          "avg_return": 5.9,
-          "return_pct": null,
-          "analyst_rank": 6503,
-          "success_rate": 70,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 1283,
+          "success_rate": 71.4,
+          "stock_avg_return": 3.8,
+          "stock_success_rate": 87.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1180,16 +1205,16 @@
         "rating_old": "",
         "time": "09:40:25",
         "scores": {
-          "score": 56.6,
+          "score": 55.4,
           "stars": 4.8,
           "total": 316,
-          "avg_return": 17.8,
+          "avg_return": 17.3,
           "return_pct": null,
-          "analyst_rank": 550,
-          "success_rate": 56.6,
-          "stock_avg_return": -2.8,
+          "analyst_rank": 553,
+          "success_rate": 55.4,
+          "stock_avg_return": -3,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1208,38 +1233,13 @@
           "score": 61.5,
           "stars": 4.8,
           "total": 304,
-          "avg_return": 14.4,
+          "avg_return": 14.1,
           "return_pct": null,
-          "analyst_rank": 624,
+          "analyst_rank": 609,
           "success_rate": 61.5,
-          "stock_avg_return": -4.1,
+          "stock_avg_return": -4.2,
           "stock_success_rate": 40,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 470,
-        "pt_old": 425,
-        "firm": "Citi",
-        "analyst": "Joanne Wuensch",
-        "slug": "joanne-wuensch",
-        "date": "2026-08-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:46:52",
-        "scores": {
-          "score": 52.4,
-          "stars": 3.1,
-          "total": 496,
-          "avg_return": 1.6,
-          "return_pct": null,
-          "analyst_rank": 4718,
-          "success_rate": 52.4,
-          "stock_avg_return": -0.5,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
