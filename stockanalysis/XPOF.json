@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "188,642,820",
-      "enterpriseValue": "700,155,820"
+      "marketcap": "188,150,280",
+      "enterpriseValue": "699,663,280"
     },
     "dates": {
       "earningsdate": "Nov 5, 2026",
@@ -48,7 +48,7 @@
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "6.729",
+      "peForward": "6.493",
       "ps": "0.654",
       "psForward": "0.723",
       "pb": "n/a",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "1.070",
-      "ch1y": "-57.06%",
-      "sma50": "5.674",
-      "sma200": "6.603",
-      "rsi": "24.564",
-      "averageVolume": "604,481"
+      "ch1y": "-55.84%",
+      "sma50": "5.612",
+      "sma200": "6.589",
+      "rsi": "24.454",
+      "averageVolume": "601,764"
     },
     "shortSelling": {
       "shortInterest": "9,227,637",
@@ -152,7 +152,7 @@
     },
     "analystForecasts": {
       "priceTarget": "$6.10",
-      "priceTargetChange": "59.27%",
+      "priceTargetChange": "59.69%",
       "analystRatings": "Hold",
       "analystCount": "8",
       "revenue3y": "-2.90%",
@@ -997,12 +997,12 @@
       }
     ],
     "targets": {
-      "low": 5,
+      "low": 4.5,
       "high": 8,
       "count": 6,
-      "median": 6,
-      "average": 6.08,
-      "updated": "2026-08-10",
+      "median": 5.5,
+      "average": 5.67,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 5,
@@ -1010,7 +1010,7 @@
           "count": 4,
           "median": 5.5,
           "average": 5.88,
-          "updated": "2026-08-10"
+          "updated": "2026-09-16"
         },
         "2": {
           "low": 5,
@@ -1018,7 +1018,7 @@
           "count": 4,
           "median": 5.5,
           "average": 5.88,
-          "updated": "2026-08-10"
+          "updated": "2026-09-16"
         },
         "3": {
           "low": 5,
@@ -1026,7 +1026,7 @@
           "count": 4,
           "median": 5.5,
           "average": 5.88,
-          "updated": "2026-08-10"
+          "updated": "2026-09-16"
         },
         "4": {
           "low": 5,
@@ -1038,10 +1038,10 @@
         },
         "5": {
           "low": 5,
-          "high": 5,
-          "count": 1,
-          "median": 5,
-          "average": 5,
+          "high": 5.5,
+          "count": 2,
+          "median": 5.5,
+          "average": 5.25,
           "updated": "2026-08-10"
         }
       },
@@ -1096,16 +1096,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 3.99,
+          "c": 3.82,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 4.5,
+        "pt_old": 7,
+        "firm": "UBS",
+        "analyst": "Arpine Kocharyan",
+        "slug": "arpine-kocharyan",
+        "date": "2026-09-16",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "11:25:05",
+        "scores": {
+          "score": 41.6,
+          "stars": 0.8,
+          "total": 89,
+          "avg_return": -2.7,
+          "return_pct": null,
+          "analyst_rank": 10516,
+          "success_rate": 41.6,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 8,
+        "pt_old": null,
+        "firm": "Northland Securities",
+        "analyst": "Owen Rickert",
+        "slug": "owen-rickert",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:10:51",
+        "scores": {
+          "score": 46.1,
+          "stars": 3.3,
+          "total": 89,
+          "avg_return": 4.8,
+          "return_pct": null,
+          "analyst_rank": 4331,
+          "success_rate": 46.1,
+          "stock_avg_return": -21.5,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 5,
@@ -1118,16 +1168,16 @@
         "rating_old": "",
         "time": "13:20:08",
         "scores": {
-          "score": 44.4,
-          "stars": 3.6,
+          "score": 44.7,
+          "stars": 3.5,
           "total": 331,
-          "avg_return": 3.8,
+          "avg_return": 3.5,
           "return_pct": null,
-          "analyst_rank": 3526,
-          "success_rate": 44.4,
+          "analyst_rank": 3634,
+          "success_rate": 44.7,
           "stock_avg_return": -35.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1143,41 +1193,16 @@
         "rating_old": "",
         "time": "12:40:28",
         "scores": {
-          "score": 51.3,
+          "score": 51.1,
           "stars": 4.9,
           "total": 474,
-          "avg_return": 27.5,
+          "avg_return": 27.4,
           "return_pct": null,
-          "analyst_rank": 233,
-          "success_rate": 51.3,
+          "analyst_rank": 223,
+          "success_rate": 51.1,
           "stock_avg_return": -36.4,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 8,
-        "pt_old": 7,
-        "firm": "Northland Securities",
-        "analyst": "Owen Rickert",
-        "slug": "owen-rickert",
-        "date": "2026-08-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:40:11",
-        "scores": {
-          "score": 48.9,
-          "stars": 3.4,
-          "total": 88,
-          "avg_return": 5.3,
-          "return_pct": null,
-          "analyst_rank": 4099,
-          "success_rate": 48.9,
-          "stock_avg_return": -23,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1193,42 +1218,18 @@
         "rating_old": "",
         "time": "11:50:51",
         "scores": {
-          "score": 51.7,
-          "stars": 4.7,
+          "score": 52.1,
+          "stars": 4.8,
           "total": 472,
-          "avg_return": 14.1,
+          "avg_return": 14.2,
           "return_pct": null,
-          "analyst_rank": 629,
-          "success_rate": 51.7,
+          "analyst_rank": 606,
+          "success_rate": 52.1,
           "stock_avg_return": 49.1,
           "stock_success_rate": 90,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "KeyBanc",
-        "analyst": "Noah Zatzkin",
-        "slug": "noah-zatzkin",
-        "date": "2026-08-07",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:10:09",
-        "scores": {
-          "score": 38.6,
-          "stars": 0.4,
-          "total": 166,
-          "avg_return": -4.8,
-          "return_pct": null,
-          "analyst_rank": 11617,
-          "success_rate": 38.6,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        }
       }
     ],
     "priceTargets": {
@@ -7373,7 +7374,7 @@
           "Q4"
         ],
         "marketcap": [
-          186672660,
+          188150280,
           289440870,
           434260150,
           398185480,
@@ -7381,7 +7382,7 @@
           488475978
         ],
         "ev": [
-          698185660,
+          699663280,
           671043870,
           833125150,
           827715479,
@@ -7405,7 +7406,7 @@
           null
         ],
         "peForward": [
-          6.3573,
+          6.49329,
           13.176,
           7.892,
           10.836,
@@ -7700,7 +7701,7 @@
           "Q3"
         ],
         "marketcap": [
-          186672660,
+          188150280,
           289788840,
           224618240,
           289440870,
@@ -7723,7 +7724,7 @@
           303266178
         ],
         "ev": [
-          698185660,
+          699663280,
           744773840,
           612774240,
           671043870,
@@ -7792,7 +7793,7 @@
           null
         ],
         "peForward": [
-          6.3573,
+          6.49329,
           11.372,
           8.159,
           13.176,
@@ -8458,7 +8459,7 @@
           "Q4"
         ],
         "marketcap": [
-          186672660,
+          188150280,
           289440870,
           434260150,
           398185480,
@@ -8466,7 +8467,7 @@
           488475978
         ],
         "ev": [
-          698185660,
+          699663280,
           671043870,
           833125150,
           827715479,
@@ -8490,7 +8491,7 @@
           null
         ],
         "peForward": [
-          6.3573,
+          6.49329,
           13.176,
           7.892,
           10.836,
