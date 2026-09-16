@@ -912,52 +912,52 @@
       }
     ],
     "targets": {
-      "low": 15,
+      "low": 19,
       "high": 26,
       "count": 5,
-      "median": 21,
-      "average": 21.2,
-      "updated": "2026-09-10",
+      "median": 25,
+      "average": 23.4,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
-          "low": 15,
+          "low": 19,
           "high": 26,
           "count": 5,
-          "median": 21,
-          "average": 21.2,
-          "updated": "2026-09-10"
+          "median": 25,
+          "average": 23.4,
+          "updated": "2026-09-15"
         },
         "2": {
-          "low": 15,
+          "low": 19,
           "high": 26,
           "count": 5,
-          "median": 21,
-          "average": 21.2,
-          "updated": "2026-09-10"
+          "median": 25,
+          "average": 23.4,
+          "updated": "2026-09-15"
         },
         "3": {
-          "low": 15,
+          "low": 19,
           "high": 26,
           "count": 5,
-          "median": 21,
-          "average": 21.2,
-          "updated": "2026-09-10"
+          "median": 25,
+          "average": 23.4,
+          "updated": "2026-09-15"
         },
         "4": {
-          "low": 15,
+          "low": 21,
           "high": 26,
           "count": 4,
-          "median": 25,
-          "average": 21.75,
-          "updated": "2026-09-10"
+          "median": 26,
+          "average": 24.5,
+          "updated": "2026-09-15"
         },
         "5": {
-          "low": 15,
-          "high": 25,
+          "low": 25,
+          "high": 26,
           "count": 2,
-          "median": 25,
-          "average": 20,
-          "updated": "2026-08-12"
+          "median": 26,
+          "average": 25.5,
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -1011,18 +1011,43 @@
           "t": "2026-08-01"
         },
         {
-          "c": 12.21,
+          "c": 12.39,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Maintains",
+        "action_rt": "Reiterates",
+        "pt_now": 26,
+        "pt_old": 15,
+        "firm": "Mizuho Securities",
+        "analyst": "Graig Suvannavejh",
+        "slug": "graig-suvannavejh",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "12:00:16",
+        "scores": {
+          "score": 51.4,
+          "stars": 4.9,
+          "total": 494,
+          "avg_return": 23.6,
+          "return_pct": null,
+          "analyst_rank": 289,
+          "success_rate": 51.4,
+          "stock_avg_return": 37.1,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
         "pt_now": 26,
         "pt_old": 19,
         "firm": "LifeSci Capital",
@@ -1031,18 +1056,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "13:50:38",
         "scores": {
-          "score": 41,
-          "stars": 4.3,
+          "score": 38.8,
+          "stars": 4.2,
           "total": 227,
-          "avg_return": 11.9,
+          "avg_return": 10.3,
           "return_pct": null,
-          "analyst_rank": 1661,
-          "success_rate": 41,
-          "stock_avg_return": 34.8,
+          "analyst_rank": 1971,
+          "success_rate": 38.8,
+          "stock_avg_return": 32.9,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1058,42 +1083,17 @@
         "rating_old": "",
         "time": "15:50:07",
         "scores": {
-          "score": 60,
-          "stars": 4.4,
+          "score": 58.7,
+          "stars": 4.3,
           "total": 470,
-          "avg_return": 5.4,
+          "avg_return": 4.9,
           "return_pct": null,
-          "analyst_rank": 1586,
-          "success_rate": 60,
-          "stock_avg_return": 26.6,
+          "analyst_rank": 1784,
+          "success_rate": 58.7,
+          "stock_avg_return": 24.9,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 15,
-        "pt_old": null,
-        "firm": "Mizuho Securities",
-        "analyst": "Graig Suvannavejh",
-        "slug": "graig-suvannavejh",
-        "date": "2026-08-12",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:30:16",
-        "scores": {
-          "score": 52.4,
-          "stars": 4.9,
-          "total": 492,
-          "avg_return": 24.8,
-          "return_pct": null,
-          "analyst_rank": 260,
-          "success_rate": 52.4,
-          "stock_avg_return": 39,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Reiterates",
@@ -1107,16 +1107,16 @@
         "rating_old": "",
         "time": "12:36:42",
         "scores": {
-          "score": 53.1,
-          "stars": 3.7,
-          "total": 311,
-          "avg_return": 3.8,
+          "score": 51.6,
+          "stars": 3.5,
+          "total": 312,
+          "avg_return": 2.8,
           "return_pct": null,
-          "analyst_rank": 3239,
-          "success_rate": 53.1,
-          "stock_avg_return": 24.1,
+          "analyst_rank": 3834,
+          "success_rate": 51.6,
+          "stock_avg_return": 22.4,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1132,16 +1132,16 @@
         "rating_old": "",
         "time": "11:00:32",
         "scores": {
-          "score": 43.9,
-          "stars": 4.7,
-          "total": 497,
-          "avg_return": 14,
+          "score": 43.1,
+          "stars": 4.6,
+          "total": 496,
+          "avg_return": 13.3,
           "return_pct": null,
-          "analyst_rank": 810,
-          "success_rate": 43.9,
-          "stock_avg_return": 26.2,
+          "analyst_rank": 895,
+          "success_rate": 43.1,
+          "stock_avg_return": 24.4,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

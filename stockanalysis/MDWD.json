@@ -913,12 +913,12 @@
       }
     ],
     "targets": {
-      "low": 22,
+      "low": 25,
       "high": 36,
       "count": 5,
       "median": 30,
-      "average": 28.6,
-      "updated": "2026-08-15",
+      "average": 29.6,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 25,
@@ -1012,16 +1012,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 13.88,
+          "c": 13.47,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 27,
+        "pt_old": 22,
+        "firm": "Alliance Global Partners",
+        "analyst": "Scott Henry",
+        "slug": "scott-henry",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "13:10:15",
+        "scores": {
+          "score": 36.7,
+          "stars": 0.2,
+          "total": 491,
+          "avg_return": -4.3,
+          "return_pct": null,
+          "analyst_rank": 12028,
+          "success_rate": 36.7,
+          "stock_avg_return": -10.3,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 30,
@@ -1034,16 +1059,16 @@
         "rating_old": "",
         "time": "18:20:09",
         "scores": {
-          "score": 38.9,
-          "stars": 0.8,
+          "score": 38.6,
+          "stars": 0.6,
           "total": 321,
-          "avg_return": -1.4,
+          "avg_return": -1.9,
           "return_pct": null,
-          "analyst_rank": 10589,
-          "success_rate": 38.9,
-          "stock_avg_return": 24.7,
-          "stock_success_rate": 56,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 10951,
+          "success_rate": 38.6,
+          "stock_avg_return": 23.7,
+          "stock_success_rate": 48,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1059,16 +1084,16 @@
         "rating_old": "",
         "time": "12:18:00",
         "scores": {
-          "score": 43.3,
-          "stars": 4.6,
+          "score": 41.8,
+          "stars": 4.5,
           "total": 261,
-          "avg_return": 16,
+          "avg_return": 15,
           "return_pct": null,
-          "analyst_rank": 1047,
-          "success_rate": 43.3,
-          "stock_avg_return": -17.2,
-          "stock_success_rate": 16.7,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 1140,
+          "success_rate": 41.8,
+          "stock_avg_return": -20.4,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1084,16 +1109,16 @@
         "rating_old": "",
         "time": "12:01:08",
         "scores": {
-          "score": 48.2,
-          "stars": 3.9,
+          "score": 46.6,
+          "stars": 3.7,
           "total": 500,
-          "avg_return": 4.4,
+          "avg_return": 3.5,
           "return_pct": null,
-          "analyst_rank": 2630,
-          "success_rate": 48.2,
-          "stock_avg_return": 0.7,
-          "stock_success_rate": 40,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 3173,
+          "success_rate": 46.6,
+          "stock_avg_return": -0.8,
+          "stock_success_rate": 35,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1109,41 +1134,16 @@
         "rating_old": "",
         "time": "10:26:04",
         "scores": {
-          "score": 47.9,
+          "score": 46.7,
           "stars": 4.8,
           "total": 501,
-          "avg_return": 22,
+          "avg_return": 21.1,
           "return_pct": null,
-          "analyst_rank": 392,
-          "success_rate": 47.9,
-          "stock_avg_return": -5.9,
-          "stock_success_rate": 31.2,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 22,
-        "pt_old": null,
-        "firm": "Alliance Global Partners",
-        "analyst": "Scott Henry",
-        "slug": "scott-henry",
-        "date": "2026-08-13",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "16:50:08",
-        "scores": {
-          "score": 37.3,
-          "stars": 0.2,
-          "total": 491,
-          "avg_return": -3.9,
-          "return_pct": null,
-          "analyst_rank": 11978,
-          "success_rate": 37.3,
-          "stock_avg_return": -6.7,
+          "analyst_rank": 408,
+          "success_rate": 46.7,
+          "stock_avg_return": -7.6,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
