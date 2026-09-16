@@ -1011,10 +1011,10 @@
     "targets": {
       "low": 500,
       "high": 815,
-      "count": 15,
+      "count": 16,
       "median": 640,
-      "average": 641.93,
-      "updated": "2026-09-08",
+      "average": 640.06,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 500,
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 528.13,
+          "c": 531.25,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 612,
+        "pt_old": null,
+        "firm": "Guggenheim",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:21:53",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 704,
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "09:56:18",
         "scores": {
-          "score": 55.4,
+          "score": 54.3,
           "stars": 4,
-          "total": 148,
-          "avg_return": 8.2,
+          "total": 151,
+          "avg_return": 7.5,
           "return_pct": null,
-          "analyst_rank": 2438,
-          "success_rate": 55.4,
+          "analyst_rank": 2558,
+          "success_rate": 54.3,
           "stock_avg_return": 4.9,
-          "stock_success_rate": 61.5,
-          "number_of_ranked_experts": 12514
+          "stock_success_rate": 64.3,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1155,16 +1180,16 @@
         "rating_old": "",
         "time": "08:00:25",
         "scores": {
-          "score": 61.5,
+          "score": 59.9,
           "stars": 4.9,
           "total": 494,
-          "avg_return": 19,
+          "avg_return": 18.5,
           "return_pct": null,
-          "analyst_rank": 243,
-          "success_rate": 61.5,
-          "stock_avg_return": 3.6,
+          "analyst_rank": 262,
+          "success_rate": 59.9,
+          "stock_avg_return": 3.9,
           "stock_success_rate": 51.9,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1179,16 +1204,16 @@
         "rating_old": "",
         "time": "02:10:05",
         "scores": {
-          "score": 69.5,
+          "score": 68.3,
           "stars": 5,
           "total": 498,
-          "avg_return": 20.1,
+          "avg_return": 19.5,
           "return_pct": null,
-          "analyst_rank": 105,
-          "success_rate": 69.5,
+          "analyst_rank": 119,
+          "success_rate": 68.3,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1204,41 +1229,16 @@
         "rating_old": "",
         "time": "10:37:02",
         "scores": {
-          "score": 41.1,
-          "stars": 0.5,
-          "total": 175,
-          "avg_return": -3.2,
+          "score": 39.2,
+          "stars": 0.3,
+          "total": 176,
+          "avg_return": -5,
           "return_pct": null,
-          "analyst_rank": 11241,
-          "success_rate": 41.1,
-          "stock_avg_return": -14,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 815,
-        "pt_old": null,
-        "firm": "BTIG",
-        "analyst": "Andre Madrid",
-        "slug": "andre-madrid",
-        "date": "2026-08-04",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:39:19",
-        "scores": {
-          "score": 57.6,
-          "stars": 4.8,
-          "total": 144,
-          "avg_return": 28.1,
-          "return_pct": null,
-          "analyst_rank": 533,
-          "success_rate": 57.6,
-          "stock_avg_return": 5.4,
-          "stock_success_rate": 40,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 11696,
+          "success_rate": 39.2,
+          "stock_avg_return": -13.3,
+          "stock_success_rate": 14.3,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
