@@ -42,8 +42,8 @@
   },
   "statistics": {
     "valuation": {
-      "marketcap": "12,007,474,622",
-      "enterpriseValue": "14,750,815,622"
+      "marketcap": "11,828,739,332",
+      "enterpriseValue": "14,572,080,332"
     },
     "dates": {
       "earningsdate": "Aug 21, 2026",
@@ -59,8 +59,8 @@
       "float": "125,626,564"
     },
     "ratios": {
-      "pe": "20.822",
-      "peForward": "19.567",
+      "pe": "20.508",
+      "peForward": "19.271",
       "ps": "0.526",
       "psForward": "0.488",
       "pb": "5.470",
@@ -102,11 +102,11 @@
     },
     "stockPrice": {
       "beta": "0.183",
-      "ch1y": "-3.45%",
-      "sma50": "93.077",
-      "sma200": "93.427",
-      "rsi": "56.101",
-      "averageVolume": "1,994,661"
+      "ch1y": "-6.34%",
+      "sma50": "93.195",
+      "sma200": "93.441",
+      "rsi": "51.679",
+      "averageVolume": "1,926,495"
     },
     "shortSelling": {
       "shortInterest": "9,135,645",
@@ -164,7 +164,7 @@
     },
     "analystForecasts": {
       "priceTarget": "$105.65",
-      "priceTargetChange": "11.14%",
+      "priceTargetChange": "12.82%",
       "analystRatings": "Buy",
       "analystCount": "23",
       "revenue3y": "7.87%",
@@ -181,9 +181,9 @@
     },
     "fairValue": {
       "lynchFairValue": "$34.92",
-      "lynchUpside": "-63.27%",
+      "lynchUpside": "-62.71%",
       "grahamNumber": "$42.25",
-      "grahamUpside": "-55.55%"
+      "grahamUpside": "-54.88%"
     }
   },
   "forecast": {
@@ -1014,7 +1014,7 @@
       "count": 14,
       "median": 106,
       "average": 105.29,
-      "updated": "2026-08-25",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 100,
@@ -1022,7 +1022,7 @@
           "count": 12,
           "median": 108,
           "average": 107.25,
-          "updated": "2026-08-25"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 100,
@@ -1030,7 +1030,7 @@
           "count": 11,
           "median": 106,
           "average": 106.91,
-          "updated": "2026-08-25"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 100,
@@ -1038,7 +1038,7 @@
           "count": 11,
           "median": 106,
           "average": 106.91,
-          "updated": "2026-08-25"
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 100,
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 95.31,
+          "c": 93.43,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 104,
+        "pt_old": null,
+        "firm": "Goldman Sachs",
+        "analyst": "Kate McShane",
+        "slug": "kate-mcshane",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 51.9,
+          "stars": 3.6,
+          "total": 493,
+          "avg_return": 2.6,
+          "return_pct": null,
+          "analyst_rank": 3466,
+          "success_rate": 51.9,
+          "stock_avg_return": 13.5,
+          "stock_success_rate": 57.1,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 100,
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "12:26:55",
         "scores": {
-          "score": 58.2,
+          "score": 58.1,
           "stars": 4.6,
-          "total": 498,
-          "avg_return": 7.9,
+          "total": 499,
+          "avg_return": 7.8,
           "return_pct": null,
-          "analyst_rank": 1028,
-          "success_rate": 58.2,
+          "analyst_rank": 1019,
+          "success_rate": 58.1,
           "stock_avg_return": -0.5,
           "stock_success_rate": 52.9,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1158,13 +1183,13 @@
           "score": 65.4,
           "stars": 4.9,
           "total": 497,
-          "avg_return": 14.3,
+          "avg_return": 14.2,
           "return_pct": null,
-          "analyst_rank": 287,
+          "analyst_rank": 286,
           "success_rate": 65.4,
-          "stock_avg_return": 13.6,
+          "stock_avg_return": 13.9,
           "stock_success_rate": 60,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1179,16 +1204,16 @@
         "rating_old": "",
         "time": "12:50:37",
         "scores": {
-          "score": 52.6,
-          "stars": 3.6,
+          "score": 53.1,
+          "stars": 3.7,
           "total": 213,
-          "avg_return": 4.3,
+          "avg_return": 4.4,
           "return_pct": null,
-          "analyst_rank": 3424,
-          "success_rate": 52.6,
+          "analyst_rank": 3336,
+          "success_rate": 53.1,
           "stock_avg_return": 10.8,
           "stock_success_rate": 71.4,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1204,41 +1229,16 @@
         "rating_old": "",
         "time": "11:56:03",
         "scores": {
-          "score": 64.8,
+          "score": 65.2,
           "stars": 4.3,
-          "total": 88,
-          "avg_return": 13.6,
+          "total": 89,
+          "avg_return": 13.7,
           "return_pct": null,
-          "analyst_rank": 1696,
-          "success_rate": 64.8,
-          "stock_avg_return": 14,
+          "analyst_rank": 1649,
+          "success_rate": 65.2,
+          "stock_avg_return": 14.6,
           "stock_success_rate": 60,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 97,
-        "pt_old": null,
-        "firm": "Roth MKM",
-        "analyst": "Bill Kirk",
-        "slug": "bill-kirk",
-        "date": "2026-08-24",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:40:17",
-        "scores": {
-          "score": 39.4,
-          "stars": 0.1,
-          "total": 360,
-          "avg_return": -8,
-          "return_pct": null,
-          "analyst_rank": 12285,
-          "success_rate": 39.4,
-          "stock_avg_return": 6.2,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -6875,7 +6875,7 @@
           "Q4"
         ],
         "marketcap": [
-          11801581674,
+          11828739332,
           12095562775,
           13083883164,
           8604408697,
@@ -6883,7 +6883,7 @@
           7884613686
         ],
         "ev": [
-          14544922674,
+          14572080332,
           14747550774,
           15881654164,
           11668446697,
@@ -6899,7 +6899,7 @@
           57.93
         ],
         "pe": [
-          20.53512,
+          20.50774,
           20.913,
           24.483,
           16.429,
@@ -6907,7 +6907,7 @@
           18.48
         ],
         "peForward": [
-          19.29687,
+          19.27114,
           20.305,
           24.073,
           16.07,
@@ -7210,7 +7210,7 @@
           "Q3"
         ],
         "marketcap": [
-          11801581674,
+          11828739332,
           12485918049,
           12126057744,
           12095562775,
@@ -7233,7 +7233,7 @@
           7968118680
         ],
         "ev": [
-          14544922674,
+          14572080332,
           15319583048,
           14818143743,
           14747550774,
@@ -7279,7 +7279,7 @@
           58.44
         ],
         "pe": [
-          20.53512,
+          20.50774,
           21.002,
           21.224,
           20.913,
@@ -7302,7 +7302,7 @@
           19.202
         ],
         "peForward": [
-          19.29687,
+          19.27114,
           21.088,
           20.65,
           20.305,
@@ -7991,7 +7991,7 @@
           "Q4"
         ],
         "marketcap": [
-          11801581674,
+          11828739332,
           12095562775,
           13083883164,
           8604408697,
@@ -7999,7 +7999,7 @@
           7884613686
         ],
         "ev": [
-          14544922674,
+          14572080332,
           14747550774,
           15881654164,
           11668446697,
@@ -8015,7 +8015,7 @@
           57.93
         ],
         "pe": [
-          20.53512,
+          20.50774,
           20.913,
           24.483,
           16.429,
@@ -8023,7 +8023,7 @@
           18.48
         ],
         "peForward": [
-          19.29687,
+          19.27114,
           20.305,
           24.073,
           16.07,
