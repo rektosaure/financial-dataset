@@ -825,10 +825,10 @@
     "targets": {
       "low": 17,
       "high": 34.2,
-      "count": 3,
+      "count": 4,
       "median": 20,
-      "average": 23.73,
-      "updated": "2026-09-10",
+      "average": 22.3,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 20,
@@ -910,16 +910,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 11.7,
+          "c": 11.2,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 18,
+        "pt_old": null,
+        "firm": "Compass Point",
+        "analyst": "Ed Engel",
+        "slug": "ed-engel",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "22:30:08",
+        "scores": {
+          "score": 39,
+          "stars": 0.5,
+          "total": 105,
+          "avg_return": -4.7,
+          "return_pct": null,
+          "analyst_rank": 11325,
+          "success_rate": 39,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 34.2,
@@ -930,18 +955,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "11:55:12",
+        "time": "11:55:55",
         "scores": {
-          "score": 50.6,
+          "score": 49.9,
           "stars": 4.8,
-          "total": 401,
-          "avg_return": 20.1,
+          "total": 405,
+          "avg_return": 19.7,
           "return_pct": null,
-          "analyst_rank": 454,
-          "success_rate": 50.6,
-          "stock_avg_return": 171,
+          "analyst_rank": 457,
+          "success_rate": 49.9,
+          "stock_avg_return": 122.5,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -962,11 +987,11 @@
           "total": 224,
           "avg_return": -23.8,
           "return_pct": null,
-          "analyst_rank": 12434,
+          "analyst_rank": 12430,
           "success_rate": 26.8,
-          "stock_avg_return": 149.4,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "stock_avg_return": 140.7,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -982,16 +1007,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 38.9,
+          "score": 38.7,
           "stars": 4.6,
-          "total": 373,
-          "avg_return": 14.6,
+          "total": 375,
+          "avg_return": 14.5,
           "return_pct": null,
-          "analyst_rank": 1067,
-          "success_rate": 38.9,
-          "stock_avg_return": 62.8,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 1049,
+          "success_rate": 38.7,
+          "stock_avg_return": 57.1,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

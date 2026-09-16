@@ -777,13 +777,26 @@
     "recommendations": [
       {
         "buy": 2,
-        "date": "2026-08-24",
+        "date": "2026-08-31",
         "hold": 1,
         "sell": 0,
         "month": "Aug '26",
         "score": 7.777777777777778,
         "total": 9,
-        "updated": "2026-08-24",
+        "updated": "2026-08-31",
+        "consensus": "Strong Buy",
+        "strongBuy": 6,
+        "strongSell": 0
+      },
+      {
+        "buy": 2,
+        "date": "2026-09-11",
+        "hold": 1,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 7.777777777777778,
+        "total": 9,
+        "updated": "2026-09-11",
         "consensus": "Strong Buy",
         "strongBuy": 6,
         "strongSell": 0
@@ -795,7 +808,7 @@
       "count": 8,
       "median": 20,
       "average": 19.25,
-      "updated": "2026-09-11",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 16,
@@ -803,7 +816,7 @@
           "count": 8,
           "median": 20,
           "average": 19.25,
-          "updated": "2026-09-11"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 16,
@@ -811,7 +824,7 @@
           "count": 8,
           "median": 20,
           "average": 19.25,
-          "updated": "2026-09-11"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 16,
@@ -819,7 +832,7 @@
           "count": 8,
           "median": 20,
           "average": 19.25,
-          "updated": "2026-09-11"
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 18,
@@ -849,16 +862,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 14.03,
+          "c": 15.9,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-11"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 20,
+        "pt_old": null,
+        "firm": "Telsey Advisory",
+        "analyst": "Dana Telsey",
+        "slug": "dana-telsey",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 41,
+          "stars": 3.3,
+          "total": 490,
+          "avg_return": 2.4,
+          "return_pct": null,
+          "analyst_rank": 4224,
+          "success_rate": 41,
+          "stock_avg_return": -1.6,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 20,
@@ -957,31 +995,6 @@
           "stock_success_rate": 0,
           "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 20,
-        "pt_old": null,
-        "firm": "Telsey Advisory",
-        "analyst": "Dana Telsey",
-        "slug": "dana-telsey",
-        "date": "2026-09-11",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 41,
-          "stars": 3.3,
-          "total": 490,
-          "avg_return": 2.4,
-          "return_pct": null,
-          "analyst_rank": 4224,
-          "success_rate": 41,
-          "stock_avg_return": -1.6,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
@@ -1208,13 +1221,13 @@
           32299999.999999996
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null
@@ -1968,13 +1981,13 @@
           null
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null
@@ -2542,13 +2555,13 @@
           null
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null
@@ -2756,13 +2769,13 @@
           -7125000
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null
@@ -3174,13 +3187,13 @@
           -7125000
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null
@@ -3298,13 +3311,13 @@
           null
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null
@@ -3434,14 +3447,14 @@
           null
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null,
@@ -3558,13 +3571,13 @@
           null
         ],
         "marketcap": [
-          857195778,
+          939361188,
           null,
           null,
           null
         ],
         "ev": [
-          1215880778,
+          1298046188,
           null,
           null,
           null
