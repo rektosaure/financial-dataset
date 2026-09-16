@@ -997,43 +997,43 @@
     ],
     "targets": {
       "low": 51,
-      "high": 60,
-      "count": 10,
+      "high": 70,
+      "count": 11,
       "median": 56,
-      "average": 56.4,
-      "updated": "2026-09-14",
+      "average": 57.64,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 55,
-          "high": 60,
-          "count": 8,
+          "high": 70,
+          "count": 9,
           "median": 56,
-          "average": 57,
-          "updated": "2026-09-14"
+          "average": 58.44,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 55,
-          "high": 60,
-          "count": 8,
+          "high": 70,
+          "count": 9,
           "median": 56,
-          "average": 57,
-          "updated": "2026-09-14"
+          "average": 58.44,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 55,
-          "high": 60,
-          "count": 8,
+          "high": 70,
+          "count": 9,
           "median": 56,
-          "average": 57,
-          "updated": "2026-09-14"
+          "average": 58.44,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 55,
-          "high": 60,
-          "count": 8,
+          "high": 70,
+          "count": 9,
           "median": 56,
-          "average": 57,
-          "updated": "2026-09-14"
+          "average": 58.44,
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 55,
@@ -1095,16 +1095,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 39.09,
+          "c": 36.04,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 70,
+        "pt_old": null,
+        "firm": "Guggenheim",
+        "analyst": "Bradley Canino",
+        "slug": "bradley-canino",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:20:11",
+        "scores": {
+          "score": 47.2,
+          "stars": 4.4,
+          "total": 250,
+          "avg_return": 11.9,
+          "return_pct": null,
+          "analyst_rank": 1375,
+          "success_rate": 47.2,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 59,
@@ -1115,7 +1140,7 @@
         "date": "2026-09-14",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "14:55:07",
+        "time": "14:55:25",
         "scores": {
           "score": 76.5,
           "stars": 4.7,
@@ -1199,31 +1224,6 @@
           "analyst_rank": 895,
           "success_rate": 43.1,
           "stock_avg_return": 17,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 60,
-        "pt_old": null,
-        "firm": "H.C. Wainwright",
-        "analyst": "Patrick Trucchio",
-        "slug": "patrick-trucchio",
-        "date": "2026-08-11",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:36:19",
-        "scores": {
-          "score": 58.1,
-          "stars": 5,
-          "total": 497,
-          "avg_return": 38.1,
-          "return_pct": null,
-          "analyst_rank": 68,
-          "success_rate": 58.1,
-          "stock_avg_return": 54.1,
           "stock_success_rate": 100,
           "number_of_ranked_experts": 12498
         },
