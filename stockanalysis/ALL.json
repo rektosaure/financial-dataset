@@ -853,19 +853,6 @@
     "recommendations": [
       {
         "buy": 4,
-        "date": "2025-09-26",
-        "hold": 4,
-        "sell": 1,
-        "month": "Sep '25",
-        "score": 5.869565217391305,
-        "total": 23,
-        "updated": "2025-09-26",
-        "consensus": "Buy",
-        "strongBuy": 13,
-        "strongSell": 1
-      },
-      {
-        "buy": 4,
         "date": "2025-10-29",
         "hold": 5,
         "sell": 1,
@@ -1006,6 +993,19 @@
         "consensus": "Hold",
         "strongBuy": 8,
         "strongSell": 3
+      },
+      {
+        "buy": 2,
+        "date": "2026-09-14",
+        "hold": 10,
+        "sell": 2,
+        "month": "Sep '26",
+        "score": 2,
+        "total": 25,
+        "updated": "2026-09-14",
+        "consensus": "Hold",
+        "strongBuy": 8,
+        "strongSell": 3
       }
     ],
     "targets": {
@@ -1013,48 +1013,48 @@
       "high": 315,
       "count": 19,
       "median": 265,
-      "average": 270,
-      "updated": "2026-08-28",
+      "average": 269.84,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 226,
           "high": 315,
           "count": 18,
           "median": 275,
-          "average": 271.56,
-          "updated": "2026-08-28"
+          "average": 271.39,
+          "updated": "2026-09-16"
         },
         "2": {
           "low": 226,
           "high": 315,
-          "count": 18,
-          "median": 275,
-          "average": 271.56,
-          "updated": "2026-08-28"
+          "count": 16,
+          "median": 280,
+          "average": 273.13,
+          "updated": "2026-09-16"
         },
         "3": {
           "low": 226,
           "high": 315,
-          "count": 15,
-          "median": 275,
-          "average": 271.73,
-          "updated": "2026-08-28"
+          "count": 14,
+          "median": 280,
+          "average": 273.79,
+          "updated": "2026-09-16"
         },
         "4": {
           "low": 226,
           "high": 315,
           "count": 13,
           "median": 275,
-          "average": 273.54,
-          "updated": "2026-08-28"
+          "average": 273.31,
+          "updated": "2026-09-16"
         },
         "5": {
           "low": 250,
           "high": 315,
           "count": 6,
           "median": 300,
-          "average": 290,
-          "updated": "2026-08-20"
+          "average": 289.5,
+          "updated": "2026-09-16"
         }
       },
       "currency": "USD",
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 258.48,
+          "c": 257.21,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 297,
+        "pt_old": 300,
+        "firm": "Mizuho Securities",
+        "analyst": "Yaron Kinar",
+        "slug": "yaron-kinar",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "09:36:05",
+        "scores": {
+          "score": 67.9,
+          "stars": 4.8,
+          "total": 352,
+          "avg_return": 11.7,
+          "return_pct": null,
+          "analyst_rank": 499,
+          "success_rate": 67.9,
+          "stock_avg_return": 17.6,
+          "stock_success_rate": 94.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Downgrades",
         "pt_now": 238,
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "11:40:28",
         "scores": {
-          "score": 74.3,
+          "score": 71.9,
           "stars": 4.6,
           "total": 171,
-          "avg_return": 12.1,
+          "avg_return": 11.8,
           "return_pct": null,
-          "analyst_rank": 911,
-          "success_rate": 74.3,
+          "analyst_rank": 968,
+          "success_rate": 71.9,
           "stock_avg_return": 14,
           "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1155,16 +1180,16 @@
         "rating_old": "",
         "time": "08:30:51",
         "scores": {
-          "score": 62.3,
+          "score": 60.2,
           "stars": 4.6,
           "total": 427,
-          "avg_return": 8.7,
+          "avg_return": 8.2,
           "return_pct": null,
-          "analyst_rank": 885,
-          "success_rate": 62.3,
-          "stock_avg_return": -11.3,
+          "analyst_rank": 1005,
+          "success_rate": 60.2,
+          "stock_avg_return": -10.2,
           "stock_success_rate": 16,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1180,16 +1205,16 @@
         "rating_old": "",
         "time": "00:06:36",
         "scores": {
-          "score": 73.3,
+          "score": 70.7,
           "stars": 4.9,
           "total": 491,
-          "avg_return": 14.4,
+          "avg_return": 13.9,
           "return_pct": null,
-          "analyst_rank": 136,
-          "success_rate": 73.3,
+          "analyst_rank": 173,
+          "success_rate": 70.7,
           "stock_avg_return": 22.1,
           "stock_success_rate": 91.9,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1205,41 +1230,16 @@
         "rating_old": "",
         "time": "12:20:51",
         "scores": {
-          "score": 74.3,
-          "stars": 5,
-          "total": 499,
-          "avg_return": 14.9,
+          "score": 72.6,
+          "stars": 4.9,
+          "total": 500,
+          "avg_return": 14.2,
           "return_pct": null,
-          "analyst_rank": 100,
-          "success_rate": 74.3,
-          "stock_avg_return": 22.4,
+          "analyst_rank": 129,
+          "success_rate": 72.6,
+          "stock_avg_return": 21.9,
           "stock_success_rate": 87.9,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 284,
-        "pt_old": 250,
-        "firm": "BMO Capital",
-        "analyst": "Michael Zaremski",
-        "slug": "michael-zaremski",
-        "date": "2026-08-13",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:11:21",
-        "scores": {
-          "score": 65.9,
-          "stars": 4.5,
-          "total": 220,
-          "avg_return": 10.1,
-          "return_pct": null,
-          "analyst_rank": 1189,
-          "success_rate": 65.9,
-          "stock_avg_return": 14,
-          "stock_success_rate": 86.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

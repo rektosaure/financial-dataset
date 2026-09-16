@@ -841,36 +841,32 @@
       }
     ],
     "targets": {
-      "low": 97,
+      "low": 105,
       "high": 160,
-      "count": 3,
-      "median": 105,
-      "average": 120.67,
+      "count": 2,
+      "median": 160,
+      "average": 132.5,
       "updated": "2026-09-01",
       "filtered": {
         "1": {
-          "low": 97,
+          "low": 105,
           "high": 105,
-          "count": 2,
+          "count": 1,
           "median": 105,
-          "average": 101,
+          "average": 105,
           "updated": "2026-09-01"
         },
         "2": {
-          "low": 97,
-          "high": 97,
+          "low": 105,
+          "high": 105,
           "count": 1,
-          "median": 97,
-          "average": 97,
-          "updated": "2026-03-12"
+          "median": 105,
+          "average": 105,
+          "updated": "2026-09-01"
         },
         "3": {
-          "low": 97,
-          "high": 97,
-          "count": 1,
-          "median": 97,
-          "average": 97,
-          "updated": "2026-03-12"
+          "count": 0,
+          "updated": ""
         },
         "4": {
           "count": 0,
@@ -932,12 +928,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 86.53,
+          "c": 86.76,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
@@ -954,16 +950,16 @@
         "rating_old": "",
         "time": "09:55:36",
         "scores": {
-          "score": 40,
-          "stars": 1.8,
+          "score": 80,
+          "stars": 2.1,
           "total": 5,
-          "avg_return": 3.2,
+          "avg_return": 6,
           "return_pct": null,
-          "analyst_rank": 7940,
-          "success_rate": 40,
+          "analyst_rank": 7200,
+          "success_rate": 80,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -988,32 +984,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Upgrades",
-        "pt_now": 97,
-        "pt_old": 88,
-        "firm": "HSBC",
-        "analyst": "Lilyanna Yang",
-        "slug": "lilyanna-yang",
-        "date": "2026-03-12",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:20:46",
-        "scores": {
-          "score": 63.6,
-          "stars": 3.3,
-          "total": 22,
-          "avg_return": 10.3,
-          "return_pct": null,
-          "analyst_rank": 4367,
-          "success_rate": 63.6,
-          "stock_avg_return": -14.9,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

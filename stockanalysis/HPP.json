@@ -854,19 +854,6 @@
     "recommendations": [
       {
         "buy": 0,
-        "date": "2025-09-30",
-        "hold": 7,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 3.076923076923077,
-        "total": 13,
-        "updated": "2025-09-30",
-        "consensus": "Buy",
-        "strongBuy": 5,
-        "strongSell": 1
-      },
-      {
-        "buy": 0,
         "date": "2025-10-31",
         "hold": 7,
         "sell": 0,
@@ -1007,6 +994,19 @@
         "consensus": "Hold",
         "strongBuy": 4,
         "strongSell": 1
+      },
+      {
+        "buy": 1,
+        "date": "2026-09-14",
+        "hold": 5,
+        "sell": 1,
+        "month": "Sep '26",
+        "score": 2.5,
+        "total": 12,
+        "updated": "2026-09-14",
+        "consensus": "Hold",
+        "strongBuy": 4,
+        "strongSell": 1
       }
     ],
     "targets": {
@@ -1105,12 +1105,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 11.74,
+          "c": 11.44,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
@@ -1125,18 +1125,18 @@
         "date": "2026-09-08",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "12:50:22",
         "scores": {
-          "score": 50.6,
+          "score": 50.7,
           "stars": 2.9,
-          "total": 358,
-          "avg_return": 1.5,
+          "total": 359,
+          "avg_return": 1.4,
           "return_pct": null,
-          "analyst_rank": 5250,
-          "success_rate": 50.6,
+          "analyst_rank": 5146,
+          "success_rate": 50.7,
           "stock_avg_return": 35.1,
           "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1153,15 +1153,15 @@
         "time": "10:41:06",
         "scores": {
           "score": 54.1,
-          "stars": 3.1,
+          "stars": 3,
           "total": 292,
-          "avg_return": 1.9,
+          "avg_return": 1.6,
           "return_pct": null,
-          "analyst_rank": 4836,
+          "analyst_rank": 4978,
           "success_rate": 54.1,
-          "stock_avg_return": -6.2,
+          "stock_avg_return": -7.6,
           "stock_success_rate": 28.6,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1177,16 +1177,16 @@
         "rating_old": "",
         "time": "11:40:47",
         "scores": {
-          "score": 37,
-          "stars": 0.8,
-          "total": 73,
-          "avg_return": -2.8,
+          "score": 33.8,
+          "stars": 0.7,
+          "total": 74,
+          "avg_return": -3.2,
           "return_pct": null,
-          "analyst_rank": 10552,
-          "success_rate": 37,
-          "stock_avg_return": 10.6,
+          "analyst_rank": 10663,
+          "success_rate": 33.8,
+          "stock_avg_return": 13.4,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1202,16 +1202,16 @@
         "rating_old": "",
         "time": "10:37:21",
         "scores": {
-          "score": 61.2,
-          "stars": 2.9,
-          "total": 85,
-          "avg_return": 2.9,
+          "score": 55.8,
+          "stars": 2.7,
+          "total": 86,
+          "avg_return": 2.1,
           "return_pct": null,
-          "analyst_rank": 5233,
-          "success_rate": 61.2,
+          "analyst_rank": 5736,
+          "success_rate": 55.8,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1227,16 +1227,16 @@
         "rating_old": "",
         "time": "10:20:57",
         "scores": {
-          "score": 52,
+          "score": 49.6,
           "stars": 0.7,
-          "total": 227,
+          "total": 228,
           "avg_return": -1.9,
           "return_pct": null,
-          "analyst_rank": 10688,
-          "success_rate": 52,
+          "analyst_rank": 10680,
+          "success_rate": 49.6,
           "stock_avg_return": -16.9,
           "stock_success_rate": 42.9,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1244,7 +1244,7 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 17.09,
+      "avg": 16.91,
       "median": 16,
       "low": 9,
       "high": 26,
