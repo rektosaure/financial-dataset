@@ -925,12 +925,12 @@
       }
     ],
     "targets": {
-      "low": 3.2,
+      "low": 3,
       "high": 3.2,
-      "count": 1,
+      "count": 2,
       "median": 3.2,
-      "average": 3.2,
-      "updated": "2026-05-26",
+      "average": 3.1,
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 3.2,
@@ -1016,16 +1016,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 2.78,
+          "c": 2.68,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 3,
+        "pt_old": null,
+        "firm": "Goldman Sachs",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": null,
@@ -1038,16 +1063,16 @@
         "rating_old": "",
         "time": "00:40:10",
         "scores": {
-          "score": 33.9,
+          "score": 35.6,
           "stars": 0.2,
           "total": 59,
-          "avg_return": -15.3,
+          "avg_return": -14.8,
           "return_pct": null,
-          "analyst_rank": 12124,
-          "success_rate": 33.9,
-          "stock_avg_return": -28.6,
+          "analyst_rank": 12098,
+          "success_rate": 35.6,
+          "stock_avg_return": -28.8,
           "stock_success_rate": 10,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1063,15 +1088,15 @@
         "time": "09:01:44",
         "scores": {
           "score": 63.6,
-          "stars": 3.3,
+          "stars": 3.4,
           "total": 22,
-          "avg_return": 10.5,
+          "avg_return": 10.8,
           "return_pct": null,
-          "analyst_rank": 4192,
+          "analyst_rank": 4085,
           "success_rate": 63.6,
-          "stock_avg_return": 3.7,
+          "stock_avg_return": 4.3,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

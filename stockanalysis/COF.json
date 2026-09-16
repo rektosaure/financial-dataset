@@ -867,7 +867,7 @@
       "count": 19,
       "median": 254,
       "average": 258.89,
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 222,
@@ -875,7 +875,7 @@
           "count": 18,
           "median": 254,
           "average": 258.11,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 222,
@@ -883,7 +883,7 @@
           "count": 18,
           "median": 254,
           "average": 258.11,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 222,
@@ -891,7 +891,7 @@
           "count": 17,
           "median": 254,
           "average": 259.18,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 235,
@@ -899,7 +899,7 @@
           "count": 14,
           "median": 260,
           "average": 264,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 235,
@@ -907,7 +907,7 @@
           "count": 8,
           "median": 253,
           "average": 259.13,
-          "updated": "2026-08-20"
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -961,41 +961,16 @@
           "t": "2026-08-01"
         },
         {
-          "c": 207.07,
+          "c": 206.85,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 260,
-        "pt_old": null,
-        "firm": "Wells Fargo",
-        "analyst": "Donald Fandetti",
-        "slug": "donald-fandetti",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 62.4,
-          "stars": 4.7,
-          "total": 426,
-          "avg_return": 9.8,
-          "return_pct": null,
-          "analyst_rank": 686,
-          "success_rate": 62.4,
-          "stock_avg_return": 22,
-          "stock_success_rate": 70.6,
-          "number_of_ranked_experts": 12499
-        },
-        "curr": "USD"
-      },
       {
         "action_rt": "Maintains",
         "pt_now": 253,
@@ -1003,10 +978,10 @@
         "firm": "Bank of America Securities",
         "analyst": "Mihir Bhatia",
         "slug": "mihir-bhatia",
-        "date": "2026-09-01",
+        "date": "2026-09-15",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "12:20:28",
+        "time": "15:00:16",
         "scores": {
           "score": 64.9,
           "stars": 4.7,
@@ -1017,7 +992,57 @@
           "success_rate": 64.9,
           "stock_avg_return": 8.6,
           "stock_success_rate": 65.4,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 253,
+        "pt_old": null,
+        "firm": "TD Cowen",
+        "analyst": "Moshe Orenbuch",
+        "slug": "moshe-orenbuch",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 67.7,
+          "stars": 5,
+          "total": 477,
+          "avg_return": 22.2,
+          "return_pct": null,
+          "analyst_rank": 104,
+          "success_rate": 67.7,
+          "stock_avg_return": 16.5,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 260,
+        "pt_old": null,
+        "firm": "Wells Fargo",
+        "analyst": "Donald Fandetti",
+        "slug": "donald-fandetti",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "09:50:19",
+        "scores": {
+          "score": 62.4,
+          "stars": 4.7,
+          "total": 426,
+          "avg_return": 9.8,
+          "return_pct": null,
+          "analyst_rank": 686,
+          "success_rate": 62.4,
+          "stock_avg_return": 22,
+          "stock_success_rate": 70.6,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1042,7 +1067,7 @@
           "success_rate": 59,
           "stock_avg_return": -4.2,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1067,32 +1092,7 @@
           "success_rate": 64.2,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12499
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 253,
-        "pt_old": null,
-        "firm": "TD Cowen",
-        "analyst": "Moshe Orenbuch",
-        "slug": "moshe-orenbuch",
-        "date": "2026-08-18",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:06:42",
-        "scores": {
-          "score": 67.7,
-          "stars": 5,
-          "total": 477,
-          "avg_return": 22.2,
-          "return_pct": null,
-          "analyst_rank": 104,
-          "success_rate": 67.7,
-          "stock_avg_return": 16.5,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
