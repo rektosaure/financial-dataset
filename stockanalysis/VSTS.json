@@ -905,11 +905,11 @@
     ],
     "targets": {
       "low": 9.3,
-      "high": 14,
-      "count": 5,
-      "median": 13,
-      "average": 12.26,
-      "updated": "2026-08-17",
+      "high": 17,
+      "count": 6,
+      "median": 14,
+      "average": 13.05,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 9.3,
@@ -1003,16 +1003,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 12.93,
+          "c": 13.27,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 17,
+        "pt_old": null,
+        "firm": "Jefferies",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 13,
@@ -1025,16 +1050,16 @@
         "rating_old": "",
         "time": "12:28:58",
         "scores": {
-          "score": 63.3,
+          "score": 62.6,
           "stars": 4.4,
           "total": 305,
-          "avg_return": 7.1,
+          "avg_return": 6.9,
           "return_pct": null,
-          "analyst_rank": 1494,
-          "success_rate": 63.3,
-          "stock_avg_return": -79.1,
+          "analyst_rank": 1521,
+          "success_rate": 62.6,
+          "stock_avg_return": -77.2,
           "stock_success_rate": 14.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1050,16 +1075,16 @@
         "rating_old": "",
         "time": "09:05:17",
         "scores": {
-          "score": 54.5,
-          "stars": 3.6,
+          "score": 53.5,
+          "stars": 3.5,
           "total": 497,
-          "avg_return": 2.5,
+          "avg_return": 2.2,
           "return_pct": null,
-          "analyst_rank": 3541,
-          "success_rate": 54.5,
-          "stock_avg_return": -29.3,
+          "analyst_rank": 3709,
+          "success_rate": 53.5,
+          "stock_avg_return": -28,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1075,16 +1100,16 @@
         "rating_old": "",
         "time": "11:20:36",
         "scores": {
-          "score": 55.6,
-          "stars": 4.2,
-          "total": 378,
-          "avg_return": 6.1,
+          "score": 54.1,
+          "stars": 4.1,
+          "total": 379,
+          "avg_return": 5.2,
           "return_pct": null,
-          "analyst_rank": 1921,
-          "success_rate": 55.6,
+          "analyst_rank": 2222,
+          "success_rate": 54.1,
           "stock_avg_return": -42.4,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1100,42 +1125,18 @@
         "rating_old": "",
         "time": "11:15:47",
         "scores": {
-          "score": 55.3,
+          "score": 53.5,
           "stars": 3.8,
-          "total": 434,
+          "total": 437,
           "avg_return": 3.5,
           "return_pct": null,
-          "analyst_rank": 2949,
-          "success_rate": 55.3,
-          "stock_avg_return": -49.4,
+          "analyst_rank": 2930,
+          "success_rate": 53.5,
+          "stock_avg_return": -46.1,
           "stock_success_rate": 20,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Tim Mulrooney",
-        "slug": "tim-mulrooney",
-        "date": "2026-08-11",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "15:40:30",
-        "scores": {
-          "score": 51.7,
-          "stars": 3.6,
-          "total": 151,
-          "avg_return": 5.5,
-          "return_pct": null,
-          "analyst_rank": 3384,
-          "success_rate": 51.7,
-          "stock_avg_return": 6.7,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        }
       }
     ],
     "priceTargets": {
