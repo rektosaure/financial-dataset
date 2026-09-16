@@ -853,19 +853,6 @@
     "recommendations": [
       {
         "buy": 1,
-        "date": "2025-09-30",
-        "hold": 1,
-        "sell": 1,
-        "month": "Sep '25",
-        "score": 5,
-        "total": 6,
-        "updated": "2025-09-30",
-        "consensus": "Buy",
-        "strongBuy": 3,
-        "strongSell": 0
-      },
-      {
-        "buy": 1,
         "date": "2025-10-16",
         "hold": 1,
         "sell": 1,
@@ -1000,11 +987,24 @@
         "hold": 2,
         "sell": 1,
         "month": "Aug '26",
-        "score": 5,
-        "total": 9,
+        "score": 5.5,
+        "total": 10,
         "updated": "2026-08-28",
         "consensus": "Buy",
-        "strongBuy": 4,
+        "strongBuy": 5,
+        "strongSell": 0
+      },
+      {
+        "buy": 2,
+        "date": "2026-09-14",
+        "hold": 2,
+        "sell": 1,
+        "month": "Sep '26",
+        "score": 5.5,
+        "total": 10,
+        "updated": "2026-09-14",
+        "consensus": "Buy",
+        "strongBuy": 5,
         "strongSell": 0
       }
     ],
@@ -1014,15 +1014,15 @@
       "count": 8,
       "median": 105,
       "average": 101.88,
-      "updated": "2026-09-09",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 77,
           "high": 136,
-          "count": 8,
+          "count": 7,
           "median": 105,
-          "average": 101.88,
-          "updated": "2026-09-09"
+          "average": 105,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 99,
@@ -1030,7 +1030,7 @@
           "count": 4,
           "median": 105,
           "average": 111.25,
-          "updated": "2026-09-09"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 99,
@@ -1038,15 +1038,15 @@
           "count": 4,
           "median": 105,
           "average": 111.25,
-          "updated": "2026-09-09"
+          "updated": "2026-09-15"
         },
         "4": {
-          "low": 105,
+          "low": 136,
           "high": 136,
-          "count": 3,
-          "median": 105,
-          "average": 115.33,
-          "updated": "2026-09-03"
+          "count": 1,
+          "median": 136,
+          "average": 136,
+          "updated": "2026-08-13"
         },
         "5": {
           "count": 0,
@@ -1104,16 +1104,66 @@
           "t": "2026-08-01"
         },
         {
-          "c": 67.42,
+          "c": 67,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 110,
+        "pt_old": null,
+        "firm": "Wells Fargo",
+        "analyst": "Ike Boruchow",
+        "slug": "ike-boruchow",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 42.2,
+          "stars": 1.3,
+          "total": 495,
+          "avg_return": -0.3,
+          "return_pct": null,
+          "analyst_rank": 9341,
+          "success_rate": 42.2,
+          "stock_avg_return": 6.3,
+          "stock_success_rate": 56.5,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 105,
+        "pt_old": null,
+        "firm": "BTIG",
+        "analyst": "Robert Drbul",
+        "slug": "robert-drbul",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 48.6,
+          "stars": 3.9,
+          "total": 488,
+          "avg_return": 4,
+          "return_pct": null,
+          "analyst_rank": 2836,
+          "success_rate": 48.6,
+          "stock_avg_return": 27.3,
+          "stock_success_rate": 61.1,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 99,
@@ -1124,18 +1174,18 @@
         "date": "2026-09-09",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "10:00:55",
         "scores": {
-          "score": 43.6,
+          "score": 42.9,
           "stars": 3.2,
-          "total": 498,
-          "avg_return": 2.2,
+          "total": 499,
+          "avg_return": 2.1,
           "return_pct": null,
-          "analyst_rank": 4437,
-          "success_rate": 43.6,
-          "stock_avg_return": 14.6,
-          "stock_success_rate": 55.6,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 4397,
+          "success_rate": 42.9,
+          "stock_avg_return": 9.7,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1151,16 +1201,16 @@
         "rating_old": "",
         "time": "15:15:20",
         "scores": {
-          "score": 47,
-          "stars": 1.9,
+          "score": 45.9,
+          "stars": 1.5,
           "total": 279,
-          "avg_return": 0.2,
+          "avg_return": 0,
           "return_pct": null,
-          "analyst_rank": 7706,
-          "success_rate": 47,
-          "stock_avg_return": 8.1,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 8740,
+          "success_rate": 45.9,
+          "stock_avg_return": 4.7,
+          "stock_success_rate": 40,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1176,66 +1226,16 @@
         "rating_old": "",
         "time": "11:50:20",
         "scores": {
-          "score": 49.3,
-          "stars": 4,
+          "score": 47.7,
+          "stars": 3.9,
           "total": 491,
-          "avg_return": 4.9,
+          "avg_return": 4.1,
           "return_pct": null,
-          "analyst_rank": 2442,
-          "success_rate": 49.3,
-          "stock_avg_return": -3.3,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 110,
-        "pt_old": null,
-        "firm": "Wells Fargo",
-        "analyst": "Ike Boruchow",
-        "slug": "ike-boruchow",
-        "date": "2026-09-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:10:30",
-        "scores": {
-          "score": 43.6,
-          "stars": 1.9,
-          "total": 495,
-          "avg_return": 0.1,
-          "return_pct": null,
-          "analyst_rank": 7861,
-          "success_rate": 43.6,
-          "stock_avg_return": 10.1,
-          "stock_success_rate": 69.6,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 80,
-        "pt_old": null,
-        "firm": "Stifel Nicolaus",
-        "analyst": "Peter McGoldrick",
-        "slug": "peter-mcgoldrick",
-        "date": "2026-09-03",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "10:50:43",
-        "scores": {
-          "score": 45.1,
-          "stars": 1.3,
-          "total": 71,
-          "avg_return": -0.7,
-          "return_pct": null,
-          "analyst_rank": 9304,
-          "success_rate": 45.1,
-          "stock_avg_return": 0,
+          "analyst_rank": 2809,
+          "success_rate": 47.7,
+          "stock_avg_return": -11.8,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
