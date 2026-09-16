@@ -874,19 +874,6 @@
     "recommendations": [
       {
         "buy": 2,
-        "date": "2025-09-29",
-        "hold": 8,
-        "sell": 2,
-        "month": "Sep '25",
-        "score": 5.2,
-        "total": 25,
-        "updated": "2025-09-29",
-        "consensus": "Buy",
-        "strongBuy": 13,
-        "strongSell": 0
-      },
-      {
-        "buy": 2,
         "date": "2025-10-26",
         "hold": 8,
         "sell": 2,
@@ -1027,6 +1014,19 @@
         "consensus": "Buy",
         "strongBuy": 11,
         "strongSell": 0
+      },
+      {
+        "buy": 3,
+        "date": "2026-09-15",
+        "hold": 8,
+        "sell": 2,
+        "month": "Sep '26",
+        "score": 4.791666666666667,
+        "total": 24,
+        "updated": "2026-09-15",
+        "consensus": "Buy",
+        "strongBuy": 11,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -1035,7 +1035,7 @@
       "count": 18,
       "median": 173,
       "average": 170.22,
-      "updated": "2026-09-11",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 132,
@@ -1057,8 +1057,8 @@
           "low": 132,
           "high": 190,
           "count": 8,
-          "median": 170,
-          "average": 163.25,
+          "median": 160,
+          "average": 158.25,
           "updated": "2026-09-11"
         },
         "4": {
@@ -1125,16 +1125,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 125,
+          "c": 123.62,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 197,
+        "pt_old": null,
+        "firm": "Bernstein",
+        "analyst": "Nadine Sarwat",
+        "slug": "nadine-sarwat",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 35.2,
+          "stars": 0.8,
+          "total": 54,
+          "avg_return": -3.7,
+          "return_pct": null,
+          "analyst_rank": 10600,
+          "success_rate": 35.2,
+          "stock_avg_return": -14.9,
+          "stock_success_rate": 6.2,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 136,
@@ -1145,18 +1170,18 @@
         "date": "2026-09-11",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "12:30:21",
+        "time": "12:30:38",
         "scores": {
-          "score": 60.6,
+          "score": 60.9,
           "stars": 4,
-          "total": 378,
+          "total": 379,
           "avg_return": 3.8,
           "return_pct": null,
-          "analyst_rank": 2496,
-          "success_rate": 60.6,
+          "analyst_rank": 2458,
+          "success_rate": 60.9,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1172,16 +1197,16 @@
         "rating_old": "",
         "time": "09:20:20",
         "scores": {
-          "score": 57.5,
-          "stars": 4.2,
+          "score": 57.1,
+          "stars": 4.1,
           "total": 499,
-          "avg_return": 4.2,
+          "avg_return": 3.8,
           "return_pct": null,
-          "analyst_rank": 2106,
-          "success_rate": 57.5,
+          "analyst_rank": 2359,
+          "success_rate": 57.1,
           "stock_avg_return": -4.9,
           "stock_success_rate": 47.2,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1197,16 +1222,16 @@
         "rating_old": "",
         "time": "12:10:07",
         "scores": {
-          "score": 50.5,
-          "stars": 2.9,
+          "score": 50.8,
+          "stars": 3,
           "total": 331,
-          "avg_return": 1.5,
+          "avg_return": 1.6,
           "return_pct": null,
-          "analyst_rank": 5226,
-          "success_rate": 50.5,
-          "stock_avg_return": 14,
+          "analyst_rank": 5025,
+          "success_rate": 50.8,
+          "stock_avg_return": 13.5,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1222,48 +1247,23 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 56.1,
+          "score": 55.3,
           "stars": 4.2,
-          "total": 442,
-          "avg_return": 5.1,
+          "total": 443,
+          "avg_return": 5,
           "return_pct": null,
-          "analyst_rank": 1978,
-          "success_rate": 56.1,
-          "stock_avg_return": -5.9,
+          "analyst_rank": 2043,
+          "success_rate": 55.3,
+          "stock_avg_return": -5.8,
           "stock_success_rate": 37.8,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 168,
-        "pt_old": null,
-        "firm": "UBS",
-        "analyst": "Peter Grom",
-        "slug": "peter-grom",
-        "date": "2026-07-15",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:51:04",
-        "scores": {
-          "score": 52.6,
-          "stars": 0.8,
-          "total": 253,
-          "avg_return": -1.6,
-          "return_pct": null,
-          "analyst_rank": 10522,
-          "success_rate": 52.6,
-          "stock_avg_return": -13.6,
-          "stock_success_rate": 22.2,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 170.83,
+      "avg": 169.7,
       "median": 173,
       "low": 115,
       "high": 209,

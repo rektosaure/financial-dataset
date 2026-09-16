@@ -991,16 +991,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 80.67,
+          "c": 70.67,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "J.P. Morgan",
+        "analyst": "Brian Cheng",
+        "slug": "brian-cheng",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 49.6,
+          "stars": 4.5,
+          "total": 234,
+          "avg_return": 12.7,
+          "return_pct": null,
+          "analyst_rank": 1250,
+          "success_rate": 49.6,
+          "stock_avg_return": 6.3,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 108,
@@ -1025,30 +1049,6 @@
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "J.P. Morgan",
-        "analyst": "Brian Cheng",
-        "slug": "brian-cheng",
-        "date": "2026-09-01",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:20:06",
-        "scores": {
-          "score": 49.6,
-          "stars": 4.5,
-          "total": 234,
-          "avg_return": 12.7,
-          "return_pct": null,
-          "analyst_rank": 1250,
-          "success_rate": 49.6,
-          "stock_avg_return": 6.3,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12498
-        }
       },
       {
         "action_rt": "Reiterates",
@@ -1129,18 +1129,18 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 110.18,
-      "median": 104,
+      "avg": 110,
+      "median": 106,
       "low": 100,
       "high": 126,
-      "numPriceTargets": 11
+      "numPriceTargets": 12
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Strong Buy",
-      "score": 8.333350000000001,
-      "count": 12,
-      "strongBuy": 8,
+      "score": 8.461549999999999,
+      "count": 13,
+      "strongBuy": 9,
       "buy": 4,
       "hold": 0,
       "sell": 0,
