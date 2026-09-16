@@ -1011,49 +1011,49 @@
     "targets": {
       "low": 158,
       "high": 330,
-      "count": 37,
+      "count": 36,
       "median": 300,
-      "average": 286.78,
-      "updated": "2026-09-10",
+      "average": 286.42,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 158,
           "high": 330,
-          "count": 35,
+          "count": 34,
           "median": 300,
-          "average": 290.46,
-          "updated": "2026-08-17"
+          "average": 290.18,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 158,
           "high": 330,
-          "count": 35,
+          "count": 34,
           "median": 300,
-          "average": 290.46,
-          "updated": "2026-08-17"
+          "average": 290.18,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 158,
           "high": 330,
-          "count": 35,
+          "count": 34,
           "median": 300,
-          "average": 290.46,
-          "updated": "2026-08-17"
+          "average": 290.18,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 158,
           "high": 330,
-          "count": 34,
+          "count": 33,
           "median": 300,
-          "average": 290.94,
-          "updated": "2026-08-17"
+          "average": 290.67,
+          "updated": "2026-09-15"
         },
         "5": {
-          "low": 237,
+          "low": 275,
           "high": 320,
-          "count": 13,
+          "count": 11,
           "median": 300,
-          "average": 291.23,
+          "average": 295.36,
           "updated": "2026-08-17"
         }
       },
@@ -1108,16 +1108,65 @@
           "t": "2026-08-01"
         },
         {
-          "c": 230.05,
+          "c": 230.27,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Truist Financial",
+        "analyst": "Miller Jump",
+        "slug": "miller-jump",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 64.3,
+          "stars": 4.8,
+          "total": 143,
+          "avg_return": 23.6,
+          "return_pct": null,
+          "analyst_rank": 540,
+          "success_rate": 64.3,
+          "stock_avg_return": -5.2,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        }
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 237,
+        "pt_old": null,
+        "firm": "Bernstein",
+        "analyst": "Mark Shmulik",
+        "slug": "mark-shmulik",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "17:20:08",
+        "scores": {
+          "score": 69.6,
+          "stars": 4.7,
+          "total": 135,
+          "avg_return": 18.8,
+          "return_pct": null,
+          "analyst_rank": 682,
+          "success_rate": 69.6,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 275,
@@ -1128,18 +1177,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "20:35:14",
+        "time": "20:35:41",
         "scores": {
-          "score": 23.1,
-          "stars": 0.8,
-          "total": 13,
-          "avg_return": -7,
+          "score": 15,
+          "stars": 0.9,
+          "total": 20,
+          "avg_return": -4.3,
           "return_pct": null,
-          "analyst_rank": 10496,
-          "success_rate": 23.1,
-          "stock_avg_return": 0,
+          "analyst_rank": 10162,
+          "success_rate": 15,
+          "stock_avg_return": -0.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1155,16 +1204,16 @@
         "rating_old": "",
         "time": "13:15:39",
         "scores": {
-          "score": 62.4,
+          "score": 62.6,
           "stars": 4.8,
           "total": 492,
-          "avg_return": 11.4,
+          "avg_return": 11.3,
           "return_pct": null,
-          "analyst_rank": 498,
-          "success_rate": 62.4,
-          "stock_avg_return": 26.5,
+          "analyst_rank": 483,
+          "success_rate": 62.6,
+          "stock_avg_return": 25.7,
           "stock_success_rate": 70.4,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1180,66 +1229,16 @@
         "rating_old": "",
         "time": "05:25:22",
         "scores": {
-          "score": 57.4,
+          "score": 57.6,
           "stars": 4.9,
           "total": 500,
-          "avg_return": 18.9,
+          "avg_return": 19,
           "return_pct": null,
-          "analyst_rank": 312,
-          "success_rate": 57.4,
-          "stock_avg_return": 23.7,
+          "analyst_rank": 301,
+          "success_rate": 57.6,
+          "stock_avg_return": 23,
           "stock_success_rate": 72.7,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 295,
-        "pt_old": null,
-        "firm": "Canaccord Genuity",
-        "analyst": "Kingsley Crane",
-        "slug": "kingsley-crane",
-        "date": "2026-08-13",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:17:27",
-        "scores": {
-          "score": 55.9,
-          "stars": 4.7,
-          "total": 313,
-          "avg_return": 13,
-          "return_pct": null,
-          "analyst_rank": 825,
-          "success_rate": 55.9,
-          "stock_avg_return": 29.3,
-          "stock_success_rate": 70,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 305,
-        "pt_old": null,
-        "firm": "J.P. Morgan",
-        "analyst": "Samik Chatterjee",
-        "slug": "samik-chatterjee",
-        "date": "2026-08-11",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:17:23",
-        "scores": {
-          "score": 74.7,
-          "stars": 5,
-          "total": 499,
-          "avg_return": 53.8,
-          "return_pct": null,
-          "analyst_rank": 4,
-          "success_rate": 74.7,
-          "stock_avg_return": -16.2,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
