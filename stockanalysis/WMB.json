@@ -191,24 +191,24 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": 2.43706,
-            "this": 2.60369,
-            "growth": 6.8373367910515155
+            "last": 2.43278,
+            "this": 2.59699,
+            "growth": 6.749891071120271
           },
           "epsThis": {
             "last": 2.1,
-            "this": 2.43706,
-            "growth": 16.050476190476175
+            "this": 2.43278,
+            "growth": 15.84666666666667
           },
           "revenueNext": {
-            "last": 12190499700,
-            "this": 13847382870,
-            "growth": 13.591593542305736
+            "last": 12223142600,
+            "this": 13841328180,
+            "growth": 13.238703277502465
           },
           "revenueThis": {
             "last": 11830000000,
-            "this": 12190499700,
-            "growth": 3.047334742180896
+            "this": 12223142600,
+            "growth": 3.323267962806424
           }
         },
         "quarterly": {
@@ -242,7 +242,7 @@
             1.79,
             1.9,
             2,
-            2.10922,
+            2.10873,
             "[PRO]",
             "[PRO]"
           ],
@@ -252,7 +252,7 @@
             2.600686,
             1.82,
             2.14,
-            2.47312,
+            2.47581,
             "[PRO]",
             "[PRO]"
           ],
@@ -292,7 +292,7 @@
             9951000000,
             10753000000,
             11830000000,
-            12190499700,
+            12223142600,
             "[PRO]",
             "[PRO]"
           ],
@@ -302,7 +302,7 @@
             null,
             null,
             null,
-            6,
+            7,
             "[PRO]",
             "[PRO]"
           ],
@@ -323,7 +323,7 @@
             5.2940000000000005,
             6.145,
             5.263,
-            5.461000000000005,
+            5.4365,
             "[PRO]",
             "[PRO]"
           ],
@@ -333,7 +333,7 @@
             55.73,
             -30.018,
             17.582,
-            15.56635514018692,
+            15.692056074766352,
             "[PRO]",
             "[PRO]"
           ],
@@ -343,7 +343,7 @@
             3179000000,
             2225000000,
             2618000000,
-            3188876600,
+            3176179950,
             "[PRO]",
             "[PRO]"
           ],
@@ -373,7 +373,7 @@
             null,
             null,
             2.1,
-            2.43706,
+            2.43278,
             "[PRO]",
             "[PRO]"
           ],
@@ -403,7 +403,7 @@
             1587750000,
             1027125000,
             -353500000,
-            -1614037250,
+            -1711629800,
             "[PRO]",
             "[PRO]"
           ],
@@ -423,7 +423,7 @@
             -12.341,
             8.059,
             10.016,
-            3.047334742180896,
+            3.323267962806424,
             "[PRO]",
             "[PRO]"
           ],
@@ -433,7 +433,7 @@
             4226000000,
             3377000000,
             4430000000,
-            4647231270,
+            4699026060,
             "[PRO]",
             "[PRO]"
           ],
@@ -443,7 +443,7 @@
             null,
             null,
             9.375000000000009,
-            16.050476190476175,
+            15.84666666666667,
             "[PRO]",
             "[PRO]"
           ]
@@ -855,8 +855,8 @@
     "estimatesCharts": {
       "eps": {
         "2026-12-31": {
-          "no": 10,
-          "avg": 2.43706,
+          "no": 11,
+          "avg": 2.43278,
           "low": 2.3,
           "high": 2.57
         },
@@ -865,8 +865,8 @@
       },
       "revenue": {
         "2026-12-31": {
-          "no": 6,
-          "avg": 12190499700,
+          "no": 7,
+          "avg": 12223142600,
           "low": 10953788600,
           "high": 13394710000
         },
@@ -875,7 +875,7 @@
       },
       "epsGrowth": {
         "2026-12-31": {
-          "avg": 16.050476190476175,
+          "avg": 15.84666666666667,
           "low": 9.523809523809511,
           "high": 22.38095238095237
         },
@@ -884,7 +884,7 @@
       },
       "revenueGrowth": {
         "2026-12-31": {
-          "avg": 3.047334742180896,
+          "avg": 3.323267962806424,
           "low": -7.406689771766695,
           "high": 13.226627218934912
         },
@@ -893,19 +893,6 @@
       }
     },
     "recommendations": [
-      {
-        "buy": 4,
-        "date": "2025-09-30",
-        "hold": 7,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 5.217391304347826,
-        "total": 23,
-        "updated": "2025-09-30",
-        "consensus": "Buy",
-        "strongBuy": 11,
-        "strongSell": 1
-      },
       {
         "buy": 4,
         "date": "2025-10-28",
@@ -1048,6 +1035,19 @@
         "consensus": "Buy",
         "strongBuy": 14,
         "strongSell": 0
+      },
+      {
+        "buy": 5,
+        "date": "2026-09-14",
+        "hold": 2,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 7.954545454545454,
+        "total": 22,
+        "updated": "2026-09-14",
+        "consensus": "Strong Buy",
+        "strongBuy": 15,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -1056,7 +1056,7 @@
       "count": 20,
       "median": 85,
       "average": 86.1,
-      "updated": "2026-09-10",
+      "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 75,
@@ -1064,7 +1064,7 @@
           "count": 18,
           "median": 85,
           "average": 86,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "2": {
           "low": 75,
@@ -1072,7 +1072,7 @@
           "count": 18,
           "median": 85,
           "average": 86,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "3": {
           "low": 75,
@@ -1080,7 +1080,7 @@
           "count": 18,
           "median": 85,
           "average": 86,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "4": {
           "low": 75,
@@ -1088,7 +1088,7 @@
           "count": 15,
           "median": 85,
           "average": 85.93,
-          "updated": "2026-09-10"
+          "updated": "2026-09-14"
         },
         "5": {
           "low": 75,
@@ -1150,16 +1150,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 72.2,
+          "c": 71.63,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 85,
+        "pt_old": null,
+        "firm": "Jefferies",
+        "analyst": "Julien Dumoulin Smith",
+        "slug": "julien-dumoulin-smith",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:30:07",
+        "scores": {
+          "score": 59.4,
+          "stars": 4.6,
+          "total": 471,
+          "avg_return": 8.2,
+          "return_pct": null,
+          "analyst_rank": 954,
+          "success_rate": 59.4,
+          "stock_avg_return": 11.3,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 85,
@@ -1170,18 +1195,18 @@
         "date": "2026-09-10",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "14:45:15",
+        "time": "14:46:06",
         "scores": {
-          "score": 87.2,
+          "score": 86.9,
           "stars": 4.8,
-          "total": 78,
-          "avg_return": 24.5,
+          "total": 84,
+          "avg_return": 22.7,
           "return_pct": null,
-          "analyst_rank": 559,
-          "success_rate": 87.2,
-          "stock_avg_return": 3.9,
-          "stock_success_rate": 80,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 563,
+          "success_rate": 86.9,
+          "stock_avg_return": 1.4,
+          "stock_success_rate": 83.3,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1190,23 +1215,23 @@
         "pt_now": 85,
         "pt_old": null,
         "firm": "Stifel Nicolaus",
-        "analyst": "Tim O'Toole",
-        "slug": "tim-o-toole",
+        "analyst": "Robert Hodges",
+        "slug": "robert-hodges",
         "date": "2026-09-09",
         "rating_new": "Buy",
         "rating_old": "",
         "time": "21:40:08",
         "scores": {
-          "score": 20,
-          "stars": 3.6,
-          "total": 15,
-          "avg_return": 23.8,
+          "score": 72.7,
+          "stars": 3,
+          "total": 11,
+          "avg_return": 12.4,
           "return_pct": null,
-          "analyst_rank": 3482,
-          "success_rate": 20,
+          "analyst_rank": 4900,
+          "success_rate": 72.7,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1222,16 +1247,16 @@
         "rating_old": "",
         "time": "12:05:45",
         "scores": {
-          "score": 57.9,
+          "score": 58.8,
           "stars": 4.7,
-          "total": 497,
+          "total": 493,
           "avg_return": 9,
           "return_pct": null,
-          "analyst_rank": 864,
-          "success_rate": 57.9,
-          "stock_avg_return": 30.1,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 794,
+          "success_rate": 58.8,
+          "stock_avg_return": 29.5,
+          "stock_success_rate": 87.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1247,41 +1272,16 @@
         "rating_old": "",
         "time": "10:35:35",
         "scores": {
-          "score": 58.3,
+          "score": 57.9,
           "stars": 4.3,
           "total": 278,
           "avg_return": 7.2,
           "return_pct": null,
-          "analyst_rank": 1762,
-          "success_rate": 58.3,
-          "stock_avg_return": 19.1,
-          "stock_success_rate": 92.9,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 88,
-        "pt_old": null,
-        "firm": "Truist Financial",
-        "analyst": "Gabriel Daoud",
-        "slug": "gabriel-daoud",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "04:30:13",
-        "scores": {
-          "score": 49.6,
-          "stars": 0.2,
-          "total": 244,
-          "avg_return": -5.9,
-          "return_pct": null,
-          "analyst_rank": 11925,
-          "success_rate": 49.6,
-          "stock_avg_return": 1.1,
-          "stock_success_rate": 60,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 1755,
+          "success_rate": 57.9,
+          "stock_avg_return": 17.9,
+          "stock_success_rate": 78.6,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1289,18 +1289,18 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 85.47,
-      "median": 86,
+      "avg": 85.38,
+      "median": 85,
       "low": 69,
       "high": 103,
-      "numPriceTargets": 19
+      "numPriceTargets": 21
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Strong Buy",
-      "score": 7.75,
-      "count": 20,
-      "strongBuy": 13,
+      "score": 7.95455,
+      "count": 22,
+      "strongBuy": 15,
       "buy": 5,
       "hold": 2,
       "sell": 0,

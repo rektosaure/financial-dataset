@@ -244,7 +244,7 @@
           ],
           "eps": [
             10.89,
-            12.0689,
+            12.07605,
             "[PRO]",
             "[PRO]"
           ],
@@ -293,13 +293,13 @@
           ],
           "epsGrowth": [
             98.36065573770492,
-            10.825528007346175,
+            10.891184573002754,
             "[PRO]",
             "[PRO]"
           ],
           "netIncome": [
             518000000,
-            491851410,
+            492174740,
             "[PRO]",
             "[PRO]"
           ],
@@ -382,7 +382,7 @@
           "eps": [
             4.15,
             3.55,
-            3.36474,
+            3.37307,
             1.09129,
             "[PRO]",
             "[PRO]",
@@ -495,7 +495,7 @@
           "epsGrowth": [
             49.28057553956837,
             20.748299319727888,
-            -15.031818181818185,
+            -14.821464646464651,
             -5.923275862068951,
             "[PRO]",
             "[PRO]",
@@ -509,7 +509,7 @@
           "netIncome": [
             179000000,
             144000000,
-            132337740,
+            132726390,
             42421490,
             "[PRO]",
             "[PRO]",
@@ -867,7 +867,7 @@
       "count": 14,
       "median": 116,
       "average": 118.14,
-      "updated": "2026-09-11",
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 104,
@@ -875,7 +875,7 @@
           "count": 13,
           "median": 116,
           "average": 119,
-          "updated": "2026-09-11"
+          "updated": "2026-09-16"
         },
         "2": {
           "low": 104,
@@ -883,7 +883,7 @@
           "count": 13,
           "median": 116,
           "average": 119,
-          "updated": "2026-09-11"
+          "updated": "2026-09-16"
         },
         "3": {
           "low": 104,
@@ -891,7 +891,7 @@
           "count": 12,
           "median": 119,
           "average": 119.83,
-          "updated": "2026-09-11"
+          "updated": "2026-09-16"
         },
         "4": {
           "low": 108,
@@ -899,7 +899,7 @@
           "count": 7,
           "median": 115,
           "average": 120,
-          "updated": "2026-09-11"
+          "updated": "2026-09-16"
         },
         "5": {
           "low": 114,
@@ -907,7 +907,7 @@
           "count": 3,
           "median": 115,
           "average": 119.33,
-          "updated": "2026-07-24"
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -961,38 +961,113 @@
           "t": "2026-08-01"
         },
         {
-          "c": 109.23,
+          "c": 107.65,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Initiates",
+        "action_rt": "Reiterates",
         "pt_now": 115,
         "pt_old": null,
         "firm": "Wells Fargo",
         "analyst": "Donald Fandetti",
         "slug": "donald-fandetti",
-        "date": "2026-09-11",
+        "date": "2026-09-16",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "09:00:09",
+        "time": "08:55:37",
         "scores": {
-          "score": 62.8,
+          "score": 62.4,
           "stars": 4.7,
-          "total": 425,
-          "avg_return": 10,
+          "total": 426,
+          "avg_return": 9.8,
           "return_pct": null,
-          "analyst_rank": 667,
-          "success_rate": 62.8,
+          "analyst_rank": 686,
+          "success_rate": 62.4,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 109,
+        "pt_old": null,
+        "firm": "Barclays",
+        "analyst": "Terry Ma",
+        "slug": "terry-ma",
+        "date": "2026-09-16",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 55.1,
+          "stars": 2.5,
+          "total": 267,
+          "avg_return": 0.8,
+          "return_pct": null,
+          "analyst_rank": 6203,
+          "success_rate": 55.1,
+          "stock_avg_return": -45.1,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 129,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Mihir Bhatia",
+        "slug": "mihir-bhatia",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "14:20:11",
+        "scores": {
+          "score": 64.9,
+          "stars": 4.7,
+          "total": 339,
+          "avg_return": 10,
+          "return_pct": null,
+          "analyst_rank": 740,
+          "success_rate": 64.9,
+          "stock_avg_return": 19.8,
+          "stock_success_rate": 72.4,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 114,
+        "pt_old": null,
+        "firm": "TD Cowen",
+        "analyst": "Moshe Orenbuch",
+        "slug": "moshe-orenbuch",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "12:10:29",
+        "scores": {
+          "score": 67.7,
+          "stars": 5,
+          "total": 477,
+          "avg_return": 22.2,
+          "return_pct": null,
+          "analyst_rank": 104,
+          "success_rate": 67.7,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1008,91 +1083,16 @@
         "rating_old": "",
         "time": "08:40:23",
         "scores": {
-          "score": 59.2,
+          "score": 59,
           "stars": 4.6,
           "total": 490,
-          "avg_return": 8.2,
+          "avg_return": 8.1,
           "return_pct": null,
-          "analyst_rank": 935,
-          "success_rate": 59.2,
-          "stock_avg_return": -12.8,
+          "analyst_rank": 944,
+          "success_rate": 59,
+          "stock_avg_return": -12.9,
           "stock_success_rate": 36.4,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 109,
-        "pt_old": null,
-        "firm": "Barclays",
-        "analyst": "Terry Ma",
-        "slug": "terry-ma",
-        "date": "2026-08-18",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "09:25:37",
-        "scores": {
-          "score": 55.1,
-          "stars": 2.6,
-          "total": 267,
-          "avg_return": 1,
-          "return_pct": null,
-          "analyst_rank": 5991,
-          "success_rate": 55.1,
-          "stock_avg_return": -45.1,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 129,
-        "pt_old": 115,
-        "firm": "Bank of America Securities",
-        "analyst": "Mihir Bhatia",
-        "slug": "mihir-bhatia",
-        "date": "2026-08-17",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:30:20",
-        "scores": {
-          "score": 65.5,
-          "stars": 4.7,
-          "total": 339,
-          "avg_return": 10,
-          "return_pct": null,
-          "analyst_rank": 727,
-          "success_rate": 65.5,
-          "stock_avg_return": 20.1,
-          "stock_success_rate": 72.4,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 127,
-        "pt_old": 120,
-        "firm": "Raymond James",
-        "analyst": "Nicholas Holowko",
-        "slug": "nicholas-holowko",
-        "date": "2026-08-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:56:20",
-        "scores": {
-          "score": 65.9,
-          "stars": 3.7,
-          "total": 44,
-          "avg_return": 10.5,
-          "return_pct": null,
-          "analyst_rank": 3178,
-          "success_rate": 65.9,
-          "stock_avg_return": 11.8,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1100,20 +1100,20 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 115.44,
-      "median": 117,
+      "avg": 115.41,
+      "median": 115,
       "low": 79,
       "high": 132,
-      "numPriceTargets": 16
+      "numPriceTargets": 17
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Buy",
-      "score": 4.705900000000001,
-      "count": 17,
+      "score": 4.44445,
+      "count": 18,
       "strongBuy": 8,
       "buy": 1,
-      "hold": 7,
+      "hold": 8,
       "sell": 1,
       "strongSell": 0
     }
