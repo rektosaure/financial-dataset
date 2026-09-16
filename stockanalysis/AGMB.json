@@ -179,13 +179,13 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": -1.5956227,
-            "this": -1.783641606,
+            "last": -1.60101440712,
+            "this": -1.7895138271200002,
             "growth": null
           },
           "epsThis": {
-            "last": -144.57888592999998,
-            "this": -1.5956227,
+            "last": -145.39488929639998,
+            "this": -1.60101440712,
             "growth": null
           },
           "revenueNext": {
@@ -202,12 +202,12 @@
         "quarterly": {
           "epsNext": {
             "last": null,
-            "this": -0.3671268,
+            "this": -0.36861819912,
             "growth": null
           },
           "epsThis": {
             "last": null,
-            "this": -0.32116700600000003,
+            "this": -0.322399008,
             "growth": null
           },
           "revenueNext": {
@@ -240,7 +240,7 @@
             -35.633105,
             -107.093357,
             -143.221726,
-            -1.565744094,
+            -1.57097583288,
             "[PRO]",
             "[PRO]"
           ],
@@ -360,8 +360,8 @@
             null,
             null,
             null,
-            -144.57888592999998,
-            -1.5956227,
+            -145.39488929639998,
+            -1.60101440712,
             "[PRO]",
             "[PRO]"
           ],
@@ -462,8 +462,8 @@
             -38.907543,
             -0.379887,
             -0.379887,
-            -0.3223132,
-            -0.3464436,
+            -0.323265672,
+            -0.34753226400000004,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -691,8 +691,8 @@
             null,
             null,
             null,
-            -0.32116700600000003,
-            -0.3671268,
+            -0.322399008,
+            -0.36861819912,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -844,9 +844,9 @@
       "eps": {
         "2026-12-31": {
           "no": 6,
-          "avg": -1.5956227,
-          "low": -1.7916822,
-          "high": -1.400425
+          "avg": -1.60101440712,
+          "low": -1.801794456,
+          "high": -1.400529024
         },
         "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
@@ -978,7 +978,7 @@
       "count": 5,
       "median": 34,
       "average": 34.8,
-      "updated": "2026-09-08",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 28,
@@ -986,7 +986,7 @@
           "count": 4,
           "median": 35,
           "average": 39.25,
-          "updated": "2026-09-08"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 28,
@@ -994,7 +994,7 @@
           "count": 4,
           "median": 35,
           "average": 39.25,
-          "updated": "2026-09-08"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 28,
@@ -1002,7 +1002,7 @@
           "count": 4,
           "median": 35,
           "average": 39.25,
-          "updated": "2026-09-08"
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 35,
@@ -1010,7 +1010,7 @@
           "count": 2,
           "median": 60,
           "average": 47.5,
-          "updated": "2026-08-25"
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 35,
@@ -1018,7 +1018,7 @@
           "count": 2,
           "median": 60,
           "average": 47.5,
-          "updated": "2026-08-25"
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -1052,16 +1052,90 @@
           "t": "2026-08-01"
         },
         {
-          "c": 12.28,
+          "c": 12.16,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "J.P. Morgan",
+        "analyst": "Anupam Rama",
+        "slug": "anupam-rama",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "12:00:45",
+        "scores": {
+          "score": 49.9,
+          "stars": 4.8,
+          "total": 491,
+          "avg_return": 20.6,
+          "return_pct": null,
+          "analyst_rank": 386,
+          "success_rate": 49.9,
+          "stock_avg_return": -17.8,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        }
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 60,
+        "pt_old": null,
+        "firm": "Piper Sandler",
+        "analyst": "Yasmeen Rahimi",
+        "slug": "yasmeen-rahimi",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:30:15",
+        "scores": {
+          "score": 47.1,
+          "stars": 4.9,
+          "total": 488,
+          "avg_return": 33.1,
+          "return_pct": null,
+          "analyst_rank": 186,
+          "success_rate": 47.1,
+          "stock_avg_return": -6.8,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 35,
+        "pt_old": null,
+        "firm": "H.C. Wainwright",
+        "analyst": "Patrick Trucchio",
+        "slug": "patrick-trucchio",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 58.1,
+          "stars": 5,
+          "total": 497,
+          "avg_return": 38.1,
+          "return_pct": null,
+          "analyst_rank": 68,
+          "success_rate": 58.1,
+          "stock_avg_return": 7.2,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 28,
@@ -1072,43 +1146,18 @@
         "date": "2026-09-08",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:56:25",
         "scores": {
-          "score": 53.5,
-          "stars": 3.8,
-          "total": 310,
-          "avg_return": 4.3,
+          "score": 51.6,
+          "stars": 3.5,
+          "total": 312,
+          "avg_return": 2.8,
           "return_pct": null,
-          "analyst_rank": 3012,
-          "success_rate": 53.5,
-          "stock_avg_return": 21.8,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 60,
-        "pt_old": null,
-        "firm": "Piper Sandler",
-        "analyst": "Yasmeen Rahimi",
-        "slug": "yasmeen-rahimi",
-        "date": "2026-08-25",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:35:18",
-        "scores": {
-          "score": 49,
-          "stars": 4.9,
-          "total": 488,
-          "avg_return": 35.2,
-          "return_pct": null,
-          "analyst_rank": 162,
-          "success_rate": 49,
-          "stock_avg_return": 12.5,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 3834,
+          "success_rate": 51.6,
+          "stock_avg_return": -2.5,
+          "stock_success_rate": 25,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1124,66 +1173,16 @@
         "rating_old": "",
         "time": "10:15:39",
         "scores": {
-          "score": 16.7,
+          "score": 14.3,
           "stars": 0.3,
-          "total": 6,
-          "avg_return": -32.8,
+          "total": 7,
+          "avg_return": -32.2,
           "return_pct": null,
-          "analyst_rank": 11773,
-          "success_rate": 16.7,
-          "stock_avg_return": 14.7,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 35,
-        "pt_old": null,
-        "firm": "H.C. Wainwright",
-        "analyst": "Patrick Trucchio",
-        "slug": "patrick-trucchio",
-        "date": "2026-08-13",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "14:30:11",
-        "scores": {
-          "score": 62.2,
-          "stars": 5,
-          "total": 495,
-          "avg_return": 41.7,
-          "return_pct": null,
-          "analyst_rank": 36,
-          "success_rate": 62.2,
-          "stock_avg_return": 29.5,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 34,
-        "pt_old": null,
-        "firm": "B. Riley Securities",
-        "analyst": "William Wood",
-        "slug": "william-wood",
-        "date": "2026-07-23",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:26:59",
-        "scores": {
-          "score": 56,
-          "stars": 3.6,
-          "total": 50,
-          "avg_return": 9.6,
-          "return_pct": null,
-          "analyst_rank": 3433,
-          "success_rate": 56,
-          "stock_avg_return": 21.6,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 11808,
+          "success_rate": 14.3,
+          "stock_avg_return": -5,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

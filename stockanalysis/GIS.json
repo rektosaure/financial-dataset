@@ -1038,13 +1038,13 @@
       },
       {
         "buy": 3,
-        "date": "2026-09-01",
+        "date": "2026-09-15",
         "hold": 12,
         "sell": 2,
         "month": "Sep '26",
         "score": -0.25,
         "total": 20,
-        "updated": "2026-09-01",
+        "updated": "2026-09-15",
         "consensus": "Hold",
         "strongBuy": 1,
         "strongSell": 2
@@ -1056,7 +1056,7 @@
       "count": 16,
       "median": 35,
       "average": 36.31,
-      "updated": "2026-09-14",
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 32,
@@ -1146,16 +1146,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 36.47,
+          "c": 36.58,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 33,
+        "pt_old": null,
+        "firm": "UBS",
+        "analyst": "Peter Grom",
+        "slug": "peter-grom",
+        "date": "2026-09-16",
+        "rating_new": "Sell",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 53,
+          "stars": 0.8,
+          "total": 253,
+          "avg_return": -1.6,
+          "return_pct": null,
+          "analyst_rank": 10474,
+          "success_rate": 53,
+          "stock_avg_return": 16.4,
+          "stock_success_rate": 80,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 38,
@@ -1166,7 +1191,7 @@
         "date": "2026-09-14",
         "rating_new": "Hold",
         "rating_old": "",
-        "time": "11:45:06",
+        "time": "11:47:07",
         "scores": {
           "score": 56.7,
           "stars": 4,
@@ -1177,6 +1202,31 @@
           "success_rate": 56.7,
           "stock_avg_return": 1.8,
           "stock_success_rate": 57.1,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 45,
+        "pt_old": null,
+        "firm": "RBC Capital",
+        "analyst": "Nik Modi",
+        "slug": "nik-modi",
+        "date": "2026-09-11",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 49.4,
+          "stars": 2.1,
+          "total": 502,
+          "avg_return": 0.2,
+          "return_pct": null,
+          "analyst_rank": 7254,
+          "success_rate": 49.4,
+          "stock_avg_return": -11.1,
+          "stock_success_rate": 20,
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
@@ -1230,62 +1280,12 @@
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 43,
-        "pt_old": 39,
-        "firm": "Bank of America Securities",
-        "analyst": "Peter Galbo",
-        "slug": "peter-galbo",
-        "date": "2026-09-01",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:20:56",
-        "scores": {
-          "score": 50.8,
-          "stars": 3,
-          "total": 331,
-          "avg_return": 1.6,
-          "return_pct": null,
-          "analyst_rank": 5025,
-          "success_rate": 50.8,
-          "stock_avg_return": -12,
-          "stock_success_rate": 9.1,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 31,
-        "pt_old": null,
-        "firm": "Bernstein",
-        "analyst": "Alexia Burland Howard",
-        "slug": "alexia-burland-howard",
-        "date": "2026-07-17",
-        "rating_new": "Sell",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 41.6,
-          "stars": 0.2,
-          "total": 173,
-          "avg_return": -8,
-          "return_pct": null,
-          "analyst_rank": 12042,
-          "success_rate": 41.6,
-          "stock_avg_return": -9,
-          "stock_success_rate": 28.6,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 37.78,
+      "avg": 37.67,
       "median": 37,
       "low": 31,
       "high": 47,

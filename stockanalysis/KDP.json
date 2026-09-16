@@ -1011,42 +1011,42 @@
     "targets": {
       "low": 28,
       "high": 42,
-      "count": 14,
+      "count": 15,
       "median": 38,
-      "average": 36.21,
-      "updated": "2026-09-14",
+      "average": 36.2,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 28,
           "high": 42,
-          "count": 13,
+          "count": 14,
           "median": 38,
           "average": 36,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 28,
           "high": 42,
-          "count": 11,
+          "count": 12,
           "median": 38,
           "average": 36,
-          "updated": "2026-09-14"
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 28,
           "high": 38,
-          "count": 8,
-          "median": 38,
-          "average": 34.88,
-          "updated": "2026-09-14"
+          "count": 9,
+          "median": 37,
+          "average": 35,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 28,
           "high": 38,
-          "count": 4,
-          "median": 38,
-          "average": 33.5,
-          "updated": "2026-09-11"
+          "count": 5,
+          "median": 36,
+          "average": 34,
+          "updated": "2026-09-15"
         },
         "5": {
           "count": 0,
@@ -1104,16 +1104,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 31.72,
+          "c": 31.49,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 36,
+        "pt_old": null,
+        "firm": "Argus Research",
+        "analyst": "John Staszak",
+        "slug": "john-staszak",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "12:05:18",
+        "scores": {
+          "score": 57,
+          "stars": 4.6,
+          "total": 500,
+          "avg_return": 8,
+          "return_pct": null,
+          "analyst_rank": 1047,
+          "success_rate": 57,
+          "stock_avg_return": -23.3,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 38,
@@ -1124,7 +1149,7 @@
         "date": "2026-09-14",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "10:10:22",
         "scores": {
           "score": 50.8,
           "stars": 3,
@@ -1135,7 +1160,7 @@
           "success_rate": 50.8,
           "stock_avg_return": 8.4,
           "stock_success_rate": 75,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1160,7 +1185,7 @@
           "success_rate": 57.1,
           "stock_avg_return": -2,
           "stock_success_rate": 43.3,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1185,7 +1210,7 @@
           "success_rate": 50,
           "stock_avg_return": -0.7,
           "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1210,32 +1235,7 @@
           "success_rate": 61.9,
           "stock_avg_return": 1.9,
           "stock_success_rate": 31.2,
-          "number_of_ranked_experts": 12499
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 33,
-        "pt_old": 30.37,
-        "firm": "TD Cowen",
-        "analyst": "Robert Moskow",
-        "slug": "robert-moskow",
-        "date": "2026-08-07",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "15:05:34",
-        "scores": {
-          "score": 45.1,
-          "stars": 1.7,
-          "total": 486,
-          "avg_return": 0,
-          "return_pct": null,
-          "analyst_rank": 8279,
-          "success_rate": 45.1,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12499
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

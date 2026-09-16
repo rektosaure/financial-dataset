@@ -927,17 +927,17 @@
     "targets": {
       "low": 130,
       "high": 179,
-      "count": 12,
-      "median": 145,
-      "average": 149.75,
+      "count": 11,
+      "median": 143,
+      "average": 147.45,
       "updated": "2026-08-11",
       "filtered": {
         "1": {
           "low": 130,
           "high": 179,
-          "count": 8,
-          "median": 155,
-          "average": 151.75,
+          "count": 7,
+          "median": 143,
+          "average": 148.43,
           "updated": "2026-08-11"
         },
         "2": {
@@ -1024,16 +1024,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 129.94,
+          "c": 126.18,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Downgrades",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "J.P. Morgan",
+        "analyst": "Rajat Gupta CFA",
+        "slug": "rajat-gupta-cfa",
+        "date": "2026-09-15",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 50.2,
+          "stars": 4.2,
+          "total": 281,
+          "avg_return": 7.9,
+          "return_pct": null,
+          "analyst_rank": 1899,
+          "success_rate": 50.2,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 161,
@@ -1046,16 +1070,16 @@
         "rating_old": "",
         "time": "14:50:55",
         "scores": {
-          "score": 59.8,
+          "score": 59.1,
           "stars": 4.4,
           "total": 328,
-          "avg_return": 7.7,
+          "avg_return": 7.6,
           "return_pct": null,
-          "analyst_rank": 1391,
-          "success_rate": 59.8,
-          "stock_avg_return": 1,
+          "analyst_rank": 1416,
+          "success_rate": 59.1,
+          "stock_avg_return": 4.1,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1080,32 +1104,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 175,
-        "pt_old": null,
-        "firm": "J.P. Morgan",
-        "analyst": "Ryan Brinkman",
-        "slug": "ryan-brinkman",
-        "date": "2026-08-05",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:30:24",
-        "scores": {
-          "score": 50.7,
-          "stars": 1.2,
-          "total": 495,
-          "avg_return": -0.4,
-          "return_pct": null,
-          "analyst_rank": 9480,
-          "success_rate": 50.7,
-          "stock_avg_return": 3.1,
-          "stock_success_rate": 41.4,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1121,16 +1120,16 @@
         "rating_old": "",
         "time": "08:00:53",
         "scores": {
-          "score": 41.5,
-          "stars": 3.2,
+          "score": 42.1,
+          "stars": 3.3,
           "total": 311,
-          "avg_return": 2.7,
+          "avg_return": 3,
           "return_pct": null,
-          "analyst_rank": 4478,
-          "success_rate": 41.5,
+          "analyst_rank": 4170,
+          "success_rate": 42.1,
           "stock_avg_return": 3.9,
           "stock_success_rate": 36.4,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1146,16 +1145,16 @@
         "rating_old": "",
         "time": "13:26:07",
         "scores": {
-          "score": 37.1,
-          "stars": 3.5,
+          "score": 39.8,
+          "stars": 3.6,
           "total": 186,
           "avg_return": 5.3,
           "return_pct": null,
-          "analyst_rank": 3644,
-          "success_rate": 37.1,
+          "analyst_rank": 3532,
+          "success_rate": 39.8,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
