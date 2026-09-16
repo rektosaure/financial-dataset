@@ -1063,19 +1063,19 @@
           "updated": "2026-09-09"
         },
         "3": {
-          "low": 26,
-          "high": 55,
-          "count": 13,
-          "median": 40,
-          "average": 39.62,
-          "updated": "2026-09-09"
-        },
-        "4": {
           "low": 28,
           "high": 55,
           "count": 12,
           "median": 44,
           "average": 40.75,
+          "updated": "2026-09-09"
+        },
+        "4": {
+          "low": 28,
+          "high": 55,
+          "count": 11,
+          "median": 40,
+          "average": 40.45,
           "updated": "2026-09-09"
         },
         "5": {
@@ -1138,16 +1138,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 24.13,
+          "c": 22.29,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 28,
+        "pt_old": 25,
+        "firm": "Goldman Sachs",
+        "analyst": "James Yaro",
+        "slug": "james-yaro",
+        "date": "2026-09-09",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "11:55:40",
+        "scores": {
+          "score": 59.1,
+          "stars": 4.3,
+          "total": 154,
+          "avg_return": 9.5,
+          "return_pct": null,
+          "analyst_rank": 1872,
+          "success_rate": 59.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 48,
@@ -1160,41 +1185,16 @@
         "rating_old": "",
         "time": "10:36:09",
         "scores": {
-          "score": 60.8,
+          "score": 60.2,
           "stars": 4,
           "total": 495,
-          "avg_return": 3.4,
+          "avg_return": 3.2,
           "return_pct": null,
-          "analyst_rank": 2412,
-          "success_rate": 60.8,
-          "stock_avg_return": 6.8,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 28,
-        "pt_old": 25,
-        "firm": "Goldman Sachs",
-        "analyst": "James Yaro",
-        "slug": "james-yaro",
-        "date": "2026-09-09",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 59.5,
-          "stars": 4.3,
-          "total": 148,
-          "avg_return": 11,
-          "return_pct": null,
-          "analyst_rank": 1702,
-          "success_rate": 59.5,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 2489,
+          "success_rate": 60.2,
+          "stock_avg_return": -1,
+          "stock_success_rate": 37.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1210,16 +1210,16 @@
         "rating_old": "",
         "time": "10:15:23",
         "scores": {
-          "score": 53.4,
-          "stars": 3.1,
-          "total": 251,
-          "avg_return": 2.3,
+          "score": 50.8,
+          "stars": 2.8,
+          "total": 252,
+          "avg_return": 1.3,
           "return_pct": null,
-          "analyst_rank": 4638,
-          "success_rate": 53.4,
+          "analyst_rank": 5607,
+          "success_rate": 50.8,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1235,16 +1235,16 @@
         "rating_old": "",
         "time": "10:27:14",
         "scores": {
-          "score": 58.3,
-          "stars": 4.9,
+          "score": 58.9,
+          "stars": 5,
           "total": 494,
-          "avg_return": 29.2,
+          "avg_return": 29.1,
           "return_pct": null,
-          "analyst_rank": 137,
-          "success_rate": 58.3,
-          "stock_avg_return": 20.3,
-          "stock_success_rate": 77.8,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 123,
+          "success_rate": 58.9,
+          "stock_avg_return": 15.9,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1260,16 +1260,16 @@
         "rating_old": "",
         "time": "11:55:33",
         "scores": {
-          "score": 50.6,
+          "score": 51,
           "stars": 4.8,
           "total": 243,
-          "avg_return": 24.1,
+          "avg_return": 23.8,
           "return_pct": null,
-          "analyst_rank": 520,
-          "success_rate": 50.6,
-          "stock_avg_return": 0.2,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 495,
+          "success_rate": 51,
+          "stock_avg_return": -4.5,
+          "stock_success_rate": 37.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
