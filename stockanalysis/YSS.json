@@ -917,11 +917,11 @@
           "updated": "2026-08-31"
         },
         "5": {
-          "low": 16,
+          "low": 15,
           "high": 18,
-          "count": 4,
+          "count": 5,
           "median": 17,
-          "average": 17,
+          "average": 16.6,
           "updated": "2026-08-31"
         }
       },
@@ -960,16 +960,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 8.06,
+          "c": 7.77,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Guggenheim",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-14",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "20:40:09",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 13,
@@ -982,16 +1006,16 @@
         "rating_old": "",
         "time": "10:26:06",
         "scores": {
-          "score": 37.1,
+          "score": 39.2,
           "stars": 0.3,
-          "total": 175,
-          "avg_return": -5.7,
+          "total": 176,
+          "avg_return": -5,
           "return_pct": null,
-          "analyst_rank": 11819,
-          "success_rate": 37.1,
-          "stock_avg_return": -69,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 11696,
+          "success_rate": 39.2,
+          "stock_avg_return": -54.6,
+          "stock_success_rate": 20,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1012,11 +1036,11 @@
           "total": 391,
           "avg_return": 11.4,
           "return_pct": null,
-          "analyst_rank": 595,
+          "analyst_rank": 588,
           "success_rate": 63.4,
-          "stock_avg_return": -57,
+          "stock_avg_return": -58,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1032,16 +1056,16 @@
         "rating_old": "",
         "time": "11:20:39",
         "scores": {
-          "score": 46.3,
+          "score": 46.6,
           "stars": 4.7,
-          "total": 438,
-          "avg_return": 15,
+          "total": 440,
+          "avg_return": 16,
           "return_pct": null,
-          "analyst_rank": 728,
-          "success_rate": 46.3,
+          "analyst_rank": 656,
+          "success_rate": 46.6,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1057,41 +1081,16 @@
         "rating_old": "",
         "time": "11:11:12",
         "scores": {
-          "score": 50.2,
+          "score": 50.1,
           "stars": 4.2,
-          "total": 416,
-          "avg_return": 5.8,
+          "total": 417,
+          "avg_return": 5.9,
           "return_pct": null,
-          "analyst_rank": 2127,
-          "success_rate": 50.2,
+          "analyst_rank": 2066,
+          "success_rate": 50.1,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 14,
-        "pt_old": 26,
-        "firm": "Truist Financial",
-        "analyst": "Alexandra Mandery",
-        "slug": "alexandra-mandery",
-        "date": "2026-08-20",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "12:16:07",
-        "scores": {
-          "score": 15.8,
-          "stars": 0.6,
-          "total": 19,
-          "avg_return": -9.3,
-          "return_pct": null,
-          "analyst_rank": 11096,
-          "success_rate": 15.8,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

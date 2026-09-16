@@ -1002,7 +1002,7 @@
       "count": 3,
       "median": 15,
       "average": 15,
-      "updated": "2026-08-21",
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 15,
@@ -1010,7 +1010,7 @@
           "count": 2,
           "median": 16,
           "average": 15.5,
-          "updated": "2026-08-05"
+          "updated": "2026-09-16"
         },
         "2": {
           "low": 16,
@@ -1018,7 +1018,7 @@
           "count": 1,
           "median": 16,
           "average": 16,
-          "updated": "2026-08-05"
+          "updated": "2026-09-16"
         },
         "3": {
           "low": 16,
@@ -1026,7 +1026,7 @@
           "count": 1,
           "median": 16,
           "average": 16,
-          "updated": "2026-08-05"
+          "updated": "2026-09-16"
         },
         "4": {
           "low": 16,
@@ -1034,7 +1034,7 @@
           "count": 1,
           "median": 16,
           "average": 16,
-          "updated": "2026-08-05"
+          "updated": "2026-09-16"
         },
         "5": {
           "count": 0,
@@ -1092,16 +1092,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 11.53,
+          "c": 11.55,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 16,
+        "pt_old": null,
+        "firm": "Northland Securities",
+        "analyst": "Greg Gibas",
+        "slug": "greg-gibas",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 46,
+          "stars": 4.5,
+          "total": 311,
+          "avg_return": 11.9,
+          "return_pct": null,
+          "analyst_rank": 1238,
+          "success_rate": 46,
+          "stock_avg_return": 8.2,
+          "stock_success_rate": 65,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 14,
@@ -1117,13 +1142,13 @@
           "score": 33.3,
           "stars": 0.5,
           "total": 21,
-          "avg_return": -10.2,
+          "avg_return": -10.4,
           "return_pct": null,
-          "analyst_rank": 11257,
+          "analyst_rank": 11259,
           "success_rate": 33.3,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1133,7 +1158,7 @@
         "pt_old": null,
         "firm": "Truist Financial",
         "analyst": "Patrick Keough",
-        "slug": "",
+        "slug": "patrick-keough",
         "date": "2026-08-19",
         "rating_new": "Hold",
         "rating_old": "",
@@ -1148,33 +1173,8 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 16,
-        "pt_old": null,
-        "firm": "Northland Securities",
-        "analyst": "Greg Gibas",
-        "slug": "greg-gibas",
-        "date": "2026-08-05",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "17:20:21",
-        "scores": {
-          "score": 45.7,
-          "stars": 4.5,
-          "total": 311,
-          "avg_return": 11.9,
-          "return_pct": null,
-          "analyst_rank": 1267,
-          "success_rate": 45.7,
-          "stock_avg_return": 8.3,
-          "stock_success_rate": 65,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Maintains",
@@ -1188,16 +1188,16 @@
         "rating_old": "",
         "time": "09:46:05",
         "scores": {
-          "score": 40.7,
+          "score": 40.9,
           "stars": 1.4,
           "total": 337,
-          "avg_return": -0.2,
+          "avg_return": -0.1,
           "return_pct": null,
-          "analyst_rank": 9037,
-          "success_rate": 40.7,
-          "stock_avg_return": -0.4,
+          "analyst_rank": 8927,
+          "success_rate": 40.9,
+          "stock_avg_return": -1,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
