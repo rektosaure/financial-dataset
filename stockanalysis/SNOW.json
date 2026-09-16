@@ -853,19 +853,6 @@
     "recommendations": [
       {
         "buy": 10,
-        "date": "2025-09-30",
-        "hold": 7,
-        "sell": 1,
-        "month": "Sep '25",
-        "score": 6.96078431372549,
-        "total": 51,
-        "updated": "2025-09-30",
-        "consensus": "Buy",
-        "strongBuy": 32,
-        "strongSell": 1
-      },
-      {
-        "buy": 10,
         "date": "2025-10-27",
         "hold": 7,
         "sell": 1,
@@ -1006,15 +993,28 @@
         "consensus": "Buy",
         "strongBuy": 35,
         "strongSell": 1
+      },
+      {
+        "buy": 9,
+        "date": "2026-09-14",
+        "hold": 6,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 7.5,
+        "total": 50,
+        "updated": "2026-09-14",
+        "consensus": "Buy",
+        "strongBuy": 34,
+        "strongSell": 1
       }
     ],
     "targets": {
       "low": 280,
       "high": 525,
-      "count": 36,
-      "median": 440,
-      "average": 423.44,
-      "updated": "2026-09-04",
+      "count": 37,
+      "median": 436,
+      "average": 422.81,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 280,
@@ -1108,16 +1108,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 332.35,
+          "c": 330,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 400,
+        "pt_old": null,
+        "firm": "StoneX",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 425,
@@ -1130,16 +1155,16 @@
         "rating_old": "",
         "time": "12:30:15",
         "scores": {
-          "score": 62.4,
+          "score": 62.6,
           "stars": 4.8,
           "total": 492,
-          "avg_return": 11.4,
+          "avg_return": 11.3,
           "return_pct": null,
-          "analyst_rank": 498,
-          "success_rate": 62.4,
-          "stock_avg_return": 15.9,
+          "analyst_rank": 483,
+          "success_rate": 62.6,
+          "stock_avg_return": 15.7,
           "stock_success_rate": 64.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1155,16 +1180,16 @@
         "rating_old": "",
         "time": "12:20:24",
         "scores": {
-          "score": 63.2,
+          "score": 63.3,
           "stars": 4.8,
-          "total": 356,
-          "avg_return": 13,
+          "total": 357,
+          "avg_return": 13.1,
           "return_pct": null,
-          "analyst_rank": 549,
-          "success_rate": 63.2,
-          "stock_avg_return": 24.5,
+          "analyst_rank": 529,
+          "success_rate": 63.3,
+          "stock_avg_return": 23.5,
           "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1180,16 +1205,16 @@
         "rating_old": "",
         "time": "21:30:26",
         "scores": {
-          "score": 59.4,
+          "score": 59,
           "stars": 4.7,
           "total": 283,
-          "avg_return": 13.8,
+          "avg_return": 13.2,
           "return_pct": null,
-          "analyst_rank": 724,
-          "success_rate": 59.4,
-          "stock_avg_return": 54.6,
+          "analyst_rank": 766,
+          "success_rate": 59,
+          "stock_avg_return": 53.5,
           "stock_success_rate": 75,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1207,39 +1232,14 @@
         "scores": {
           "score": 68.1,
           "stars": 4.9,
-          "total": 498,
+          "total": 499,
           "avg_return": 17.8,
           "return_pct": null,
-          "analyst_rank": 147,
+          "analyst_rank": 148,
           "success_rate": 68.1,
-          "stock_avg_return": 38.7,
-          "stock_success_rate": 81.2,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 425,
-        "pt_old": 275,
-        "firm": "Raymond James",
-        "analyst": "Adam Tindle",
-        "slug": "adam-tindle",
-        "date": "2026-09-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:50:18",
-        "scores": {
-          "score": 50.9,
-          "stars": 4.2,
-          "total": 316,
-          "avg_return": 6.8,
-          "return_pct": null,
-          "analyst_rank": 2058,
-          "success_rate": 50.9,
-          "stock_avg_return": 15.8,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "stock_avg_return": 38.1,
+          "stock_success_rate": 75,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

@@ -1019,50 +1019,50 @@
     ],
     "targets": {
       "low": 100,
-      "high": 182,
-      "count": 17,
+      "high": 175,
+      "count": 16,
       "median": 155,
-      "average": 148.53,
+      "average": 146.44,
       "updated": "2026-09-10",
       "filtered": {
         "1": {
           "low": 100,
-          "high": 182,
-          "count": 15,
+          "high": 175,
+          "count": 14,
           "median": 155,
-          "average": 151.33,
+          "average": 149.14,
           "updated": "2026-09-10"
         },
         "2": {
           "low": 100,
-          "high": 182,
-          "count": 14,
-          "median": 160,
-          "average": 152.86,
+          "high": 175,
+          "count": 13,
+          "median": 155,
+          "average": 150.62,
           "updated": "2026-09-10"
         },
         "3": {
           "low": 100,
-          "high": 182,
-          "count": 13,
+          "high": 175,
+          "count": 12,
           "median": 155,
-          "average": 151.15,
+          "average": 148.58,
           "updated": "2026-09-10"
         },
         "4": {
           "low": 100,
-          "high": 182,
-          "count": 13,
+          "high": 175,
+          "count": 11,
           "median": 155,
-          "average": 151.15,
+          "average": 148,
           "updated": "2026-09-10"
         },
         "5": {
           "low": 105,
-          "high": 182,
-          "count": 5,
+          "high": 175,
+          "count": 4,
           "median": 160,
-          "average": 155.4,
+          "average": 148.75,
           "updated": "2026-09-10"
         }
       },
@@ -1117,16 +1117,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 140.21,
+          "c": 143.3,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Truist Financial",
+        "analyst": "Junaid Siddiqui",
+        "slug": "junaid-siddiqui",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 75,
+          "stars": 4.9,
+          "total": 120,
+          "avg_return": 34.1,
+          "return_pct": null,
+          "analyst_rank": 282,
+          "success_rate": 75,
+          "stock_avg_return": 7.9,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 155,
@@ -1139,16 +1163,16 @@
         "rating_old": "",
         "time": "11:55:55",
         "scores": {
-          "score": 59.9,
+          "score": 60.1,
           "stars": 4.8,
-          "total": 489,
-          "avg_return": 13.8,
+          "total": 486,
+          "avg_return": 14,
           "return_pct": null,
-          "analyst_rank": 434,
-          "success_rate": 59.9,
-          "stock_avg_return": 0,
+          "analyst_rank": 418,
+          "success_rate": 60.1,
+          "stock_avg_return": -1.1,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1164,41 +1188,16 @@
         "rating_old": "",
         "time": "10:57:11",
         "scores": {
-          "score": 66,
+          "score": 65,
           "stars": 4.5,
           "total": 103,
-          "avg_return": 16.6,
+          "avg_return": 16.7,
           "return_pct": null,
           "analyst_rank": 1172,
-          "success_rate": 66,
-          "stock_avg_return": 4.6,
+          "success_rate": 65,
+          "stock_avg_return": 3.8,
           "stock_success_rate": 60,
-          "number_of_ranked_experts": 12502
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 182,
-        "pt_old": null,
-        "firm": "Truist Financial",
-        "analyst": "Junaid Siddiqui",
-        "slug": "junaid-siddiqui",
-        "date": "2026-07-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:14:01",
-        "scores": {
-          "score": 76.5,
-          "stars": 4.9,
-          "total": 119,
-          "avg_return": 35.8,
-          "return_pct": null,
-          "analyst_rank": 252,
-          "success_rate": 76.5,
-          "stock_avg_return": 9.2,
-          "stock_success_rate": 66.7,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1219,11 +1218,11 @@
           "total": 61,
           "avg_return": 14.6,
           "return_pct": null,
-          "analyst_rank": 2039,
+          "analyst_rank": 2017,
           "success_rate": 63.9,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12502
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1239,16 +1238,16 @@
         "rating_old": "",
         "time": "12:12:12",
         "scores": {
-          "score": 66.2,
-          "stars": 4.4,
+          "score": 60.8,
+          "stars": 4.2,
           "total": 74,
-          "avg_return": 16.2,
+          "avg_return": 13.8,
           "return_pct": null,
-          "analyst_rank": 1575,
-          "success_rate": 66.2,
-          "stock_avg_return": -9.8,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12502
+          "analyst_rank": 1951,
+          "success_rate": 60.8,
+          "stock_avg_return": -10.6,
+          "stock_success_rate": 37.5,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1256,18 +1255,18 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 160.9,
-      "median": 165,
+      "avg": 160.55,
+      "median": 160,
       "low": 130,
       "high": 200,
-      "numPriceTargets": 16
+      "numPriceTargets": 17
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Buy",
-      "score": 5.55555,
-      "count": 18,
-      "strongBuy": 10,
+      "score": 5.78945,
+      "count": 19,
+      "strongBuy": 11,
       "buy": 0,
       "hold": 8,
       "sell": 0,
