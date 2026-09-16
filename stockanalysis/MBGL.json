@@ -827,13 +827,13 @@
       },
       {
         "buy": 0,
-        "date": "2026-09-01",
-        "hold": 5,
+        "date": "2026-09-09",
+        "hold": 6,
         "sell": 0,
         "month": "Sep '26",
-        "score": 4.444444444444445,
-        "total": 9,
-        "updated": "2026-09-01",
+        "score": 4,
+        "total": 10,
+        "updated": "2026-09-09",
         "consensus": "Buy",
         "strongBuy": 4,
         "strongSell": 0
@@ -842,42 +842,42 @@
     "targets": {
       "low": 22,
       "high": 25,
-      "count": 7,
+      "count": 8,
       "median": 23,
-      "average": 23.14,
-      "updated": "2026-09-04",
+      "average": 23,
+      "updated": "2026-09-09",
       "filtered": {
         "1": {
           "low": 22,
           "high": 25,
-          "count": 6,
+          "count": 7,
           "median": 23,
-          "average": 23.17,
-          "updated": "2026-09-04"
+          "average": 23,
+          "updated": "2026-09-09"
         },
         "2": {
           "low": 22,
           "high": 25,
-          "count": 6,
+          "count": 7,
           "median": 23,
-          "average": 23.17,
-          "updated": "2026-09-04"
+          "average": 23,
+          "updated": "2026-09-09"
         },
         "3": {
           "low": 22,
           "high": 23,
-          "count": 5,
+          "count": 4,
           "median": 23,
-          "average": 22.8,
-          "updated": "2026-09-04"
+          "average": 22.5,
+          "updated": "2026-09-09"
         },
         "4": {
-          "low": 23,
+          "low": 22,
           "high": 23,
-          "count": 1,
+          "count": 2,
           "median": 23,
-          "average": 23,
-          "updated": "2026-09-02"
+          "average": 22.5,
+          "updated": "2026-09-09"
         },
         "5": {
           "count": 0,
@@ -899,16 +899,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 20.16,
+          "c": 20.335,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-12"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 22,
+        "pt_old": null,
+        "firm": "Evercore ISI",
+        "analyst": "David Motemaden",
+        "slug": "david-motemaden",
+        "date": "2026-09-09",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "09:15:28",
+        "scores": {
+          "score": 58.1,
+          "stars": 4.1,
+          "total": 227,
+          "avg_return": 6.2,
+          "return_pct": null,
+          "analyst_rank": 2295,
+          "success_rate": 58.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 23,
@@ -921,16 +946,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 54.5,
-          "stars": 3.3,
+          "score": 51.5,
+          "stars": 2.9,
           "total": 495,
-          "avg_return": 1.9,
+          "avg_return": 1.1,
           "return_pct": null,
-          "analyst_rank": 4139,
-          "success_rate": 54.5,
+          "analyst_rank": 5258,
+          "success_rate": 51.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -946,16 +971,16 @@
         "rating_old": "",
         "time": "09:00:40",
         "scores": {
-          "score": 51.8,
+          "score": 50,
           "stars": 4.2,
-          "total": 307,
-          "avg_return": 7.4,
+          "total": 310,
+          "avg_return": 7.1,
           "return_pct": null,
-          "analyst_rank": 1938,
-          "success_rate": 51.8,
-          "stock_avg_return": -0.9,
+          "analyst_rank": 1996,
+          "success_rate": 50,
+          "stock_avg_return": -3,
           "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -971,16 +996,16 @@
         "rating_old": "",
         "time": "09:00:26",
         "scores": {
-          "score": 54.5,
-          "stars": 3.6,
+          "score": 53.5,
+          "stars": 3.5,
           "total": 497,
-          "avg_return": 2.5,
+          "avg_return": 2.2,
           "return_pct": null,
-          "analyst_rank": 3541,
-          "success_rate": 54.5,
+          "analyst_rank": 3709,
+          "success_rate": 53.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -996,41 +1021,16 @@
         "rating_old": "",
         "time": "10:15:48",
         "scores": {
-          "score": 44.3,
+          "score": 44.5,
           "stars": 0.1,
-          "total": 325,
+          "total": 326,
           "avg_return": -6.7,
           "return_pct": null,
-          "analyst_rank": 12158,
-          "success_rate": 44.3,
+          "analyst_rank": 12140,
+          "success_rate": 44.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 23,
-        "pt_old": null,
-        "firm": "Citi",
-        "analyst": "Peter Christiansen",
-        "slug": "peter-christiansen",
-        "date": "2026-08-11",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "01:35:21",
-        "scores": {
-          "score": 53.4,
-          "stars": 3.1,
-          "total": 251,
-          "avg_return": 2.3,
-          "return_pct": null,
-          "analyst_rank": 4638,
-          "success_rate": 53.4,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1038,20 +1038,20 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 24.89,
+      "avg": 24.6,
       "median": 23,
       "low": 22,
       "high": 32,
-      "numPriceTargets": 9
+      "numPriceTargets": 10
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Buy",
-      "score": 4.44445,
-      "count": 9,
+      "score": 3.999999999999999,
+      "count": 10,
       "strongBuy": 4,
       "buy": 0,
-      "hold": 5,
+      "hold": 6,
       "sell": 0,
       "strongSell": 0
     }
@@ -3131,91 +3131,91 @@
           "Q1"
         ],
         "marketcap": [
-          6009932608,
+          5996665649,
           7056000000,
           null,
           null,
           null
         ],
         "ev": [
-          7831932608,
+          7818665649,
           7186000000,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          20.16,
+          20.26,
           21.98562,
           null,
           null,
           null
         ],
         "pe": [
-          29.31659,
+          29.25188,
           30.545,
           null,
           null,
           null
         ],
         "peForward": [
-          13.52149,
+          13.49164,
           12.99,
           null,
           null,
           null
         ],
         "ps": [
-          3.27651,
+          3.31227,
           3.96,
           null,
           null,
           null
         ],
         "pb": [
-          0.60433,
+          0.60733,
           0.717,
           null,
           null,
           null
         ],
         "pfcf": [
-          14.39128,
+          14.54833,
           17.552,
           null,
           null,
           null
         ],
         "pocf": [
-          13.47755,
+          13.62462,
           16.72,
           null,
           null,
           null
         ],
         "evrevenue": [
-          4.28092,
+          4.31668,
           4.033,
           null,
           null,
           null
         ],
         "evebitda": [
-          10.84581,
+          10.93639,
           9.925,
           null,
           null,
           null
         ],
         "evebit": [
-          19.12709,
+          19.28684,
           17.357,
           null,
           null,
           null
         ],
         "evfcf": [
-          18.8029,
+          18.95995,
           17.876,
           null,
           null,
@@ -3309,14 +3309,14 @@
           null
         ],
         "earningsyield": [
-          0.0344909,
+          0.0341186,
           0.03274,
           null,
           null,
           null
         ],
         "fcfyield": [
-          0.06948649999999999,
+          0.0687364,
           0.05697,
           null,
           null,
