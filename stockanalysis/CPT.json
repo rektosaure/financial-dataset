@@ -897,19 +897,6 @@
     "recommendations": [
       {
         "buy": 2,
-        "date": "2025-09-30",
-        "hold": 13,
-        "sell": 1,
-        "month": "Sep '25",
-        "score": 3,
-        "total": 25,
-        "updated": "2025-09-30",
-        "consensus": "Buy",
-        "strongBuy": 8,
-        "strongSell": 1
-      },
-      {
-        "buy": 2,
         "date": "2025-10-31",
         "hold": 13,
         "sell": 1,
@@ -1050,6 +1037,19 @@
         "consensus": "Hold",
         "strongBuy": 6,
         "strongSell": 1
+      },
+      {
+        "buy": 1,
+        "date": "2026-09-14",
+        "hold": 15,
+        "sell": 1,
+        "month": "Sep '26",
+        "score": 2.0833333333333335,
+        "total": 24,
+        "updated": "2026-09-14",
+        "consensus": "Hold",
+        "strongBuy": 6,
+        "strongSell": 1
       }
     ],
     "targets": {
@@ -1148,12 +1148,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 103.83,
+          "c": 102.84,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
@@ -1287,8 +1287,8 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 116.97,
-      "median": 116,
+      "avg": 116.65,
+      "median": 115.5,
       "low": 105,
       "high": 132,
       "numPriceTargets": 22
