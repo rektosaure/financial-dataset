@@ -30,11 +30,11 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "1,786,554,540",
-      "enterpriseValue": "1,934,562,540"
+      "marketcap": "1,776,167,595",
+      "enterpriseValue": "1,924,175,595"
     },
     "dates": {
-      "earningsdate": "Aug 6, 2026",
+      "earningsdate": "Nov 5, 2026",
       "exdivdate": "n/a"
     },
     "shares": {
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "0.605",
-      "ch1y": "157.68%",
-      "sma50": "6.865",
-      "sma200": "4.600",
-      "rsi": "46.946",
-      "averageVolume": "4,880,148"
+      "ch1y": "151.47%",
+      "sma50": "6.884",
+      "sma200": "4.616",
+      "rsi": "46.483",
+      "averageVolume": "4,948,165"
     },
     "shortSelling": {
       "shortInterest": "10,963,180",
@@ -152,7 +152,7 @@
     },
     "analystForecasts": {
       "priceTarget": "$7.42",
-      "priceTargetChange": "7.85%",
+      "priceTargetChange": "8.48%",
       "analystRatings": "Buy",
       "analystCount": "9",
       "revenue3y": "9.55%",
@@ -913,48 +913,52 @@
       }
     ],
     "targets": {
-      "low": 5,
+      "low": 6,
       "high": 8,
       "count": 4,
       "median": 8,
-      "average": 6.75,
+      "average": 7.13,
       "updated": "2026-09-09",
       "filtered": {
         "1": {
-          "low": 5,
+          "low": 6,
           "high": 8,
           "count": 3,
-          "median": 6,
-          "average": 6.33,
-          "updated": "2026-08-11"
+          "median": 8,
+          "average": 7.33,
+          "updated": "2026-09-09"
         },
         "2": {
-          "low": 5,
+          "low": 6,
           "high": 8,
           "count": 3,
-          "median": 6,
-          "average": 6.33,
-          "updated": "2026-08-11"
+          "median": 8,
+          "average": 7.33,
+          "updated": "2026-09-09"
         },
         "3": {
-          "low": 5,
+          "low": 8,
           "high": 8,
           "count": 2,
           "median": 8,
-          "average": 6.5,
-          "updated": "2026-08-11"
+          "average": 8,
+          "updated": "2026-09-09"
         },
         "4": {
+          "low": 8,
+          "high": 8,
+          "count": 2,
+          "median": 8,
+          "average": 8,
+          "updated": "2026-09-09"
+        },
+        "5": {
           "low": 8,
           "high": 8,
           "count": 1,
           "median": 8,
           "average": 8,
-          "updated": "2026-08-11"
-        },
-        "5": {
-          "count": 0,
-          "updated": ""
+          "updated": "2026-09-09"
         }
       },
       "currency": "USD",
@@ -1008,38 +1012,62 @@
           "t": "2026-08-01"
         },
         {
-          "c": 6.88,
+          "c": 6.85,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-15"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Initiates",
-        "pt_now": 8,
+        "action_rt": "Maintains",
+        "pt_now": null,
         "pt_old": null,
-        "firm": "UBS",
-        "analyst": "Unknown Analyst",
-        "slug": "",
-        "date": "2026-09-09",
-        "rating_new": "Hold",
+        "firm": "Craig-Hallum",
+        "analyst": "Matt Hewitt",
+        "slug": "matt-hewitt",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
+          "score": 44.8,
+          "stars": 3.6,
+          "total": 482,
+          "avg_return": 3.2,
           "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
+          "analyst_rank": 3490,
+          "success_rate": 44.8,
+          "stock_avg_return": 41,
+          "stock_success_rate": 61.1,
+          "number_of_ranked_experts": 12498
+        }
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 8,
+        "pt_old": 2.5,
+        "firm": "UBS",
+        "analyst": "Doug Schenkel",
+        "slug": "doug-schenkel",
+        "date": "2026-09-09",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "10:46:55",
+        "scores": {
+          "score": 65.4,
+          "stars": 4.9,
+          "total": 309,
+          "avg_return": 26.6,
+          "return_pct": null,
+          "analyst_rank": 179,
+          "success_rate": 65.4,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1055,16 +1083,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 49.6,
+          "score": 49,
           "stars": 4.3,
           "total": 337,
-          "avg_return": 8.7,
+          "avg_return": 8.1,
           "return_pct": null,
-          "analyst_rank": 1643,
-          "success_rate": 49.6,
-          "stock_avg_return": 10.2,
+          "analyst_rank": 1712,
+          "success_rate": 49,
+          "stock_avg_return": 6.2,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1089,7 +1117,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1105,40 +1133,16 @@
         "rating_old": "",
         "time": "08:50:51",
         "scores": {
-          "score": 63.4,
+          "score": 60.7,
           "stars": 4.7,
           "total": 145,
-          "avg_return": 19.4,
+          "avg_return": 19.6,
           "return_pct": null,
-          "analyst_rank": 751,
-          "success_rate": 63.4,
+          "analyst_rank": 741,
+          "success_rate": 60.7,
           "stock_avg_return": -6,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
-        }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Guggenheim",
-        "analyst": "Subbu Nambi",
-        "slug": "subbu-nambi",
-        "date": "2026-05-11",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "12:50:38",
-        "scores": {
-          "score": 74,
-          "stars": 4.9,
-          "total": 146,
-          "avg_return": 37.4,
-          "return_pct": null,
-          "analyst_rank": 199,
-          "success_rate": 74,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       }
     ],
@@ -7168,7 +7172,7 @@
           "Q4"
         ],
         "marketcap": [
-          1786554540,
+          1776167595,
           471323941,
           773047102,
           865835540,
@@ -7176,7 +7180,7 @@
           5508119698
         ],
         "ev": [
-          1934562540,
+          1924175595,
           782106940,
           1076220102,
           1273896539,
@@ -7495,7 +7499,7 @@
           "Q3"
         ],
         "marketcap": [
-          1786554540,
+          1776167595,
           920438463,
           414264348,
           471323941,
@@ -7518,7 +7522,7 @@
           6450090164
         ],
         "ev": [
-          1934562540,
+          1924175595,
           1227068463,
           722414348,
           782106940,
@@ -8253,7 +8257,7 @@
           "Q4"
         ],
         "marketcap": [
-          1786554540,
+          1776167595,
           471323941,
           773047102,
           865835540,
@@ -8261,7 +8265,7 @@
           5508119698
         ],
         "ev": [
-          1934562540,
+          1924175595,
           782106940,
           1076220102,
           1273896539,
