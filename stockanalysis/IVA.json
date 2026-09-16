@@ -873,50 +873,50 @@
     "targets": {
       "low": 10,
       "high": 26,
-      "count": 9,
-      "median": 14,
-      "average": 15.44,
-      "updated": "2026-07-31",
+      "count": 8,
+      "median": 15,
+      "average": 16.13,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 10,
           "high": 26,
-          "count": 9,
-          "median": 14,
-          "average": 15.44,
-          "updated": "2026-07-31"
+          "count": 8,
+          "median": 15,
+          "average": 16.13,
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 10,
           "high": 26,
-          "count": 9,
-          "median": 14,
-          "average": 15.44,
-          "updated": "2026-07-31"
+          "count": 8,
+          "median": 15,
+          "average": 16.13,
+          "updated": "2026-09-15"
         },
         "3": {
           "low": 10,
           "high": 26,
-          "count": 9,
-          "median": 14,
-          "average": 15.44,
-          "updated": "2026-07-31"
+          "count": 8,
+          "median": 15,
+          "average": 16.13,
+          "updated": "2026-09-15"
         },
         "4": {
           "low": 10,
           "high": 26,
-          "count": 7,
-          "median": 14,
-          "average": 15.57,
-          "updated": "2026-07-31"
+          "count": 6,
+          "median": 15,
+          "average": 16.5,
+          "updated": "2026-09-15"
         },
         "5": {
           "low": 10,
           "high": 26,
-          "count": 7,
-          "median": 14,
-          "average": 15.57,
-          "updated": "2026-07-31"
+          "count": 6,
+          "median": 15,
+          "average": 16.5,
+          "updated": "2026-09-15"
         }
       },
       "currency": "USD",
@@ -970,16 +970,65 @@
           "t": "2026-08-01"
         },
         {
-          "c": 3.88,
+          "c": 3.86,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 14,
+        "pt_old": 11,
+        "firm": "Guggenheim",
+        "analyst": "Seamus Fernandez",
+        "slug": "seamus-fernandez",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:35:42",
+        "scores": {
+          "score": 64.5,
+          "stars": 4.9,
+          "total": 358,
+          "avg_return": 29.9,
+          "return_pct": null,
+          "analyst_rank": 125,
+          "success_rate": 64.5,
+          "stock_avg_return": 4.2,
+          "stock_success_rate": 20,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Truist Financial",
+        "analyst": "Srikripa Devarakonda",
+        "slug": "srikripa-devarakonda",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 60.8,
+          "stars": 4.9,
+          "total": 370,
+          "avg_return": 26.7,
+          "return_pct": null,
+          "analyst_rank": 183,
+          "success_rate": 60.8,
+          "stock_avg_return": -18.7,
+          "stock_success_rate": 25,
+          "number_of_ranked_experts": 12498
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 10,
@@ -992,41 +1041,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 58.4,
+          "score": 57,
           "stars": 5,
           "total": 495,
-          "avg_return": 47.9,
+          "avg_return": 47.1,
           "return_pct": null,
-          "analyst_rank": 37,
-          "success_rate": 58.4,
-          "stock_avg_return": 39.9,
-          "stock_success_rate": 85.7,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 13,
-        "pt_old": null,
-        "firm": "Truist Financial",
-        "analyst": "Srikripa Devarakonda",
-        "slug": "srikripa-devarakonda",
-        "date": "2026-07-27",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:50:24",
-        "scores": {
-          "score": 63,
-          "stars": 4.9,
-          "total": 368,
-          "avg_return": 28.1,
-          "return_pct": null,
-          "analyst_rank": 161,
-          "success_rate": 63,
-          "stock_avg_return": -3.4,
-          "stock_success_rate": 25,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 44,
+          "success_rate": 57,
+          "stock_avg_return": 32.8,
+          "stock_success_rate": 71.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1042,16 +1066,16 @@
         "rating_old": "",
         "time": "12:20:26",
         "scores": {
-          "score": 51.8,
+          "score": 51,
           "stars": 4.8,
           "total": 467,
-          "avg_return": 19.4,
+          "avg_return": 18.3,
           "return_pct": null,
-          "analyst_rank": 421,
-          "success_rate": 51.8,
-          "stock_avg_return": 34.8,
-          "stock_success_rate": 52.9,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 443,
+          "success_rate": 51,
+          "stock_avg_return": 32.1,
+          "stock_success_rate": 47.1,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1067,42 +1091,17 @@
         "rating_old": "",
         "time": "11:40:53",
         "scores": {
-          "score": 40.4,
-          "stars": 4.3,
+          "score": 37.7,
+          "stars": 4.2,
           "total": 114,
-          "avg_return": 15.4,
+          "avg_return": 13.5,
           "return_pct": null,
-          "analyst_rank": 1824,
-          "success_rate": 40.4,
-          "stock_avg_return": 3.4,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 2072,
+          "success_rate": 37.7,
+          "stock_avg_return": -12.9,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
         }
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 12,
-        "pt_old": null,
-        "firm": "UBS",
-        "analyst": "Michael Yee",
-        "slug": "michael-yee",
-        "date": "2026-06-12",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 49.2,
-          "stars": 3.8,
-          "total": 476,
-          "avg_return": 3.7,
-          "return_pct": null,
-          "analyst_rank": 3066,
-          "success_rate": 49.2,
-          "stock_avg_return": 14.6,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {

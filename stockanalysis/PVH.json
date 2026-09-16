@@ -930,7 +930,7 @@
       "count": 11,
       "median": 83,
       "average": 87.45,
-      "updated": "2026-09-04",
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 70,
@@ -938,7 +938,7 @@
           "count": 10,
           "median": 83,
           "average": 87.1,
-          "updated": "2026-09-04"
+          "updated": "2026-09-15"
         },
         "2": {
           "low": 78,
@@ -958,10 +958,10 @@
         },
         "4": {
           "low": 78,
-          "high": 100,
-          "count": 4,
-          "median": 83,
-          "average": 85,
+          "high": 79,
+          "count": 2,
+          "median": 79,
+          "average": 78.5,
           "updated": "2026-09-04"
         },
         "5": {
@@ -1020,16 +1020,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 73.01,
+          "c": 71.61,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 88,
+        "pt_old": null,
+        "firm": "Goldman Sachs",
+        "analyst": "Brooke Roach",
+        "slug": "brooke-roach",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 45.9,
+          "stars": 1.5,
+          "total": 279,
+          "avg_return": 0,
+          "return_pct": null,
+          "analyst_rank": 8740,
+          "success_rate": 45.9,
+          "stock_avg_return": -12.6,
+          "stock_success_rate": 18.8,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 78,
@@ -1042,16 +1067,16 @@
         "rating_old": "",
         "time": "10:20:16",
         "scores": {
-          "score": 54,
+          "score": 53.6,
           "stars": 4.4,
           "total": 489,
-          "avg_return": 7.1,
+          "avg_return": 6.9,
           "return_pct": null,
-          "analyst_rank": 1441,
-          "success_rate": 54,
+          "analyst_rank": 1465,
+          "success_rate": 53.6,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1067,16 +1092,16 @@
         "rating_old": "",
         "time": "09:15:30",
         "scores": {
-          "score": 43.6,
-          "stars": 1.9,
+          "score": 42.2,
+          "stars": 1.3,
           "total": 495,
-          "avg_return": 0.1,
+          "avg_return": -0.3,
           "return_pct": null,
-          "analyst_rank": 7861,
-          "success_rate": 43.6,
+          "analyst_rank": 9341,
+          "success_rate": 42.2,
           "stock_avg_return": 2.8,
           "stock_success_rate": 41.7,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1092,16 +1117,16 @@
         "rating_old": "",
         "time": "08:55:46",
         "scores": {
-          "score": 51.4,
-          "stars": 1.9,
+          "score": 57.1,
+          "stars": 1.7,
           "total": 35,
-          "avg_return": 0.8,
+          "avg_return": 0.1,
           "return_pct": null,
-          "analyst_rank": 7677,
-          "success_rate": 51.4,
-          "stock_avg_return": -1.3,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 8351,
+          "success_rate": 57.1,
+          "stock_avg_return": 3.7,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1117,41 +1142,16 @@
         "rating_old": "",
         "time": "16:00:34",
         "scores": {
-          "score": 44.7,
-          "stars": 3.7,
+          "score": 42.5,
+          "stars": 3.6,
           "total": 219,
-          "avg_return": 5.3,
+          "avg_return": 4.5,
           "return_pct": null,
-          "analyst_rank": 3308,
-          "success_rate": 44.7,
-          "stock_avg_return": -9.7,
-          "stock_success_rate": 35.7,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 91,
-        "pt_old": null,
-        "firm": "Jefferies",
-        "analyst": "Unknown Analyst",
-        "slug": "",
-        "date": "2026-09-03",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "14:05:37",
-        "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
-          "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 3616,
+          "success_rate": 42.5,
+          "stock_avg_return": -11.8,
+          "stock_success_rate": 21.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }

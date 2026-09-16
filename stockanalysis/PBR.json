@@ -769,19 +769,6 @@
     "recommendations": [
       {
         "buy": 3,
-        "date": "2025-09-30",
-        "hold": 4,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 6.071428571428571,
-        "total": 14,
-        "updated": "2025-09-30",
-        "consensus": "Buy",
-        "strongBuy": 7,
-        "strongSell": 0
-      },
-      {
-        "buy": 3,
         "date": "2025-10-31",
         "hold": 4,
         "sell": 0,
@@ -922,38 +909,51 @@
         "consensus": "Buy",
         "strongBuy": 8,
         "strongSell": 0
+      },
+      {
+        "buy": 3,
+        "date": "2026-09-10",
+        "hold": 3,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 6.785714285714286,
+        "total": 14,
+        "updated": "2026-09-10",
+        "consensus": "Buy",
+        "strongBuy": 8,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 19,
       "high": 24,
-      "count": 8,
+      "count": 7,
       "median": 22,
-      "average": 21.51,
+      "average": 21.73,
       "updated": "2026-09-01",
       "filtered": {
         "1": {
           "low": 19,
           "high": 24,
-          "count": 6,
+          "count": 5,
           "median": 22,
-          "average": 21.35,
+          "average": 21.62,
           "updated": "2026-09-01"
         },
         "2": {
           "low": 19,
-          "high": 22.1,
+          "high": 24,
           "count": 5,
-          "median": 21,
-          "average": 20.82,
-          "updated": "2026-06-25"
+          "median": 22,
+          "average": 21.62,
+          "updated": "2026-09-01"
         },
         "3": {
           "low": 19,
           "high": 22.1,
-          "count": 4,
+          "count": 3,
           "median": 22,
-          "average": 20.78,
+          "average": 21.03,
           "updated": "2026-06-25"
         },
         "4": {
@@ -1020,12 +1020,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 21.15,
+          "c": 21.755,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
@@ -1042,16 +1042,16 @@
         "rating_old": "",
         "time": "09:55:36",
         "scores": {
-          "score": 40,
-          "stars": 1.8,
+          "score": 80,
+          "stars": 2.1,
           "total": 5,
-          "avg_return": 3.2,
+          "avg_return": 6,
           "return_pct": null,
-          "analyst_rank": 7940,
-          "success_rate": 40,
-          "stock_avg_return": -1,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 7200,
+          "success_rate": 80,
+          "stock_avg_return": 4.2,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1070,13 +1070,13 @@
           "score": 64.3,
           "stars": 0.8,
           "total": 14,
-          "avg_return": -6.6,
+          "avg_return": -6.9,
           "return_pct": null,
-          "analyst_rank": 10465,
+          "analyst_rank": 10408,
           "success_rate": 64.3,
-          "stock_avg_return": -19,
+          "stock_avg_return": -17.6,
           "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1093,15 +1093,15 @@
         "time": "20:40:19",
         "scores": {
           "score": 42.4,
-          "stars": 1.6,
+          "stars": 1.8,
           "total": 85,
-          "avg_return": 0,
+          "avg_return": 0.3,
           "return_pct": null,
-          "analyst_rank": 8544,
+          "analyst_rank": 7895,
           "success_rate": 42.4,
-          "stock_avg_return": -5.2,
+          "stock_avg_return": -4.2,
           "stock_success_rate": 29.4,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         }
       },
       {
@@ -1116,16 +1116,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 64,
+          "score": 64.7,
           "stars": 4.4,
           "total": 136,
-          "avg_return": 11.4,
+          "avg_return": 12,
           "return_pct": null,
-          "analyst_rank": 1598,
-          "success_rate": 64,
-          "stock_avg_return": 19.3,
+          "analyst_rank": 1412,
+          "success_rate": 64.7,
+          "stock_avg_return": 21.2,
           "stock_success_rate": 83.3,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1150,7 +1150,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -1158,11 +1158,11 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 22.11,
-      "median": 22,
+      "avg": 22.38,
+      "median": 22.14,
       "low": 17.4,
       "high": 27,
-      "numPriceTargets": 13
+      "numPriceTargets": 14
     },
     "currentRatings": {
       "source": "spg",
