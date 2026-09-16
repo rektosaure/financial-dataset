@@ -1010,18 +1010,18 @@
     ],
     "targets": {
       "low": 84.5,
-      "high": 105,
-      "count": 8,
+      "high": 111,
+      "count": 9,
       "median": 97,
-      "average": 94.88,
-      "updated": "2026-08-04",
+      "average": 96.65,
+      "updated": "2026-09-15",
       "filtered": {
         "1": {
           "low": 84.5,
           "high": 105,
-          "count": 6,
-          "median": 97.72,
-          "average": 95.2,
+          "count": 5,
+          "median": 97.54,
+          "average": 96.41,
           "updated": "2026-08-04"
         },
         "2": {
@@ -1100,16 +1100,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 79.82,
+          "c": 79.46,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 111,
+        "pt_old": null,
+        "firm": "Bernstein",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 105,
@@ -1122,16 +1147,16 @@
         "rating_old": "",
         "time": "15:30:30",
         "scores": {
-          "score": 53.2,
-          "stars": 3.8,
+          "score": 51.8,
+          "stars": 3.7,
           "total": 419,
-          "avg_return": 3.7,
+          "avg_return": 3.1,
           "return_pct": null,
-          "analyst_rank": 2999,
-          "success_rate": 53.2,
-          "stock_avg_return": 13,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 3361,
+          "success_rate": 51.8,
+          "stock_avg_return": 12.2,
+          "stock_success_rate": 70,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1147,22 +1172,22 @@
         "rating_old": "",
         "time": "05:35:36",
         "scores": {
-          "score": 52,
-          "stars": 3.2,
-          "total": 229,
-          "avg_return": 2.5,
+          "score": 50.4,
+          "stars": 3.1,
+          "total": 230,
+          "avg_return": 2.3,
           "return_pct": null,
-          "analyst_rank": 4604,
-          "success_rate": 52,
-          "stock_avg_return": 12.5,
+          "analyst_rank": 4751,
+          "success_rate": 50.4,
+          "stock_avg_return": 11.1,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
       {
         "action_rt": "Maintains",
-        "pt_now": 97.72434,
+        "pt_now": 97.540632,
         "pt_old": null,
         "firm": "DBS",
         "analyst": "Zheng Feng Chee",
@@ -1172,16 +1197,16 @@
         "rating_old": "",
         "time": "10:30:31",
         "scores": {
-          "score": 59.7,
-          "stars": 1.8,
-          "total": 129,
-          "avg_return": 0.1,
+          "score": 59.2,
+          "stars": 1.6,
+          "total": 130,
+          "avg_return": 0,
           "return_pct": null,
-          "analyst_rank": 8083,
-          "success_rate": 59.7,
-          "stock_avg_return": -7,
+          "analyst_rank": 8512,
+          "success_rate": 59.2,
+          "stock_avg_return": -9.5,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12514
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1197,41 +1222,16 @@
         "rating_old": "",
         "time": "09:41:32",
         "scores": {
-          "score": 49.5,
-          "stars": 3.6,
+          "score": 49.3,
+          "stars": 3.5,
           "total": 499,
-          "avg_return": 3,
+          "avg_return": 2.6,
           "return_pct": null,
-          "analyst_rank": 3412,
-          "success_rate": 49.5,
-          "stock_avg_return": 11.6,
-          "stock_success_rate": 83.3,
-          "number_of_ranked_experts": 12514
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 94,
-        "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Andrea Pistacchi",
-        "slug": "andrea-pistacchi",
-        "date": "2026-07-28",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:10:07",
-        "scores": {
-          "score": 43.4,
-          "stars": 0.9,
-          "total": 99,
-          "avg_return": -2,
-          "return_pct": null,
-          "analyst_rank": 10304,
-          "success_rate": 43.4,
-          "stock_avg_return": 18,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 3631,
+          "success_rate": 49.3,
+          "stock_avg_return": 8.7,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
