@@ -999,25 +999,25 @@
     "targets": {
       "low": 96,
       "high": 155,
-      "count": 10,
-      "median": 135,
-      "average": 131.4,
+      "count": 9,
+      "median": 134,
+      "average": 131,
       "updated": "2026-09-14",
       "filtered": {
         "1": {
           "low": 125,
           "high": 155,
-          "count": 7,
-          "median": 135,
-          "average": 137.29,
+          "count": 6,
+          "median": 136,
+          "average": 137.67,
           "updated": "2026-09-14"
         },
         "2": {
           "low": 125,
           "high": 155,
-          "count": 6,
+          "count": 5,
           "median": 136,
-          "average": 138.33,
+          "average": 139,
           "updated": "2026-09-14"
         },
         "3": {
@@ -1096,20 +1096,68 @@
           "t": "2026-08-01"
         },
         {
-          "c": 117.33,
+          "c": 115.88,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-14"
+          "t": "2027-09-15"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Downgrades",
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "Truist Financial",
+        "analyst": "Clarke Murphy",
+        "slug": "clarke-murphy",
+        "date": "2026-09-15",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 100,
+          "stars": 2.1,
+          "total": 4,
+          "avg_return": 8.5,
+          "return_pct": null,
+          "analyst_rank": 7147,
+          "success_rate": 100,
+          "stock_avg_return": 8.6,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12498
+        }
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "William Blair",
+        "analyst": "Jared Haase",
+        "slug": "jared-haase",
+        "date": "2026-09-14",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "15:30:21",
+        "scores": {
+          "score": 77.5,
+          "stars": 4.4,
+          "total": 40,
+          "avg_return": 21.3,
+          "return_pct": null,
+          "analyst_rank": 1584,
+          "success_rate": 77.5,
+          "stock_avg_return": 13.9,
+          "stock_success_rate": 75,
+          "number_of_ranked_experts": 12498
+        }
+      },
+      {
+        "action_rt": "Maintains",
         "pt_now": 125,
-        "pt_old": 140,
+        "pt_old": null,
         "firm": "Bank of America Securities",
         "analyst": "Joanna Gajuk",
         "slug": "joanna-gajuk",
@@ -1130,30 +1178,6 @@
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Jared Haase",
-        "slug": "jared-haase",
-        "date": "2026-09-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "00:00:00",
-        "scores": {
-          "score": 77.5,
-          "stars": 4.4,
-          "total": 40,
-          "avg_return": 21.3,
-          "return_pct": null,
-          "analyst_rank": 1584,
-          "success_rate": 77.5,
-          "stock_avg_return": 13.9,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12498
-        }
       },
       {
         "action_rt": "Maintains",
@@ -1201,31 +1225,6 @@
           "success_rate": 52.2,
           "stock_avg_return": -5.9,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12498
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 136,
-        "pt_old": null,
-        "firm": "Stephens",
-        "analyst": "Raj Kumar CFA",
-        "slug": "raj-kumar-cfa",
-        "date": "2026-08-05",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:38:18",
-        "scores": {
-          "score": 66.7,
-          "stars": 3.5,
-          "total": 15,
-          "avg_return": 15.9,
-          "return_pct": null,
-          "analyst_rank": 3814,
-          "success_rate": 66.7,
-          "stock_avg_return": 0.5,
-          "stock_success_rate": 100,
           "number_of_ranked_experts": 12498
         },
         "curr": "USD"
