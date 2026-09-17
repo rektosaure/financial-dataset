@@ -30,11 +30,11 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "137,843,925",
-      "enterpriseValue": "689,002,925"
+      "marketcap": "137,122,229",
+      "enterpriseValue": "688,281,229"
     },
     "dates": {
-      "earningsdate": "Aug 6, 2026",
+      "earningsdate": "Nov 5, 2026",
       "exdivdate": "n/a"
     },
     "shares": {
@@ -49,8 +49,8 @@
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "0.599",
-      "psForward": "0.435",
+      "ps": "0.596",
+      "psForward": "0.433",
       "pb": "n/a",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
@@ -77,7 +77,7 @@
       "roa": "-2.728%",
       "roic": "-3.443%",
       "roce": "9.178%",
-      "wacc": "9.555%",
+      "wacc": "9.552%",
       "revPerEmployee": "1,046,232",
       "profitPerEmployee": "-273,441",
       "employees": "220",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "1.466",
-      "ch1y": "-11.57%",
-      "sma50": "1.738",
-      "sma200": "1.951",
-      "rsi": "53.786",
-      "averageVolume": "765,836"
+      "ch1y": "-14.80%",
+      "sma50": "1.741",
+      "sma200": "1.952",
+      "rsi": "53.121",
+      "averageVolume": "727,081"
     },
     "shortSelling": {
       "shortInterest": "8,778,177",
@@ -147,12 +147,12 @@
       "payoutRatio": "n/a",
       "buybackYield": "-28.788%",
       "totalReturn": "-28.788%",
-      "earningsYield": "-43.641%",
-      "fcfYield": "-28.535%"
+      "earningsYield": "-43.871%",
+      "fcfYield": "-28.685%"
     },
     "analystForecasts": {
       "priceTarget": "$13.38",
-      "priceTargetChange": "600.52%",
+      "priceTargetChange": "604.21%",
       "analystRatings": "Buy",
       "analystCount": "4",
       "revenue3y": "38.13%",
@@ -997,12 +997,12 @@
       }
     ],
     "targets": {
-      "low": 20,
+      "low": 3,
       "high": 28,
-      "count": 2,
-      "median": 28,
-      "average": 24,
-      "updated": "2026-08-19",
+      "count": 3,
+      "median": 20,
+      "average": 17,
+      "updated": "2026-09-16",
       "filtered": {
         "1": {
           "low": 28,
@@ -1088,16 +1088,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 1.91,
+          "c": 1.9,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-15"
+          "t": "2027-09-16"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 3,
+        "pt_old": null,
+        "firm": "UBS",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-09-16",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:55:31",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12498
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 28,
@@ -1110,16 +1135,16 @@
         "rating_old": "",
         "time": "13:35:23",
         "scores": {
-          "score": 33.6,
-          "stars": 3.8,
+          "score": 32.4,
+          "stars": 3.7,
           "total": 491,
-          "avg_return": 5.3,
+          "avg_return": 4.5,
           "return_pct": null,
-          "analyst_rank": 3004,
-          "success_rate": 33.6,
-          "stock_avg_return": -30.3,
-          "stock_success_rate": 14.3,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 3301,
+          "success_rate": 32.4,
+          "stock_avg_return": -28.5,
+          "stock_success_rate": 21.4,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       },
@@ -1135,16 +1160,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 31.4,
+          "score": 30.7,
           "stars": 0,
-          "total": 488,
-          "avg_return": -15.3,
+          "total": 489,
+          "avg_return": -16.6,
           "return_pct": null,
-          "analyst_rank": 12435,
-          "success_rate": 31.4,
-          "stock_avg_return": -15.6,
-          "stock_success_rate": 29.4,
-          "number_of_ranked_experts": 12514
+          "analyst_rank": 12431,
+          "success_rate": 30.7,
+          "stock_avg_return": -13.2,
+          "stock_success_rate": 35.3,
+          "number_of_ranked_experts": 12498
         },
         "curr": "USD"
       }
@@ -6787,7 +6812,7 @@
           "Q4"
         ],
         "marketcap": [
-          137843925,
+          137122229,
           91140273,
           133785999,
           207012834,
@@ -6795,7 +6820,7 @@
           408984926
         ],
         "ev": [
-          689002925,
+          688281229,
           575516273,
           584799998,
           636775833,
@@ -6803,7 +6828,7 @@
           641867926
         ],
         "lastCloseRatios": [
-          1.91,
+          1.9,
           1.39,
           2.69,
           5.24,
@@ -6819,7 +6844,7 @@
           3.571
         ],
         "ps": [
-          0.59888,
+          0.59574,
           0.438,
           0.5,
           1.109,
@@ -6843,7 +6868,7 @@
           null
         ],
         "evrevenue": [
-          2.99344,
+          2.9903,
           2.767,
           2.185,
           3.41,
@@ -6931,7 +6956,7 @@
           -0.166
         ],
         "earningsyield": [
-          -0.4364139,
+          -0.4387108,
           -0.84486,
           -0.65431,
           -0.22424,
@@ -6939,7 +6964,7 @@
           -0.11528
         ],
         "fcfyield": [
-          -0.2853517,
+          -0.2868536,
           -0.24949,
           -0.39752,
           -0.0932,
@@ -7026,7 +7051,7 @@
           "Q3"
         ],
         "marketcap": [
-          137843925,
+          137122229,
           115401022,
           212555608,
           91140273,
@@ -7049,7 +7074,7 @@
           579284371
         ],
         "ev": [
-          689002925,
+          688281229,
           649286022,
           721749607,
           575516273,
@@ -7072,7 +7097,7 @@
           804264370
         ],
         "lastCloseRatios": [
-          1.91,
+          1.9,
           1.64,
           3.19,
           1.39,
@@ -7141,7 +7166,7 @@
           3.571
         ],
         "ps": [
-          0.59888,
+          0.59574,
           0.501,
           0.967,
           0.438,
@@ -7233,7 +7258,7 @@
           null
         ],
         "evrevenue": [
-          2.99344,
+          2.9903,
           2.821,
           3.285,
           2.767,
@@ -7599,7 +7624,7 @@
           -0.398
         ],
         "earningsyield": [
-          -0.4364139,
+          -0.4387108,
           -0.52129,
           -0.34901,
           -0.84486,
@@ -7622,7 +7647,7 @@
           -0.10504
         ],
         "fcfyield": [
-          -0.2853517,
+          -0.2868536,
           -0.34085,
           -0.17962,
           -0.24949,
@@ -7694,7 +7719,7 @@
           "Q4"
         ],
         "marketcap": [
-          137843925,
+          137122229,
           91140273,
           133785999,
           207012834,
@@ -7702,7 +7727,7 @@
           408984926
         ],
         "ev": [
-          689002925,
+          688281229,
           575516273,
           584799998,
           636775833,
@@ -7710,7 +7735,7 @@
           641867926
         ],
         "lastCloseRatios": [
-          1.91,
+          1.9,
           1.39,
           2.69,
           5.24,
@@ -7726,7 +7751,7 @@
           3.571
         ],
         "ps": [
-          0.59888,
+          0.59574,
           0.438,
           0.5,
           1.109,
@@ -7750,7 +7775,7 @@
           null
         ],
         "evrevenue": [
-          2.99344,
+          2.9903,
           2.767,
           2.185,
           3.41,
@@ -7838,7 +7863,7 @@
           -0.166
         ],
         "earningsyield": [
-          -0.4364139,
+          -0.4387108,
           -0.84486,
           -0.65431,
           -0.22424,
@@ -7846,7 +7871,7 @@
           -0.11528
         ],
         "fcfyield": [
-          -0.2853517,
+          -0.2868536,
           -0.24949,
           -0.39752,
           -0.0932,
