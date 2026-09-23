@@ -6,7 +6,7 @@ Collection of financial, macroeconomic, market and company datasets in CSV and J
 
 | Directory        | Content                                        | Format | Update frequency |
 | ---------------- | ---------------------------------------------- | ------ | ---------------- |
-| `macro-crypto/`  | U.S. macroeconomic and financial data          | CSV    | Every 4 hours    |
+| `macro-crypto/`  | Cryptocurrency ecosystem financial data        | CSV    | Every 4 hours    |
 | `macro-us/`      | U.S. macroeconomic and financial data          | CSV    | Every 4 hours    |
 | `macro-world/`   | Global macro, commodities, FX and indices      | CSV    | Every 4 hours    |
 | `screener/`      | Equity universes, classifications and rankings | CSV    | Every 12 hours   |
