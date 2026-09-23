@@ -74,3 +74,5 @@ Source attribution, methodology and usage rights may differ between datasets. Us
 The data may be incomplete, delayed, inaccurate or subject to revision.
 
 The data is provided for private, research and informational use only. Users are solely responsible for assessing its suitability and should exercise their own judgment before relying on it for any financial, investment or other decision.
+
+This is an automated publication repository.
