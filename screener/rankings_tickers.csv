@@ -168,7 +168,7 @@ ALL,3,Hold,A,B,A,A
 ALLE,3,Hold,C,C,C,C
 ALLO,3,Hold,F,B,A,C
 ALLT,3,Hold,D,A,D,B
-ALLY,4,Sell,A,D,A,A
+ALLY,4,Sell,A,D,D,B
 ALM,3,Hold,F,B,B,C
 ALMR,3,Hold,F,D,C,F
 ALMS,3,Hold,F,C,C,F
@@ -269,7 +269,7 @@ APO,3,Hold,C,C,B,B
 APOG,2,Buy,A,B,B,A
 APP,3,Hold,C,A,A,A
 APPF,3,Hold,D,A,B,B
-APPN,1,Strong Buy,D,A,F,D
+APPN,1,Strong Buy,D,A,D,C
 APPS,3,Hold,B,A,B,A
 APTV,5,Strong Sell,A,D,C,B
 APYX,4,Sell,D,D,B,D
@@ -353,7 +353,7 @@ ATKR,2,Buy,B,C,C,C
 ATLC,2,Buy,A,A,A,A
 ATLKY,2,Buy,F,D,F,F
 ATLO,2,Buy,C,F,F,F
-ATMU,3,Hold,B,B,C,A
+ATMU,3,Hold,B,A,C,A
 ATNI,3,Hold,A,F,D,D
 ATO,3,Hold,D,D,D,F
 ATR,3,Hold,D,D,C,D
@@ -484,7 +484,7 @@ BELGF,4,Sell,C,C,C,C
 BEN,3,Hold,C,F,A,D
 BEP,3,Hold,C,F,D,F
 BEPC,4,Sell,C,D,B,C
-BESIY,2,Buy,F,B,C,C
+BESIY,2,Buy,F,B,D,D
 BETA,3,Hold,F,D,F,F
 BETR,4,Sell,F,B,F,D
 BF.B,3,Hold,C,C,D,C
@@ -561,7 +561,7 @@ BMY,1,Strong Buy,A,D,A,B
 BN,4,Sell,B,D,B,B
 BNCDY,2,Buy,D,D,A,D
 BNED,2,Buy,A,A,D,A
-BNL,3,Hold,C,F,C,D
+BNL,3,Hold,C,F,D,F
 BNNLF,2,Buy,D,C,F,D
 BNPQY,3,Hold,B,C,B,B
 BNS,3,Hold,D,F,C,F
@@ -823,13 +823,13 @@ CLMT,2,Buy,C,A,A,A
 CLNE,3,Hold,C,F,B,D
 CLOV,3,Hold,C,A,C,A
 CLPBY,3,Hold,C,A,C,B
-CLPHY,2,Buy,D,D,F,F
+CLPHY,3,Hold,D,D,D,F
 CLPT,4,Sell,F,F,C,F
 CLS,1,Strong Buy,D,B,F,C
 CLSK,3,Hold,F,F,F,F
 CLVT,3,Hold,A,D,B,B
-CLW,3,Hold,A,B,A,A
-CLX,3,Hold,C,D,C,D
+CLW,2,Buy,A,C,A,A
+CLX,3,Hold,C,D,B,C
 CLYM,3,Hold,D,F,A,D
 CM,3,Hold,D,F,A,F
 CMAKY,3,Hold,A,F,D,C
@@ -1038,7 +1038,7 @@ DBD,3,Hold,A,B,C,A
 DBI,2,Buy,A,A,B,A
 DBOEY,3,Hold,D,F,D,F
 DBSDY,2,Buy,F,D,F,F
-DBVT,3,Hold,F,F,F,F
+DBVT,3,Hold,F,F,B,F
 DBX,4,Sell,B,B,A,A
 DC,3,Hold,F,F,A,F
 DCBO,3,Hold,B,D,C,C
@@ -1048,7 +1048,7 @@ DCO,1,Strong Buy,F,D,D,F
 DCOM,3,Hold,B,C,A,B
 DCTH,1,Strong Buy,F,C,D,D
 DD,3,Hold,D,F,D,F
-DDD,3,Hold,D,B,C,C
+DDD,3,Hold,D,B,B,B
 DDI,3,Hold,A,C,C,B
 DDOG,3,Hold,F,A,F,D
 DDS,3,Hold,C,C,F,D
@@ -1175,7 +1175,7 @@ ECOR,3,Hold,D,B,C,C
 ECPG,2,Buy,B,F,B,D
 ECVT,3,Hold,B,B,C,A
 ECX,3,Hold,C,A,B,A
-ED,3,Hold,C,D,D,D
+ED,3,Hold,C,D,C,D
 EDIT,3,Hold,F,C,A,D
 EDN,3,Hold,A,F,B,B
 EDNMY,3,Hold,B,F,D,D
@@ -1202,7 +1202,7 @@ EH,4,Sell,F,F,D,F
 EHC,2,Buy,B,B,D,B
 EIG,3,Hold,D,F,B,F
 EIKN,3,Hold,C,B,B,C
-EIX,3,Hold,A,C,F,B
+EIX,3,Hold,A,C,D,B
 EJTTF,3,Hold,A,B,D,A
 EKTAY,3,Hold,A,A,F,A
 EL,3,Hold,D,B,C,C
@@ -1343,7 +1343,7 @@ FCBC,3,Hold,D,F,C,F
 FCBM,2,Buy,C,D,C,D
 FCCO,2,Buy,C,F,A,D
 FCEL,3,Hold,F,B,F,F
-FCF,3,Hold,C,F,B,D
+FCF,3,Hold,C,F,A,D
 FCFS,3,Hold,B,A,C,A
 FCN,3,Hold,A,B,A,A
 FCNCA,3,Hold,B,D,B,C
@@ -1527,7 +1527,7 @@ GFL,3,Hold,C,C,F,D
 GFS,3,Hold,C,D,A,C
 GGAL,2,Buy,A,D,F,C
 GGB,3,Hold,A,A,B,A
-GGG,3,Hold,D,C,D,D
+GGG,2,Buy,D,C,D,D
 GH,3,Hold,F,B,D,D
 GHM,3,Hold,F,F,F,F
 GHRS,3,Hold,C,F,A,D
@@ -1554,7 +1554,7 @@ GLP,2,Buy,A,A,C,A
 GLPEY,2,Buy,A,A,C,A
 GLPI,3,Hold,B,D,C,C
 GLRE,4,Sell,B,D,D,C
-GLSI,3,Hold,D,C,F,D
+GLSI,3,Hold,D,C,D,D
 GLUE,3,Hold,F,F,A,D
 GLW,3,Hold,D,A,C,C
 GLXY,3,Hold,C,C,F,D
@@ -1711,7 +1711,7 @@ HOPE,3,Hold,C,D,C,C
 HOS,3,Hold,A,A,C,A
 HP,3,Hold,C,C,F,D
 HPE,2,Buy,B,B,B,B
-HPK,3,Hold,A,F,C,C
+HPK,3,Hold,A,F,A,C
 HPP,3,Hold,A,D,C,B
 HPQ,1,Strong Buy,A,D,A,A
 HQI,2,Buy,D,F,F,F
@@ -1869,7 +1869,7 @@ IQV,3,Hold,C,C,D,C
 IR,3,Hold,D,D,B,D
 IRD,3,Hold,F,F,A,F
 IRDM,3,Hold,D,C,D,D
-IREN,3,Hold,D,B,F,D
+IREN,3,Hold,F,B,F,D
 IRM,3,Hold,C,B,D,C
 IRON,3,Hold,D,D,B,D
 IRT,2,Buy,C,F,B,D
@@ -2072,7 +2072,7 @@ LCTX,4,Sell,F,F,A,D
 LCUT,2,Buy,A,B,F,A
 LDI,5,Strong Sell,F,C,A,D
 LDOS,3,Hold,A,A,C,A
-LE,3,Hold,B,F,C,D
+LE,3,Hold,B,F,D,D
 LEA,3,Hold,A,A,C,A
 LECO,2,Buy,D,B,D,C
 LEGN,3,Hold,D,B,F,D
@@ -2110,7 +2110,7 @@ LKFN,2,Buy,D,F,B,F
 LKFT,3,Hold,F,B,C,D
 LKNCY,1,Strong Buy,B,B,D,B
 LKQ,5,Strong Sell,A,F,D,C
-LLY,3,Hold,D,A,B,B
+LLY,3,Hold,D,A,A,B
 LLYVA,5,Strong Sell,F,D,C,F
 LLYVK,5,Strong Sell,F,D,D,F
 LMAT,3,Hold,D,C,D,D
@@ -2139,7 +2139,7 @@ LOW,4,Sell,B,B,F,C
 LPL,3,Hold,A,A,C,A
 LPLA,3,Hold,C,C,A,B
 LPTH,3,Hold,F,D,D,F
-LPX,5,Strong Sell,F,D,D,F
+LPX,5,Strong Sell,D,D,C,F
 LQDA,5,Strong Sell,F,A,C,B
 LQDT,1,Strong Buy,C,B,B,B
 LRCX,2,Buy,D,D,A,D
@@ -2339,7 +2339,7 @@ MRTN,3,Hold,C,D,A,C
 MRVI,3,Hold,F,B,F,F
 MRVL,3,Hold,F,D,F,F
 MRX,1,Strong Buy,C,F,C,F
-MS,2,Buy,D,F,A,F
+MS,2,Buy,C,F,A,F
 MSA,3,Hold,C,B,F,D
 MSBHF,2,Buy,B,A,A,A
 MSBI,2,Buy,B,F,C,C
@@ -2399,7 +2399,7 @@ NAVI,3,Hold,B,F,A,B
 NAVN,3,Hold,F,A,A,B
 NB,4,Sell,F,B,C,D
 NBBK,3,Hold,C,C,D,C
-NBHC,5,Strong Sell,D,D,A,D
+NBHC,3,Hold,C,D,F,F
 NBIS,3,Hold,F,B,F,D
 NBIX,3,Hold,B,A,A,A
 NBP,2,Buy,F,D,C,F
@@ -3011,11 +3011,11 @@ RNGR,3,Hold,A,B,C,A
 RNLSY,3,Hold,A,C,B,A
 RNMBY,3,Hold,D,C,F,D
 RNR,3,Hold,B,F,C,D
-RNST,3,Hold,C,C,B,B
+RNST,3,Hold,C,B,F,C
 RNW,3,Hold,A,C,B,B
 ROAD,3,Hold,B,A,C,A
 ROCK,2,Buy,A,F,A,C
-ROG,2,Buy,D,B,D,C
+ROG,2,Buy,D,B,C,C
 ROHCY,3,Hold,D,C,A,C
 ROIV,4,Sell,D,F,A,F
 ROK,3,Hold,D,B,A,B
@@ -3074,7 +3074,7 @@ SABK,3,Hold,C,C,C,C
 SABR,3,Hold,B,F,D,C
 SABS,3,Hold,F,F,B,F
 SAFE,3,Hold,B,F,A,C
-SAFRY,3,Hold,D,B,B,C
+SAFRY,3,Hold,D,B,C,C
 SAFT,3,Hold,B,A,F,B
 SAFX,3,Hold,F,D,B,F
 SAH,3,Hold,A,C,A,A
@@ -3419,7 +3419,7 @@ TBI,2,Buy,D,D,C,F
 TBLA,2,Buy,A,A,B,A
 TBN,3,Hold,F,F,B,F
 TCBI,4,Sell,B,D,C,C
-TCBK,3,Hold,C,F,B,D
+TCBK,2,Buy,C,F,B,F
 TCBX,4,Sell,C,D,A,C
 TCEHY,3,Hold,B,A,F,B
 TCMD,3,Hold,B,C,B,B
@@ -3451,7 +3451,7 @@ TEVA,4,Sell,C,C,D,C
 TEX,3,Hold,B,C,A,A
 TEZNY,3,Hold,F,D,C,F
 TFC,3,Hold,B,D,A,B
-TFII,1,Strong Buy,C,C,D,B
+TFII,2,Buy,B,B,C,A
 TFIN,2,Buy,C,B,B,B
 TFPM,3,Hold,D,C,F,F
 TFSL,2,Buy,F,F,F,F
@@ -3624,7 +3624,7 @@ UI,1,Strong Buy,F,B,A,C
 UIS,4,Sell,A,A,B,A
 UL,3,Hold,C,B,C,C
 ULCC,3,Hold,F,A,B,B
-ULH,3,Hold,A,C,C,A
+ULH,3,Hold,A,B,A,A
 ULS,3,Hold,C,B,C,C
 ULTA,3,Hold,C,B,D,B
 UMAC,2,Buy,F,F,F,F
@@ -3859,7 +3859,7 @@ WSM,3,Hold,D,A,D,C
 WSO,5,Strong Sell,D,B,D,D
 WST,3,Hold,D,C,C,D
 WT,3,Hold,F,A,C,C
-WTBA,3,Hold,C,D,C,D
+WTBA,3,Hold,C,D,D,D
 WTBDY,3,Hold,B,F,B,C
 WTFC,3,Hold,B,D,C,C
 WTI,3,Hold,B,A,D,B
