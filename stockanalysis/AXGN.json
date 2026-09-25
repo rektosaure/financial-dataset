@@ -1,9 +1,9 @@
 {
-  "ticker": "AXGN",
-  "status": "available",
-  "provider_symbol": "axgn",
-  "cik": "0000805928",
   "profile": {
+    "ticker": "AXGN",
+    "status": "available",
+    "provider_symbol": "axgn",
+    "cik": "0000805928",
     "name": "Axogen, Inc.",
     "country": "United States",
     "founded": null,
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "1.163",
-      "ch1y": "146.14%",
-      "sma50": "45.471",
-      "sma200": "38.558",
+      "ch1y": "150.41%",
+      "sma50": "45.563",
+      "sma200": "38.608",
       "rsi": "41.969",
-      "averageVolume": "1,246,013"
+      "averageVolume": "1,243,461"
     },
     "shortSelling": {
       "shortInterest": "3,809,350",
@@ -147,7 +147,7 @@
       "payoutRatio": "n/a",
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-9.278%",
-      "totalReturn": "-9.278%",
+      "totalReturn": "n/a",
       "earningsYield": "-1.320%",
       "fcfYield": "0.338%"
     },
@@ -901,13 +901,13 @@
       },
       {
         "buy": 2,
-        "date": "2026-09-10",
+        "date": "2026-09-15",
         "hold": 0,
         "sell": 0,
         "month": "Sep '26",
         "score": 9,
         "total": 10,
-        "updated": "2026-09-10",
+        "updated": "2026-09-15",
         "consensus": "Strong Buy",
         "strongBuy": 8,
         "strongSell": 0
@@ -918,40 +918,40 @@
       "high": 60,
       "count": 9,
       "median": 55,
-      "average": 54.11,
-      "updated": "2026-09-15",
+      "average": 54.67,
+      "updated": "2026-09-25",
       "filtered": {
         "1": {
           "low": 48,
           "high": 58,
           "count": 7,
           "median": 55,
-          "average": 53.14,
-          "updated": "2026-09-15"
+          "average": 53.86,
+          "updated": "2026-09-25"
         },
         "2": {
           "low": 48,
           "high": 58,
           "count": 7,
           "median": 55,
-          "average": 53.14,
-          "updated": "2026-09-15"
+          "average": 53.86,
+          "updated": "2026-09-25"
         },
         "3": {
           "low": 48,
           "high": 58,
-          "count": 7,
+          "count": 6,
           "median": 55,
-          "average": 53.14,
-          "updated": "2026-09-15"
+          "average": 54,
+          "updated": "2026-09-25"
         },
         "4": {
-          "low": 48,
+          "low": 53,
           "high": 58,
           "count": 2,
           "median": 58,
-          "average": 53,
-          "updated": "2026-07-31"
+          "average": 55.5,
+          "updated": "2026-09-25"
         },
         "5": {
           "count": 0,
@@ -1014,11 +1014,36 @@
         },
         {
           "c": null,
-          "t": "2027-09-23"
+          "t": "2027-09-24"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 53,
+        "pt_old": 48,
+        "firm": "Raymond James",
+        "analyst": "Jayson Bedford",
+        "slug": "jayson-bedford",
+        "date": "2026-09-25",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:40:06",
+        "scores": {
+          "score": 59.6,
+          "stars": 4.7,
+          "total": 497,
+          "avg_return": 8.5,
+          "return_pct": null,
+          "analyst_rank": 796,
+          "success_rate": 59.6,
+          "stock_avg_return": 94.9,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12509
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 55,
@@ -1031,16 +1056,16 @@
         "rating_old": "",
         "time": "13:37:41",
         "scores": {
-          "score": 46.3,
-          "stars": 3.3,
-          "total": 41,
-          "avg_return": 7.8,
+          "score": 42.9,
+          "stars": 3.2,
+          "total": 42,
+          "avg_return": 6.4,
           "return_pct": null,
-          "analyst_rank": 4188,
-          "success_rate": 46.3,
-          "stock_avg_return": 40.3,
-          "stock_success_rate": 70,
-          "number_of_ranked_experts": 12523
+          "analyst_rank": 4613,
+          "success_rate": 42.9,
+          "stock_avg_return": 36.6,
+          "stock_success_rate": 60,
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       },
@@ -1056,16 +1081,16 @@
         "rating_old": "",
         "time": "13:10:22",
         "scores": {
-          "score": 41.6,
-          "stars": 3.2,
-          "total": 490,
-          "avg_return": 2.1,
+          "score": 42.2,
+          "stars": 3.1,
+          "total": 491,
+          "avg_return": 1.9,
           "return_pct": null,
-          "analyst_rank": 4467,
-          "success_rate": 41.6,
-          "stock_avg_return": 91.2,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12523
+          "analyst_rank": 4637,
+          "success_rate": 42.2,
+          "stock_avg_return": 86.2,
+          "stock_success_rate": 90.9,
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       },
@@ -1081,16 +1106,16 @@
         "rating_old": "",
         "time": "11:30:43",
         "scores": {
-          "score": 48.8,
-          "stars": 3.6,
-          "total": 82,
-          "avg_return": 7.1,
+          "score": 48.2,
+          "stars": 3.5,
+          "total": 83,
+          "avg_return": 6.3,
           "return_pct": null,
-          "analyst_rank": 3532,
-          "success_rate": 48.8,
-          "stock_avg_return": 40.8,
+          "analyst_rank": 3729,
+          "success_rate": 48.2,
+          "stock_avg_return": 32.9,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12523
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       },
@@ -1106,41 +1131,16 @@
         "rating_old": "",
         "time": "11:00:22",
         "scores": {
-          "score": 51.6,
-          "stars": 3.9,
-          "total": 502,
-          "avg_return": 3.6,
+          "score": 51.7,
+          "stars": 3.8,
+          "total": 503,
+          "avg_return": 3.2,
           "return_pct": null,
-          "analyst_rank": 2828,
-          "success_rate": 51.6,
-          "stock_avg_return": 16.6,
+          "analyst_rank": 3040,
+          "success_rate": 51.7,
+          "stock_avg_return": 10,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12523
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 60,
-        "pt_old": null,
-        "firm": "Truist Financial",
-        "analyst": "Ravi Misra",
-        "slug": "ravi-misra",
-        "date": "2026-08-26",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:25:39",
-        "scores": {
-          "score": 33.3,
-          "stars": 0.5,
-          "total": 21,
-          "avg_return": -10.7,
-          "return_pct": null,
-          "analyst_rank": 11296,
-          "success_rate": 33.3,
-          "stock_avg_return": -10.9,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12523
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       }
@@ -7345,7 +7345,8 @@
           0.699,
           0.611,
           0.604,
-          0.594
+          0.594,
+          null
         ],
         "inventoryTurnover": [
           1.52,
@@ -7436,7 +7437,8 @@
           -0.30125,
           -0.42421,
           -0.18561,
-          -0.24415
+          -0.24415,
+          null
         ],
         "roa": [
           -0.01814,
@@ -7458,7 +7460,8 @@
           -0.10053,
           -0.13939,
           -0.06403,
-          -0.07953
+          -0.07953,
+          null
         ],
         "roce": [
           -0.047,
