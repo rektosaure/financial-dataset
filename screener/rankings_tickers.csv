@@ -597,7 +597,7 @@ BRLT,2,Buy,B,A,D,A
 BRO,3,Hold,C,D,B,C
 BROS,3,Hold,D,A,A,B
 BRSL,3,Hold,D,F,C,F
-BRSP,4,Sell,C,F,A,C
+BRSP,4,Sell,C,F,B,D
 BRT,4,Sell,B,F,B,D
 BRVE,3,Hold,C,D,A,C
 BRX,3,Hold,C,D,D,D
@@ -1741,7 +1741,7 @@ HTHT,2,Buy,C,B,F,B
 HTLD,3,Hold,C,B,B,B
 HTO,3,Hold,C,D,A,C
 HTZ,3,Hold,A,C,A,A
-HUBB,3,Hold,D,D,B,D
+HUBB,2,Buy,D,D,D,F
 HUBG,3,Hold,B,B,F,B
 HUBS,3,Hold,C,A,A,A
 HUM,3,Hold,B,A,F,A
@@ -2365,7 +2365,7 @@ MTLS,3,Hold,B,A,D,B
 MTN,3,Hold,C,F,F,F
 MTRN,1,Strong Buy,D,B,D,D
 MTRX,4,Sell,B,C,C,B
-MTSI,1,Strong Buy,F,C,A,D
+MTSI,1,Strong Buy,F,C,B,D
 MTUAY,2,Buy,B,B,F,B
 MTUS,4,Sell,C,D,B,D
 MTX,4,Sell,B,B,A,A
@@ -2551,7 +2551,7 @@ NVTS,2,Buy,F,F,F,F
 NVZMY,3,Hold,F,D,A,D
 NWBI,2,Buy,C,D,C,D
 NWE,4,Sell,C,D,D,D
-NWFL,2,Buy,B,D,F,D
+NWFL,2,Buy,B,D,B,C
 NWG,3,Hold,C,F,A,D
 NWL,3,Hold,A,B,C,A
 NWN,3,Hold,B,F,B,C
@@ -2664,7 +2664,7 @@ OSW,4,Sell,D,A,D,C
 OTCM,4,Sell,C,A,C,B
 OTEX,4,Sell,A,C,B,A
 OTF,3,Hold,C,F,D,F
-OTGLY,3,Hold,F,D,C,F
+OTGLY,3,Hold,F,D,C,D
 OTIS,4,Sell,C,B,A,A
 OTLK,3,Hold,F,C,A,D
 OTLY,3,Hold,D,A,F,C
@@ -2885,7 +2885,7 @@ PUBGY,3,Hold,A,C,D,B
 PUBM,2,Buy,C,B,D,B
 PUK,3,Hold,B,F,F,D
 PUMP,3,Hold,B,C,F,C
-PURR,3,Hold,F,F,A,F
+PURR,2,Buy,F,F,B,F
 PUSA,3,Hold,F,D,F,F
 PVH,3,Hold,A,A,C,A
 PVLA,4,Sell,D,F,C,F
@@ -3268,7 +3268,7 @@ SNX,2,Buy,A,F,A,B
 SNY,3,Hold,A,A,A,A
 SO,3,Hold,C,C,B,C
 SOBO,3,Hold,C,C,B,C
-SOC,4,Sell,F,A,B,C
+SOC,4,Sell,F,A,C,C
 SOFI,3,Hold,F,F,C,F
 SOLS,2,Buy,C,A,B,A
 SOLV,3,Hold,B,C,C,C
@@ -3675,7 +3675,7 @@ UUUU,5,Strong Sell,F,F,B,F
 UVE,2,Buy,A,C,F,A
 UVSP,2,Buy,B,D,C,D
 UVV,5,Strong Sell,B,A,A,A
-UWMC,5,Strong Sell,D,F,C,F
+UWMC,5,Strong Sell,D,F,B,F
 V,3,Hold,D,D,C,F
 VAC,2,Buy,C,B,D,C
 VACNY,2,Buy,F,D,F,F
@@ -3820,7 +3820,7 @@ WHR,2,Buy,B,F,F,F
 WHWK,2,Buy,F,C,A,D
 WILYY,2,Buy,C,B,C,B
 WING,3,Hold,C,B,F,C
-WIT,3,Hold,B,F,C,D
+WIT,3,Hold,A,F,C,C
 WIX,3,Hold,C,C,C,D
 WJRYY,2,Buy,A,D,F,C
 WK,1,Strong Buy,D,A,B,C
@@ -3873,7 +3873,7 @@ WU,5,Strong Sell,A,C,A,A
 WULF,3,Hold,F,F,F,F
 WUXAY,1,Strong Buy,C,F,F,F
 WVE,3,Hold,F,F,D,F
-WW,3,Hold,B,C,B,B
+WW,3,Hold,C,B,A,B
 WWD,3,Hold,D,B,C,C
 WWW,2,Buy,B,A,C,A
 WXXWY,3,Hold,D,D,F,F
