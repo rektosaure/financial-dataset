@@ -553,7 +553,7 @@ BMI,3,Hold,D,C,B,D
 BMNR,3,Hold,F,C,F,F
 BMO,2,Buy,C,C,C,C
 BMRC,3,Hold,D,C,C,C
-BMRN,3,Hold,B,C,D,C
+BMRN,3,Hold,B,C,F,C
 BMRRY,3,Hold,A,A,D,A
 BMWKY,3,Hold,A,F,B,B
 BMXMF,4,Sell,B,A,F,A
@@ -684,7 +684,7 @@ CARS,3,Hold,A,B,A,A
 CART,3,Hold,B,A,B,A
 CASH,3,Hold,A,C,B,B
 CASS,2,Buy,B,C,F,C
-CASY,3,Hold,C,A,B,B
+CASY,3,Hold,C,A,B,A
 CAT,2,Buy,D,B,B,C
 CATX,3,Hold,F,F,A,F
 CATY,3,Hold,C,C,B,B
@@ -759,7 +759,7 @@ CG,3,Hold,D,F,F,F
 CGAU,3,Hold,A,C,F,C
 CGBD,3,Hold,C,D,B,C
 CGC,3,Hold,F,B,D,D
-CGEM,3,Hold,F,B,B,C
+CGEM,3,Hold,F,B,A,C
 CGEMY,3,Hold,A,A,F,A
 CGEN,3,Hold,B,F,F,F
 CGNT,2,Buy,B,A,B,A
@@ -782,7 +782,7 @@ CHLSY,3,Hold,B,D,D,C
 CHMG,3,Hold,C,D,B,C
 CHMI,2,Buy,B,F,F,F
 CHPT,2,Buy,D,A,B,B
-CHRD,3,Hold,A,A,B,A
+CHRD,3,Hold,A,A,A,A
 CHRN,3,Hold,F,B,F,D
 CHRS,3,Hold,F,F,C,F
 CHRW,3,Hold,C,B,B,C
@@ -838,7 +838,7 @@ CMCO,1,Strong Buy,C,D,F,F
 CMCSA,4,Sell,A,B,C,A
 CME,3,Hold,F,F,D,F
 CMG,3,Hold,D,B,C,C
-CMI,3,Hold,B,A,B,A
+CMI,3,Hold,B,A,F,B
 CMP,3,Hold,B,A,A,A
 CMPGY,3,Hold,C,A,C,B
 CMPR,3,Hold,A,A,B,A
@@ -1162,7 +1162,7 @@ EADSY,2,Buy,C,A,B,A
 EAF,3,Hold,D,F,D,F
 EAT,2,Buy,B,A,D,A
 EBAY,3,Hold,D,A,B,B
-EBC,3,Hold,D,C,B,D
+EBC,3,Hold,D,C,C,D
 EBKDY,3,Hold,C,F,D,F
 EBMT,3,Hold,B,F,D,D
 EBS,3,Hold,A,B,D,A
@@ -1284,7 +1284,7 @@ ESS,3,Hold,D,D,F,F
 ESTA,3,Hold,F,B,C,D
 ESTC,2,Buy,D,B,F,D
 ET,3,Hold,A,A,C,A
-ETD,5,Strong Sell,B,D,C,C
+ETD,5,Strong Sell,B,D,C,D
 ETN,3,Hold,F,C,C,D
 ETON,3,Hold,D,A,C,C
 ETOR,4,Sell,B,A,F,A
@@ -2301,7 +2301,7 @@ MNR,3,Hold,A,C,C,B
 MNRO,5,Strong Sell,D,F,D,F
 MNSO,3,Hold,A,B,D,A
 MNST,3,Hold,F,C,C,D
-MNTK,1,Strong Buy,B,C,A,A
+MNTK,1,Strong Buy,C,C,B,B
 MNTN,3,Hold,B,A,B,A
 MO,3,Hold,C,C,D,D
 MOBI,3,Hold,F,D,A,F
@@ -2476,7 +2476,7 @@ NN,3,Hold,F,D,B,F
 NNBR,4,Sell,B,A,C,A
 NNE,2,Buy,F,F,D,F
 NNGRY,3,Hold,C,D,D,D
-NNI,5,Strong Sell,C,F,B,D
+NNI,5,Strong Sell,C,F,C,D
 NNN,2,Buy,C,D,A,C
 NOA,5,Strong Sell,A,A,F,A
 NOAH,3,Hold,B,C,A,B
@@ -2495,7 +2495,7 @@ NPKI,2,Buy,D,B,D,D
 NPNYY,2,Buy,B,D,C,C
 NPO,3,Hold,D,C,D,D
 NPSNY,5,Strong Sell,B,B,A,A
-NPWR,3,Hold,F,F,D,F
+NPWR,3,Hold,F,F,C,F
 NRDBY,3,Hold,C,C,B,C
 NRDS,3,Hold,A,A,A,A
 NRDY,4,Sell,D,A,C,C
@@ -2567,7 +2567,7 @@ NXPI,3,Hold,C,D,A,C
 NXRT,3,Hold,A,D,B,B
 NXST,5,Strong Sell,B,B,C,B
 NXT,3,Hold,C,B,B,B
-NYAX,3,Hold,C,F,D,F
+NYAX,3,Hold,D,F,F,F
 NYT,4,Sell,D,A,A,A
 O,3,Hold,D,D,C,D
 OABI,3,Hold,F,A,F,D
@@ -3001,7 +3001,7 @@ RLJ,2,Buy,A,D,F,C
 RLMD,2,Buy,D,C,C,C
 RMBS,3,Hold,F,C,C,D
 RMD,3,Hold,C,C,C,C
-RMIX,4,Sell,C,F,B,D
+RMIX,4,Sell,C,F,A,D
 RMNI,4,Sell,A,A,B,A
 RMR,4,Sell,A,B,F,B
 RNA,4,Sell,D,C,A,C
@@ -3311,7 +3311,7 @@ SRFM,3,Hold,F,A,D,C
 SRI,3,Hold,C,A,A,A
 SRPT,3,Hold,B,C,A,B
 SRRK,3,Hold,F,C,D,D
-SRTA,2,Buy,D,F,F,F
+SRTA,3,Hold,D,F,C,F
 SRZN,4,Sell,F,B,A,C
 SSAAY,3,Hold,B,D,F,C
 SSB,3,Hold,C,D,F,D
@@ -3525,7 +3525,7 @@ TPG,3,Hold,D,D,B,D
 TPL,3,Hold,F,B,B,C
 TPR,3,Hold,B,A,B,A
 TPRKY,3,Hold,A,B,D,A
-TPVG,3,Hold,B,F,C,D
+TPVG,3,Hold,B,F,B,D
 TRAX,3,Hold,C,D,B,C
 TRDA,3,Hold,F,F,B,F
 TREE,3,Hold,A,B,B,A
@@ -3548,7 +3548,7 @@ TRTX,4,Sell,B,F,A,C
 TRU,3,Hold,B,B,B,A
 TRUMY,3,Hold,B,B,B,A
 TRUP,3,Hold,C,A,A,A
-TRV,2,Buy,A,D,C,B
+TRV,2,Buy,B,D,C,B
 TRVG,1,Strong Buy,A,A,A,A
 TRVI,3,Hold,C,F,C,F
 TRYIY,3,Hold,A,B,C,B
@@ -3574,7 +3574,7 @@ TTD,4,Sell,A,B,A,A
 TTDKY,2,Buy,B,F,A,B
 TTE,2,Buy,A,B,B,A
 TTEK,2,Buy,C,C,C,C
-TTI,4,Sell,C,B,C,C
+TTI,4,Sell,C,B,D,C
 TTMI,1,Strong Buy,D,C,F,F
 TTNDY,2,Buy,C,A,A,A
 TTRX,4,Sell,C,C,A,C
@@ -3614,7 +3614,7 @@ UCTT,1,Strong Buy,D,F,F,F
 UDR,3,Hold,C,D,D,D
 UE,3,Hold,C,C,D,C
 UEC,3,Hold,F,F,C,F
-UFCS,1,Strong Buy,A,F,C,C
+UFCS,2,Buy,A,D,C,B
 UFPI,3,Hold,A,D,C,B
 UFPT,3,Hold,D,C,F,D
 UGI,4,Sell,B,F,C,C
@@ -3634,11 +3634,11 @@ UMH,3,Hold,C,F,B,D
 UMICY,3,Hold,A,A,A,A
 UNCRY,2,Buy,D,C,A,C
 UNCY,3,Hold,F,C,D,F
-UNF,3,Hold,C,D,B,C
+UNF,3,Hold,C,D,C,D
 UNFI,3,Hold,A,A,A,A
 UNH,2,Buy,A,A,A,A
 UNICY,4,Sell,C,B,D,B
-UNIT,3,Hold,B,F,C,C
+UNIT,3,Hold,B,F,B,C
 UNM,4,Sell,B,D,B,C
 UNP,3,Hold,D,C,C,D
 UNTY,3,Hold,C,F,C,F
@@ -3686,7 +3686,7 @@ VANI,3,Hold,D,C,C,D
 VBNK,3,Hold,F,F,F,F
 VC,3,Hold,A,F,D,C
 VCEL,3,Hold,D,A,B,B
-VCISY,2,Buy,A,B,A,A
+VCISY,2,Buy,A,B,B,A
 VCTR,3,Hold,C,B,F,C
 VCYT,1,Strong Buy,D,C,F,F
 VECO,4,Sell,D,A,C,C
