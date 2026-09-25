@@ -1,9 +1,9 @@
 {
-  "ticker": "OWLT",
-  "status": "available",
-  "provider_symbol": "owlt",
-  "cik": "1816708",
   "profile": {
+    "ticker": "OWLT",
+    "status": "available",
+    "provider_symbol": "owlt",
+    "cik": "1816708",
     "name": "Owlet, Inc.",
     "country": "United States",
     "founded": 2013,
@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "147,870,452",
-      "enterpriseValue": "133,985,452"
+      "marketcap": "150,199,420",
+      "enterpriseValue": "136,314,420"
     },
     "dates": {
       "earningsdate": "Nov 12, 2026",
@@ -49,17 +49,17 @@
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "1.331",
-      "psForward": "1.178",
-      "pb": "6.488",
-      "ptbvRatio": "7.208",
+      "ps": "1.280",
+      "psForward": "1.133",
+      "pb": "6.314",
+      "ptbvRatio": "6.931",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "1.21",
+      "evSales": "1.16",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -77,7 +77,7 @@
       "roa": "-6.421%",
       "roic": "-39.440%",
       "roce": "-20.313%",
-      "wacc": "14.562%",
+      "wacc": "14.556%",
       "revPerEmployee": "1,003,605",
       "profitPerEmployee": "-114,026",
       "employees": "114",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "1.904",
-      "ch1y": "-39.63%",
-      "sma50": "5.284",
-      "sma200": "7.764",
-      "rsi": "53.518",
-      "averageVolume": "245,984"
+      "ch1y": "-41.59%",
+      "sma50": "5.263",
+      "sma200": "7.719",
+      "rsi": "50.250",
+      "averageVolume": "221,962"
     },
     "shortSelling": {
       "shortInterest": "577,260",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-69.655%",
       "totalReturn": "-69.655%",
-      "earningsYield": "-8.538%",
-      "fcfYield": "-5.600%"
+      "earningsYield": "-8.879%",
+      "fcfYield": "-5.823%"
     },
     "analystForecasts": {
       "priceTarget": "$13.00",
-      "priceTargetChange": "156.90%",
+      "priceTargetChange": "152.92%",
       "analystRatings": "Strong Buy",
       "analystCount": "5",
       "revenue3y": "20.73%",
@@ -1007,10 +1007,10 @@
       "filtered": {
         "1": {
           "low": 10,
-          "high": 14,
-          "count": 3,
+          "high": 13,
+          "count": 2,
           "median": 13,
-          "average": 12.33,
+          "average": 11.5,
           "updated": "2026-09-23"
         },
         "2": {
@@ -1089,16 +1089,40 @@
           "t": "2026-08-01"
         },
         {
-          "c": 5.21,
+          "c": 5.07,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-23"
+          "t": "2027-09-24"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": null,
+        "pt_old": null,
+        "firm": "William Blair",
+        "analyst": "Steven Lichtman",
+        "slug": "steven-lichtman",
+        "date": "2026-09-25",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 53.1,
+          "stars": 4.8,
+          "total": 493,
+          "avg_return": 14.6,
+          "return_pct": null,
+          "analyst_rank": 520,
+          "success_rate": 53.1,
+          "stock_avg_return": -10.3,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12509
+        }
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 13,
@@ -1109,18 +1133,18 @@
         "date": "2026-09-23",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:50:10",
         "scores": {
-          "score": 51.1,
-          "stars": 3.6,
+          "score": 46.7,
+          "stars": 3.4,
           "total": 92,
-          "avg_return": 6.8,
+          "avg_return": 5.3,
           "return_pct": null,
-          "analyst_rank": 3467,
-          "success_rate": 51.1,
-          "stock_avg_return": -16.1,
+          "analyst_rank": 4029,
+          "success_rate": 46.7,
+          "stock_avg_return": -19.2,
           "stock_success_rate": 29.4,
-          "number_of_ranked_experts": 12523
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       },
@@ -1137,41 +1161,17 @@
         "time": "01:30:15",
         "scores": {
           "score": 48.5,
-          "stars": 3.5,
+          "stars": 3.4,
           "total": 66,
-          "avg_return": 7.2,
+          "avg_return": 6.5,
           "return_pct": null,
-          "analyst_rank": 3751,
+          "analyst_rank": 3929,
           "success_rate": 48.5,
-          "stock_avg_return": -14.6,
+          "stock_avg_return": -19.6,
           "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12523
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "William Blair",
-        "analyst": "Steven Lichtman",
-        "slug": "steven-lichtman",
-        "date": "2026-08-12",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "17:55:52",
-        "scores": {
-          "score": 53.1,
-          "stars": 4.8,
-          "total": 493,
-          "avg_return": 14.8,
-          "return_pct": null,
-          "analyst_rank": 528,
-          "success_rate": 53.1,
-          "stock_avg_return": -4.8,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12523
-        }
       },
       {
         "action_rt": "Reiterates",
@@ -1185,16 +1185,16 @@
         "rating_old": "",
         "time": "13:17:12",
         "scores": {
-          "score": 38.7,
-          "stars": 1.5,
+          "score": 37.6,
+          "stars": 0.9,
           "total": 266,
-          "avg_return": -0.1,
+          "avg_return": -1.2,
           "return_pct": null,
-          "analyst_rank": 8804,
-          "success_rate": 38.7,
-          "stock_avg_return": 11.6,
-          "stock_success_rate": 45.5,
-          "number_of_ranked_experts": 12523
+          "analyst_rank": 10204,
+          "success_rate": 37.6,
+          "stock_avg_return": 9.3,
+          "stock_success_rate": 36.4,
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       }
@@ -6549,7 +6549,7 @@
           "Q4"
         ],
         "marketcap": [
-          147870452,
+          150199420,
           446530027,
           71360578,
           45243243,
@@ -6557,7 +6557,7 @@
           301305378
         ],
         "ev": [
-          133985452,
+          136314420,
           458864027,
           72540578,
           49259242,
@@ -6565,7 +6565,7 @@
           216461377
         ],
         "lastCloseRatios": [
-          5.21,
+          5.07,
           16.19,
           4.45,
           5.28,
@@ -6573,7 +6573,7 @@
           37.38
         ],
         "ps": [
-          1.33068,
+          1.2796,
           4.224,
           0.914,
           0.838,
@@ -6581,7 +6581,7 @@
           3.973
         ],
         "pb": [
-          6.48795,
+          6.31361,
           14.387,
           -3.374,
           -1.525,
@@ -6589,7 +6589,7 @@
           5.459
         ],
         "ptbvRatio": [
-          7.20788,
+          6.93119,
           25.298,
           null,
           null,
@@ -6597,7 +6597,7 @@
           5.632
         ],
         "evrevenue": [
-          1.20932,
+          1.15824,
           4.341,
           0.929,
           0.912,
@@ -6693,7 +6693,7 @@
           -0.711
         ],
         "earningsyield": [
-          -0.08538209999999999,
+          -0.08879060000000001,
           -0.08886,
           -0.17567,
           -0.7272,
@@ -6701,7 +6701,7 @@
           -0.23798
         ],
         "fcfyield": [
-          -0.0559953,
+          -0.0582306,
           -0.02478,
           -0.15757,
           -0.52036,
@@ -6788,7 +6788,7 @@
           "Q3"
         ],
         "marketcap": [
-          147870452,
+          150199420,
           166466704,
           144744806,
           446530027,
@@ -6811,7 +6811,7 @@
           630455830
         ],
         "ev": [
-          133985452,
+          136314420,
           162618704,
           134395805,
           458864027,
@@ -6834,7 +6834,7 @@
           712378829
         ],
         "lastCloseRatios": [
-          5.21,
+          5.07,
           5.74,
           5.14,
           16.19,
@@ -6880,7 +6880,7 @@
           null
         ],
         "ps": [
-          1.33068,
+          1.2796,
           1.449,
           1.352,
           4.224,
@@ -6903,7 +6903,7 @@
           6.346
         ],
         "pb": [
-          6.48795,
+          6.31361,
           4.52,
           4.276,
           14.387,
@@ -6926,7 +6926,7 @@
           8.19
         ],
         "ptbvRatio": [
-          7.20788,
+          6.93119,
           7.881,
           7.514,
           25.298,
@@ -6995,7 +6995,7 @@
           null
         ],
         "evrevenue": [
-          1.20932,
+          1.15824,
           1.416,
           1.255,
           4.341,
@@ -7244,7 +7244,8 @@
           0.649,
           0.652,
           null,
-          1.205
+          1.205,
+          null
         ],
         "inventoryTurnover": [
           3.845,
@@ -7335,7 +7336,8 @@
           -1.82541,
           -2.70638,
           -1.45617,
-          -5.16059
+          -5.16059,
+          null
         ],
         "roa": [
           0.04824,
@@ -7357,7 +7359,8 @@
           -0.45051,
           -0.41065,
           -0.4655,
-          -0.32904
+          -0.32904,
+          null
         ],
         "roic": [
           0.08677,
@@ -7376,6 +7379,7 @@
           -3.26509,
           null,
           -13.32173,
+          null,
           null,
           null,
           null,
@@ -7405,7 +7409,7 @@
           -0.249
         ],
         "earningsyield": [
-          -0.08538209999999999,
+          -0.08879060000000001,
           -0.05414,
           -0.31644,
           -0.08833,
@@ -7428,7 +7432,7 @@
           -0.08477
         ],
         "fcfyield": [
-          -0.0559953,
+          -0.0582306,
           -0.05121,
           -0.07047,
           -0.02478,
@@ -7500,7 +7504,7 @@
           "Q4"
         ],
         "marketcap": [
-          147870452,
+          150199420,
           446530027,
           71360578,
           45243243,
@@ -7508,7 +7512,7 @@
           301305378
         ],
         "ev": [
-          133985452,
+          136314420,
           458864027,
           72540578,
           49259242,
@@ -7516,7 +7520,7 @@
           216461377
         ],
         "lastCloseRatios": [
-          5.21,
+          5.07,
           16.19,
           4.45,
           5.28,
@@ -7524,7 +7528,7 @@
           37.38
         ],
         "ps": [
-          1.33068,
+          1.2796,
           4.224,
           0.914,
           0.838,
@@ -7532,7 +7536,7 @@
           3.973
         ],
         "pb": [
-          6.48795,
+          6.31361,
           14.387,
           -3.374,
           -1.525,
@@ -7540,7 +7544,7 @@
           5.459
         ],
         "ptbvRatio": [
-          7.20788,
+          6.93119,
           25.298,
           null,
           null,
@@ -7548,7 +7552,7 @@
           5.632
         ],
         "evrevenue": [
-          1.20932,
+          1.15824,
           4.341,
           0.929,
           0.912,
@@ -7644,7 +7648,7 @@
           -0.711
         ],
         "earningsyield": [
-          -0.08538209999999999,
+          -0.08879060000000001,
           -0.08886,
           -0.17567,
           -0.7272,
@@ -7652,7 +7656,7 @@
           -0.23798
         ],
         "fcfyield": [
-          -0.0559953,
+          -0.0582306,
           -0.02478,
           -0.15757,
           -0.52036,
