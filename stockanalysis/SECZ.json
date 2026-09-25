@@ -1,8 +1,4 @@
 {
-  "ticker": "SECZ",
-  "status": "available",
-  "provider_symbol": "secz",
-  "cik": "2094496",
   "profile": {
     "name": "Securitize Corp.",
     "country": "United States",
@@ -11,7 +7,11 @@
     "industry": "Software - Application",
     "sector": "Technology",
     "employees": 194,
-    "ceo": "Carlos Domingo Soriano"
+    "ceo": "Carlos Domingo Soriano",
+    "ticker": "SECZ",
+    "status": "available",
+    "provider_symbol": "secz",
+    "cik": "2094496"
   },
   "details": {
     "symbol": "SECZ",
@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "2,460,266,375",
-      "enterpriseValue": "2,509,647,154"
+      "marketcap": "2,832,047,575",
+      "enterpriseValue": "2,881,428,354"
     },
     "dates": {
       "earningsdate": "Aug 12, 2026",
@@ -49,8 +49,8 @@
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "36.847",
-      "psForward": "26.820",
+      "ps": "42.415",
+      "psForward": "30.873",
       "pb": "n/a",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
@@ -59,7 +59,7 @@
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "37.59",
+      "evSales": "43.15",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "n/a",
-      "ch1y": "34.96%",
-      "sma50": "7.571",
-      "sma200": "10.435",
-      "rsi": "79.923",
-      "averageVolume": "3,524,040"
+      "ch1y": "55.28%",
+      "sma50": "7.732",
+      "sma200": "10.464",
+      "rsi": "83.789",
+      "averageVolume": "3,993,020"
     },
     "shortSelling": {
       "shortInterest": "3,764,542",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-3.393%",
       "totalReturn": "-3.393%",
-      "earningsYield": "-2.715%",
-      "fcfYield": "-0.805%"
+      "earningsYield": "-2.359%",
+      "fcfYield": "-0.700%"
     },
     "analystForecasts": {
       "priceTarget": "$13.70",
-      "priceTargetChange": "-4.60%",
+      "priceTargetChange": "-17.12%",
       "analystRatings": "Strong Buy",
       "analystCount": "6",
       "revenue3y": "45.71%",
@@ -937,12 +937,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 14.36,
+          "c": 16.53,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-23"
+          "t": "2027-09-24"
         }
       ]
     },
@@ -3667,25 +3667,25 @@
           "Q4"
         ],
         "marketcap": [
-          2460266375,
+          2832047575,
           100324089,
           null,
           null
         ],
         "ev": [
-          2509647154,
+          2881428354,
           285503969,
           null,
           null
         ],
         "lastCloseRatios": [
-          14.36,
+          16.53,
           11.26,
           null,
           null
         ],
         "ps": [
-          36.84674,
+          42.41481,
           1.614,
           null,
           null
@@ -3697,7 +3697,7 @@
           null
         ],
         "evrevenue": [
-          37.5863,
+          43.15437,
           4.594,
           null,
           null
@@ -3763,13 +3763,13 @@
           -0.483
         ],
         "earningsyield": [
-          -0.0271537,
+          -0.023589099999999998,
           -0.48298,
           null,
           null
         ],
         "fcfyield": [
-          -0.008053,
+          -0.0069958,
           -0.16443,
           null,
           null
@@ -3810,7 +3810,7 @@
           "Q4"
         ],
         "marketcap": [
-          2460266375,
+          2832047575,
           119210008,
           93305117,
           100324089,
@@ -3819,7 +3819,7 @@
           null
         ],
         "ev": [
-          2509647154,
+          2881428354,
           315533967,
           293691607,
           285503969,
@@ -3828,7 +3828,7 @@
           null
         ],
         "lastCloseRatios": [
-          14.36,
+          16.53,
           13.42,
           10.89,
           11.26,
@@ -3837,7 +3837,7 @@
           null
         ],
         "ps": [
-          36.84674,
+          42.41481,
           2.138,
           1.686,
           2.064,
@@ -3855,7 +3855,7 @@
           null
         ],
         "evrevenue": [
-          37.5863,
+          43.15437,
           5.659,
           5.306,
           5.873,
@@ -3968,7 +3968,7 @@
           0.022
         ],
         "earningsyield": [
-          -0.0271537,
+          -0.023589099999999998,
           -0.71987,
           -0.7422,
           -0.63476,
@@ -3977,7 +3977,7 @@
           null
         ],
         "fcfyield": [
-          -0.008053,
+          -0.0069958,
           -0.22383,
           -0.27604,
           -0.18013,
@@ -4015,25 +4015,25 @@
           "Q4"
         ],
         "marketcap": [
-          2460266375,
+          2832047575,
           100324089,
           null,
           null
         ],
         "ev": [
-          2509647154,
+          2881428354,
           285503969,
           null,
           null
         ],
         "lastCloseRatios": [
-          14.36,
+          16.53,
           11.26,
           null,
           null
         ],
         "ps": [
-          36.84674,
+          42.41481,
           1.614,
           null,
           null
@@ -4045,7 +4045,7 @@
           null
         ],
         "evrevenue": [
-          37.5863,
+          43.15437,
           4.594,
           null,
           null
@@ -4111,13 +4111,13 @@
           -0.483
         ],
         "earningsyield": [
-          -0.0271537,
+          -0.023589099999999998,
           -0.48298,
           null,
           null
         ],
         "fcfyield": [
-          -0.008053,
+          -0.0069958,
           -0.16443,
           null,
           null
