@@ -1,9 +1,9 @@
 {
-  "ticker": "SRFM",
-  "status": "available",
-  "provider_symbol": "srfm",
-  "cik": "1936224",
   "profile": {
+    "ticker": "SRFM",
+    "status": "available",
+    "provider_symbol": "srfm",
+    "cik": "1936224",
     "name": "Surf Air Mobility Inc.",
     "country": "United States",
     "founded": 2011,
@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "113,999,992",
-      "enterpriseValue": "181,789,992"
+      "marketcap": "137,245,110",
+      "enterpriseValue": "205,035,110"
     },
     "dates": {
       "earningsdate": "Nov 11, 2026",
@@ -49,8 +49,8 @@
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "1.029",
-      "psForward": "0.768",
+      "ps": "1.239",
+      "psForward": "0.924",
       "pb": "n/a",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
@@ -59,7 +59,7 @@
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "1.64",
+      "evSales": "1.85",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -77,7 +77,7 @@
       "roa": "-34.541%",
       "roic": "-491.746%",
       "roce": "437.095%",
-      "wacc": "14.415%",
+      "wacc": "14.972%",
       "revPerEmployee": "218,858",
       "profitPerEmployee": "-222,306",
       "employees": "506",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "2.822",
-      "ch1y": "-79.33%",
-      "sma50": "0.718",
-      "sma200": "1.383",
-      "rsi": "69.011",
-      "averageVolume": "6,088,386"
+      "ch1y": "-74.25%",
+      "sma50": "0.725",
+      "sma200": "1.377",
+      "rsi": "76.466",
+      "averageVolume": "6,831,627"
     },
     "shortSelling": {
       "shortInterest": "14,610,002",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-316.339%",
       "totalReturn": "-316.339%",
-      "earningsYield": "-98.673%",
-      "fcfYield": "-56.332%"
+      "earningsYield": "-81.961%",
+      "fcfYield": "-46.791%"
     },
     "analystForecasts": {
       "priceTarget": "$4.93",
-      "priceTargetChange": "434.71%",
+      "priceTargetChange": "344.14%",
       "analystRatings": "Buy",
       "analystCount": "4",
       "revenue3y": "27.47%",
@@ -192,12 +192,12 @@
           "revenueNext": {
             "last": 129710000,
             "this": 163646400,
-            "growth": 26.163287333281936
+            "growth": 26.16328733328192
           },
           "revenueThis": {
             "last": 106557000,
             "this": 129710000,
-            "growth": 21.728276884672056
+            "growth": 21.728276884672063
           }
         },
         "quarterly": {
@@ -382,7 +382,7 @@
             -1413000,
             9491000,
             4181000,
-            13457412.5,
+            13457412.500000002,
             "[PRO]",
             "[PRO]"
           ],
@@ -412,7 +412,7 @@
             198.436,
             97.38,
             -10.775,
-            21.728276884672056,
+            21.728276884672063,
             "[PRO]",
             "[PRO]"
           ],
@@ -747,9 +747,9 @@
       },
       "revenueGrowth": {
         "2026-12-31": {
-          "avg": 21.728276884672056,
+          "avg": 21.728276884672063,
           "low": 18.63603517366292,
-          "high": 25.097365729140268
+          "high": 25.09736572914029
         },
         "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
@@ -919,7 +919,7 @@
       "count": 4,
       "median": 5,
       "average": 5.19,
-      "updated": "2026-08-17",
+      "updated": "2026-09-25",
       "filtered": {
         "1": {
           "low": 1,
@@ -927,7 +927,7 @@
           "count": 4,
           "median": 5,
           "average": 5.19,
-          "updated": "2026-08-17"
+          "updated": "2026-09-25"
         },
         "2": {
           "low": 1,
@@ -935,7 +935,7 @@
           "count": 4,
           "median": 5,
           "average": 5.19,
-          "updated": "2026-08-17"
+          "updated": "2026-09-25"
         },
         "3": {
           "low": 2.75,
@@ -943,7 +943,7 @@
           "count": 3,
           "median": 5,
           "average": 6.58,
-          "updated": "2026-08-11"
+          "updated": "2026-09-25"
         },
         "4": {
           "low": 2.75,
@@ -951,14 +951,13 @@
           "count": 2,
           "median": 5,
           "average": 3.88,
-          "updated": "2026-08-11"
+          "updated": "2026-09-25"
         },
         "5": {
           "count": 0,
           "updated": ""
         }
       },
-      "warning": "SRFM's stock price has decreased by -79.33% in the past year and price targets may not have had time to catch up.",
       "currency": "USD",
       "chart": [
         {
@@ -1010,16 +1009,41 @@
           "t": "2026-08-01"
         },
         {
-          "c": 0.922,
+          "c": 1.11,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-24"
+          "t": "2027-09-25"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 2.75,
+        "pt_old": null,
+        "firm": "Alliance Global Partners",
+        "analyst": "Brian Kinstlinger",
+        "slug": "brian-kinstlinger",
+        "date": "2026-09-25",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 43.7,
+          "stars": 4.6,
+          "total": 474,
+          "avg_return": 11.2,
+          "return_pct": null,
+          "analyst_rank": 1110,
+          "success_rate": 43.7,
+          "stock_avg_return": -29.3,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12508
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 1,
@@ -1032,16 +1056,16 @@
         "rating_old": "",
         "time": "12:18:23",
         "scores": {
-          "score": 36.5,
-          "stars": 2.7,
+          "score": 36.8,
+          "stars": 2.9,
           "total": 329,
-          "avg_return": 1.5,
+          "avg_return": 1.8,
           "return_pct": null,
-          "analyst_rank": 5640,
-          "success_rate": 36.5,
+          "analyst_rank": 5290,
+          "success_rate": 36.8,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12521
+          "number_of_ranked_experts": 12508
         },
         "curr": "USD"
       },
@@ -1057,16 +1081,16 @@
         "rating_old": "",
         "time": "13:30:18",
         "scores": {
-          "score": 33.8,
+          "score": 34.5,
           "stars": 4.2,
-          "total": 491,
-          "avg_return": 7.6,
+          "total": 495,
+          "avg_return": 7.8,
           "return_pct": null,
-          "analyst_rank": 2111,
-          "success_rate": 33.8,
-          "stock_avg_return": -25.2,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12521
+          "analyst_rank": 2037,
+          "success_rate": 34.5,
+          "stock_avg_return": -5.4,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12508
         },
         "curr": "USD"
       },
@@ -1083,40 +1107,15 @@
         "time": "10:15:20",
         "scores": {
           "score": 32.2,
-          "stars": 3.7,
+          "stars": 3.9,
           "total": 491,
-          "avg_return": 4.8,
+          "avg_return": 6,
           "return_pct": null,
-          "analyst_rank": 3181,
+          "analyst_rank": 2689,
           "success_rate": 32.2,
-          "stock_avg_return": -56,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12521
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 2.75,
-        "pt_old": null,
-        "firm": "Alliance Global Partners",
-        "analyst": "Brian Kinstlinger",
-        "slug": "brian-kinstlinger",
-        "date": "2026-05-13",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "08:37:45",
-        "scores": {
-          "score": 43,
-          "stars": 4.5,
-          "total": 474,
-          "avg_return": 11,
-          "return_pct": null,
-          "analyst_rank": 1149,
-          "success_rate": 43,
-          "stock_avg_return": -44.1,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12521
+          "stock_avg_return": -46.8,
+          "stock_success_rate": 12.5,
+          "number_of_ranked_experts": 12508
         },
         "curr": "USD"
       }
@@ -6141,7 +6140,7 @@
           "Q4"
         ],
         "marketcap": [
-          113999992,
+          137245110,
           122653493,
           85998641,
           114121776,
@@ -6149,7 +6148,7 @@
           null
         ],
         "ev": [
-          181789992,
+          205035110,
           204882493,
           179458641,
           169521775,
@@ -6157,7 +6156,7 @@
           null
         ],
         "lastCloseRatios": [
-          0.922,
+          1.11,
           1.94,
           5.39,
           10.849999,
@@ -6165,7 +6164,7 @@
           null
         ],
         "ps": [
-          1.02942,
+          1.23932,
           1.151,
           0.72,
           1.886,
@@ -6181,7 +6180,7 @@
           null
         ],
         "evrevenue": [
-          1.64156,
+          1.85147,
           1.923,
           1.503,
           2.802,
@@ -6261,7 +6260,7 @@
           0.695
         ],
         "earningsyield": [
-          -0.9867281,
+          -0.8196066000000001,
           -0.90137,
           -0.87104,
           -2.19674,
@@ -6269,7 +6268,7 @@
           null
         ],
         "fcfyield": [
-          -0.5633158,
+          -0.4679074,
           -0.5715,
           -0.76838,
           -0.63055,
@@ -6356,7 +6355,7 @@
           "Q3"
         ],
         "marketcap": [
-          113999992,
+          137245110,
           128753729,
           88542240,
           122653493,
@@ -6379,7 +6378,7 @@
           null
         ],
         "ev": [
-          181789992,
+          205035110,
           214612729,
           176451239,
           204882493,
@@ -6402,7 +6401,7 @@
           null
         ],
         "lastCloseRatios": [
-          0.922,
+          1.11,
           1.16,
           1.15,
           1.94,
@@ -6448,7 +6447,7 @@
           null
         ],
         "ps": [
-          1.02942,
+          1.23932,
           1.163,
           0.815,
           1.151,
@@ -6494,7 +6493,7 @@
           null
         ],
         "evrevenue": [
-          1.64156,
+          1.85147,
           1.938,
           1.624,
           1.923,
@@ -6697,6 +6696,7 @@
           null,
           null,
           2.248,
+          null,
           null
         ],
         "inventoryTurnover": [
@@ -6788,6 +6788,7 @@
           null,
           null,
           -2.68159,
+          null,
           null
         ],
         "roce": [
@@ -6814,7 +6815,7 @@
           0.526
         ],
         "earningsyield": [
-          -0.9867281,
+          -0.8196066000000001,
           -0.87366,
           -1.26891,
           -0.90137,
@@ -6837,7 +6838,7 @@
           null
         ],
         "fcfyield": [
-          -0.5633158,
+          -0.4679074,
           -0.49877,
           -0.76841,
           -0.5715,
@@ -6909,7 +6910,7 @@
           "Q4"
         ],
         "marketcap": [
-          113999992,
+          137245110,
           122653493,
           85998641,
           114121776,
@@ -6917,7 +6918,7 @@
           null
         ],
         "ev": [
-          181789992,
+          205035110,
           204882493,
           179458641,
           169521775,
@@ -6925,7 +6926,7 @@
           null
         ],
         "lastCloseRatios": [
-          0.922,
+          1.11,
           1.94,
           5.39,
           10.849999,
@@ -6933,7 +6934,7 @@
           null
         ],
         "ps": [
-          1.02942,
+          1.23932,
           1.151,
           0.72,
           1.886,
@@ -6949,7 +6950,7 @@
           null
         ],
         "evrevenue": [
-          1.64156,
+          1.85147,
           1.923,
           1.503,
           2.802,
@@ -7029,7 +7030,7 @@
           0.695
         ],
         "earningsyield": [
-          -0.9867281,
+          -0.8196066000000001,
           -0.90137,
           -0.87104,
           -2.19674,
@@ -7037,7 +7038,7 @@
           null
         ],
         "fcfyield": [
-          -0.5633158,
+          -0.4679074,
           -0.5715,
           -0.76838,
           -0.63055,
