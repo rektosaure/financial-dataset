@@ -864,7 +864,7 @@ CNOB,3,Hold,C,C,F,D
 CNP,2,Buy,C,D,D,D
 CNQ,3,Hold,B,A,C,B
 CNR,1,Strong Buy,B,B,B,B
-CNS,2,Buy,F,D,D,F
+CNS,3,Hold,F,D,D,F
 CNSWF,3,Hold,C,B,D,B
 CNX,3,Hold,B,D,B,B
 CNXC,3,Hold,A,B,D,A
@@ -1047,7 +1047,7 @@ DCBO,3,Hold,B,D,C,C
 DCH,3,Hold,A,B,A,A
 DCI,3,Hold,C,C,F,C
 DCO,2,Buy,F,D,D,F
-DCOM,3,Hold,B,C,A,B
+DCOM,4,Sell,B,C,A,B
 DCTH,1,Strong Buy,F,C,D,D
 DD,3,Hold,D,F,D,F
 DDD,3,Hold,D,B,B,B
@@ -1509,7 +1509,7 @@ GDEV,3,Hold,A,D,C,B
 GDOT,5,Strong Sell,A,B,A,A
 GDRX,3,Hold,A,B,F,B
 GDS,4,Sell,B,B,F,B
-GDYN,2,Buy,B,C,A,A
+GDYN,1,Strong Buy,B,C,A,A
 GE,3,Hold,D,C,B,D
 GEAGF,2,Buy,B,D,F,D
 GEF,3,Hold,B,F,C,D
@@ -2472,7 +2472,7 @@ NMFC,3,Hold,A,C,C,A
 NMG,1,Strong Buy,F,C,F,F
 NMIH,2,Buy,B,D,B,C
 NMR,1,Strong Buy,C,F,A,D
-NMRA,2,Buy,F,B,A,C
+NMRA,3,Hold,F,B,A,C
 NMRK,3,Hold,A,A,A,A
 NN,3,Hold,F,D,B,F
 NNBR,4,Sell,B,A,C,A
@@ -3228,7 +3228,7 @@ SLN,3,Hold,F,B,A,C
 SLNH,2,Buy,F,F,F,F
 SLOIF,2,Buy,F,D,A,D
 SLRC,3,Hold,B,C,B,B
-SLSR,3,Hold,F,B,B,D
+SLSR,2,Buy,F,B,B,D
 SLVM,4,Sell,A,D,B,B
 SLVYY,4,Sell,B,C,A,B
 SM,3,Hold,A,A,B,A
@@ -3265,7 +3265,7 @@ SNLAY,3,Hold,F,F,D,F
 SNMCY,2,Buy,C,C,D,C
 SNN,3,Hold,A,B,B,A
 SNOW,2,Buy,F,A,B,C
-SNPHY,3,Hold,B,C,A,B
+SNPHY,2,Buy,B,C,A,B
 SNPS,2,Buy,D,C,F,D
 SNX,2,Buy,A,F,A,B
 SNY,3,Hold,A,A,A,A
