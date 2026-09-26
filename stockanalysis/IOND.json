@@ -1,9 +1,9 @@
 {
-  "ticker": "IOND",
-  "status": "available",
-  "provider_symbol": "iond",
-  "cik": "2007691",
   "profile": {
+    "ticker": "IOND",
+    "status": "available",
+    "provider_symbol": "iond",
+    "cik": "2007691",
     "name": "Ionic Digital Inc.",
     "country": "United States",
     "founded": 2024,
@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "3,810,726,061",
-      "enterpriseValue": "3,395,164,061"
+      "marketcap": "3,688,786,427",
+      "enterpriseValue": "3,273,224,427"
     },
     "dates": {
       "earningsdate": "Nov 5, 2026",
@@ -48,20 +48,20 @@
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "40.619",
-      "ps": "23.599",
-      "psForward": "20.879",
-      "pb": "6.342",
-      "ptbvRatio": "11.038",
+      "peForward": "39.319",
+      "ps": "22.612",
+      "psForward": "20.005",
+      "pb": "6.004",
+      "ptbvRatio": "10.576",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "21.05",
-      "evEbitda": "75.25",
-      "evEbit": "1,874.58",
+      "evSales": "20.07",
+      "evEbitda": "71.72",
+      "evEbit": "1,786.70",
       "evFcf": "n/a"
     },
     "financialPosition": {
@@ -93,15 +93,15 @@
       "ch1y": "n/a",
       "sma50": "n/a",
       "sma200": "n/a",
-      "rsi": "64.346",
-      "averageVolume": "788,783"
+      "rsi": "58.111",
+      "averageVolume": "796,924"
     },
     "shortSelling": {
       "shortInterest": "279,684",
       "shortPriorMonth": "623,901",
       "shortShares": "0.622%",
       "shortFloat": "0.726%",
-      "shortRatio": "0.320"
+      "shortRatio": "1.420"
     },
     "incomeStatement": {
       "revenue": "163,212,000",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "-7.786%",
-      "fcfYield": "-1.660%"
+      "earningsYield": "-8.126%",
+      "fcfYield": "-1.733%"
     },
     "analystForecasts": {
       "priceTarget": "$85.00",
-      "priceTargetChange": "0.37%",
+      "priceTargetChange": "3.68%",
       "analystRatings": "Strong Buy",
       "analystCount": "2",
       "revenue3y": "26.67%",
@@ -850,12 +850,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 84.54,
+          "c": 82.02,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-24"
+          "t": "2027-09-25"
         }
       ]
     },
@@ -3167,6 +3167,7 @@
           0.264,
           null,
           null,
+          null,
           null
         ],
         "quickRatio": [
@@ -3187,10 +3188,12 @@
           -0.20203,
           null,
           null,
+          null,
           null
         ],
         "roa": [
           0.07048,
+          null,
           null,
           null,
           null
@@ -3199,7 +3202,8 @@
           0.04393,
           0.04654,
           null,
-          -0.01075
+          -0.01075,
+          null
         ],
         "roce": [
           0.002,
