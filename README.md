@@ -1,21 +1,19 @@
 # Financial Dataset
 
-Collection of financial, macroeconomic, market and company datasets in CSV and JSON formats.
+Collection of financial, macroeconomic, market, reference and company datasets in CSV and JSON formats.
 
-This is an automated data publication repository. It does not calculate its own financial indicators, valuation metrics, trading signals, forecasts, scores or rankings.
-
-When derived values are present, they are provided by the upstream source. Data may be validated, normalized or reformatted before publication.
+The repository is updated automatically from multiple public and third-party data sources.
 
 ## Datasets
 
-| Directory | Content | Format | Update frequency |
-| --- | --- | --- | --- |
-| `macro-crypto/` | Cryptocurrency ecosystem and market data | CSV | Every 4 hours |
-| `macro-us/` | U.S. macroeconomic and financial data | CSV | Every 4 hours |
-| `macro-world/` | Global macro, commodities, FX and indices | CSV | Every 4 hours |
-| `screener/` | Equity universes, classifications and provider-supplied rankings | CSV | Every 12 hours |
-| `stockanalysis/` | Company profiles, financials, statistics and forecasts | JSON | Every 24 hours |
-| `transcripts/` | Earnings-call transcripts by ticker | JSON | Every 24 hours |
+| Directory | Content | Format |
+| --- | --- | --- |
+| `macro-crypto/` | Cryptocurrency ecosystem and market data | CSV |
+| `macro-us/` | U.S. macroeconomic, financial and economic-report data | CSV, JSON |
+| `macro-world/` | Global macroeconomic, commodities, FX and index data | CSV |
+| `screener/` | Equity universes, classifications, reference data and provider-supplied rankings | CSV |
+| `stockanalysis/` | Company profiles, financials, statistics and forecasts by ticker | JSON |
+| `transcripts/` | Earnings-call transcripts by ticker | JSON |
 
 ## Structure
 
@@ -29,7 +27,9 @@ financial-dataset/
 └── transcripts/
 ```
 
-Some macro datasets are available at different frequencies:
+## Data frequency
+
+Some macro datasets are available at several observation frequencies.
 
 | Suffix | Frequency |
 | --- | --- |
@@ -37,6 +37,19 @@ Some macro datasets are available at different frequencies:
 | `_w` | Weekly |
 | `_m` | Monthly |
 | `_q` | Quarterly |
+| `_a` | Annual |
+
+These suffixes describe the frequency of the observations contained in the file, not how often the file itself is updated.
+
+Not all datasets use frequency suffixes.
+
+## Updates
+
+Datasets are refreshed automatically according to the availability and update cycle of their upstream sources.
+
+Refresh frequency varies between datasets. Some sources are checked several times per day, while others are updated daily or weekly.
+
+A file is not necessarily modified on every refresh. Upstream sources may also revise previously published observations, causing historical values to change.
 
 ## Usage
 
@@ -61,20 +74,24 @@ Files can also be consumed directly through GitHub raw URLs without cloning the 
 
 ## Data notes
 
-Update frequency refers to how often datasets are refreshed on a rolling basis. Updates are staggered throughout the day.
+Missing CSV values and JSON `null` values should not be interpreted as zero.
 
-Missing CSV values or JSON `null` values should not be interpreted as zero.
+Dates represent the observation period associated with the underlying data and may have different meanings depending on the dataset.
 
-Some datasets may be revised historically when upstream sources publish corrections or updated observations.
+Coverage and field availability may vary by source, period and company.
+
+Historical observations may change when upstream sources publish revisions or corrections.
 
 ## Sources & licensing
 
 The repository aggregates data from multiple public and third-party sources.
 
-Source attribution, methodology and usage rights may differ between datasets. Users should verify the original source and its applicable terms before redistributing or using the data.
+Source attribution, methodology, availability and usage rights may differ between datasets.
+
+Users should identify the relevant upstream source and verify its applicable terms before redistributing or commercially using the data.
 
 ## Disclaimer
 
 The data may be incomplete, delayed, inaccurate or subject to revision.
 
-It is provided for private, research and informational use only. Users are responsible for assessing its suitability before relying on it for financial, investment or other decisions.
+It is provided for research and informational purposes only. Users are responsible for assessing its suitability before relying on it for financial, investment or other decisions.
