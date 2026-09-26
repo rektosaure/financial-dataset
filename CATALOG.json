@@ -1,0 +1,935 @@
+{
+  "schema_version": 1,
+  "datasets": [
+    {
+      "key": "equities_stockanalysis_company",
+      "title": "Company Data",
+      "category": "Companies",
+      "description": "Company profiles, identifiers, details, dividends, statistics, analyst forecasts and financial statements.",
+      "resources": [
+        {
+          "path_pattern": "stockanalysis/{TICKER}.json",
+          "format": "json",
+          "temporal_shape": "mixed"
+        }
+      ]
+    },
+    {
+      "key": "equities_transcripts",
+      "title": "Earnings-call Transcripts",
+      "category": "Companies",
+      "description": "Earnings-call transcripts with fiscal metadata and ordered transcript chunks.",
+      "resources": [
+        {
+          "path_pattern": "transcripts/{TICKER}.json",
+          "format": "json",
+          "temporal_shape": "event_history"
+        }
+      ]
+    },
+    {
+      "key": "crypto_network_tvd",
+      "title": "Crypto Network Value Distributed",
+      "category": "Crypto",
+      "description": "Distributed real-world asset value by blockchain network, excluding stablecoins.",
+      "resources": [
+        {
+          "path": "macro-crypto/crypto_network_tvd.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "crypto_network_tvr",
+      "title": "Crypto Network Value Represented",
+      "category": "Crypto",
+      "description": "Represented real-world asset value by blockchain network, excluding stablecoins.",
+      "resources": [
+        {
+          "path": "macro-crypto/crypto_network_tvr.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "damodaran_stocks",
+      "title": "Company Classifications",
+      "category": "Equities & Reference Data",
+      "description": "Company classifications with ticker, industry, sector, SIC, country and grouping fields.",
+      "resources": [
+        {
+          "path": "screener/damodaran_stocks.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "taxonomy_gics",
+      "title": "GICS Taxonomy",
+      "category": "Equities & Reference Data",
+      "description": "Global Industry Classification Standard sector, industry-group, industry and sub-industry hierarchy.",
+      "resources": [
+        {
+          "path": "screener/taxonomy_gics.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "equities_rankings_industries_history",
+      "title": "Industry Ranking History",
+      "category": "Equities & Reference Data",
+      "description": "Historical changes in industry rankings.",
+      "resources": [
+        {
+          "path": "screener/rankings_industries_history.csv",
+          "format": "csv",
+          "temporal_shape": "change_history"
+        }
+      ]
+    },
+    {
+      "key": "equities_rankings_industries",
+      "title": "Industry Rankings",
+      "category": "Equities & Reference Data",
+      "description": "Current industry rank bucket, percentile, position and universe size.",
+      "resources": [
+        {
+          "path": "screener/rankings_industries.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "damodaran_pe",
+      "title": "Industry Valuation Multiples",
+      "category": "Equities & Reference Data",
+      "description": "Industry valuation multiples including current, trailing and forward P/E measures and growth metrics.",
+      "resources": [
+        {
+          "path": "screener/damodaran_pe.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "sp400",
+      "title": "S&P 400 Constituents",
+      "category": "Equities & Reference Data",
+      "description": "S&P MidCap 400 constituents with sector, industry and headquarters information.",
+      "resources": [
+        {
+          "path": "screener/sp400.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "sp500",
+      "title": "S&P 500 Constituents",
+      "category": "Equities & Reference Data",
+      "description": "S&P 500 constituents with sector, industry, headquarters, CIK and reference information.",
+      "resources": [
+        {
+          "path": "screener/sp500.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "sp600",
+      "title": "S&P 600 Constituents",
+      "category": "Equities & Reference Data",
+      "description": "S&P SmallCap 600 constituents with sector, industry, headquarters and CIK information.",
+      "resources": [
+        {
+          "path": "screener/sp600.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "sec_cik",
+      "title": "SEC Company Identifiers",
+      "category": "Equities & Reference Data",
+      "description": "SEC CIK, ticker and company-name reference data.",
+      "resources": [
+        {
+          "path": "screener/sec_cik.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "taxonomy_sic",
+      "title": "SIC Taxonomy",
+      "category": "Equities & Reference Data",
+      "description": "Standard Industrial Classification codes and industry names.",
+      "resources": [
+        {
+          "path": "screener/taxonomy_sic.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "equities_rankings_tickers_history",
+      "title": "Ticker Ranking History",
+      "category": "Equities & Reference Data",
+      "description": "Historical changes in ticker rankings and style scores.",
+      "resources": [
+        {
+          "path": "screener/rankings_tickers_history.csv",
+          "format": "csv",
+          "temporal_shape": "change_history"
+        }
+      ]
+    },
+    {
+      "key": "equities_rankings_tickers",
+      "title": "Ticker Rankings",
+      "category": "Equities & Reference Data",
+      "description": "Current ticker rankings and value, growth, momentum and VGM scores.",
+      "resources": [
+        {
+          "path": "screener/rankings_tickers.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "usa_industries",
+      "title": "US Industry Metrics",
+      "category": "Equities & Reference Data",
+      "description": "U.S. equity-industry performance, earnings and financial-ratio metrics.",
+      "resources": [
+        {
+          "path": "screener/usa_industries.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "usa_sectors",
+      "title": "US Sector Metrics",
+      "category": "Equities & Reference Data",
+      "description": "U.S. equity-sector performance, earnings and financial-ratio metrics.",
+      "resources": [
+        {
+          "path": "screener/usa_sectors.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "usa_stocks",
+      "title": "US Stock Universe",
+      "category": "Equities & Reference Data",
+      "description": "U.S. stock universe and company screening fields.",
+      "resources": [
+        {
+          "path": "screener/usa_stocks.csv",
+          "format": "csv",
+          "temporal_shape": "snapshot"
+        }
+      ]
+    },
+    {
+      "key": "europe_esi",
+      "title": "European Economic Sentiment",
+      "category": "Global Economy",
+      "description": "Economic sentiment indicators for the euro area, European Union and member countries.",
+      "resources": [
+        {
+          "path": "macro-world/europe_esi.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_construction",
+      "title": "Global Construction",
+      "category": "Global Economy",
+      "description": "Residential building-permit indicators across available OECD economies.",
+      "resources": [
+        {
+          "path": "macro-world/world_construction.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_csi",
+      "title": "Global Consumer Confidence",
+      "category": "Global Economy",
+      "description": "Consumer-confidence indicators across available OECD economies.",
+      "resources": [
+        {
+          "path": "macro-world/world_csi.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_esr",
+      "title": "Global Employment Rate",
+      "category": "Global Economy",
+      "description": "Employment-rate indicators across available OECD economies.",
+      "resources": [
+        {
+          "path": "macro-world/world_esr.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_pmi",
+      "title": "Global Manufacturing PMI",
+      "category": "Global Economy",
+      "description": "Manufacturing purchasing managers indexes across major economies.",
+      "resources": [
+        {
+          "path": "macro-world/world_pmi.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_gdp_nominal_usd",
+      "title": "Global Nominal GDP",
+      "category": "Global Economy",
+      "description": "Nominal GDP in U.S. dollars across available OECD economies and aggregates.",
+      "resources": [
+        {
+          "path": "macro-world/world_gdp_nominal_usd.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_gdp_real_usd",
+      "title": "Global Real GDP",
+      "category": "Global Economy",
+      "description": "Real GDP in U.S. dollars across available OECD economies and aggregates.",
+      "resources": [
+        {
+          "path": "macro-world/world_gdp_real_usd.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_nmi",
+      "title": "Global Services PMI",
+      "category": "Global Economy",
+      "description": "Services purchasing managers indexes across major economies.",
+      "resources": [
+        {
+          "path": "macro-world/world_nmi.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_cftc_disagg",
+      "title": "CFTC Disaggregated Futures",
+      "category": "Markets",
+      "description": "CFTC disaggregated futures positioning by contract and trader category.",
+      "resources": [
+        {
+          "path": "macro-us/usa_cftc_disagg.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_cftc_tff",
+      "title": "CFTC Financial Futures",
+      "category": "Markets",
+      "description": "CFTC Traders in Financial Futures positioning by contract and trader category.",
+      "resources": [
+        {
+          "path": "macro-us/usa_cftc_tff.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "commodities",
+      "title": "Commodities",
+      "category": "Markets",
+      "description": "Energy, metals, agricultural commodities and livestock market prices.",
+      "resources": [
+        {
+          "path": "macro-world/commodities_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        },
+        {
+          "path": "macro-world/commodities_m.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        },
+        {
+          "path": "macro-world/commodities_q.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        },
+        {
+          "path": "macro-world/commodities_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "indices",
+      "title": "Equity Indices",
+      "category": "Markets",
+      "description": "Major equity-market indices across the United States, Europe and Asia-Pacific.",
+      "resources": [
+        {
+          "path": "macro-world/indices_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        },
+        {
+          "path": "macro-world/indices_m.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        },
+        {
+          "path": "macro-world/indices_q.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        },
+        {
+          "path": "macro-world/indices_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fx",
+      "title": "Foreign Exchange",
+      "category": "Markets",
+      "description": "Major foreign-exchange rates including EUR/USD, GBP/USD, USD/JPY and other pairs.",
+      "resources": [
+        {
+          "path": "macro-world/fx_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        },
+        {
+          "path": "macro-world/fx_m.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        },
+        {
+          "path": "macro-world/fx_q.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        },
+        {
+          "path": "macro-world/fx_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_volatility",
+      "title": "US Market Volatility",
+      "category": "Markets",
+      "description": "S&P 500, VIX, VVIX, VIX futures and related volatility market series.",
+      "resources": [
+        {
+          "path": "macro-us/usa_volatility_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        },
+        {
+          "path": "macro-us/usa_volatility_m.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        },
+        {
+          "path": "macro-us/usa_volatility_q.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        },
+        {
+          "path": "macro-us/usa_volatility_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_supersectors",
+      "title": "US Sector ETFs",
+      "category": "Markets",
+      "description": "Market price series for the major U.S. equity sector ETFs.",
+      "resources": [
+        {
+          "path": "macro-us/usa_supersectors_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        },
+        {
+          "path": "macro-us/usa_supersectors_m.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        },
+        {
+          "path": "macro-us/usa_supersectors_q.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        },
+        {
+          "path": "macro-us/usa_supersectors_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_twi",
+      "title": "US Trade-Weighted Dollar",
+      "category": "Markets",
+      "description": "Broad, advanced-economy and emerging-market trade-weighted U.S. dollar indexes.",
+      "resources": [
+        {
+          "path": "macro-us/usa_twi.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "europe_yield_curve",
+      "title": "Euro Area Rates and Yield Curve",
+      "category": "Rates & Credit",
+      "description": "ECB policy rates, €STR and euro-area yield-curve rates across 3M to 30Y maturities.",
+      "resources": [
+        {
+          "path": "macro-world/europe_yield_curve.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_fed",
+      "title": "Federal Reserve",
+      "category": "Rates & Credit",
+      "description": "Federal funds rates, FOMC growth projections and Federal Reserve total assets.",
+      "resources": [
+        {
+          "path": "macro-us/usa_fed.csv",
+          "format": "csv",
+          "granularities": [
+            "daily",
+            "weekly",
+            "yearly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_ir_lt",
+      "title": "Global Long-Term Interest Rates",
+      "category": "Rates & Credit",
+      "description": "Long-term interest-rate indicators across available OECD economies.",
+      "resources": [
+        {
+          "path": "macro-world/world_ir_lt.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_ir_st",
+      "title": "Global Short-Term Interest Rates",
+      "category": "Rates & Credit",
+      "description": "Short-term interest-rate indicators across available OECD economies.",
+      "resources": [
+        {
+          "path": "macro-world/world_ir_st.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_bonds",
+      "title": "US Bond ETFs",
+      "category": "Rates & Credit",
+      "description": "U.S. Treasury and corporate bond ETF market prices.",
+      "resources": [
+        {
+          "path": "macro-us/usa_bonds_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        },
+        {
+          "path": "macro-us/usa_bonds_m.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        },
+        {
+          "path": "macro-us/usa_bonds_q.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        },
+        {
+          "path": "macro-us/usa_bonds_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_corporate_bonds",
+      "title": "US Corporate Credit",
+      "category": "Rates & Credit",
+      "description": "U.S. corporate bond yields and option-adjusted spreads by credit quality.",
+      "resources": [
+        {
+          "path": "macro-us/usa_corporate_bonds.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_money_supply",
+      "title": "US Money and Liquidity",
+      "category": "Rates & Credit",
+      "description": "Nominal and real M2, Federal Reserve total assets and overnight reverse repos.",
+      "resources": [
+        {
+          "path": "macro-us/usa_money_supply.csv",
+          "format": "csv",
+          "granularities": [
+            "daily",
+            "weekly",
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_yield_curve",
+      "title": "US Treasury Yield Curve",
+      "category": "Rates & Credit",
+      "description": "U.S. Treasury yields across short- and long-term maturities.",
+      "resources": [
+        {
+          "path": "macro-us/usa_yield_curve_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ]
+        },
+        {
+          "path": "macro-us/usa_yield_curve_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_umcsi",
+      "title": "US Consumer Sentiment",
+      "category": "US Economy",
+      "description": "University of Michigan sentiment, expectations, current conditions and inflation expectations.",
+      "resources": [
+        {
+          "path": "macro-us/usa_umcsi.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_durable_goods",
+      "title": "US Durable Goods",
+      "category": "US Economy",
+      "description": "U.S. durable-goods orders including major manufacturing categories.",
+      "resources": [
+        {
+          "path": "macro-us/usa_durable_goods.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_household_debt",
+      "title": "US Household Debt",
+      "category": "US Economy",
+      "description": "U.S. household debt-to-GDP, debt-service and mortgage-debt indicators.",
+      "resources": [
+        {
+          "path": "macro-us/usa_household_debt.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_construction",
+      "title": "US Housing Construction",
+      "category": "US Economy",
+      "description": "U.S. building permits, housing starts and housing completions.",
+      "resources": [
+        {
+          "path": "macro-us/usa_construction.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_industrial_production",
+      "title": "US Industrial Production",
+      "category": "US Economy",
+      "description": "U.S. industrial and manufacturing production, including major manufacturing industries.",
+      "resources": [
+        {
+          "path": "macro-us/usa_industrial_production.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_inflation",
+      "title": "US Inflation",
+      "category": "US Economy",
+      "description": "CPI, core CPI, PCE, core PCE, PPI and 5Y/10Y breakeven inflation.",
+      "resources": [
+        {
+          "path": "macro-us/usa_inflation.csv",
+          "format": "csv",
+          "granularities": [
+            "daily",
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_pmi",
+      "title": "US ISM Manufacturing",
+      "category": "US Economy",
+      "description": "ISM manufacturing PMI and components including orders, production, employment, inventories and prices.",
+      "resources": [
+        {
+          "path": "macro-us/usa_pmi.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_pmi_reports",
+      "title": "US ISM Manufacturing Reports",
+      "category": "US Economy",
+      "description": "Monthly ISM manufacturing reports with structured report sections and text.",
+      "resources": [
+        {
+          "path": "macro-us/usa_pmi_reports.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_nmi",
+      "title": "US ISM Services",
+      "category": "US Economy",
+      "description": "ISM services index and components including activity, employment, orders, inventories and prices.",
+      "resources": [
+        {
+          "path": "macro-us/usa_nmi.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_nmi_reports",
+      "title": "US ISM Services Reports",
+      "category": "US Economy",
+      "description": "Monthly ISM services reports with structured report sections and text.",
+      "resources": [
+        {
+          "path": "macro-us/usa_nmi_reports.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_labor_market",
+      "title": "US Labor Market",
+      "category": "US Economy",
+      "description": "Jobless claims, unemployment rates, payrolls and employment by major sector.",
+      "resources": [
+        {
+          "path": "macro-us/usa_labor_market.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly",
+            "monthly"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "usa_sbo",
+      "title": "US Small Business",
+      "category": "US Economy",
+      "description": "NFIB small-business optimism and survey indicators for expectations, hiring, investment and credit.",
+      "resources": [
+        {
+          "path": "macro-us/usa_sbo.csv",
+          "format": "csv",
+          "granularities": [
+            "monthly"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,8 @@
 
 This file is generated automatically from the public dataset definitions.
 
+Machine-readable catalog: [`CATALOG.json`](CATALOG.json).
+
 ## Companies
 
 | Dataset | Description | Coverage | Format | Files |
