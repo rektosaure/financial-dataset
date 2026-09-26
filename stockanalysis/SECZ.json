@@ -1,5 +1,9 @@
 {
   "profile": {
+    "ticker": "SECZ",
+    "status": "available",
+    "provider_symbol": "secz",
+    "cik": "2094496",
     "name": "Securitize Corp.",
     "country": "United States",
     "founded": 2017,
@@ -7,11 +11,7 @@
     "industry": "Software - Application",
     "sector": "Technology",
     "employees": 194,
-    "ceo": "Carlos Domingo Soriano",
-    "ticker": "SECZ",
-    "status": "available",
-    "provider_symbol": "secz",
-    "cik": "2094496"
+    "ceo": "Carlos Domingo Soriano"
   },
   "details": {
     "symbol": "SECZ",
@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "2,832,047,575",
-      "enterpriseValue": "2,881,428,354"
+      "marketcap": "2,734,390,762",
+      "enterpriseValue": "2,783,771,541"
     },
     "dates": {
       "earningsdate": "Aug 12, 2026",
@@ -49,8 +49,8 @@
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "42.415",
-      "psForward": "30.873",
+      "ps": "40.952",
+      "psForward": "29.808",
       "pb": "n/a",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
@@ -59,7 +59,7 @@
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "43.15",
+      "evSales": "41.69",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -90,18 +90,18 @@
     },
     "stockPrice": {
       "beta": "n/a",
-      "ch1y": "55.28%",
-      "sma50": "7.732",
-      "sma200": "10.464",
-      "rsi": "83.789",
-      "averageVolume": "3,993,020"
+      "ch1y": "49.93%",
+      "sma50": "7.894",
+      "sma200": "10.489",
+      "rsi": "79.461",
+      "averageVolume": "4,250,819"
     },
     "shortSelling": {
-      "shortInterest": "3,764,542",
-      "shortPriorMonth": "4,132,229",
-      "shortShares": "2.197%",
-      "shortFloat": "2.435%",
-      "shortRatio": "1.600"
+      "shortInterest": "3,033,896",
+      "shortPriorMonth": "3,764,542",
+      "shortShares": "1.771%",
+      "shortFloat": "1.962%",
+      "shortRatio": "1.730"
     },
     "incomeStatement": {
       "revenue": "66,770,256",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-3.393%",
       "totalReturn": "-3.393%",
-      "earningsYield": "-2.359%",
-      "fcfYield": "-0.700%"
+      "earningsYield": "-2.443%",
+      "fcfYield": "-0.725%"
     },
     "analystForecasts": {
       "priceTarget": "$13.70",
-      "priceTargetChange": "-17.12%",
+      "priceTargetChange": "-14.16%",
       "analystRatings": "Strong Buy",
       "analystCount": "6",
       "revenue3y": "45.71%",
@@ -937,12 +937,12 @@
           "t": "2026-08-01"
         },
         {
-          "c": 16.53,
+          "c": 15.96,
           "t": "2026-09-01"
         },
         {
           "c": null,
-          "t": "2027-09-24"
+          "t": "2027-09-25"
         }
       ]
     },
@@ -3667,25 +3667,25 @@
           "Q4"
         ],
         "marketcap": [
-          2832047575,
+          2734390762,
           100324089,
           null,
           null
         ],
         "ev": [
-          2881428354,
+          2783771541,
           285503969,
           null,
           null
         ],
         "lastCloseRatios": [
-          16.53,
+          15.96,
           11.26,
           null,
           null
         ],
         "ps": [
-          42.41481,
+          40.95223,
           1.614,
           null,
           null
@@ -3697,7 +3697,7 @@
           null
         ],
         "evrevenue": [
-          43.15437,
+          41.69179,
           4.594,
           null,
           null
@@ -3763,13 +3763,13 @@
           -0.483
         ],
         "earningsyield": [
-          -0.023589099999999998,
+          -0.0244316,
           -0.48298,
           null,
           null
         ],
         "fcfyield": [
-          -0.0069958,
+          -0.007245700000000001,
           -0.16443,
           null,
           null
@@ -3810,7 +3810,7 @@
           "Q4"
         ],
         "marketcap": [
-          2832047575,
+          2734390762,
           119210008,
           93305117,
           100324089,
@@ -3819,7 +3819,7 @@
           null
         ],
         "ev": [
-          2881428354,
+          2783771541,
           315533967,
           293691607,
           285503969,
@@ -3828,7 +3828,7 @@
           null
         ],
         "lastCloseRatios": [
-          16.53,
+          15.96,
           13.42,
           10.89,
           11.26,
@@ -3837,7 +3837,7 @@
           null
         ],
         "ps": [
-          42.41481,
+          40.95223,
           2.138,
           1.686,
           2.064,
@@ -3855,7 +3855,7 @@
           null
         ],
         "evrevenue": [
-          43.15437,
+          41.69179,
           5.659,
           5.306,
           5.873,
@@ -3914,6 +3914,7 @@
           null,
           null,
           null,
+          null,
           null
         ],
         "quickRatio": [
@@ -3940,11 +3941,13 @@
           null,
           null,
           -0.86668,
+          null,
           null
         ],
         "roa": [
           -0.16669,
           -0.0347,
+          null,
           null,
           null,
           null,
@@ -3956,7 +3959,8 @@
           -0.1174,
           null,
           0.04936,
-          0.02115
+          0.02115,
+          null
         ],
         "roce": [
           -0.122,
@@ -3968,7 +3972,7 @@
           0.022
         ],
         "earningsyield": [
-          -0.023589099999999998,
+          -0.0244316,
           -0.71987,
           -0.7422,
           -0.63476,
@@ -3977,7 +3981,7 @@
           null
         ],
         "fcfyield": [
-          -0.0069958,
+          -0.007245700000000001,
           -0.22383,
           -0.27604,
           -0.18013,
@@ -4015,25 +4019,25 @@
           "Q4"
         ],
         "marketcap": [
-          2832047575,
+          2734390762,
           100324089,
           null,
           null
         ],
         "ev": [
-          2881428354,
+          2783771541,
           285503969,
           null,
           null
         ],
         "lastCloseRatios": [
-          16.53,
+          15.96,
           11.26,
           null,
           null
         ],
         "ps": [
-          42.41481,
+          40.95223,
           1.614,
           null,
           null
@@ -4045,7 +4049,7 @@
           null
         ],
         "evrevenue": [
-          43.15437,
+          41.69179,
           4.594,
           null,
           null
@@ -4111,13 +4115,13 @@
           -0.483
         ],
         "earningsyield": [
-          -0.023589099999999998,
+          -0.0244316,
           -0.48298,
           null,
           null
         ],
         "fcfyield": [
-          -0.0069958,
+          -0.007245700000000001,
           -0.16443,
           null,
           null
