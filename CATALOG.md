@@ -2,32 +2,43 @@
 
 This file is generated automatically from the public dataset definitions.
 
+## Companies
+
+| Dataset | Description | Coverage | Format | Files |
+| --- | --- | --- | --- | --- |
+| Company Data | Company profiles, identifiers, details, dividends, statistics, analyst forecasts and financial statements. | Mixed | JSON | `stockanalysis/{TICKER}.json` |
+| Earnings-call Transcripts | Earnings-call transcripts with fiscal metadata and ordered transcript chunks. | Event history | JSON | `transcripts/{TICKER}.json` |
+
 ## Crypto
 
-| Dataset | Description | Granularity | Format | Files |
+| Dataset | Description | Coverage | Format | Files |
 | --- | --- | --- | --- | --- |
 | Crypto Network Value Distributed | Distributed real-world asset value by blockchain network, excluding stablecoins. | Daily | CSV | [`macro-crypto/crypto_network_tvd.csv`](macro-crypto/crypto_network_tvd.csv) |
 | Crypto Network Value Represented | Represented real-world asset value by blockchain network, excluding stablecoins. | Daily | CSV | [`macro-crypto/crypto_network_tvr.csv`](macro-crypto/crypto_network_tvr.csv) |
 
 ## Equities & Reference Data
 
-| Dataset | Description | Granularity | Format | Files |
+| Dataset | Description | Coverage | Format | Files |
 | --- | --- | --- | --- | --- |
 | Company Classifications | Company classifications with ticker, industry, sector, SIC, country and grouping fields. | Snapshot | CSV | [`screener/damodaran_stocks.csv`](screener/damodaran_stocks.csv) |
 | GICS Taxonomy | Global Industry Classification Standard sector, industry-group, industry and sub-industry hierarchy. | Snapshot | CSV | [`screener/taxonomy_gics.csv`](screener/taxonomy_gics.csv) |
+| Industry Ranking History | Historical changes in industry rankings. | Change history | CSV | [`screener/rankings_industries_history.csv`](screener/rankings_industries_history.csv) |
+| Industry Rankings | Current industry rank bucket, percentile, position and universe size. | Snapshot | CSV | [`screener/rankings_industries.csv`](screener/rankings_industries.csv) |
 | Industry Valuation Multiples | Industry valuation multiples including current, trailing and forward P/E measures and growth metrics. | Snapshot | CSV | [`screener/damodaran_pe.csv`](screener/damodaran_pe.csv) |
 | S&P 400 Constituents | S&P MidCap 400 constituents with sector, industry and headquarters information. | Snapshot | CSV | [`screener/sp400.csv`](screener/sp400.csv) |
 | S&P 500 Constituents | S&P 500 constituents with sector, industry, headquarters, CIK and reference information. | Snapshot | CSV | [`screener/sp500.csv`](screener/sp500.csv) |
 | S&P 600 Constituents | S&P SmallCap 600 constituents with sector, industry, headquarters and CIK information. | Snapshot | CSV | [`screener/sp600.csv`](screener/sp600.csv) |
 | SEC Company Identifiers | SEC CIK, ticker and company-name reference data. | Snapshot | CSV | [`screener/sec_cik.csv`](screener/sec_cik.csv) |
 | SIC Taxonomy | Standard Industrial Classification codes and industry names. | Snapshot | CSV | [`screener/taxonomy_sic.csv`](screener/taxonomy_sic.csv) |
+| Ticker Ranking History | Historical changes in ticker rankings and style scores. | Change history | CSV | [`screener/rankings_tickers_history.csv`](screener/rankings_tickers_history.csv) |
+| Ticker Rankings | Current ticker rankings and value, growth, momentum and VGM scores. | Snapshot | CSV | [`screener/rankings_tickers.csv`](screener/rankings_tickers.csv) |
 | US Industry Metrics | U.S. equity-industry performance, earnings and financial-ratio metrics. | Snapshot | CSV | [`screener/usa_industries.csv`](screener/usa_industries.csv) |
 | US Sector Metrics | U.S. equity-sector performance, earnings and financial-ratio metrics. | Snapshot | CSV | [`screener/usa_sectors.csv`](screener/usa_sectors.csv) |
 | US Stock Universe | U.S. stock universe and company screening fields. | Snapshot | CSV | [`screener/usa_stocks.csv`](screener/usa_stocks.csv) |
 
 ## Global Economy
 
-| Dataset | Description | Granularity | Format | Files |
+| Dataset | Description | Coverage | Format | Files |
 | --- | --- | --- | --- | --- |
 | European Economic Sentiment | Economic sentiment indicators for the euro area, European Union and member countries. | Monthly | CSV | [`macro-world/europe_esi.csv`](macro-world/europe_esi.csv) |
 | Global Construction | Residential building-permit indicators across available OECD economies. | Monthly | CSV | [`macro-world/world_construction.csv`](macro-world/world_construction.csv) |
@@ -40,7 +51,7 @@ This file is generated automatically from the public dataset definitions.
 
 ## Markets
 
-| Dataset | Description | Granularity | Format | Files |
+| Dataset | Description | Coverage | Format | Files |
 | --- | --- | --- | --- | --- |
 | CFTC Disaggregated Futures | CFTC disaggregated futures positioning by contract and trader category. | Weekly | CSV | [`macro-us/usa_cftc_disagg.csv`](macro-us/usa_cftc_disagg.csv) |
 | CFTC Financial Futures | CFTC Traders in Financial Futures positioning by contract and trader category. | Weekly | CSV | [`macro-us/usa_cftc_tff.csv`](macro-us/usa_cftc_tff.csv) |
@@ -53,7 +64,7 @@ This file is generated automatically from the public dataset definitions.
 
 ## Rates & Credit
 
-| Dataset | Description | Granularity | Format | Files |
+| Dataset | Description | Coverage | Format | Files |
 | --- | --- | --- | --- | --- |
 | Euro Area Rates and Yield Curve | ECB policy rates, €STR and euro-area yield-curve rates across 3M to 30Y maturities. | Daily | CSV | [`macro-world/europe_yield_curve.csv`](macro-world/europe_yield_curve.csv) |
 | Federal Reserve | Federal funds rates, FOMC growth projections and Federal Reserve total assets. | Daily, Weekly, Annual | CSV | [`macro-us/usa_fed.csv`](macro-us/usa_fed.csv) |
@@ -66,7 +77,7 @@ This file is generated automatically from the public dataset definitions.
 
 ## US Economy
 
-| Dataset | Description | Granularity | Format | Files |
+| Dataset | Description | Coverage | Format | Files |
 | --- | --- | --- | --- | --- |
 | US Consumer Sentiment | University of Michigan sentiment, expectations, current conditions and inflation expectations. | Monthly | CSV | [`macro-us/usa_umcsi.csv`](macro-us/usa_umcsi.csv) |
 | US Durable Goods | U.S. durable-goods orders including major manufacturing categories. | Monthly | CSV | [`macro-us/usa_durable_goods.csv`](macro-us/usa_durable_goods.csv) |
