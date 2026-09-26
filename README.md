@@ -4,52 +4,11 @@ Collection of financial, macroeconomic, market, reference and company datasets i
 
 The repository is updated automatically from multiple public and third-party data sources.
 
-## Datasets
+## Data catalog
 
-| Directory | Content | Format |
-| --- | --- | --- |
-| `macro-crypto/` | Cryptocurrency ecosystem and market data | CSV |
-| `macro-us/` | U.S. macroeconomic, financial and economic-report data | CSV, JSON |
-| `macro-world/` | Global macroeconomic, commodities, FX and index data | CSV |
-| `screener/` | Equity universes, classifications, reference data and provider-supplied rankings | CSV |
-| `stockanalysis/` | Company profiles, financials, statistics and forecasts by ticker | JSON |
-| `transcripts/` | Earnings-call transcripts by ticker | JSON |
+See **[CATALOG.md](CATALOG.md)** for the complete directory of datasets currently published in this repository.
 
-## Structure
-
-```text
-financial-dataset/
-├── macro-crypto/
-├── macro-us/
-├── macro-world/
-├── screener/
-├── stockanalysis/
-└── transcripts/
-```
-
-## Data frequency
-
-Some macro datasets are available at several observation frequencies.
-
-| Suffix | Frequency |
-| --- | --- |
-| `_d` | Daily |
-| `_w` | Weekly |
-| `_m` | Monthly |
-| `_q` | Quarterly |
-| `_a` | Annual |
-
-These suffixes describe the frequency of the observations contained in the file, not how often the file itself is updated.
-
-Not all datasets use frequency suffixes.
-
-## Updates
-
-Datasets are refreshed automatically according to the availability and update cycle of their upstream sources.
-
-Refresh frequency varies between datasets. Some sources are checked several times per day, while others are updated daily or weekly.
-
-A file is not necessarily modified on every refresh. Upstream sources may also revise previously published observations, causing historical values to change.
+The catalog describes each dataset, its coverage, format and public file location.
 
 ## Usage
 
@@ -61,7 +20,7 @@ import pandas as pd
 df = pd.read_csv("macro-world/fx_d.csv")
 ```
 
-JSON datasets are generally organized by ticker:
+JSON files can be loaded with the standard library:
 
 ```python
 import json
@@ -71,6 +30,12 @@ with open("stockanalysis/AAPL.json") as f:
 ```
 
 Files can also be consumed directly through GitHub raw URLs without cloning the repository.
+
+## Updates
+
+Datasets are refreshed automatically according to the availability and update cycle of their upstream sources.
+
+A dataset may be checked without producing a repository change. Upstream sources may also revise previously published observations, causing historical values to change.
 
 ## Data notes
 
