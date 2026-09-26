@@ -6,9 +6,14 @@ The repository is updated automatically from multiple public and third-party dat
 
 ## Data catalog
 
-See **[CATALOG.md](CATALOG.md)** for the complete directory of datasets currently published in this repository.
+See **[CATALOG.md](CATALOG.md)** for the human-readable directory of datasets
+currently published in this repository.
 
-The catalog describes each dataset, its coverage, format and public file location.
+For programmatic discovery, agents and tooling can use
+**[CATALOG.json](CATALOG.json)**.
+
+Both catalogs are generated from the same public dataset definitions and describe
+each dataset, its coverage, format and public file location.
 
 ## Usage
 
