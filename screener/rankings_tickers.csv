@@ -340,7 +340,7 @@ ASTS,3,Hold,F,F,C,F
 ASUR,3,Hold,A,B,C,A
 ASX,1,Strong Buy,D,B,B,C
 ASXFY,2,Buy,D,F,D,F
-ASYS,2,Buy,D,C,D,D
+ASYS,2,Buy,D,C,F,F
 ATAT,3,Hold,B,A,F,B
 ATDRY,3,Hold,B,A,A,A
 ATEC,3,Hold,C,A,C,B
@@ -467,7 +467,7 @@ BCS,3,Hold,A,B,A,A
 BCSF,5,Strong Sell,C,D,B,C
 BCYC,4,Sell,D,D,C,D
 BDC,3,Hold,B,B,B,A
-BDN,4,Sell,A,D,D,C
+BDN,4,Sell,A,D,C,B
 BDORY,4,Sell,B,D,D,C
 BDOUY,4,Sell,B,C,C,C
 BDRBF,2,Buy,B,A,D,A
@@ -647,7 +647,7 @@ BXSL,3,Hold,D,C,B,D
 BY,3,Hold,C,F,A,C
 BYD,3,Hold,A,F,B,C
 BYDDY,2,Buy,A,D,F,C
-BYND,4,Sell,C,C,B,C
+BYND,4,Sell,C,C,A,C
 BZ,3,Hold,B,D,B,B
 BZH,1,Strong Buy,F,F,B,F
 BZLFY,3,Hold,B,A,A,A
@@ -857,7 +857,7 @@ CNH,3,Hold,C,F,D,D
 CNI,3,Hold,D,D,A,D
 CNK,1,Strong Buy,C,A,B,A
 CNL,4,Sell,F,F,D,F
-CNM,4,Sell,B,B,C,B
+CNM,5,Strong Sell,C,B,C,B
 CNMD,3,Hold,A,C,B,A
 CNO,2,Buy,A,D,C,B
 CNOB,3,Hold,C,C,B,C
@@ -976,7 +976,7 @@ CTOS,1,Strong Buy,B,C,D,B
 CTRE,3,Hold,D,C,B,C
 CTRI,3,Hold,C,B,D,B
 CTS,2,Buy,B,B,D,B
-CTSH,3,Hold,A,B,F,B
+CTSH,3,Hold,A,B,F,A
 CTTAY,4,Sell,A,B,D,A
 CTVA,3,Hold,D,F,D,F
 CUBE,3,Hold,D,F,B,D
@@ -1250,7 +1250,7 @@ EPC,3,Hold,A,D,D,C
 EPD,3,Hold,B,B,F,B
 EPM,3,Hold,C,D,A,C
 EPOAY,3,Hold,D,D,F,F
-EPR,2,Buy,B,D,C,D
+EPR,3,Hold,C,D,B,C
 EPRT,3,Hold,C,D,B,C
 EPRX,3,Hold,D,D,D,F
 EQ,3,Hold,D,D,A,D
@@ -1301,7 +1301,7 @@ EVLV,4,Sell,D,A,B,B
 EVMN,3,Hold,F,D,D,F
 EVMNY,2,Buy,D,F,F,F
 EVO,4,Sell,C,F,A,C
-EVR,4,Sell,B,A,A,A
+EVR,4,Sell,B,A,B,A
 EVRG,3,Hold,C,D,D,D
 EVTC,3,Hold,A,C,B,A
 EW,3,Hold,D,A,B,B
@@ -1602,7 +1602,7 @@ GS,3,Hold,C,D,B,C
 GSAT,5,Strong Sell,F,C,D,F
 GSBC,3,Hold,C,F,D,F
 GSBD,2,Buy,C,F,C,F
-GSHD,3,Hold,D,B,A,B
+GSHD,3,Hold,D,A,A,B
 GSK,3,Hold,A,B,B,A
 GSL,2,Buy,A,D,D,B
 GSM,2,Buy,C,A,C,B
@@ -1775,7 +1775,7 @@ IBM,4,Sell,C,C,B,C
 IBN,3,Hold,D,F,F,F
 IBP,2,Buy,B,C,A,B
 IBRX,3,Hold,F,B,D,D
-IBTA,3,Hold,B,C,B,C
+IBTA,3,Hold,C,C,B,C
 ICAGY,4,Sell,A,B,F,A
 ICE,3,Hold,D,D,F,F
 ICFI,3,Hold,A,A,A,A
@@ -1887,7 +1887,7 @@ ITGR,3,Hold,C,C,D,C
 ITOCY,2,Buy,B,C,A,B
 ITRG,3,Hold,A,A,C,A
 ITRI,1,Strong Buy,B,D,B,B
-ITRN,2,Buy,B,A,F,B
+ITRN,2,Buy,B,A,D,A
 ITT,2,Buy,D,C,C,D
 ITUB,3,Hold,A,B,F,B
 ITVPY,3,Hold,A,A,C,A
@@ -1902,7 +1902,7 @@ IX,3,Hold,A,B,B,A
 J,3,Hold,C,B,F,C
 JACK,4,Sell,A,D,C,B
 JAKK,4,Sell,A,A,D,A
-JAN,3,Hold,D,D,C,F
+JAN,3,Hold,D,D,D,F
 JANX,3,Hold,F,B,B,D
 JAPAY,3,Hold,C,C,A,C
 JAPSY,3,Hold,A,C,A,A
@@ -2545,7 +2545,7 @@ NVO,3,Hold,A,C,A,A
 NVR,5,Strong Sell,D,F,F,F
 NVRI,4,Sell,B,C,C,B
 NVS,3,Hold,B,D,B,C
-NVST,2,Buy,A,C,A,A
+NVST,2,Buy,A,C,B,A
 NVT,1,Strong Buy,D,C,F,D
 NVTS,2,Buy,F,F,D,F
 NVZMY,3,Hold,F,D,A,D
@@ -3035,7 +3035,7 @@ RRBI,3,Hold,D,D,A,C
 RRC,3,Hold,B,C,A,B
 RRGB,4,Sell,A,A,F,A
 RRR,3,Hold,C,C,B,C
-RRX,3,Hold,B,F,C,D
+RRX,3,Hold,B,F,D,D
 RS,1,Strong Buy,C,F,B,D
 RSG,3,Hold,C,C,C,C
 RSHGY,2,Buy,D,C,B,C
@@ -3111,7 +3111,7 @@ SBSW,3,Hold,A,A,D,A
 SBUX,3,Hold,D,A,A,B
 SCBFF,3,Hold,D,F,C,F
 SCBFY,3,Hold,C,D,C,C
-SCCO,3,Hold,D,A,C,C
+SCCO,3,Hold,D,A,D,C
 SCGLY,2,Buy,C,F,A,D
 SCHL,3,Hold,B,D,B,C
 SCHW,3,Hold,C,D,D,D
@@ -3167,7 +3167,7 @@ SHAK,3,Hold,D,C,A,C
 SHAZ,2,Buy,D,A,F,D
 SHBBF,2,Buy,C,D,D,D
 SHBI,2,Buy,B,C,C,B
-SHC,4,Sell,C,B,A,B
+SHC,4,Sell,C,B,B,B
 SHCAY,3,Hold,A,C,C,B
 SHECY,3,Hold,D,C,F,D
 SHEL,3,Hold,A,A,B,A
@@ -3285,11 +3285,11 @@ SPB,3,Hold,B,A,B,A
 SPCE,2,Buy,F,C,D,F
 SPCX,3,Hold,F,D,A,F
 SPFI,3,Hold,B,D,C,C
-SPG,3,Hold,D,F,A,D
+SPG,3,Hold,D,F,B,D
 SPGI,3,Hold,F,D,F,F
 SPH,3,Hold,A,F,A,B
 SPHR,3,Hold,D,A,B,B
-SPIR,4,Sell,F,D,C,F
+SPIR,4,Sell,F,D,B,D
 SPKKY,3,Hold,B,B,C,B
 SPMC,5,Strong Sell,D,D,A,D
 SPNT,3,Hold,B,F,C,D
@@ -3419,7 +3419,7 @@ TBCH,5,Strong Sell,B,A,B,A
 TBI,2,Buy,D,D,C,F
 TBLA,2,Buy,A,A,B,A
 TBN,3,Hold,F,F,B,F
-TCBI,4,Sell,B,D,C,C
+TCBI,3,Hold,B,D,F,D
 TCBK,2,Buy,C,F,B,F
 TCBX,3,Hold,C,D,C,D
 TCEHY,3,Hold,B,A,F,B
@@ -3705,7 +3705,7 @@ VGNT,3,Hold,A,B,B,A
 VGZ,4,Sell,D,D,D,F
 VIA,4,Sell,F,A,D,D
 VIAV,1,Strong Buy,D,B,B,C
-VICI,3,Hold,C,F,A,C
+VICI,3,Hold,B,F,A,C
 VICR,2,Buy,F,F,A,F
 VIK,3,Hold,D,B,B,B
 VINP,5,Strong Sell,C,F,F,F
@@ -3930,7 +3930,7 @@ ZBH,3,Hold,B,D,A,B
 ZBIO,4,Sell,F,F,A,F
 ZBRA,1,Strong Buy,D,B,F,D
 ZD,3,Hold,A,D,A,B
-ZETA,3,Hold,D,A,C,B
+ZETA,3,Hold,D,A,D,B
 ZG,3,Hold,D,B,B,B
 ZGN,3,Hold,C,B,F,C
 ZIM,3,Hold,A,A,D,A
