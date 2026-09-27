@@ -51,10 +51,10 @@
       "peForward": "19.753",
       "ps": "1.711",
       "psForward": "0.015",
-      "pb": "1.810",
+      "pb": "1.808",
       "ptbvRatio": "2.620",
       "pfcf": "n/a",
-      "pocf": "2.620",
+      "pocf": "2.621",
       "pegRatio": "n/a"
     },
     "evRatios": {
@@ -123,11 +123,11 @@
       "workingcapital": "-2,068,563,694"
     },
     "cashFlow": {
-      "ncfo": "951,415,901",
-      "capex": "-1,133,875,363",
-      "depreciationAmortization": "282,411,793",
-      "netBorrowing": "569,813,895",
-      "fcf": "-182,459,462",
+      "ncfo": "951,096,273",
+      "capex": "-1,133,494,438",
+      "depreciationAmortization": "282,316,917",
+      "netBorrowing": "569,622,466",
+      "fcf": "-182,398,165",
       "fcfps": "-0.501"
     },
     "margins": {
@@ -147,13 +147,13 @@
       "payoutRatio": "n/a",
       "fcfPayoutRatio": "n/a",
       "buybackYield": "0.232%",
-      "totalReturn": "0.232%",
+      "totalReturn": "n/a",
       "earningsYield": "4.608%",
-      "fcfYield": "-7.320%"
+      "fcfYield": "-7.318%"
     },
     "analystForecasts": {
-      "priceTarget": "$7.62",
-      "priceTargetChange": "11.40%",
+      "priceTarget": "$7.64",
+      "priceTargetChange": "11.70%",
       "analystRatings": "Buy",
       "analystCount": "4",
       "revenue3y": "21.62%",
@@ -779,19 +779,6 @@
     "recommendations": [
       {
         "buy": 0,
-        "date": "2025-06-17",
-        "hold": 1,
-        "sell": 0,
-        "month": "Jun '25",
-        "score": 7.5,
-        "total": 4,
-        "updated": "2025-06-17",
-        "consensus": "Buy",
-        "strongBuy": 3,
-        "strongSell": 0
-      },
-      {
-        "buy": 0,
         "date": "2025-07-03",
         "hold": 1,
         "sell": 0,
@@ -932,6 +919,19 @@
         "consensus": "Buy",
         "strongBuy": 2,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-09-25",
+        "hold": 2,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 5,
+        "total": 4,
+        "updated": "2026-09-25",
+        "consensus": "Buy",
+        "strongBuy": 2,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -1052,16 +1052,16 @@
         "rating_old": "",
         "time": "04:35:13",
         "scores": {
-          "score": 52,
-          "stars": 4.6,
+          "score": 54.9,
+          "stars": 4.7,
           "total": 204,
-          "avg_return": 16,
+          "avg_return": 17.9,
           "return_pct": null,
-          "analyst_rank": 973,
-          "success_rate": 52,
+          "analyst_rank": 729,
+          "success_rate": 54.9,
           "stock_avg_return": 2.7,
           "stock_success_rate": 53.3,
-          "number_of_ranked_experts": 12519
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       },
@@ -1082,11 +1082,11 @@
           "total": 267,
           "avg_return": 0.9,
           "return_pct": null,
-          "analyst_rank": 6450,
+          "analyst_rank": 6437,
           "success_rate": 42.7,
           "stock_avg_return": 9.6,
           "stock_success_rate": 70,
-          "number_of_ranked_experts": 12519
+          "number_of_ranked_experts": 12509
         },
         "curr": "USD"
       }
@@ -1094,10 +1094,10 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 7.62,
-      "median": 7.51,
-      "low": 6.97,
-      "high": 8.49,
+      "avg": 7.64,
+      "median": 7.53,
+      "low": 6.98,
+      "high": 8.5,
       "numPriceTargets": 4
     },
     "currentRatings": {
@@ -7981,7 +7981,7 @@
           8397861265
         ],
         "lastCloseRatios": [
-          6.85,
+          6.84,
           4.58,
           5.89,
           6,
@@ -7989,7 +7989,7 @@
           8.22
         ],
         "pe": [
-          21.71498,
+          21.71535,
           15.583,
           46.099,
           51.317,
@@ -7997,7 +7997,7 @@
           null
         ],
         "peForward": [
-          19.7528,
+          19.75258,
           19.096,
           18.757,
           38.501,
@@ -8013,7 +8013,7 @@
           4.213
         ],
         "pb": [
-          1.81016,
+          1.80751,
           1.083,
           1.392,
           1.532,
@@ -8029,7 +8029,7 @@
           3.176
         ],
         "pocf": [
-          2.61979,
+          2.62068,
           1.921,
           2.701,
           2.705,
@@ -8165,7 +8165,7 @@
           -0.0643
         ],
         "fcfyield": [
-          -0.07320299999999999,
+          -0.0731784,
           -0.0801,
           -0.14298,
           -0.4553,
@@ -8298,7 +8298,7 @@
           8650882572
         ],
         "lastCloseRatios": [
-          6.85,
+          6.84,
           6.25,
           4.58,
           5.65,
@@ -8321,7 +8321,7 @@
           10.2
         ],
         "pe": [
-          21.71498,
+          21.71535,
           19.82,
           15.583,
           null,
@@ -8344,7 +8344,7 @@
           null
         ],
         "peForward": [
-          19.7528,
+          19.75258,
           21.754,
           19.096,
           21.224,
@@ -8390,7 +8390,7 @@
           5.69
         ],
         "pb": [
-          1.81016,
+          1.80751,
           1.4,
           1.083,
           1.3,
@@ -8459,7 +8459,7 @@
           null
         ],
         "pocf": [
-          2.61979,
+          2.62068,
           2.362,
           1.921,
           2.245,
@@ -8896,7 +8896,7 @@
           -0.05702
         ],
         "fcfyield": [
-          -0.07320299999999999,
+          -0.0731784,
           -0.0812,
           -0.03015,
           -0.01022,
@@ -8984,7 +8984,7 @@
           8397861265
         ],
         "lastCloseRatios": [
-          6.85,
+          6.84,
           4.58,
           5.89,
           6,
@@ -8992,7 +8992,7 @@
           8.22
         ],
         "pe": [
-          21.71498,
+          21.71535,
           15.583,
           46.099,
           51.317,
@@ -9000,7 +9000,7 @@
           null
         ],
         "peForward": [
-          19.7528,
+          19.75258,
           19.096,
           18.757,
           38.501,
@@ -9016,7 +9016,7 @@
           4.213
         ],
         "pb": [
-          1.81016,
+          1.80751,
           1.083,
           1.392,
           1.532,
@@ -9032,7 +9032,7 @@
           3.176
         ],
         "pocf": [
-          2.61979,
+          2.62068,
           1.921,
           2.701,
           2.705,
@@ -9168,7 +9168,7 @@
           -0.0643
         ],
         "fcfyield": [
-          -0.07320299999999999,
+          -0.0731784,
           -0.0801,
           -0.14298,
           -0.4553,
