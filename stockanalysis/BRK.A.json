@@ -22,7 +22,7 @@
     "cik": "1067983",
     "cusip": "084670108",
     "isin": "US0846701086",
-    "eid": "47-0813844",
+    "eid": null,
     "sic": "6331",
     "stockType": null,
     "shareClass": "Class A Shares"
@@ -38,7 +38,7 @@
     "growth": "n/a",
     "years": "n/a",
     "buybackYield": "0.00%",
-    "totalReturn": "0.00%"
+    "totalReturn": "n/a"
   },
   "statistics": {
     "valuation": {
@@ -159,7 +159,7 @@
       "payoutRatio": "n/a",
       "fcfPayoutRatio": "n/a",
       "buybackYield": "0.003%",
-      "totalReturn": "0.003%",
+      "totalReturn": "n/a",
       "earningsYield": "7.921%",
       "fcfYield": "2.236%"
     },
@@ -854,19 +854,6 @@
     "recommendations": [
       {
         "buy": 0,
-        "date": "2025-07-23",
-        "hold": 3,
-        "sell": 0,
-        "month": "Jul '25",
-        "score": 2.5,
-        "total": 4,
-        "updated": "2025-07-23",
-        "consensus": "Hold",
-        "strongBuy": 1,
-        "strongSell": 0
-      },
-      {
-        "buy": 0,
         "date": "2025-08-18",
         "hold": 3,
         "sell": 0,
@@ -1007,6 +994,19 @@
         "consensus": "Hold",
         "strongBuy": 1,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-09-18",
+        "hold": 2,
+        "sell": 1,
+        "month": "Sep '26",
+        "score": 1.25,
+        "total": 4,
+        "updated": "2026-09-18",
+        "consensus": "Hold",
+        "strongBuy": 1,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -1131,16 +1131,16 @@
         "rating_old": "",
         "time": "13:06:17",
         "scores": {
-          "score": 72.4,
-          "stars": 4.9,
-          "total": 373,
-          "avg_return": 11.6,
+          "score": 69.8,
+          "stars": 4.8,
+          "total": 374,
+          "avg_return": 10.6,
           "return_pct": null,
-          "analyst_rank": 355,
-          "success_rate": 72.4,
-          "stock_avg_return": 12.2,
+          "analyst_rank": 456,
+          "success_rate": 69.8,
+          "stock_avg_return": 12.1,
           "stock_success_rate": 83.3,
-          "number_of_ranked_experts": 12520
+          "number_of_ranked_experts": 12510
         },
         "curr": "USD"
       },
@@ -1156,16 +1156,16 @@
         "rating_old": "",
         "time": "11:06:01",
         "scores": {
-          "score": 70.7,
+          "score": 68.4,
           "stars": 4.9,
           "total": 491,
-          "avg_return": 13.7,
+          "avg_return": 13,
           "return_pct": null,
-          "analyst_rank": 171,
-          "success_rate": 70.7,
-          "stock_avg_return": -1.7,
+          "analyst_rank": 231,
+          "success_rate": 68.4,
+          "stock_avg_return": -1,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12520
+          "number_of_ranked_experts": 12510
         },
         "curr": "USD"
       }
