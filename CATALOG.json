@@ -45,6 +45,16 @@
           "refresh_intervals": [
             "4h"
           ]
+        },
+        {
+          "path": "macro-crypto/crypto_network_tvd.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
         }
       ]
     },
@@ -57,6 +67,16 @@
         {
           "path": "macro-crypto/crypto_network_tvr.csv",
           "format": "csv",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-crypto/crypto_network_tvr.json",
+          "format": "json",
           "granularities": [
             "daily"
           ],
@@ -79,6 +99,14 @@
           "refresh_intervals": [
             "1w"
           ]
+        },
+        {
+          "path": "screener/damodaran_stocks.json",
+          "format": "json",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1w"
+          ]
         }
       ]
     },
@@ -91,6 +119,14 @@
         {
           "path": "screener/taxonomy_gics.csv",
           "format": "csv",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1d"
+          ]
+        },
+        {
+          "path": "screener/taxonomy_gics.json",
+          "format": "json",
           "temporal_shape": "snapshot",
           "refresh_intervals": [
             "1d"
@@ -108,6 +144,11 @@
           "path": "screener/rankings_industries_history.csv",
           "format": "csv",
           "temporal_shape": "change_history"
+        },
+        {
+          "path": "screener/rankings_industries_history.json",
+          "format": "json",
+          "temporal_shape": "change_history"
         }
       ]
     },
@@ -121,6 +162,11 @@
           "path": "screener/rankings_industries.csv",
           "format": "csv",
           "temporal_shape": "snapshot"
+        },
+        {
+          "path": "screener/rankings_industries.json",
+          "format": "json",
+          "temporal_shape": "snapshot"
         }
       ]
     },
@@ -133,6 +179,14 @@
         {
           "path": "screener/damodaran_pe.csv",
           "format": "csv",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1w"
+          ]
+        },
+        {
+          "path": "screener/damodaran_pe.json",
+          "format": "json",
           "temporal_shape": "snapshot",
           "refresh_intervals": [
             "1w"
@@ -153,6 +207,14 @@
           "refresh_intervals": [
             "1d"
           ]
+        },
+        {
+          "path": "screener/sp400.json",
+          "format": "json",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1d"
+          ]
         }
       ]
     },
@@ -165,6 +227,14 @@
         {
           "path": "screener/sp500.csv",
           "format": "csv",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1d"
+          ]
+        },
+        {
+          "path": "screener/sp500.json",
+          "format": "json",
           "temporal_shape": "snapshot",
           "refresh_intervals": [
             "1d"
@@ -185,6 +255,14 @@
           "refresh_intervals": [
             "1d"
           ]
+        },
+        {
+          "path": "screener/sp600.json",
+          "format": "json",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1d"
+          ]
         }
       ]
     },
@@ -197,6 +275,14 @@
         {
           "path": "screener/sec_cik.csv",
           "format": "csv",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1d"
+          ]
+        },
+        {
+          "path": "screener/sec_cik.json",
+          "format": "json",
           "temporal_shape": "snapshot",
           "refresh_intervals": [
             "1d"
@@ -217,6 +303,14 @@
           "refresh_intervals": [
             "1d"
           ]
+        },
+        {
+          "path": "screener/taxonomy_sic.json",
+          "format": "json",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1d"
+          ]
         }
       ]
     },
@@ -229,6 +323,11 @@
         {
           "path": "screener/rankings_tickers_history.csv",
           "format": "csv",
+          "temporal_shape": "change_history"
+        },
+        {
+          "path": "screener/rankings_tickers_history.json",
+          "format": "json",
           "temporal_shape": "change_history"
         }
       ]
@@ -243,6 +342,11 @@
           "path": "screener/rankings_tickers.csv",
           "format": "csv",
           "temporal_shape": "snapshot"
+        },
+        {
+          "path": "screener/rankings_tickers.json",
+          "format": "json",
+          "temporal_shape": "snapshot"
         }
       ]
     },
@@ -255,6 +359,14 @@
         {
           "path": "screener/usa_industries.csv",
           "format": "csv",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1w"
+          ]
+        },
+        {
+          "path": "screener/usa_industries.json",
+          "format": "json",
           "temporal_shape": "snapshot",
           "refresh_intervals": [
             "1w"
@@ -275,6 +387,14 @@
           "refresh_intervals": [
             "1w"
           ]
+        },
+        {
+          "path": "screener/usa_sectors.json",
+          "format": "json",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1w"
+          ]
         }
       ]
     },
@@ -291,6 +411,14 @@
           "refresh_intervals": [
             "1w"
           ]
+        },
+        {
+          "path": "screener/usa_stocks.json",
+          "format": "json",
+          "temporal_shape": "snapshot",
+          "refresh_intervals": [
+            "1w"
+          ]
         }
       ]
     },
@@ -303,6 +431,16 @@
         {
           "path": "macro-world/europe_esi.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-world/europe_esi.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -327,6 +465,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-world/world_construction.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -339,6 +487,16 @@
         {
           "path": "macro-world/world_csi.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-world/world_csi.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -363,6 +521,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-world/world_esr.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -375,6 +543,16 @@
         {
           "path": "macro-world/world_pmi.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-world/world_pmi.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -399,6 +577,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-world/world_gdp_nominal_usd.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -411,6 +599,16 @@
         {
           "path": "macro-world/world_gdp_real_usd.csv",
           "format": "csv",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-world/world_gdp_real_usd.json",
+          "format": "json",
           "granularities": [
             "quarterly"
           ],
@@ -435,6 +633,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-world/world_nmi.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -453,6 +661,16 @@
           "refresh_intervals": [
             "8h"
           ]
+        },
+        {
+          "path": "macro-us/usa_cftc_disagg.json",
+          "format": "json",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "8h"
+          ]
         }
       ]
     },
@@ -465,6 +683,16 @@
         {
           "path": "macro-us/usa_cftc_tff.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "8h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_cftc_tff.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -491,8 +719,28 @@
           ]
         },
         {
+          "path": "macro-world/commodities_d.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-world/commodities_m.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-world/commodities_m.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -511,8 +759,28 @@
           ]
         },
         {
+          "path": "macro-world/commodities_q.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-world/commodities_w.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-world/commodities_w.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -539,8 +807,28 @@
           ]
         },
         {
+          "path": "macro-world/indices_d.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-world/indices_m.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-world/indices_m.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -559,8 +847,28 @@
           ]
         },
         {
+          "path": "macro-world/indices_q.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-world/indices_w.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-world/indices_w.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -587,8 +895,28 @@
           ]
         },
         {
+          "path": "macro-world/fx_d.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-world/fx_m.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-world/fx_m.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -607,8 +935,28 @@
           ]
         },
         {
+          "path": "macro-world/fx_q.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-world/fx_w.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-world/fx_w.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -635,8 +983,28 @@
           ]
         },
         {
+          "path": "macro-us/usa_volatility_d.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-us/usa_volatility_m.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_volatility_m.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -655,8 +1023,28 @@
           ]
         },
         {
+          "path": "macro-us/usa_volatility_q.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-us/usa_volatility_w.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_volatility_w.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -683,8 +1071,28 @@
           ]
         },
         {
+          "path": "macro-us/usa_supersectors_d.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-us/usa_supersectors_m.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_supersectors_m.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -703,8 +1111,28 @@
           ]
         },
         {
+          "path": "macro-us/usa_supersectors_q.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-us/usa_supersectors_w.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_supersectors_w.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -729,6 +1157,16 @@
           "refresh_intervals": [
             "4h"
           ]
+        },
+        {
+          "path": "macro-us/usa_twi.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
         }
       ]
     },
@@ -741,6 +1179,16 @@
         {
           "path": "macro-world/europe_yield_curve.csv",
           "format": "csv",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-world/europe_yield_curve.json",
+          "format": "json",
           "granularities": [
             "daily"
           ],
@@ -769,6 +1217,20 @@
             "8h",
             "12h"
           ]
+        },
+        {
+          "path": "macro-us/usa_fed.json",
+          "format": "json",
+          "granularities": [
+            "daily",
+            "weekly",
+            "yearly"
+          ],
+          "refresh_intervals": [
+            "4h",
+            "8h",
+            "12h"
+          ]
         }
       ]
     },
@@ -787,6 +1249,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-world/world_ir_lt.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -799,6 +1271,16 @@
         {
           "path": "macro-world/world_ir_st.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-world/world_ir_st.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -825,8 +1307,28 @@
           ]
         },
         {
+          "path": "macro-us/usa_bonds_d.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-us/usa_bonds_m.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_bonds_m.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -845,8 +1347,28 @@
           ]
         },
         {
+          "path": "macro-us/usa_bonds_q.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-us/usa_bonds_w.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_bonds_w.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -871,6 +1393,16 @@
           "refresh_intervals": [
             "4h"
           ]
+        },
+        {
+          "path": "macro-us/usa_corporate_bonds.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
         }
       ]
     },
@@ -883,6 +1415,20 @@
         {
           "path": "macro-us/usa_money_supply.csv",
           "format": "csv",
+          "granularities": [
+            "daily",
+            "weekly",
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h",
+            "8h",
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_money_supply.json",
+          "format": "json",
           "granularities": [
             "daily",
             "weekly",
@@ -913,8 +1459,28 @@
           ]
         },
         {
+          "path": "macro-us/usa_yield_curve_d.json",
+          "format": "json",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
           "path": "macro-us/usa_yield_curve_w.csv",
           "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_yield_curve_w.json",
+          "format": "json",
           "granularities": [
             "weekly"
           ],
@@ -939,6 +1505,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-us/usa_umcsi.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -951,6 +1527,16 @@
         {
           "path": "macro-us/usa_durable_goods.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_durable_goods.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -975,6 +1561,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-us/usa_household_debt.json",
+          "format": "json",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -993,6 +1589,16 @@
           "refresh_intervals": [
             "12h"
           ]
+        },
+        {
+          "path": "macro-us/usa_construction.json",
+          "format": "json",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
         }
       ]
     },
@@ -1005,6 +1611,16 @@
         {
           "path": "macro-us/usa_industrial_production.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_industrial_production.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -1031,6 +1647,18 @@
             "4h",
             "12h"
           ]
+        },
+        {
+          "path": "macro-us/usa_inflation.json",
+          "format": "json",
+          "granularities": [
+            "daily",
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "4h",
+            "12h"
+          ]
         }
       ]
     },
@@ -1043,6 +1671,16 @@
         {
           "path": "macro-us/usa_pmi.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_pmi.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -1079,6 +1717,16 @@
         {
           "path": "macro-us/usa_nmi.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_nmi.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
@@ -1123,6 +1771,18 @@
             "8h",
             "12h"
           ]
+        },
+        {
+          "path": "macro-us/usa_labor_market.json",
+          "format": "json",
+          "granularities": [
+            "weekly",
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "8h",
+            "12h"
+          ]
         }
       ]
     },
@@ -1135,6 +1795,16 @@
         {
           "path": "macro-us/usa_sbo.csv",
           "format": "csv",
+          "granularities": [
+            "monthly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_sbo.json",
+          "format": "json",
           "granularities": [
             "monthly"
           ],
