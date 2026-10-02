@@ -47,8 +47,10 @@ Machine-readable catalog: [`CATALOG.json`](CATALOG.json).
 | Global Consumer Confidence | Consumer-confidence indicators across available OECD economies. | Monthly | Every 12 hours | CSV | [`macro-world/world_csi.csv`](macro-world/world_csi.csv) |
 | Global Employment Rate | Employment-rate indicators across available OECD economies. | Monthly | Every 12 hours | CSV | [`macro-world/world_esr.csv`](macro-world/world_esr.csv) |
 | Global Manufacturing PMI | Manufacturing purchasing managers indexes across major economies. | Monthly | Every 12 hours | CSV | [`macro-world/world_pmi.csv`](macro-world/world_pmi.csv) |
-| Global Nominal GDP | Nominal GDP in U.S. dollars across available OECD economies and aggregates. | Quarterly | Every 12 hours | CSV | [`macro-world/world_gdp_nominal_usd.csv`](macro-world/world_gdp_nominal_usd.csv) |
-| Global Real GDP | Real GDP in U.S. dollars across available OECD economies and aggregates. | Quarterly | Every 12 hours | CSV | [`macro-world/world_gdp_real_usd.csv`](macro-world/world_gdp_real_usd.csv) |
+| Global Nominal GDP | Nominal GDP in local currency across available OECD economies and aggregates. | Quarterly | Every 12 hours | CSV | [`macro-world/world_gdp_nominal.csv`](macro-world/world_gdp_nominal.csv) |
+| Global Nominal GDP (USD) | Nominal GDP in U.S. dollars across available OECD economies and aggregates. | Quarterly | Every 12 hours | CSV | [`macro-world/world_gdp_nominal_usd.csv`](macro-world/world_gdp_nominal_usd.csv) |
+| Global Real GDP | Real GDP in local currency across available OECD economies and aggregates. | Quarterly | Every 12 hours | CSV | [`macro-world/world_gdp_real.csv`](macro-world/world_gdp_real.csv) |
+| Global Real GDP (USD) | Real GDP in U.S. dollars across available OECD economies and aggregates. | Quarterly | Every 12 hours | CSV | [`macro-world/world_gdp_real_usd.csv`](macro-world/world_gdp_real_usd.csv) |
 | Global Services PMI | Services purchasing managers indexes across major economies. | Monthly | Every 12 hours | CSV | [`macro-world/world_nmi.csv`](macro-world/world_nmi.csv) |
 
 ## Markets
