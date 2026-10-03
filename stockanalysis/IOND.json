@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "3,688,786,427",
-      "enterpriseValue": "3,273,224,427"
+      "marketcap": "3,722,083,596",
+      "enterpriseValue": "3,306,521,596"
     },
     "dates": {
       "earningsdate": "Nov 5, 2026",
@@ -48,20 +48,20 @@
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "39.319",
-      "ps": "22.601",
-      "psForward": "19.996",
-      "pb": "6.001",
-      "ptbvRatio": "10.571",
+      "peForward": "39.674",
+      "ps": "22.805",
+      "psForward": "20.176",
+      "pb": "6.055",
+      "ptbvRatio": "10.667",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "20.06",
-      "evEbitda": "71.69",
-      "evEbit": "1,785.72",
+      "evSales": "20.26",
+      "evEbitda": "72.41",
+      "evEbit": "1,803.89",
       "evFcf": "n/a"
     },
     "financialPosition": {
@@ -93,14 +93,14 @@
       "ch1y": "n/a",
       "sma50": "n/a",
       "sma200": "n/a",
-      "rsi": "58.022",
-      "averageVolume": "796,930"
+      "rsi": "58.324",
+      "averageVolume": "785,418"
     },
     "shortSelling": {
-      "shortInterest": "279,684",
-      "shortPriorMonth": "623,901",
-      "shortShares": "0.622%",
-      "shortFloat": "0.726%",
+      "shortInterest": "784,132",
+      "shortPriorMonth": "279,684",
+      "shortShares": "1.743%",
+      "shortFloat": "2.034%",
       "shortRatio": "1.420"
     },
     "incomeStatement": {
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "-8.130%",
-      "fcfYield": "-1.733%"
+      "earningsYield": "-8.057%",
+      "fcfYield": "-1.718%"
     },
     "analystForecasts": {
       "priceTarget": "$85.00",
-      "priceTargetChange": "3.68%",
+      "priceTargetChange": "2.76%",
       "analystRatings": "Strong Buy",
       "analystCount": "2",
       "revenue3y": "26.67%",
@@ -792,11 +792,11 @@
     ],
     "targets": {
       "low": 85,
-      "high": 85,
-      "count": 2,
+      "high": 98,
+      "count": 3,
       "median": 85,
-      "average": 85,
-      "updated": "2026-08-24",
+      "average": 89.33,
+      "updated": "2026-09-29",
       "filtered": {
         "1": {
           "low": 85,
@@ -850,16 +850,45 @@
           "t": "2026-08-01"
         },
         {
-          "c": 81.98,
+          "c": 80.33,
           "t": "2026-09-01"
         },
         {
+          "c": 82.72,
+          "t": "2026-10-01"
+        },
+        {
           "c": null,
-          "t": "2027-09-26"
+          "t": "2027-10-03"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 98,
+        "pt_old": null,
+        "firm": "Texas Capital Securities",
+        "analyst": "Derrick Whitfield",
+        "slug": "derrick-whitfield",
+        "date": "2026-09-29",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "20:15:13",
+        "scores": {
+          "score": 45.7,
+          "stars": 0.6,
+          "total": 473,
+          "avg_return": -1.9,
+          "return_pct": null,
+          "analyst_rank": 11095,
+          "success_rate": 45.7,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12505
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 85,
@@ -872,16 +901,16 @@
         "rating_old": "",
         "time": "10:20:15",
         "scores": {
-          "score": 59.3,
+          "score": 57.5,
           "stars": 5,
           "total": 494,
-          "avg_return": 30.5,
+          "avg_return": 29.1,
           "return_pct": null,
-          "analyst_rank": 111,
-          "success_rate": 59.3,
-          "stock_avg_return": 24.2,
+          "analyst_rank": 122,
+          "success_rate": 57.5,
+          "stock_avg_return": 17.8,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12523
+          "number_of_ranked_experts": 12505
         },
         "curr": "USD"
       },
@@ -897,16 +926,16 @@
         "rating_old": "",
         "time": "09:25:26",
         "scores": {
-          "score": 61.9,
+          "score": 61.5,
           "stars": 4.7,
           "total": 465,
-          "avg_return": 8.1,
+          "avg_return": 8,
           "return_pct": null,
-          "analyst_rank": 836,
-          "success_rate": 61.9,
-          "stock_avg_return": 24.2,
+          "analyst_rank": 849,
+          "success_rate": 61.5,
+          "stock_avg_return": 17.8,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12523
+          "number_of_ranked_experts": 12505
         },
         "curr": "USD"
       }
@@ -977,7 +1006,6 @@
           43233000,
           11684000
         ],
-        "goodwillIntangibleAmortization": null,
         "otheropex": [
           881000,
           999000,
@@ -1238,7 +1266,6 @@
           10796000,
           7111000
         ],
-        "goodwillIntangibleAmortization": null,
         "otheropex": [
           195000,
           187000,
@@ -1478,7 +1505,6 @@
           43233000,
           11684000
         ],
-        "goodwillIntangibleAmortization": null,
         "otheropex": [
           881000,
           936000,

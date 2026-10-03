@@ -34,7 +34,7 @@
       "enterpriseValue": "207,774,463"
     },
     "dates": {
-      "earningsdate": "Nov 9, 2026",
+      "earningsdate": "Nov 16, 2026",
       "exdivdate": "n/a"
     },
     "shares": {
@@ -77,7 +77,7 @@
       "roa": "2.362%",
       "roic": "5.561%",
       "roce": "4.081%",
-      "wacc": "10.059%",
+      "wacc": "9.758%",
       "revPerEmployee": "852,722",
       "profitPerEmployee": "54,750",
       "employees": "63",
@@ -89,12 +89,12 @@
       "taxrate": "1.884%"
     },
     "stockPrice": {
-      "beta": "1.019",
+      "beta": "0.962",
       "ch1y": "57.93%",
-      "sma50": "2.204",
-      "sma200": "2.053",
-      "rsi": "56.596",
-      "averageVolume": "539,177"
+      "sma50": "2.210",
+      "sma200": "2.060",
+      "rsi": "55.733",
+      "averageVolume": "531,553"
     },
     "shortSelling": {
       "shortInterest": "2,897,883",
@@ -918,8 +918,12 @@
       "updated": "2026-08-11",
       "filtered": {
         "1": {
-          "count": 0,
-          "updated": ""
+          "low": 3,
+          "high": 3,
+          "count": 1,
+          "median": 3,
+          "average": 3,
+          "updated": "2026-08-11"
         },
         "2": {
           "count": 0,
@@ -940,10 +944,6 @@
       },
       "currency": "USD",
       "chart": [
-        {
-          "c": 1.48,
-          "t": "2025-09-01"
-        },
         {
           "c": 1.6,
           "t": "2025-10-01"
@@ -989,12 +989,16 @@
           "t": "2026-08-01"
         },
         {
-          "c": 2.29,
+          "c": 2.25,
           "t": "2026-09-01"
         },
         {
+          "c": 2.29,
+          "t": "2026-10-01"
+        },
+        {
           "c": null,
-          "t": "2027-09-25"
+          "t": "2027-10-02"
         }
       ]
     },
@@ -1011,16 +1015,16 @@
         "rating_old": "",
         "time": "01:30:08",
         "scores": {
-          "score": 36.5,
-          "stars": 0.9,
+          "score": 37.3,
+          "stars": 1.1,
           "total": 493,
-          "avg_return": -0.8,
+          "avg_return": -0.6,
           "return_pct": null,
-          "analyst_rank": 10238,
-          "success_rate": 36.5,
-          "stock_avg_return": -25.2,
+          "analyst_rank": 9860,
+          "success_rate": 37.3,
+          "stock_avg_return": -25.3,
           "stock_success_rate": 27.3,
-          "number_of_ranked_experts": 12508
+          "number_of_ranked_experts": 12504
         },
         "curr": "USD"
       }
@@ -1105,7 +1109,6 @@
           39251517,
           38329016
         ],
-        "goodwillIntangibleAmortization": null,
         "opex": [
           37100183,
           44394801,
@@ -1542,7 +1545,6 @@
           8187124.000000001,
           8260738
         ],
-        "goodwillIntangibleAmortization": null,
         "opex": [
           9115270,
           8312246.999999999,
@@ -2469,7 +2471,6 @@
           28874510,
           24041474
         ],
-        "goodwillIntangibleAmortization": null,
         "opex": [
           37100183,
           44394801,
