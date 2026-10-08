@@ -385,6 +385,24 @@
       ]
     },
     {
+      "key": "world_gdp_nominal",
+      "title": "Global Nominal GDP",
+      "category": "Global Economy",
+      "description": "Nominal GDP in local currency across available OECD economies and aggregates.",
+      "resources": [
+        {
+          "path": "macro-world/world_gdp_nominal.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        }
+      ]
+    },
+    {
       "key": "world_gdp_nominal_usd",
       "title": "Global Nominal GDP (USD)",
       "category": "Global Economy",
@@ -392,6 +410,24 @@
       "resources": [
         {
           "path": "macro-world/world_gdp_nominal_usd.csv",
+          "format": "csv",
+          "granularities": [
+            "quarterly"
+          ],
+          "refresh_intervals": [
+            "12h"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world_gdp_real",
+      "title": "Global Real GDP",
+      "category": "Global Economy",
+      "description": "Real GDP in local currency across available OECD economies and aggregates.",
+      "resources": [
+        {
+          "path": "macro-world/world_gdp_real.csv",
           "format": "csv",
           "granularities": [
             "quarterly"
