@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "1,233,471,293",
-      "enterpriseValue": "876,787,293"
+      "marketcap": "976,612,572",
+      "enterpriseValue": "619,928,572"
     },
     "dates": {
       "earningsdate": "Nov 15, 2026",
@@ -43,23 +43,23 @@
       "sharesgrowthyoy": "14.163%",
       "sharesgrowthqoq": "10.406%",
       "sharesInsiders": "9.652%",
-      "sharesInstitutions": "38.634%",
+      "sharesInstitutions": "38.707%",
       "float": "56,628,413"
     },
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "3.046",
-      "psForward": "2.929",
-      "pb": "0.665",
-      "ptbvRatio": "2.287",
+      "ps": "2.411",
+      "psForward": "2.319",
+      "pb": "0.527",
+      "ptbvRatio": "1.810",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "2.16",
+      "evSales": "1.53",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -91,10 +91,10 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "10.495",
+      "sma50": "9.576",
       "sma200": "n/a",
-      "rsi": "44.802",
-      "averageVolume": "3,508,826"
+      "rsi": "31.376",
+      "averageVolume": "3,331,041"
     },
     "shortSelling": {
       "shortInterest": "7,384,125",
@@ -148,15 +148,15 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-14.163%",
       "totalReturn": "-14.163%",
-      "earningsYield": "-21.420%",
-      "fcfYield": "-17.768%"
+      "earningsYield": "-27.054%",
+      "fcfYield": "-22.441%"
     },
     "analystForecasts": {
-      "priceTarget": "$14.85",
-      "priceTargetChange": "65.37%",
+      "priceTarget": "$14.50",
+      "priceTargetChange": "103.94%",
       "analystRatings": "Buy",
-      "analystCount": "12",
-      "revenue3y": "18.37%",
+      "analystCount": "13",
+      "revenue3y": "18.32%",
       "eps3y": "n/a"
     },
     "stockSplits": {
@@ -180,13 +180,13 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": -1.8,
-            "this": -0.4,
+            "last": -1.7549,
+            "this": -0.45076,
             "growth": null
           },
           "epsThis": {
             "last": -0.773,
-            "this": -1.8,
+            "this": -1.7549,
             "growth": null
           },
           "revenueNext": {
@@ -203,12 +203,12 @@
         "quarterly": {
           "epsNext": {
             "last": -0.254,
-            "this": -0.225,
+            "this": -0.23194,
             "growth": null
           },
           "epsThis": {
             "last": null,
-            "this": -0.255,
+            "this": -0.25562,
             "growth": null
           },
           "revenueNext": {
@@ -334,7 +334,7 @@
             null,
             null,
             -0.773,
-            -1.8,
+            -1.7549,
             "[PRO]",
             "[PRO]"
           ],
@@ -624,8 +624,8 @@
             null,
             -0.6802,
             -0.0574,
-            -0.255,
-            -0.225,
+            -0.25562,
+            -0.23194,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -760,8 +760,8 @@
     "estimatesCharts": {
       "eps": {
         "2026-12-31": {
-          "no": 2,
-          "avg": -1.8,
+          "no": 4,
+          "avg": -1.7549,
           "low": -2.25,
           "high": -1.35
         },
@@ -888,15 +888,28 @@
         "consensus": "Buy",
         "strongBuy": 4,
         "strongSell": 0
+      },
+      {
+        "buy": 1,
+        "date": "2026-10-08",
+        "hold": 8,
+        "sell": 0,
+        "month": "Oct '26",
+        "score": 3.4615384615384617,
+        "total": 13,
+        "updated": "2026-10-08",
+        "consensus": "Buy",
+        "strongBuy": 4,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 11,
       "high": 18,
-      "count": 10,
-      "median": 15,
-      "average": 14.85,
-      "updated": "2026-09-10",
+      "count": 11,
+      "median": 14,
+      "average": 14.5,
+      "updated": "2026-10-08",
       "filtered": {
         "1": {
           "low": 11,
@@ -917,9 +930,9 @@
         "3": {
           "low": 11,
           "high": 18,
-          "count": 8,
+          "count": 7,
           "median": 16,
-          "average": 15.19,
+          "average": 15.43,
           "updated": "2026-08-31"
         },
         "4": {
@@ -931,11 +944,11 @@
           "updated": "2026-08-31"
         },
         "5": {
-          "low": 11,
+          "low": 16,
           "high": 18,
-          "count": 6,
+          "count": 4,
           "median": 17,
-          "average": 15.67,
+          "average": 17,
           "updated": "2026-08-31"
         }
       },
@@ -978,16 +991,66 @@
           "t": "2026-09-01"
         },
         {
-          "c": 8.98,
+          "c": 7.03,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-02"
+          "t": "2027-10-09"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 11,
+        "pt_old": null,
+        "firm": "Barclays",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-10-08",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "20:30:20",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12523
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 13,
+        "pt_old": 33,
+        "firm": "Citi",
+        "analyst": "John Godyn",
+        "slug": "john-godyn",
+        "date": "2026-10-07",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "11:40:42",
+        "scores": {
+          "score": 32.6,
+          "stars": 0.2,
+          "total": 184,
+          "avg_return": -7,
+          "return_pct": null,
+          "analyst_rank": 12009,
+          "success_rate": 32.6,
+          "stock_avg_return": -53.7,
+          "stock_success_rate": 20,
+          "number_of_ranked_experts": 12523
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": null,
@@ -1003,39 +1066,14 @@
           "score": 66.5,
           "stars": 5,
           "total": 489,
-          "avg_return": 23.4,
+          "avg_return": 23.3,
           "return_pct": null,
-          "analyst_rank": 98,
+          "analyst_rank": 88,
           "success_rate": 66.5,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 13,
-        "pt_old": 33,
-        "firm": "Citi",
-        "analyst": "John Godyn",
-        "slug": "john-godyn",
-        "date": "2026-09-10",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:26:06",
-        "scores": {
-          "score": 33.9,
-          "stars": 0.3,
-          "total": 177,
-          "avg_return": -4.8,
-          "return_pct": null,
-          "analyst_rank": 11646,
-          "success_rate": 33.9,
-          "stock_avg_return": -44.8,
-          "stock_success_rate": 20,
-          "number_of_ranked_experts": 12505
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Maintains",
@@ -1049,16 +1087,16 @@
         "rating_old": "",
         "time": "10:35:32",
         "scores": {
-          "score": 62.9,
+          "score": 63,
           "stars": 4.8,
-          "total": 391,
-          "avg_return": 11.2,
+          "total": 395,
+          "avg_return": 10.9,
           "return_pct": null,
-          "analyst_rank": 574,
-          "success_rate": 62.9,
-          "stock_avg_return": -49,
+          "analyst_rank": 570,
+          "success_rate": 63,
+          "stock_avg_return": -57.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       },
@@ -1074,41 +1112,16 @@
         "rating_old": "",
         "time": "11:20:39",
         "scores": {
-          "score": 46,
-          "stars": 4.8,
-          "total": 443,
-          "avg_return": 16.1,
+          "score": 45.9,
+          "stars": 4.7,
+          "total": 444,
+          "avg_return": 15.7,
           "return_pct": null,
-          "analyst_rank": 621,
-          "success_rate": 46,
+          "analyst_rank": 667,
+          "success_rate": 45.9,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12505
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 14,
-        "pt_old": 28,
-        "firm": "Goldman Sachs",
-        "analyst": "Noah Poponak",
-        "slug": "noah-poponak",
-        "date": "2026-08-25",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:11:12",
-        "scores": {
-          "score": 50.2,
-          "stars": 4.2,
-          "total": 420,
-          "avg_return": 5.8,
-          "return_pct": null,
-          "analyst_rank": 2034,
-          "success_rate": 50.2,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       }
@@ -1116,20 +1129,20 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 14.85,
-      "median": 14.5,
+      "avg": 14.5,
+      "median": 14,
       "low": 11,
       "high": 18,
-      "numPriceTargets": 10
+      "numPriceTargets": 11
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Buy",
-      "score": 3.75,
-      "count": 12,
+      "score": 3.46155,
+      "count": 13,
       "strongBuy": 4,
       "buy": 1,
-      "hold": 7,
+      "hold": 8,
       "sell": 0,
       "strongSell": 0
     }
@@ -1360,13 +1373,13 @@
           null
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           null,
           null,
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           null,
           null,
           null
@@ -2282,13 +2295,13 @@
           null
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           null,
           null,
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           null,
           null,
           null
@@ -2992,13 +3005,13 @@
           null
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           null,
           null,
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           null,
           null,
           null
@@ -3218,13 +3231,13 @@
           7058000
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           null,
           null,
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           null,
           null,
           null
@@ -3748,13 +3761,13 @@
           7058000
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           null,
           null,
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           null,
           null,
           null
@@ -3866,13 +3879,13 @@
           null
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           null,
           null,
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           null,
           null,
           null
@@ -3907,7 +3920,7 @@
           "Q4"
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           3235019622,
           2829096297,
           null,
@@ -3916,7 +3929,7 @@
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           2757702621,
           2984771296,
           null,
@@ -3925,7 +3938,7 @@
           null
         ],
         "lastCloseRatios": [
-          8.98,
+          7.11,
           24.62,
           22.17,
           null,
@@ -3943,7 +3956,7 @@
           null
         ],
         "ps": [
-          3.04559,
+          2.41138,
           8.127,
           6.87,
           null,
@@ -3952,7 +3965,7 @@
           null
         ],
         "pb": [
-          0.66515,
+          0.52664,
           1.853,
           1.643,
           null,
@@ -3961,7 +3974,7 @@
           null
         ],
         "ptbvRatio": [
-          2.2865,
+          1.81036,
           5.997,
           4.963,
           null,
@@ -3970,7 +3983,7 @@
           null
         ],
         "evrevenue": [
-          2.1649,
+          1.53068,
           6.928,
           7.248,
           null,
@@ -4096,7 +4109,7 @@
           -0.015
         ],
         "earningsyield": [
-          -0.2142044,
+          -0.2705423,
           -0.06396,
           -0.06338,
           null,
@@ -4105,7 +4118,7 @@
           null
         ],
         "fcfyield": [
-          -0.1776758,
+          -0.22440629999999998,
           -0.0767,
           -0.07965,
           null,
@@ -4227,13 +4240,13 @@
           null
         ],
         "marketcap": [
-          1233471293,
+          976612572,
           null,
           null,
           null
         ],
         "ev": [
-          876787293,
+          619928572,
           null,
           null,
           null

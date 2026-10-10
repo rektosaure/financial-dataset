@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "2.125%",
       "sharesgrowthqoq": "1.767%",
       "sharesInsiders": "1.130%",
-      "sharesInstitutions": "44.627%",
+      "sharesInstitutions": "44.775%",
       "float": "44,467,320"
     },
     "ratios": {
@@ -77,7 +77,7 @@
       "roa": "-27.337%",
       "roic": "-165.530%",
       "roce": "-62.787%",
-      "wacc": "9.472%",
+      "wacc": "9.297%",
       "revPerEmployee": "244,390",
       "profitPerEmployee": "-764,028",
       "employees": "141",
@@ -89,12 +89,12 @@
       "taxrate": "n/a"
     },
     "stockPrice": {
-      "beta": "1.321",
-      "ch1y": "-47.65%",
-      "sma50": "3.152",
-      "sma200": "3.659",
-      "rsi": "23.318",
-      "averageVolume": "568,993"
+      "beta": "1.282",
+      "ch1y": "-53.60%",
+      "sma50": "3.089",
+      "sma200": "3.615",
+      "rsi": "28.880",
+      "averageVolume": "689,262"
     },
     "shortSelling": {
       "shortInterest": "3,655,802",
@@ -757,19 +757,6 @@
     },
     "recommendations": [
       {
-        "buy": 1,
-        "date": "2025-09-15",
-        "hold": 0,
-        "sell": 0,
-        "month": "Sep '25",
-        "score": 9.583333333333334,
-        "total": 12,
-        "updated": "2025-09-15",
-        "consensus": "Strong Buy",
-        "strongBuy": 11,
-        "strongSell": 0
-      },
-      {
         "buy": 0,
         "date": "2025-10-15",
         "hold": 0,
@@ -911,15 +898,28 @@
         "consensus": "Strong Buy",
         "strongBuy": 11,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-10-02",
+        "hold": 0,
+        "sell": 0,
+        "month": "Oct '26",
+        "score": 10,
+        "total": 11,
+        "updated": "2026-10-02",
+        "consensus": "Strong Buy",
+        "strongBuy": 11,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 8,
       "high": 25,
       "count": 5,
-      "median": 18,
-      "average": 17,
-      "updated": "2026-09-21",
+      "median": 12,
+      "average": 15.4,
+      "updated": "2026-10-02",
       "filtered": {
         "1": {
           "low": 12,
@@ -962,6 +962,7 @@
           "updated": "2026-09-21"
         }
       },
+      "warning": "VYGR's stock price has decreased by -53.6% in the past year and price targets may not have had time to catch up.",
       "currency": "USD",
       "chart": [
         {
@@ -1018,11 +1019,36 @@
         },
         {
           "c": null,
-          "t": "2027-10-02"
+          "t": "2027-10-09"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 10,
+        "pt_old": null,
+        "firm": "Wells Fargo",
+        "analyst": "Unknown Analyst",
+        "slug": "",
+        "date": "2026-10-02",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": null,
+          "stars": null,
+          "total": 0,
+          "avg_return": null,
+          "return_pct": null,
+          "analyst_rank": null,
+          "success_rate": null,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12512
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 25,
@@ -1035,16 +1061,16 @@
         "rating_old": "",
         "time": "17:57:13",
         "scores": {
-          "score": 51.7,
+          "score": 49.6,
           "stars": 4.9,
-          "total": 497,
-          "avg_return": 32.2,
+          "total": 498,
+          "avg_return": 28.9,
           "return_pct": null,
-          "analyst_rank": 143,
-          "success_rate": 51.7,
-          "stock_avg_return": -17.8,
+          "analyst_rank": 215,
+          "success_rate": 49.6,
+          "stock_avg_return": -21.1,
           "stock_success_rate": 25,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12512
         },
         "curr": "USD"
       },
@@ -1060,16 +1086,16 @@
         "rating_old": "",
         "time": "11:17:59",
         "scores": {
-          "score": 46.4,
+          "score": 45.8,
           "stars": 4.6,
           "total": 498,
-          "avg_return": 11.6,
+          "avg_return": 11.2,
           "return_pct": null,
-          "analyst_rank": 934,
-          "success_rate": 46.4,
-          "stock_avg_return": -18.4,
-          "stock_success_rate": 36.7,
-          "number_of_ranked_experts": 12505
+          "analyst_rank": 1003,
+          "success_rate": 45.8,
+          "stock_avg_return": -17.9,
+          "stock_success_rate": 37.9,
+          "number_of_ranked_experts": 12512
         },
         "curr": "USD"
       },
@@ -1085,16 +1111,16 @@
         "rating_old": "",
         "time": "13:45:27",
         "scores": {
-          "score": 36.6,
+          "score": 37.3,
           "stars": 0.1,
-          "total": 344,
-          "avg_return": -9.7,
+          "total": 346,
+          "avg_return": -10.1,
           "return_pct": null,
-          "analyst_rank": 12321,
-          "success_rate": 36.6,
-          "stock_avg_return": -16.8,
+          "analyst_rank": 12324,
+          "success_rate": 37.3,
+          "stock_avg_return": -19.8,
           "stock_success_rate": 30,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12512
         },
         "curr": "USD"
       },
@@ -1110,42 +1136,17 @@
         "rating_old": "",
         "time": "08:08:25",
         "scores": {
-          "score": 47.9,
+          "score": 47,
           "stars": 4.3,
           "total": 474,
-          "avg_return": 6.8,
+          "avg_return": 6.6,
           "return_pct": null,
-          "analyst_rank": 1731,
-          "success_rate": 47.9,
-          "stock_avg_return": -17.1,
+          "analyst_rank": 1850,
+          "success_rate": 47,
+          "stock_avg_return": -19.2,
           "stock_success_rate": 27.8,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12512
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 22,
-        "pt_old": null,
-        "firm": "Guggenheim",
-        "analyst": "Debjit Chattopadhyay",
-        "slug": "debjit-chattopadhyay",
-        "date": "2026-06-02",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:39:53",
-        "scores": {
-          "score": 48,
-          "stars": 4.8,
-          "total": 494,
-          "avg_return": 16.3,
-          "return_pct": null,
-          "analyst_rank": 531,
-          "success_rate": 48,
-          "stock_avg_return": -25.3,
-          "stock_success_rate": 31.6,
-          "number_of_ranked_experts": 12505
-        },
-        "curr": "USD"
       }
     ],
     "priceTargets": {

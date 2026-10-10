@@ -42,8 +42,8 @@
   },
   "statistics": {
     "valuation": {
-      "marketcap": "5,885,289,210",
-      "enterpriseValue": "4,369,176,210"
+      "marketcap": "5,380,835,849",
+      "enterpriseValue": "3,864,722,849"
     },
     "dates": {
       "earningsdate": "Nov 4, 2026",
@@ -54,24 +54,24 @@
       "sharesout": "989,124,237",
       "sharesgrowthyoy": "22.148%",
       "sharesgrowthqoq": "2.798%",
-      "sharesInsiders": "15.383%",
-      "sharesInstitutions": "44.767%",
-      "float": "669,656,727"
+      "sharesInsiders": "15.382%",
+      "sharesInstitutions": "44.909%",
+      "float": "669,658,759"
     },
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "50.607",
-      "psForward": "42.103",
-      "pb": "3.322",
-      "ptbvRatio": "3.679",
+      "ps": "46.269",
+      "psForward": "38.494",
+      "pb": "3.038",
+      "ptbvRatio": "3.364",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "37.57",
+      "evSales": "33.23",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -89,7 +89,7 @@
       "roa": "-27.508%",
       "roic": "-31.962%",
       "roce": "-33.656%",
-      "wacc": "16.761%",
+      "wacc": "16.586%",
       "revPerEmployee": "45,445",
       "profitPerEmployee": "-343,163",
       "employees": "2,559",
@@ -102,11 +102,11 @@
     },
     "stockPrice": {
       "beta": "2.662",
-      "ch1y": "-63.32%",
-      "sma50": "7.012",
-      "sma200": "9.577",
-      "rsi": "33.795",
-      "averageVolume": "24,280,942"
+      "ch1y": "-68.68%",
+      "sma50": "6.873",
+      "sma200": "9.369",
+      "rsi": "24.502",
+      "averageVolume": "23,221,758"
     },
     "shortSelling": {
       "shortInterest": "124,304,655",
@@ -160,12 +160,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-22.148%",
       "totalReturn": "-22.148%",
-      "earningsYield": "-14.921%",
-      "fcfYield": "-12.630%"
+      "earningsYield": "-16.320%",
+      "fcfYield": "-13.814%"
     },
     "analystForecasts": {
-      "priceTarget": "$10.68",
-      "priceTargetChange": "79.50%",
+      "priceTarget": "$10.45",
+      "priceTargetChange": "92.10%",
       "analystRatings": "Hold",
       "analystCount": "11",
       "revenue3y": "101.15%",
@@ -253,7 +253,7 @@
             -0.791856,
             -0.868874,
             -1.125388,
-            -0.87966,
+            -0.87778,
             "[PRO]",
             "[PRO]"
           ],
@@ -473,8 +473,8 @@
             -0.135847,
             -0.116533,
             -0.253058,
-            -0.24726,
-            -0.25626,
+            -0.25079,
+            -0.25078,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -854,19 +854,6 @@
     "recommendations": [
       {
         "buy": 1,
-        "date": "2025-10-31",
-        "hold": 6,
-        "sell": 1,
-        "month": "Oct '25",
-        "score": -1.1111111111111112,
-        "total": 9,
-        "updated": "2025-10-31",
-        "consensus": "Hold",
-        "strongBuy": 0,
-        "strongSell": 1
-      },
-      {
-        "buy": 1,
         "date": "2025-11-24",
         "hold": 6,
         "sell": 1,
@@ -997,57 +984,70 @@
       },
       {
         "buy": 1,
-        "date": "2026-09-21",
+        "date": "2026-09-25",
         "hold": 5,
         "sell": 1,
         "month": "Sep '26",
         "score": 0,
         "total": 11,
-        "updated": "2026-09-21",
+        "updated": "2026-09-25",
+        "consensus": "Hold",
+        "strongBuy": 2,
+        "strongSell": 2
+      },
+      {
+        "buy": 1,
+        "date": "2026-10-08",
+        "hold": 4,
+        "sell": 2,
+        "month": "Oct '26",
+        "score": -0.4545454545454546,
+        "total": 11,
+        "updated": "2026-10-08",
         "consensus": "Hold",
         "strongBuy": 2,
         "strongSell": 2
       }
     ],
     "targets": {
-      "low": 7,
+      "low": 4,
       "high": 18,
-      "count": 7,
+      "count": 8,
       "median": 11.5,
-      "average": 11.5,
-      "updated": "2026-09-25",
+      "average": 10.56,
+      "updated": "2026-10-08",
       "filtered": {
         "1": {
-          "low": 7,
+          "low": 4,
+          "high": 18,
+          "count": 7,
+          "median": 8,
+          "average": 9.93,
+          "updated": "2026-10-08"
+        },
+        "2": {
+          "low": 4,
           "high": 18,
           "count": 6,
           "median": 11.5,
-          "average": 10.92,
-          "updated": "2026-09-25"
-        },
-        "2": {
-          "low": 8,
-          "high": 18,
-          "count": 5,
-          "median": 11.5,
-          "average": 11.7,
-          "updated": "2026-09-25"
+          "average": 10.42,
+          "updated": "2026-10-08"
         },
         "3": {
-          "low": 8,
+          "low": 4,
           "high": 18,
           "count": 5,
-          "median": 11.5,
-          "average": 11.7,
-          "updated": "2026-09-25"
+          "median": 8,
+          "average": 10.2,
+          "updated": "2026-10-08"
         },
         "4": {
-          "low": 8,
-          "high": 18,
+          "low": 4,
+          "high": 13,
           "count": 3,
-          "median": 13,
-          "average": 13,
-          "updated": "2026-09-21"
+          "median": 8,
+          "average": 8.33,
+          "updated": "2026-10-08"
         },
         "5": {
           "count": 0,
@@ -1105,16 +1105,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 5.95,
+          "c": 5.44,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-02"
+          "t": "2027-10-09"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Downgrades",
+        "pt_now": 4,
+        "pt_old": 6,
+        "firm": "Barclays",
+        "analyst": "Brandon Oglenski",
+        "slug": "brandon-oglenski",
+        "date": "2026-10-08",
+        "rating_new": "Sell",
+        "rating_old": "",
+        "time": "20:25:10",
+        "scores": {
+          "score": 53.2,
+          "stars": 4.5,
+          "total": 494,
+          "avg_return": 7.8,
+          "return_pct": null,
+          "analyst_rank": 1217,
+          "success_rate": 53.2,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12523
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 11.5,
@@ -1127,16 +1152,16 @@
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 37,
-          "stars": 3,
-          "total": 330,
-          "avg_return": 2,
+          "score": 37.2,
+          "stars": 2.5,
+          "total": 333,
+          "avg_return": 1,
           "return_pct": null,
-          "analyst_rank": 5080,
-          "success_rate": 37,
+          "analyst_rank": 6239,
+          "success_rate": 37.2,
           "stock_avg_return": 107.5,
           "stock_success_rate": 80,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       },
@@ -1152,16 +1177,16 @@
         "rating_old": "",
         "time": "15:45:16",
         "scores": {
-          "score": 33,
-          "stars": 4,
-          "total": 491,
-          "avg_return": 6.4,
+          "score": 31.4,
+          "stars": 3.7,
+          "total": 494,
+          "avg_return": 4.8,
           "return_pct": null,
-          "analyst_rank": 2497,
-          "success_rate": 33,
-          "stock_avg_return": 80.5,
+          "analyst_rank": 3228,
+          "success_rate": 31.4,
+          "stock_avg_return": 77.6,
           "stock_success_rate": 53.3,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       },
@@ -1177,16 +1202,16 @@
         "rating_old": "",
         "time": "14:05:37",
         "scores": {
-          "score": 50.2,
-          "stars": 4.2,
-          "total": 420,
-          "avg_return": 5.8,
+          "score": 50.4,
+          "stars": 4.1,
+          "total": 421,
+          "avg_return": 5.6,
           "return_pct": null,
-          "analyst_rank": 2034,
-          "success_rate": 50.2,
-          "stock_avg_return": 30.4,
+          "analyst_rank": 2134,
+          "success_rate": 50.4,
+          "stock_avg_return": 36.3,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       },
@@ -1202,41 +1227,16 @@
         "rating_old": "",
         "time": "13:15:42",
         "scores": {
-          "score": 56.4,
+          "score": 56.9,
           "stars": 4.7,
           "total": 346,
-          "avg_return": 11.7,
+          "avg_return": 11.5,
           "return_pct": null,
-          "analyst_rank": 805,
-          "success_rate": 56.4,
+          "analyst_rank": 819,
+          "success_rate": 56.9,
           "stock_avg_return": 3.6,
           "stock_success_rate": 54.5,
-          "number_of_ranked_experts": 12505
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 8,
-        "pt_old": null,
-        "firm": "Cantor Fitzgerald",
-        "analyst": "Andres Sheppard",
-        "slug": "andres-sheppard",
-        "date": "2026-08-10",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:37:22",
-        "scores": {
-          "score": 41.6,
-          "stars": 3.9,
-          "total": 214,
-          "avg_return": 6.6,
-          "return_pct": null,
-          "analyst_rank": 2822,
-          "success_rate": 41.6,
-          "stock_avg_return": 18,
-          "stock_success_rate": 80,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       }
@@ -1244,21 +1244,21 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 10.68,
+      "avg": 10.45,
       "median": 11.5,
-      "low": 6,
+      "low": 4,
       "high": 18,
       "numPriceTargets": 9
     },
     "currentRatings": {
       "source": "spg",
       "consensus": "Hold",
-      "score": 0,
+      "score": -0.45455000000000023,
       "count": 11,
       "strongBuy": 2,
       "buy": 1,
-      "hold": 5,
-      "sell": 1,
+      "hold": 4,
+      "sell": 2,
       "strongSell": 2
     }
   },
@@ -6352,7 +6352,7 @@
           "Q4"
         ],
         "marketcap": [
-          5885289210,
+          5380835849,
           12035537884,
           6220145546,
           4630524309,
@@ -6360,7 +6360,7 @@
           4408429076
         ],
         "ev": [
-          4369176210,
+          3864722849,
           11103020883,
           5546173545,
           3548000309,
@@ -6368,7 +6368,7 @@
           3048698076
         ],
         "lastCloseRatios": [
-          5.95,
+          5.44,
           13.2,
           8.13,
           6.65,
@@ -6376,7 +6376,7 @@
           7.3
         ],
         "ps": [
-          50.60655,
+          46.26885,
           225.279,
           45736.364,
           4486.942,
@@ -6384,7 +6384,7 @@
           null
         ],
         "pb": [
-          3.32242,
+          3.03765,
           8.538,
           6.818,
           4.477,
@@ -6392,7 +6392,7 @@
           3.348
         ],
         "ptbvRatio": [
-          3.6793,
+          3.36393,
           9.692,
           7.491,
           4.853,
@@ -6400,7 +6400,7 @@
           3.579
         ],
         "evrevenue": [
-          37.56977,
+          33.23206,
           207.824,
           40780.688,
           3437.985,
@@ -6488,7 +6488,7 @@
           -0.176
         ],
         "earningsyield": [
-          -0.14921189999999998,
+          -0.16320049999999997,
           -0.07726,
           -0.09775,
           -0.1108,
@@ -6496,7 +6496,7 @@
           -0.0409
         ],
         "fcfyield": [
-          -0.1263031,
+          -0.138144,
           -0.04685,
           -0.07667,
           -0.07438,
@@ -6583,7 +6583,7 @@
           "Q3"
         ],
         "marketcap": [
-          5885289210,
+          5380835849,
           8774094240,
           8089300798,
           12035537884,
@@ -6606,7 +6606,7 @@
           6075112717
         ],
         "ev": [
-          4369176210,
+          3864722849,
           7055631239,
           6725656797,
           11103020883,
@@ -6629,7 +6629,7 @@
           6074633516
         ],
         "lastCloseRatios": [
-          5.95,
+          5.44,
           8.92,
           8.26,
           13.2,
@@ -6675,7 +6675,7 @@
           null
         ],
         "ps": [
-          50.60655,
+          46.26885,
           75.447,
           104.148,
           225.279,
@@ -6698,7 +6698,7 @@
           null
         ],
         "pb": [
-          3.32242,
+          3.03765,
           4.966,
           4.132,
           8.538,
@@ -6721,7 +6721,7 @@
           4.656
         ],
         "ptbvRatio": [
-          3.6793,
+          3.36393,
           5.485,
           4.523,
           9.692,
@@ -6744,7 +6744,7 @@
           4.724
         ],
         "evrevenue": [
-          37.56977,
+          33.23206,
           60.67,
           86.592,
           207.824,
@@ -7020,7 +7020,7 @@
           -0.146
         ],
         "earningsyield": [
-          -0.14921189999999998,
+          -0.16320049999999997,
           -0.10008,
           -0.11835,
           -0.07726,
@@ -7043,7 +7043,7 @@
           -0.03609
         ],
         "fcfyield": [
-          -0.1263031,
+          -0.138144,
           -0.08472,
           -0.08162,
           -0.04685,
@@ -7115,7 +7115,7 @@
           "Q4"
         ],
         "marketcap": [
-          5885289210,
+          5380835849,
           12035537884,
           6220145546,
           4630524309,
@@ -7123,7 +7123,7 @@
           4408429076
         ],
         "ev": [
-          4369176210,
+          3864722849,
           11103020883,
           5546173545,
           3548000309,
@@ -7131,7 +7131,7 @@
           3048698076
         ],
         "lastCloseRatios": [
-          5.95,
+          5.44,
           13.2,
           8.13,
           6.65,
@@ -7139,7 +7139,7 @@
           7.3
         ],
         "ps": [
-          50.60655,
+          46.26885,
           225.279,
           45736.364,
           4486.942,
@@ -7147,7 +7147,7 @@
           null
         ],
         "pb": [
-          3.32242,
+          3.03765,
           8.538,
           6.818,
           4.477,
@@ -7155,7 +7155,7 @@
           3.348
         ],
         "ptbvRatio": [
-          3.6793,
+          3.36393,
           9.692,
           7.491,
           4.853,
@@ -7163,7 +7163,7 @@
           3.579
         ],
         "evrevenue": [
-          37.56977,
+          33.23206,
           207.824,
           40780.688,
           3437.985,
@@ -7251,7 +7251,7 @@
           -0.176
         ],
         "earningsyield": [
-          -0.14921189999999998,
+          -0.16320049999999997,
           -0.07726,
           -0.09775,
           -0.1108,
@@ -7259,7 +7259,7 @@
           -0.0409
         ],
         "fcfyield": [
-          -0.1263031,
+          -0.138144,
           -0.04685,
           -0.07667,
           -0.07438,

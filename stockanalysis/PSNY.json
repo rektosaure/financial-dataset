@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "1,023,465,204",
-      "enterpriseValue": "6,152,364,204"
+      "marketcap": "864,113,479",
+      "enterpriseValue": "5,993,012,479"
     },
     "dates": {
       "earningsdate": "Sep 3, 2026",
@@ -49,7 +49,7 @@
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "0.342",
+      "ps": "0.288",
       "psForward": "n/a",
       "pb": "n/a",
       "ptbvRatio": "n/a",
@@ -59,7 +59,7 @@
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "2.05",
+      "evSales": "2.00",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -77,7 +77,7 @@
       "roa": "-18.908%",
       "roic": "-50.808%",
       "roce": "31.610%",
-      "wacc": "4.132%",
+      "wacc": "3.971%",
       "revPerEmployee": "1,776,747",
       "profitPerEmployee": "-1,190,154",
       "employees": "1,686",
@@ -89,12 +89,12 @@
       "taxrate": "n/a"
     },
     "stockPrice": {
-      "beta": "1.730",
-      "ch1y": "-77.62%",
-      "sma50": "11.013",
-      "sma200": "16.705",
-      "rsi": "19.433",
-      "averageVolume": "289,242"
+      "beta": "1.820",
+      "ch1y": "-81.11%",
+      "sma50": "10.187",
+      "sma200": "16.525",
+      "rsi": "14.973",
+      "averageVolume": "258,859"
     },
     "shortSelling": {
       "shortInterest": "2,515,627",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-75.469%",
       "totalReturn": "-75.469%",
-      "earningsYield": "-196.059%",
-      "fcfYield": "-137.209%"
+      "earningsYield": "-232.215%",
+      "fcfYield": "-162.511%"
     },
     "analystForecasts": {
-      "priceTarget": "$12.50",
-      "priceTargetChange": "100.64%",
+      "priceTarget": "$7.50",
+      "priceTargetChange": "42.59%",
       "analystRatings": "Sell",
       "analystCount": "3",
       "revenue3y": "25.26%",
@@ -180,13 +180,13 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": -10.24043,
-            "this": -6.11264,
+            "last": -10.03322,
+            "this": -5.74564,
             "growth": null
           },
           "epsThis": {
             "last": -13.29571,
-            "this": -10.24043,
+            "this": -10.03322,
             "growth": null
           },
           "revenueNext": {
@@ -241,7 +241,7 @@
             -16.802237,
             -29.140552,
             -25.48243,
-            -0.4,
+            -12.00001,
             "[PRO]",
             "[PRO]"
           ],
@@ -362,7 +362,7 @@
             null,
             null,
             -13.29571,
-            -10.24043,
+            -10.03322,
             "[PRO]",
             "[PRO]"
           ],
@@ -592,10 +592,10 @@
     "estimatesCharts": {
       "eps": {
         "2026-12-31": {
-          "no": 1,
-          "avg": -10.24043,
+          "no": 2,
+          "avg": -10.03322,
           "low": -10.24043,
-          "high": -10.24043
+          "high": -9.826
         },
         "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
@@ -630,19 +630,6 @@
       }
     },
     "recommendations": [
-      {
-        "buy": 0,
-        "date": "2025-07-28",
-        "hold": 2,
-        "sell": 2,
-        "month": "Jul '25",
-        "score": -2.5,
-        "total": 4,
-        "updated": "2025-07-28",
-        "consensus": "Sell",
-        "strongBuy": 0,
-        "strongSell": 0
-      },
       {
         "buy": 0,
         "date": "2025-09-29",
@@ -785,39 +772,52 @@
         "consensus": "Sell",
         "strongBuy": 0,
         "strongSell": 1
+      },
+      {
+        "buy": 0,
+        "date": "2026-10-08",
+        "hold": 1,
+        "sell": 1,
+        "month": "Oct '26",
+        "score": -5,
+        "total": 3,
+        "updated": "2026-10-08",
+        "consensus": "Sell",
+        "strongBuy": 0,
+        "strongSell": 1
       }
     ],
     "targets": {
-      "low": 10,
-      "high": 15,
+      "low": 5,
+      "high": 10,
       "count": 2,
-      "median": 15,
-      "average": 12.5,
-      "updated": "2026-09-10",
+      "median": 10,
+      "average": 7.5,
+      "updated": "2026-10-09",
       "filtered": {
         "1": {
-          "low": 10,
-          "high": 15,
+          "low": 5,
+          "high": 10,
           "count": 2,
-          "median": 15,
-          "average": 12.5,
-          "updated": "2026-09-10"
+          "median": 10,
+          "average": 7.5,
+          "updated": "2026-10-09"
         },
         "2": {
-          "low": 10,
-          "high": 15,
+          "low": 5,
+          "high": 10,
           "count": 2,
-          "median": 15,
-          "average": 12.5,
-          "updated": "2026-09-10"
+          "median": 10,
+          "average": 7.5,
+          "updated": "2026-10-09"
         },
         "3": {
-          "low": 10,
-          "high": 15,
+          "low": 5,
+          "high": 10,
           "count": 2,
-          "median": 15,
-          "average": 12.5,
-          "updated": "2026-09-10"
+          "median": 10,
+          "average": 7.5,
+          "updated": "2026-10-09"
         },
         "4": {
           "count": 0,
@@ -879,16 +879,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 6.23,
+          "c": 5.26,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-02"
+          "t": "2027-10-09"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 5,
+        "pt_old": 15,
+        "firm": "Barclays",
+        "analyst": "Dan Levy",
+        "slug": "dan-levy",
+        "date": "2026-10-09",
+        "rating_new": "Sell",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 40.4,
+          "stars": 3.1,
+          "total": 312,
+          "avg_return": 2.4,
+          "return_pct": null,
+          "analyst_rank": 4691,
+          "success_rate": 40.4,
+          "stock_avg_return": 40.1,
+          "stock_success_rate": 90.9,
+          "number_of_ranked_experts": 12523
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 10,
@@ -901,41 +926,16 @@
         "rating_old": "",
         "time": "13:20:55",
         "scores": {
-          "score": 33.9,
-          "stars": 3.3,
-          "total": 186,
-          "avg_return": 4.1,
+          "score": 37.4,
+          "stars": 3.6,
+          "total": 187,
+          "avg_return": 5.5,
           "return_pct": null,
-          "analyst_rank": 4183,
-          "success_rate": 33.9,
+          "analyst_rank": 3505,
+          "success_rate": 37.4,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12504
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 15,
-        "pt_old": null,
-        "firm": "Barclays",
-        "analyst": "Dan Levy",
-        "slug": "dan-levy",
-        "date": "2026-07-09",
-        "rating_new": "Sell",
-        "rating_old": "",
-        "time": "09:26:09",
-        "scores": {
-          "score": 39.7,
-          "stars": 3.1,
-          "total": 312,
-          "avg_return": 2.4,
-          "return_pct": null,
-          "analyst_rank": 4670,
-          "success_rate": 39.7,
-          "stock_avg_return": 39.3,
-          "stock_success_rate": 90.9,
-          "number_of_ranked_experts": 12504
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       },
@@ -951,26 +951,26 @@
         "rating_old": "",
         "time": "14:50:38",
         "scores": {
-          "score": 39.3,
+          "score": 40.9,
           "stars": 3.6,
-          "total": 214,
-          "avg_return": 5.1,
+          "total": 215,
+          "avg_return": 4.9,
           "return_pct": null,
-          "analyst_rank": 3401,
-          "success_rate": 39.3,
-          "stock_avg_return": -13.4,
+          "analyst_rank": 3516,
+          "success_rate": 40.9,
+          "stock_avg_return": -12.5,
           "stock_success_rate": 44.4,
-          "number_of_ranked_experts": 12504
+          "number_of_ranked_experts": 12523
         }
       }
     ],
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 12.5,
-      "median": 12.5,
-      "low": 10,
-      "high": 15,
+      "avg": 7.5,
+      "median": 7.5,
+      "low": 5,
+      "high": 10,
       "numPriceTargets": 2
     },
     "currentRatings": {
@@ -5113,7 +5113,7 @@
           "H2"
         ],
         "marketcap": [
-          1023465204,
+          864113479,
           1976813450,
           2215874469,
           4769009388,
@@ -5121,7 +5121,7 @@
           null
         ],
         "ev": [
-          6152364204,
+          5993012479,
           6903741450,
           5577496468,
           6787454388,
@@ -5129,7 +5129,7 @@
           null
         ],
         "lastCloseRatios": [
-          6.23,
+          5.26,
           21.37,
           31.500031,
           67.800067,
@@ -5137,7 +5137,7 @@
           null
         ],
         "ps": [
-          0.34166,
+          0.28846,
           0.646,
           1.089,
           2.014,
@@ -5153,7 +5153,7 @@
           null
         ],
         "evrevenue": [
-          2.0538,
+          2.00061,
           2.258,
           2.742,
           2.866,
@@ -5249,7 +5249,7 @@
           -3.38
         ],
         "earningsyield": [
-          -1.9605943,
+          -2.3221487,
           -1.19244,
           -0.9251,
           -0.24782,
@@ -5257,7 +5257,7 @@
           null
         ],
         "fcfyield": [
-          -1.3720857000000002,
+          -1.6251129,
           -0.54315,
           -0.51406,
           -0.42593,
@@ -5314,7 +5314,7 @@
           "H2"
         ],
         "marketcap": [
-          1023465204,
+          864113479,
           2721295937,
           1976813450,
           2258081630,
@@ -5327,7 +5327,7 @@
           null
         ],
         "ev": [
-          6152364204,
+          5993012479,
           8177257936,
           6903741450,
           6637635630,
@@ -5340,7 +5340,7 @@
           null
         ],
         "lastCloseRatios": [
-          6.23,
+          5.26,
           18.78,
           21.37,
           32.100032,
@@ -5366,7 +5366,7 @@
           null
         ],
         "ps": [
-          0.34166,
+          0.28846,
           0.908,
           0.646,
           0.886,
@@ -5392,7 +5392,7 @@
           null
         ],
         "evrevenue": [
-          2.0538,
+          2.00061,
           2.73,
           2.258,
           2.605,
@@ -5470,7 +5470,7 @@
           -3.515
         ],
         "earningsyield": [
-          -1.9605943,
+          -2.3221487,
           -0.73737,
           -1.19244,
           -1.19531,
@@ -5483,7 +5483,7 @@
           null
         ],
         "fcfyield": [
-          -1.3720857000000002,
+          -1.6251129,
           -0.51603,
           -0.54315,
           -0.60814,
@@ -5535,7 +5535,7 @@
           "H2"
         ],
         "marketcap": [
-          1023465204,
+          864113479,
           1976813450,
           2215874469,
           4769009388,
@@ -5543,7 +5543,7 @@
           null
         ],
         "ev": [
-          6152364204,
+          5993012479,
           6903741450,
           5577496468,
           6787454388,
@@ -5551,7 +5551,7 @@
           null
         ],
         "lastCloseRatios": [
-          6.23,
+          5.26,
           21.37,
           31.500031,
           67.800067,
@@ -5559,7 +5559,7 @@
           null
         ],
         "ps": [
-          0.34166,
+          0.28846,
           0.646,
           1.089,
           2.014,
@@ -5575,7 +5575,7 @@
           null
         ],
         "evrevenue": [
-          2.0538,
+          2.00061,
           2.258,
           2.742,
           2.866,
@@ -5671,7 +5671,7 @@
           -3.38
         ],
         "earningsyield": [
-          -1.9605943,
+          -2.3221487,
           -1.19244,
           -0.9251,
           -0.24782,
@@ -5679,7 +5679,7 @@
           null
         ],
         "fcfyield": [
-          -1.3720857000000002,
+          -1.6251129,
           -0.54315,
           -0.51406,
           -0.42593,

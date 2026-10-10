@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "18.701%",
       "sharesgrowthqoq": "2.236%",
       "sharesInsiders": "7.894%",
-      "sharesInstitutions": "11.801%",
+      "sharesInstitutions": "11.955%",
       "float": "14,569,121"
     },
     "ratios": {
@@ -77,7 +77,7 @@
       "roa": "15.174%",
       "roic": "40.302%",
       "roce": "36.651%",
-      "wacc": "8.016%",
+      "wacc": "7.998%",
       "revPerEmployee": "215,217",
       "profitPerEmployee": "30,310",
       "employees": "2,552",
@@ -89,12 +89,12 @@
       "taxrate": "21.192%"
     },
     "stockPrice": {
-      "beta": "1.422",
-      "ch1y": "-25.43%",
-      "sma50": "4.736",
-      "sma200": "8.145",
-      "rsi": "45.528",
-      "averageVolume": "388,468"
+      "beta": "1.417",
+      "ch1y": "-36.11%",
+      "sma50": "4.692",
+      "sma200": "8.100",
+      "rsi": "46.041",
+      "averageVolume": "342,582"
     },
     "shortSelling": {
       "shortInterest": "4,294,000",
@@ -882,6 +882,19 @@
         "consensus": "Strong Buy",
         "strongBuy": 2,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-10-07",
+        "hold": 0,
+        "sell": 0,
+        "month": "Oct '26",
+        "score": 10,
+        "total": 2,
+        "updated": "2026-10-07",
+        "consensus": "Strong Buy",
+        "strongBuy": 2,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -890,7 +903,7 @@
       "count": 2,
       "median": 18,
       "average": 14,
-      "updated": "2026-08-31",
+      "updated": "2026-10-08",
       "filtered": {
         "1": {
           "low": 10,
@@ -898,7 +911,7 @@
           "count": 2,
           "median": 18,
           "average": 14,
-          "updated": "2026-08-31"
+          "updated": "2026-10-08"
         },
         "2": {
           "low": 10,
@@ -906,7 +919,7 @@
           "count": 2,
           "median": 18,
           "average": 14,
-          "updated": "2026-08-31"
+          "updated": "2026-10-08"
         },
         "3": {
           "low": 10,
@@ -914,15 +927,15 @@
           "count": 2,
           "median": 18,
           "average": 14,
-          "updated": "2026-08-31"
+          "updated": "2026-10-08"
         },
         "4": {
           "low": 10,
-          "high": 18,
-          "count": 2,
-          "median": 18,
-          "average": 14,
-          "updated": "2026-08-31"
+          "high": 10,
+          "count": 1,
+          "median": 10,
+          "average": 10,
+          "updated": "2026-10-08"
         },
         "5": {
           "count": 0,
@@ -985,36 +998,11 @@
         },
         {
           "c": null,
-          "t": "2027-10-02"
+          "t": "2027-10-09"
         }
       ]
     },
     "ratings": [
-      {
-        "action_rt": "Maintains",
-        "pt_now": 10,
-        "pt_old": 15,
-        "firm": "Roth MKM",
-        "analyst": "Philip Shen",
-        "slug": "philip-shen",
-        "date": "2026-08-31",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "19:40:18",
-        "scores": {
-          "score": 40.6,
-          "stars": 4.2,
-          "total": 490,
-          "avg_return": 7,
-          "return_pct": null,
-          "analyst_rank": 1982,
-          "success_rate": 40.6,
-          "stock_avg_return": -26.9,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12505
-        },
-        "curr": "USD"
-      },
       {
         "action_rt": "Maintains",
         "pt_now": 18,
@@ -1022,21 +1010,46 @@
         "firm": "H.C. Wainwright",
         "analyst": "Amit Dayal",
         "slug": "amit-dayal",
-        "date": "2026-08-20",
+        "date": "2026-10-08",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "10:20:35",
+        "time": "10:30:42",
         "scores": {
-          "score": 33,
-          "stars": 4,
-          "total": 491,
-          "avg_return": 6.4,
+          "score": 31.4,
+          "stars": 3.7,
+          "total": 494,
+          "avg_return": 4.8,
           "return_pct": null,
-          "analyst_rank": 2497,
-          "success_rate": 33,
-          "stock_avg_return": -33.8,
+          "analyst_rank": 3228,
+          "success_rate": 31.4,
+          "stock_avg_return": -33.6,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12505
+          "number_of_ranked_experts": 12523
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 10,
+        "pt_old": null,
+        "firm": "Roth MKM",
+        "analyst": "Philip Shen",
+        "slug": "philip-shen",
+        "date": "2026-10-08",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "08:55:14",
+        "scores": {
+          "score": 41.2,
+          "stars": 4.2,
+          "total": 490,
+          "avg_return": 7.5,
+          "return_pct": null,
+          "analyst_rank": 1888,
+          "success_rate": 41.2,
+          "stock_avg_return": -26.7,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12523
         },
         "curr": "USD"
       }
