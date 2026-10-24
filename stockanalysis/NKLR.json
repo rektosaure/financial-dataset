@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "271,832,234",
-      "enterpriseValue": "181,161,234"
+      "marketcap": "223,211,834",
+      "enterpriseValue": "132,540,834"
     },
     "dates": {
       "earningsdate": "Dec 6, 2026",
@@ -43,11 +43,11 @@
       "sharesgrowthyoy": "82.703%",
       "sharesgrowthqoq": "n/a",
       "sharesInsiders": "19.577%",
-      "sharesInstitutions": "10.475%",
+      "sharesInstitutions": "10.519%",
       "float": "63,028,408"
     },
     "ratios": {
-      "pe": "0.413",
+      "pe": "0.339",
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
@@ -58,7 +58,7 @@
       "pegRatio": "n/a"
     },
     "evRatios": {
-      "evEarnings": "0.36",
+      "evEarnings": "0.26",
       "evSales": "n/a",
       "evEbitda": "n/a",
       "evEbit": "n/a",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "n/a",
-      "ch1y": "-85.74%",
-      "sma50": "4.597",
-      "sma200": "5.081",
-      "rsi": "20.744",
-      "averageVolume": "374,115"
+      "ch1y": "-75.63%",
+      "sma50": "4.223",
+      "sma200": "5.002",
+      "rsi": "16.450",
+      "averageVolume": "340,259"
     },
     "shortSelling": {
       "shortInterest": "1,800,439",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-82.703%",
       "totalReturn": "-82.703%",
-      "earningsYield": "187.136%",
-      "fcfYield": "-6.585%"
+      "earningsYield": "294.945%",
+      "fcfYield": "-8.149%"
     },
     "analystForecasts": {
       "priceTarget": "$16.80",
-      "priceTargetChange": "582.93%",
+      "priceTargetChange": "731.68%",
       "analystRatings": "Strong Buy",
       "analystCount": "5",
       "revenue3y": "n/a",
@@ -671,7 +671,8 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "normalized"
     },
     "estimatesCharts": {
       "eps": {
@@ -873,26 +874,26 @@
     "targets": {
       "low": 10,
       "high": 25,
-      "count": 3,
-      "median": 10,
-      "average": 15,
-      "updated": "2026-09-22",
+      "count": 2,
+      "median": 25,
+      "average": 17.5,
+      "updated": "2026-10-22",
       "filtered": {
         "1": {
-          "low": 10,
-          "high": 25,
-          "count": 3,
-          "median": 10,
-          "average": 15,
-          "updated": "2026-09-22"
-        },
-        "2": {
           "low": 10,
           "high": 25,
           "count": 2,
           "median": 25,
           "average": 17.5,
-          "updated": "2026-09-22"
+          "updated": "2026-10-22"
+        },
+        "2": {
+          "low": 10,
+          "high": 10,
+          "count": 1,
+          "median": 10,
+          "average": 10,
+          "updated": "2026-07-03"
         },
         "3": {
           "low": 10,
@@ -915,7 +916,7 @@
           "updated": ""
         }
       },
-      "warning": "NKLR's stock price has decreased by -85.74% in the past year and price targets may not have had time to catch up.",
+      "warning": "NKLR's stock price has decreased by -75.63% in the past year and price targets may not have had time to catch up.",
       "currency": "USD",
       "chart": [
         {
@@ -967,38 +968,38 @@
           "t": "2026-09-01"
         },
         {
-          "c": 2.455,
+          "c": 2.04,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Maintains",
+        "action_rt": "Reiterates",
         "pt_now": 25,
         "pt_old": null,
         "firm": "H.C. Wainwright",
         "analyst": "Sameer Joshi",
         "slug": "sameer-joshi",
-        "date": "2026-09-22",
+        "date": "2026-10-22",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "12:40:25",
+        "time": "00:00:00",
         "scores": {
-          "score": 20.5,
-          "stars": 2.3,
-          "total": 83,
-          "avg_return": 1.5,
+          "score": 21.2,
+          "stars": 1.2,
+          "total": 85,
+          "avg_return": -1.1,
           "return_pct": null,
-          "analyst_rank": 6723,
-          "success_rate": 20.5,
-          "stock_avg_return": -41.1,
+          "analyst_rank": 9562,
+          "success_rate": 21.2,
+          "stock_avg_return": -54.3,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12536
         },
         "curr": "USD"
       },
@@ -1014,41 +1015,16 @@
         "rating_old": "",
         "time": "19:25:13",
         "scores": {
-          "score": 32.1,
-          "stars": 4.7,
+          "score": 30.2,
+          "stars": 4.6,
           "total": 53,
-          "avg_return": 42.7,
+          "avg_return": 40,
           "return_pct": null,
-          "analyst_rank": 845,
-          "success_rate": 32.1,
-          "stock_avg_return": -35.2,
+          "analyst_rank": 909,
+          "success_rate": 30.2,
+          "stock_avg_return": -49.8,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 10,
-        "pt_old": null,
-        "firm": "Canaccord Genuity",
-        "analyst": "George Gianarikas",
-        "slug": "george-gianarikas",
-        "date": "2026-04-17",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:40:30",
-        "scores": {
-          "score": 35.5,
-          "stars": 1.1,
-          "total": 394,
-          "avg_return": -0.5,
-          "return_pct": null,
-          "analyst_rank": 9648,
-          "success_rate": 35.5,
-          "stock_avg_return": -42.4,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12536
         },
         "curr": "USD"
       }
@@ -3444,25 +3420,25 @@
           "Q4"
         ],
         "marketcap": [
-          271832234,
+          223211834,
           510514380,
           288516025,
           null
         ],
         "ev": [
-          181161234,
+          132540834,
           512245378.99999994,
           null,
           null
         ],
         "lastCloseRatios": [
-          2.58,
+          2.02,
           4.62,
           9.89,
           null
         ],
         "pe": [
-          0.4129,
+          0.33905,
           0.946,
           null,
           null
@@ -3528,13 +3504,13 @@
           -20.82
         ],
         "earningsyield": [
-          1.8713584,
+          2.9494515000000003,
           1.05682,
           -0.00012,
           null
         ],
         "fcfyield": [
-          -0.0658456,
+          -0.0814921,
           -0.02038,
           -0.00015,
           null
@@ -3587,7 +3563,7 @@
           "Q1"
         ],
         "marketcap": [
-          271832234,
+          223211834,
           543664467,
           512724398.99999994,
           510514380,
@@ -3600,7 +3576,7 @@
           null
         ],
         "ev": [
-          181161234,
+          132540834,
           443868467,
           514455397.99999994,
           512245378.99999994,
@@ -3613,7 +3589,7 @@
           null
         ],
         "lastCloseRatios": [
-          2.58,
+          2.02,
           4.92,
           4.64,
           4.62,
@@ -3626,7 +3602,7 @@
           null
         ],
         "pe": [
-          0.4129,
+          0.33905,
           null,
           null,
           0.946,
@@ -3769,7 +3745,7 @@
           null
         ],
         "earningsyield": [
-          1.8713584,
+          2.9494515000000003,
           0.95089,
           1.04123,
           1.05682,
@@ -3782,7 +3758,7 @@
           null
         ],
         "fcfyield": [
-          -0.0658456,
+          -0.0814921,
           -0.03346,
           -0.02807,
           -0.02038,
@@ -3828,25 +3804,25 @@
           "Q4"
         ],
         "marketcap": [
-          271832234,
+          223211834,
           510514380,
           288516025,
           null
         ],
         "ev": [
-          181161234,
+          132540834,
           512245378.99999994,
           null,
           null
         ],
         "lastCloseRatios": [
-          2.58,
+          2.02,
           4.62,
           9.89,
           null
         ],
         "pe": [
-          0.4129,
+          0.33905,
           0.946,
           null,
           null
@@ -3912,13 +3888,13 @@
           -20.82
         ],
         "earningsyield": [
-          1.8713584,
+          2.9494515000000003,
           1.05682,
           -0.00012,
           null
         ],
         "fcfyield": [
-          -0.0658456,
+          -0.0814921,
           -0.02038,
           -0.00015,
           null

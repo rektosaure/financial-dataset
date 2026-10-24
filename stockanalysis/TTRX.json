@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "315,753,224",
-      "enterpriseValue": "311,585,750"
+      "marketcap": "306,221,051",
+      "enterpriseValue": "302,053,577"
     },
     "dates": {
       "earningsdate": "Nov 25, 2026",
@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "7.075%",
       "sharesgrowthqoq": "1.059%",
       "sharesInsiders": "58.790%",
-      "sharesInstitutions": "3.909%",
+      "sharesInstitutions": "3.925%",
       "float": "10,828,428"
     },
     "ratios": {
@@ -51,7 +51,7 @@
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
-      "pb": "477.467",
+      "pb": "445.809",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
       "pocf": "n/a",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "n/a",
-      "ch1y": "105.88%",
-      "sma50": "11.610",
-      "sma200": "6.703",
-      "rsi": "41.135",
-      "averageVolume": "110,543"
+      "ch1y": "145.93%",
+      "sma50": "11.635",
+      "sma200": "6.851",
+      "rsi": "40.654",
+      "averageVolume": "92,808"
     },
     "shortSelling": {
       "shortInterest": "268,757",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-7.075%",
       "totalReturn": "-7.075%",
-      "earningsYield": "-2.575%",
-      "fcfYield": "-1.318%"
+      "earningsYield": "-2.841%",
+      "fcfYield": "-1.411%"
     },
     "analystForecasts": {
       "priceTarget": "$25.00",
-      "priceTargetChange": "135.85%",
+      "priceTargetChange": "143.19%",
       "analystRatings": "Strong Buy",
       "analystCount": "2",
       "revenue3y": "n/a",
@@ -776,7 +776,8 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "normalized"
     },
     "estimatesCharts": {
       "eps": {
@@ -895,6 +896,19 @@
         "consensus": "Strong Buy",
         "strongBuy": 1,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-09-24",
+        "hold": 0,
+        "sell": 0,
+        "month": "Sep '26",
+        "score": 10,
+        "total": 2,
+        "updated": "2026-09-24",
+        "consensus": "Strong Buy",
+        "strongBuy": 2,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -903,7 +917,7 @@
       "count": 4,
       "median": 16,
       "average": 15,
-      "updated": "2026-09-24",
+      "updated": "2026-10-23",
       "filtered": {
         "1": {
           "low": 10,
@@ -911,7 +925,7 @@
           "count": 2,
           "median": 24,
           "average": 17,
-          "updated": "2026-09-24"
+          "updated": "2026-10-23"
         },
         "2": {
           "low": 10,
@@ -919,7 +933,7 @@
           "count": 2,
           "median": 24,
           "average": 17,
-          "updated": "2026-09-24"
+          "updated": "2026-10-23"
         },
         "3": {
           "low": 24,
@@ -993,16 +1007,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 10.5,
+          "c": 10.28,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Upgrades",
+        "pt_now": 10,
+        "pt_old": null,
+        "firm": "Westpark Capital",
+        "analyst": "Karen Sterling",
+        "slug": "karen-sterling",
+        "date": "2026-10-23",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 60,
+          "stars": 2.8,
+          "total": 5,
+          "avg_return": 22,
+          "return_pct": null,
+          "analyst_rank": 5498,
+          "success_rate": 60,
+          "stock_avg_return": 121.1,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12537
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 24,
@@ -1018,38 +1057,13 @@
           "score": 50,
           "stars": 4.6,
           "total": 20,
-          "avg_return": 53.4,
+          "avg_return": 53.5,
           "return_pct": null,
-          "analyst_rank": 1076,
+          "analyst_rank": 1100,
           "success_rate": 50,
-          "stock_avg_return": -16.2,
+          "stock_avg_return": -23.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Downgrades",
-        "pt_now": 10,
-        "pt_old": null,
-        "firm": "Westpark Capital",
-        "analyst": "Karen Sterling",
-        "slug": "karen-sterling",
-        "date": "2026-09-14",
-        "rating_new": "Sell",
-        "rating_old": "",
-        "time": "16:10:14",
-        "scores": {
-          "score": 50,
-          "stars": 2.6,
-          "total": 4,
-          "avg_return": 22.7,
-          "return_pct": null,
-          "analyst_rank": 5964,
-          "success_rate": 50,
-          "stock_avg_return": 117.6,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12537
         },
         "curr": "USD"
       },
@@ -1074,7 +1088,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12537
         },
         "curr": "USD"
       },
@@ -1090,16 +1104,16 @@
         "rating_old": "",
         "time": "16:35:33",
         "scores": {
-          "score": 19.4,
+          "score": 25,
           "stars": 0.2,
           "total": 36,
-          "avg_return": -20.9,
+          "avg_return": -20.5,
           "return_pct": null,
-          "analyst_rank": 12148,
-          "success_rate": 19.4,
-          "stock_avg_return": 12.6,
+          "analyst_rank": 12160,
+          "success_rate": 25,
+          "stock_avg_return": 3.2,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12537
         },
         "curr": "USD"
       }
@@ -3739,28 +3753,28 @@
           "Q4"
         ],
         "marketcap": [
-          315753224,
+          306221051,
           116014021,
           null,
           null,
           null
         ],
         "ev": [
-          311585750,
+          302053577,
           112999041,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          11.59,
+          10.28,
           3.94,
           null,
           null,
           null
         ],
         "pb": [
-          477.46695,
+          445.80929,
           24.754,
           null,
           null,
@@ -3830,7 +3844,7 @@
           -3.539
         ],
         "earningsyield": [
-          -0.0257526,
+          -0.0284096,
           -0.02753,
           null,
           null,
@@ -3897,7 +3911,7 @@
           "Q1"
         ],
         "marketcap": [
-          315753224,
+          306221051,
           217452692,
           95321728,
           116014021,
@@ -3914,7 +3928,7 @@
           null
         ],
         "ev": [
-          311585750,
+          302053577,
           212240872,
           90325958,
           112999041,
@@ -3931,7 +3945,7 @@
           null
         ],
         "lastCloseRatios": [
-          11.59,
+          10.28,
           7.3,
           3.2,
           3.94,
@@ -3965,7 +3979,7 @@
           null
         ],
         "pb": [
-          477.46695,
+          445.80929,
           316.577,
           15.582,
           24.754,
@@ -4135,7 +4149,7 @@
           null
         ],
         "earningsyield": [
-          -0.0257526,
+          -0.0284096,
           -0.03884,
           -0.04025,
           -0.02753,
@@ -4192,28 +4206,28 @@
           "Q4"
         ],
         "marketcap": [
-          315753224,
+          306221051,
           116014021,
           null,
           null,
           null
         ],
         "ev": [
-          311585750,
+          302053577,
           112999041,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          11.59,
+          10.28,
           3.94,
           null,
           null,
           null
         ],
         "pb": [
-          477.46695,
+          445.80929,
           24.754,
           null,
           null,
@@ -4283,7 +4297,7 @@
           -3.539
         ],
         "earningsyield": [
-          -0.0257526,
+          -0.0284096,
           -0.02753,
           null,
           null,

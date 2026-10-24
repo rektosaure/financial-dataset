@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "860,971,762",
-      "enterpriseValue": "640,532,762"
+      "marketcap": "862,149,025",
+      "enterpriseValue": "641,710,025"
     },
     "dates": {
       "earningsdate": "Nov 11, 2026",
@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "31.266%",
       "sharesgrowthqoq": "30.158%",
       "sharesInsiders": "2.509%",
-      "sharesInstitutions": "64.570%",
+      "sharesInstitutions": "64.559%",
       "float": "29,594,516"
     },
     "ratios": {
@@ -51,8 +51,8 @@
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
-      "pb": "3.621",
-      "ptbvRatio": "4.011",
+      "pb": "3.517",
+      "ptbvRatio": "3.932",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
@@ -77,7 +77,7 @@
       "roa": "-26.786%",
       "roic": "-28.058%",
       "roce": "-37.181%",
-      "wacc": "11.513%",
+      "wacc": "11.511%",
       "revPerEmployee": "n/a",
       "profitPerEmployee": "-1,238,794",
       "employees": "68",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "1.339",
-      "ch1y": "259.08%",
-      "sma50": "30.011",
-      "sma200": "23.932",
-      "rsi": "26.916",
-      "averageVolume": "650,799"
+      "ch1y": "115.39%",
+      "sma50": "29.361",
+      "sma200": "24.096",
+      "rsi": "34.432",
+      "averageVolume": "681,126"
     },
     "shortSelling": {
       "shortInterest": "4,660,269",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-31.266%",
       "totalReturn": "-31.266%",
-      "earningsYield": "-9.579%",
-      "fcfYield": "-7.828%"
+      "earningsYield": "-10.828%",
+      "fcfYield": "-7.985%"
     },
     "analystForecasts": {
       "priceTarget": "$38.38",
-      "priceTargetChange": "74.93%",
+      "priceTargetChange": "74.69%",
       "analystRatings": "Strong Buy",
       "analystCount": "11",
       "revenue3y": "n/a",
@@ -713,7 +713,8 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "normalized"
     },
     "estimatesCharts": {
       "eps": {
@@ -913,51 +914,51 @@
     ],
     "targets": {
       "low": 24,
-      "high": 55,
+      "high": 60,
       "count": 7,
       "median": 37,
-      "average": 38,
-      "updated": "2026-09-21",
+      "average": 38.71,
+      "updated": "2026-10-19",
       "filtered": {
         "1": {
           "low": 24,
-          "high": 55,
-          "count": 6,
+          "high": 60,
+          "count": 5,
           "median": 40,
-          "average": 38.33,
-          "updated": "2026-09-21"
+          "average": 41,
+          "updated": "2026-10-19"
         },
         "2": {
           "low": 24,
-          "high": 55,
+          "high": 60,
           "count": 5,
           "median": 40,
-          "average": 40,
-          "updated": "2026-09-21"
+          "average": 41,
+          "updated": "2026-10-19"
         },
         "3": {
           "low": 24,
-          "high": 55,
+          "high": 60,
           "count": 5,
           "median": 40,
-          "average": 40,
-          "updated": "2026-09-21"
+          "average": 41,
+          "updated": "2026-10-19"
         },
         "4": {
           "low": 24,
-          "high": 55,
+          "high": 60,
           "count": 5,
           "median": 40,
-          "average": 40,
-          "updated": "2026-09-21"
+          "average": 41,
+          "updated": "2026-10-19"
         },
         "5": {
           "low": 40,
-          "high": 55,
+          "high": 60,
           "count": 2,
-          "median": 55,
-          "average": 47.5,
-          "updated": "2026-09-21"
+          "median": 60,
+          "average": 50,
+          "updated": "2026-10-19"
         }
       },
       "currency": "USD",
@@ -1011,16 +1012,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 21.94,
+          "c": 21.97,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 60,
+        "pt_old": 55,
+        "firm": "H.C. Wainwright",
+        "analyst": "Patrick Trucchio",
+        "slug": "patrick-trucchio",
+        "date": "2026-10-19",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "13:36:03",
+        "scores": {
+          "score": 44.9,
+          "stars": 4.9,
+          "total": 499,
+          "avg_return": 23.7,
+          "return_pct": null,
+          "analyst_rank": 308,
+          "success_rate": 44.9,
+          "stock_avg_return": 258.1,
+          "stock_success_rate": 66.7,
+          "number_of_ranked_experts": 12521
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": null,
@@ -1033,42 +1059,17 @@
         "rating_old": "",
         "time": "20:50:09",
         "scores": {
-          "score": 49.9,
-          "stars": 4.9,
+          "score": 46.6,
+          "stars": 4.8,
           "total": 429,
-          "avg_return": 24.5,
+          "avg_return": 21.1,
           "return_pct": null,
-          "analyst_rank": 323,
-          "success_rate": 49.9,
-          "stock_avg_return": 251.8,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12524
+          "analyst_rank": 400,
+          "success_rate": 46.6,
+          "stock_avg_return": 245.5,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12521
         }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 55,
-        "pt_old": null,
-        "firm": "H.C. Wainwright",
-        "analyst": "Patrick Trucchio",
-        "slug": "patrick-trucchio",
-        "date": "2026-09-21",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "17:55:46",
-        "scores": {
-          "score": 47.5,
-          "stars": 4.9,
-          "total": 501,
-          "avg_return": 26.7,
-          "return_pct": null,
-          "analyst_rank": 277,
-          "success_rate": 47.5,
-          "stock_avg_return": 265.5,
-          "stock_success_rate": 80,
-          "number_of_ranked_experts": 12524
-        },
-        "curr": "USD"
       },
       {
         "action_rt": "Maintains",
@@ -1082,16 +1083,16 @@
         "rating_old": "",
         "time": "15:20:11",
         "scores": {
-          "score": 47.2,
-          "stars": 2.6,
+          "score": 45.5,
+          "stars": 2,
           "total": 466,
-          "avg_return": 0.7,
+          "avg_return": 0.2,
           "return_pct": null,
-          "analyst_rank": 6044,
-          "success_rate": 47.2,
-          "stock_avg_return": -14.9,
+          "analyst_rank": 7400,
+          "success_rate": 45.5,
+          "stock_avg_return": -22.3,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12524
+          "number_of_ranked_experts": 12521
         }
       },
       {
@@ -1106,16 +1107,16 @@
         "rating_old": "",
         "time": "14:45:47",
         "scores": {
-          "score": 54.9,
+          "score": 54.3,
           "stars": 4.8,
-          "total": 184,
-          "avg_return": 24.9,
+          "total": 186,
+          "avg_return": 23.7,
           "return_pct": null,
-          "analyst_rank": 491,
-          "success_rate": 54.9,
-          "stock_avg_return": 133.1,
-          "stock_success_rate": 62.5,
-          "number_of_ranked_experts": 12524
+          "analyst_rank": 488,
+          "success_rate": 54.3,
+          "stock_avg_return": 128.2,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12521
         },
         "curr": "USD"
       },
@@ -1131,16 +1132,16 @@
         "rating_old": "",
         "time": "10:25:46",
         "scores": {
-          "score": 39.7,
-          "stars": 4.3,
-          "total": 499,
-          "avg_return": 7.7,
+          "score": 37.3,
+          "stars": 4,
+          "total": 493,
+          "avg_return": 5.9,
           "return_pct": null,
-          "analyst_rank": 1876,
-          "success_rate": 39.7,
-          "stock_avg_return": 22.4,
-          "stock_success_rate": 75,
-          "number_of_ranked_experts": 12524
+          "analyst_rank": 2437,
+          "success_rate": 37.3,
+          "stock_avg_return": 11.8,
+          "stock_success_rate": 62.5,
+          "number_of_ranked_experts": 12521
         },
         "curr": "USD"
       }
@@ -4723,7 +4724,7 @@
           "Q4"
         ],
         "marketcap": [
-          860971762,
+          862149025,
           552980763,
           114083811,
           null,
@@ -4731,7 +4732,7 @@
           null
         ],
         "ev": [
-          640532762,
+          641710025,
           442686763,
           -52129190,
           null,
@@ -4739,7 +4740,7 @@
           null
         ],
         "lastCloseRatios": [
-          22.62,
+          21.97,
           17.8,
           4.23,
           null,
@@ -4747,7 +4748,7 @@
           null
         ],
         "pb": [
-          3.62066,
+          3.51661,
           3.659,
           0.753,
           null,
@@ -4755,7 +4756,7 @@
           null
         ],
         "ptbvRatio": [
-          4.01104,
+          3.93228,
           3.659,
           0.753,
           null,
@@ -4835,7 +4836,7 @@
           -0.447
         ],
         "earningsyield": [
-          -0.0957886,
+          -0.10827769999999999,
           -0.11436,
           -0.53847,
           null,
@@ -4843,7 +4844,7 @@
           null
         ],
         "fcfyield": [
-          -0.0782804,
+          -0.0798481,
           -0.09366,
           -0.43388,
           null,
@@ -4915,7 +4916,7 @@
           "Q4"
         ],
         "marketcap": [
-          860971762,
+          862149025,
           926129077,
           718135200,
           552980763,
@@ -4933,7 +4934,7 @@
           null
         ],
         "ev": [
-          640532762,
+          641710025,
           685582076,
           565609199,
           442686763,
@@ -4951,7 +4952,7 @@
           null
         ],
         "lastCloseRatios": [
-          22.62,
+          21.97,
           26.39,
           22.48,
           17.8,
@@ -4969,7 +4970,7 @@
           null
         ],
         "pb": [
-          3.62066,
+          3.51661,
           4.224,
           2.951,
           3.659,
@@ -4987,7 +4988,7 @@
           null
         ],
         "ptbvRatio": [
-          4.01104,
+          3.93228,
           4.224,
           2.951,
           3.659,
@@ -5167,7 +5168,7 @@
           -0.178
         ],
         "earningsyield": [
-          -0.0957886,
+          -0.10827769999999999,
           -0.09096,
           -0.10347,
           -0.11436,
@@ -5185,7 +5186,7 @@
           null
         ],
         "fcfyield": [
-          -0.0782804,
+          -0.0798481,
           -0.07433,
           -0.08753,
           -0.09366,
@@ -5247,7 +5248,7 @@
           "Q4"
         ],
         "marketcap": [
-          860971762,
+          862149025,
           552980763,
           114083811,
           null,
@@ -5255,7 +5256,7 @@
           null
         ],
         "ev": [
-          640532762,
+          641710025,
           442686763,
           -52129190,
           null,
@@ -5263,7 +5264,7 @@
           null
         ],
         "lastCloseRatios": [
-          22.62,
+          21.97,
           17.8,
           4.23,
           null,
@@ -5271,7 +5272,7 @@
           null
         ],
         "pb": [
-          3.62066,
+          3.51661,
           3.659,
           0.753,
           null,
@@ -5279,7 +5280,7 @@
           null
         ],
         "ptbvRatio": [
-          4.01104,
+          3.93228,
           3.659,
           0.753,
           null,
@@ -5359,7 +5360,7 @@
           -0.447
         ],
         "earningsyield": [
-          -0.0957886,
+          -0.10827769999999999,
           -0.11436,
           -0.53847,
           null,
@@ -5367,7 +5368,7 @@
           null
         ],
         "fcfyield": [
-          -0.0782804,
+          -0.0798481,
           -0.09366,
           -0.43388,
           null,

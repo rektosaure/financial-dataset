@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "2,826,209,752",
-      "enterpriseValue": "2,410,647,752"
+      "marketcap": "2,802,361,779",
+      "enterpriseValue": "2,386,799,779"
     },
     "dates": {
       "earningsdate": "Nov 4, 2026",
@@ -43,25 +43,25 @@
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "n/a",
       "sharesInsiders": "0.520%",
-      "sharesInstitutions": "2.410%",
+      "sharesInstitutions": "9.680%",
       "float": "36,364,385"
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "30.125",
-      "ps": "17.189",
-      "psForward": "15.208",
-      "pb": "4.801",
-      "ptbvRatio": "8.040",
+      "peForward": "32.131",
+      "ps": "17.170",
+      "psForward": "15.191",
+      "pb": "4.559",
+      "ptbvRatio": "8.031",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "14.64",
-      "evEbitda": "52.34",
-      "evEbit": "1,303.85",
+      "evSales": "14.62",
+      "evEbitda": "52.27",
+      "evEbit": "1,302.13",
       "evFcf": "n/a"
     },
     "financialPosition": {
@@ -91,10 +91,10 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "75.225",
+      "sma50": "75.421",
       "sma200": "n/a",
-      "rsi": "23.214",
-      "averageVolume": "460,759"
+      "rsi": "28.825",
+      "averageVolume": "394,883"
     },
     "shortSelling": {
       "shortInterest": "1,682,848",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "-10.689%",
-      "fcfYield": "-2.279%"
+      "earningsYield": "-12.884%",
+      "fcfYield": "-2.282%"
     },
     "analystForecasts": {
       "priceTarget": "$85.00",
-      "priceTargetChange": "35.33%",
+      "priceTargetChange": "36.48%",
       "analystRatings": "Strong Buy",
       "analystCount": "2",
       "revenue3y": "26.67%",
@@ -734,7 +734,8 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "normalized"
     },
     "estimatesCharts": {
       "eps": {
@@ -788,47 +789,60 @@
         "consensus": "Strong Buy",
         "strongBuy": 2,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-10-22",
+        "hold": 0,
+        "sell": 0,
+        "month": "Oct '26",
+        "score": 10,
+        "total": 3,
+        "updated": "2026-10-22",
+        "consensus": "Strong Buy",
+        "strongBuy": 3,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 85,
-      "high": 98,
-      "count": 3,
-      "median": 85,
-      "average": 89.33,
-      "updated": "2026-09-29",
+      "high": 119,
+      "count": 4,
+      "median": 98,
+      "average": 96.75,
+      "updated": "2026-10-22",
       "filtered": {
         "1": {
           "low": 85,
-          "high": 85,
-          "count": 2,
+          "high": 119,
+          "count": 3,
           "median": 85,
-          "average": 85,
-          "updated": "2026-08-24"
+          "average": 96.33,
+          "updated": "2026-10-22"
         },
         "2": {
           "low": 85,
-          "high": 85,
-          "count": 2,
+          "high": 119,
+          "count": 3,
           "median": 85,
-          "average": 85,
-          "updated": "2026-08-24"
+          "average": 96.33,
+          "updated": "2026-10-22"
         },
         "3": {
           "low": 85,
-          "high": 85,
-          "count": 2,
+          "high": 119,
+          "count": 3,
           "median": 85,
-          "average": 85,
-          "updated": "2026-08-24"
+          "average": 96.33,
+          "updated": "2026-10-22"
         },
         "4": {
           "low": 85,
-          "high": 85,
-          "count": 2,
+          "high": 119,
+          "count": 3,
           "median": 85,
-          "average": 85,
-          "updated": "2026-08-24"
+          "average": 96.33,
+          "updated": "2026-10-22"
         },
         "5": {
           "low": 85,
@@ -854,16 +868,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 62.52,
+          "c": 62.28,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 119,
+        "pt_old": null,
+        "firm": "Canaccord Genuity",
+        "analyst": "Joseph Vafi",
+        "slug": "joseph-vafi",
+        "date": "2026-10-22",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "09:40:06",
+        "scores": {
+          "score": 40.7,
+          "stars": 4.7,
+          "total": 491,
+          "avg_return": 13.9,
+          "return_pct": null,
+          "analyst_rank": 830,
+          "success_rate": 40.7,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12531
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": 98,
@@ -876,16 +915,16 @@
         "rating_old": "",
         "time": "20:15:50",
         "scores": {
-          "score": 45.3,
+          "score": 45.1,
           "stars": 0.5,
           "total": 475,
-          "avg_return": -2.1,
+          "avg_return": -2.3,
           "return_pct": null,
-          "analyst_rank": 11247,
-          "success_rate": 45.3,
-          "stock_avg_return": -6.9,
+          "analyst_rank": 11352,
+          "success_rate": 45.1,
+          "stock_avg_return": -18,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       },
@@ -901,16 +940,16 @@
         "rating_old": "",
         "time": "10:20:15",
         "scores": {
-          "score": 53.6,
+          "score": 50.8,
           "stars": 4.9,
           "total": 494,
-          "avg_return": 27,
+          "avg_return": 23.6,
           "return_pct": null,
-          "analyst_rank": 182,
-          "success_rate": 53.6,
-          "stock_avg_return": 8.8,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12525
+          "analyst_rank": 248,
+          "success_rate": 50.8,
+          "stock_avg_return": -4,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       },
@@ -926,16 +965,16 @@
         "rating_old": "",
         "time": "09:25:26",
         "scores": {
-          "score": 61.5,
-          "stars": 4.7,
+          "score": 61.3,
+          "stars": 4.6,
           "total": 465,
-          "avg_return": 7.7,
+          "avg_return": 7.5,
           "return_pct": null,
-          "analyst_rank": 852,
-          "success_rate": 61.5,
-          "stock_avg_return": 8.8,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12525
+          "analyst_rank": 920,
+          "success_rate": 61.3,
+          "stock_avg_return": -4,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       }

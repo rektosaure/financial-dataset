@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "5,711,871,959",
-      "enterpriseValue": "7,576,871,959"
+      "marketcap": "5,333,201,896",
+      "enterpriseValue": "7,198,201,896"
     },
     "dates": {
       "earningsdate": "Oct 28, 2026",
@@ -43,26 +43,26 @@
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "n/a",
       "sharesInsiders": "0.051%",
-      "sharesInstitutions": "5.311%",
+      "sharesInstitutions": "5.616%",
       "float": "130,790,402"
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "25.494",
-      "ps": "7.748",
-      "psForward": "7.124",
-      "pb": "0.732",
+      "peForward": "23.797",
+      "ps": "7.008",
+      "psForward": "6.444",
+      "pb": "0.669",
       "ptbvRatio": "n/a",
-      "pfcf": "34.685",
-      "pocf": "34.282",
-      "pegRatio": "1.088"
+      "pfcf": "31.372",
+      "pocf": "31.007",
+      "pegRatio": "1.329"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "10.20",
-      "evEbitda": "23.66",
-      "evEbit": "34.19",
-      "evFcf": "45.66"
+      "evSales": "9.46",
+      "evEbitda": "21.95",
+      "evEbit": "31.71",
+      "evFcf": "42.34"
     },
     "financialPosition": {
       "currentRatio": "1.823",
@@ -91,10 +91,10 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "19.982",
+      "sma50": "19.490",
       "sma200": "n/a",
-      "rsi": "48.142",
-      "averageVolume": "3,360,081"
+      "rsi": "38.837",
+      "averageVolume": "2,941,346"
     },
     "shortSelling": {
       "shortInterest": "12,509,623",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "-0.017%",
-      "fcfYield": "2.883%"
+      "earningsYield": "-0.026%",
+      "fcfYield": "3.188%"
     },
     "analystForecasts": {
       "priceTarget": "$27.39",
-      "priceTargetChange": "52.59%",
+      "priceTargetChange": "63.43%",
       "analystRatings": "Buy",
       "analystCount": "25",
       "revenue3y": "10.30%",
@@ -776,7 +776,8 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "normalized"
     },
     "estimatesCharts": {
       "eps": {
@@ -877,23 +878,23 @@
       "count": 22,
       "median": 28,
       "average": 27.64,
-      "updated": "2026-10-16",
+      "updated": "2026-10-23",
       "filtered": {
         "1": {
+          "low": 22,
+          "high": 30,
+          "count": 16,
+          "median": 28,
+          "average": 27.44,
+          "updated": "2026-10-23"
+        },
+        "2": {
           "low": 22,
           "high": 30,
           "count": 15,
           "median": 28,
           "average": 27.4,
-          "updated": "2026-10-16"
-        },
-        "2": {
-          "low": 22,
-          "high": 30,
-          "count": 14,
-          "median": 28,
-          "average": 27.43,
-          "updated": "2026-10-16"
+          "updated": "2026-10-23"
         },
         "3": {
           "low": 22,
@@ -901,7 +902,7 @@
           "count": 13,
           "median": 28,
           "average": 27.23,
-          "updated": "2026-10-16"
+          "updated": "2026-10-23"
         },
         "4": {
           "low": 22,
@@ -909,7 +910,7 @@
           "count": 10,
           "median": 28,
           "average": 27.1,
-          "updated": "2026-10-16"
+          "updated": "2026-10-23"
         },
         "5": {
           "count": 0,
@@ -931,16 +932,66 @@
           "t": "2026-09-01"
         },
         {
-          "c": 17.95,
+          "c": 16.76,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 29,
+        "pt_old": null,
+        "firm": "Mizuho Securities",
+        "analyst": "Nick Setyan",
+        "slug": "nick-setyan",
+        "date": "2026-10-23",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 53.8,
+          "stars": 4.7,
+          "total": 489,
+          "avg_return": 11.5,
+          "return_pct": null,
+          "analyst_rank": 638,
+          "success_rate": 53.8,
+          "stock_avg_return": -22,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12537
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 28,
+        "pt_old": null,
+        "firm": "BTIG",
+        "analyst": "Peter Saleh",
+        "slug": "peter-saleh",
+        "date": "2026-10-20",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "09:55:57",
+        "scores": {
+          "score": 59.8,
+          "stars": 4.7,
+          "total": 458,
+          "avg_return": 9.3,
+          "return_pct": null,
+          "analyst_rank": 690,
+          "success_rate": 59.8,
+          "stock_avg_return": -15.3,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12537
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 26,
@@ -951,18 +1002,18 @@
         "date": "2026-10-16",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "11:05:07",
+        "time": "11:06:06",
         "scores": {
-          "score": 50.4,
-          "stars": 4.2,
-          "total": 423,
-          "avg_return": 5.9,
+          "score": 49.3,
+          "stars": 4.1,
+          "total": 430,
+          "avg_return": 5.5,
           "return_pct": null,
-          "analyst_rank": 1961,
-          "success_rate": 50.4,
-          "stock_avg_return": -22.1,
+          "analyst_rank": 2137,
+          "success_rate": 49.3,
+          "stock_avg_return": -13.1,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12522
+          "number_of_ranked_experts": 12537
         },
         "curr": "USD"
       },
@@ -978,91 +1029,41 @@
         "rating_old": "",
         "time": "09:45:34",
         "scores": {
-          "score": 43.5,
+          "score": 47.3,
           "stars": 0.4,
-          "total": 237,
+          "total": 239,
           "avg_return": -3.7,
           "return_pct": null,
-          "analyst_rank": 11481,
-          "success_rate": 43.5,
-          "stock_avg_return": -19.2,
+          "analyst_rank": 11450,
+          "success_rate": 47.3,
+          "stock_avg_return": -15.8,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12522
+          "number_of_ranked_experts": 12537
         },
         "curr": "USD"
       },
       {
         "action_rt": "Maintains",
-        "pt_now": 22,
-        "pt_old": 26,
-        "firm": "TD Cowen",
-        "analyst": "Andrew Charles",
-        "slug": "andrew-charles",
-        "date": "2026-10-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:55:46",
-        "scores": {
-          "score": 47,
-          "stars": 4,
-          "total": 472,
-          "avg_return": 4.9,
-          "return_pct": null,
-          "analyst_rank": 2403,
-          "success_rate": 47,
-          "stock_avg_return": -9.5,
-          "stock_success_rate": 33.3,
-          "number_of_ranked_experts": 12522
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 24,
-        "pt_old": 26,
-        "firm": "J.P. Morgan",
-        "analyst": "John Ivankoe",
-        "slug": "john-ivankoe",
-        "date": "2026-09-29",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:21:06",
-        "scores": {
-          "score": 61.6,
-          "stars": 4.7,
-          "total": 391,
-          "avg_return": 10.1,
-          "return_pct": null,
-          "analyst_rank": 650,
-          "success_rate": 61.6,
-          "stock_avg_return": -19.2,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12522
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 29,
+        "pt_now": 28,
         "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Sara Senatore",
-        "slug": "sara-senatore",
-        "date": "2026-09-12",
+        "firm": "UBS",
+        "analyst": "Dennis Geiger",
+        "slug": "dennis-geiger",
+        "date": "2026-10-16",
         "rating_new": "Buy",
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 45.6,
-          "stars": 0.6,
-          "total": 432,
-          "avg_return": -1.8,
+          "score": 48.6,
+          "stars": 1,
+          "total": 255,
+          "avg_return": -1.2,
           "return_pct": null,
-          "analyst_rank": 10939,
-          "success_rate": 45.6,
-          "stock_avg_return": -18.8,
+          "analyst_rank": 10100,
+          "success_rate": 48.6,
+          "stock_avg_return": -15.1,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12522
+          "number_of_ranked_experts": 12537
         },
         "curr": "USD"
       }
@@ -1290,13 +1291,13 @@
           0.85714
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null
@@ -2045,13 +2046,13 @@
           null
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null
@@ -2547,13 +2548,13 @@
           null
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null
@@ -2743,13 +2744,13 @@
           31000000
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null
@@ -3149,13 +3150,13 @@
           31000000
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null
@@ -3261,13 +3262,13 @@
           0.85714
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null
@@ -3387,14 +3388,14 @@
           3
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null,
@@ -3499,13 +3500,13 @@
           0.85714
         ],
         "marketcap": [
-          5711871959,
+          5333201896,
           null,
           null,
           null
         ],
         "ev": [
-          7576871959,
+          7198201896,
           null,
           null,
           null

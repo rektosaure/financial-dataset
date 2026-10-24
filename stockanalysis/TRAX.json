@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "1,231,284,850",
-      "enterpriseValue": "1,067,599,850"
+      "marketcap": "1,573,943,634",
+      "enterpriseValue": "1,410,258,634"
     },
     "dates": {
       "earningsdate": "Nov 12, 2026",
@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "0.317%",
       "sharesInsiders": "1.838%",
-      "sharesInstitutions": "77.783%",
+      "sharesInstitutions": "77.649%",
       "float": "26,150,282"
     },
     "ratios": {
@@ -51,8 +51,8 @@
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
-      "pb": "7.556",
-      "ptbvRatio": "7.392",
+      "pb": "9.236",
+      "ptbvRatio": "9.325",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
@@ -79,7 +79,7 @@
       "roce": "-99.346%",
       "wacc": "n/a",
       "revPerEmployee": "n/a",
-      "profitPerEmployee": "-1,541,385",
+      "profitPerEmployee": "n/a",
       "employees": "104",
       "assetturnover": "n/a",
       "inventoryturnover": "n/a"
@@ -91,10 +91,10 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "39.251",
+      "sma50": "38.799",
       "sma200": "n/a",
-      "rsi": "47.152",
-      "averageVolume": "1,141,954"
+      "rsi": "66.157",
+      "averageVolume": "1,226,475"
     },
     "shortSelling": {
       "shortInterest": "5,190,809",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "-12.848%",
-      "fcfYield": "-9.923%"
+      "earningsYield": "-10.283%",
+      "fcfYield": "-7.867%"
     },
     "analystForecasts": {
       "priceTarget": "$74.17",
-      "priceTargetChange": "115.24%",
+      "priceTargetChange": "68.38%",
       "analystRatings": "Strong Buy",
       "analystCount": "12",
       "revenue3y": "n/a",
@@ -734,7 +734,8 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "normalized"
     },
     "estimatesCharts": {
       "eps": {
@@ -873,7 +874,7 @@
       "count": 10,
       "median": 70,
       "average": 74.2,
-      "updated": "2026-10-16",
+      "updated": "2026-10-20",
       "filtered": {
         "1": {
           "low": 60,
@@ -881,7 +882,7 @@
           "count": 9,
           "median": 70,
           "average": 76.11,
-          "updated": "2026-10-16"
+          "updated": "2026-10-20"
         },
         "2": {
           "low": 60,
@@ -889,7 +890,7 @@
           "count": 9,
           "median": 70,
           "average": 76.11,
-          "updated": "2026-10-16"
+          "updated": "2026-10-20"
         },
         "3": {
           "low": 60,
@@ -897,7 +898,7 @@
           "count": 8,
           "median": 70,
           "average": 77.5,
-          "updated": "2026-10-16"
+          "updated": "2026-10-20"
         },
         "4": {
           "low": 60,
@@ -905,7 +906,7 @@
           "count": 8,
           "median": 70,
           "average": 77.5,
-          "updated": "2026-10-16"
+          "updated": "2026-10-20"
         },
         "5": {
           "low": 60,
@@ -913,7 +914,7 @@
           "count": 7,
           "median": 70,
           "average": 78.57,
-          "updated": "2026-10-16"
+          "updated": "2026-10-20"
         }
       },
       "currency": "USD",
@@ -943,16 +944,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 34.37,
+          "c": 44.05,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Maintains",
+        "pt_now": 95,
+        "pt_old": null,
+        "firm": "Piper Sandler",
+        "analyst": "Yasmeen Rahimi",
+        "slug": "yasmeen-rahimi",
+        "date": "2026-10-20",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 39,
+          "stars": 4.8,
+          "total": 490,
+          "avg_return": 23.8,
+          "return_pct": null,
+          "analyst_rank": 400,
+          "success_rate": 39,
+          "stock_avg_return": 19.1,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12520
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Reiterates",
         "pt_now": 90,
@@ -960,21 +986,21 @@
         "firm": "Leerink Partners",
         "analyst": "David Risinger",
         "slug": "david-risinger",
-        "date": "2026-10-16",
+        "date": "2026-10-19",
         "rating_new": "Buy",
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 64.6,
+          "score": 64.5,
           "stars": 5,
-          "total": 489,
-          "avg_return": 32,
+          "total": 488,
+          "avg_return": 32.1,
           "return_pct": null,
           "analyst_rank": 42,
-          "success_rate": 64.6,
-          "stock_avg_return": 55.8,
+          "success_rate": 64.5,
+          "stock_avg_return": 56.8,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12522
+          "number_of_ranked_experts": 12520
         },
         "curr": "USD"
       },
@@ -990,16 +1016,16 @@
         "rating_old": "",
         "time": "13:26:02",
         "scores": {
-          "score": 46,
+          "score": 42,
           "stars": 4.7,
           "total": 50,
-          "avg_return": 39.9,
+          "avg_return": 38.4,
           "return_pct": null,
-          "analyst_rank": 751,
-          "success_rate": 46,
-          "stock_avg_return": 39.3,
+          "analyst_rank": 848,
+          "success_rate": 42,
+          "stock_avg_return": 40.2,
           "stock_success_rate": 60,
-          "number_of_ranked_experts": 12522
+          "number_of_ranked_experts": 12520
         },
         "curr": "USD"
       },
@@ -1018,13 +1044,13 @@
           "score": 48,
           "stars": 4.9,
           "total": 490,
-          "avg_return": 20.6,
+          "avg_return": 20.8,
           "return_pct": null,
-          "analyst_rank": 362,
+          "analyst_rank": 348,
           "success_rate": 48,
-          "stock_avg_return": 39.1,
+          "stock_avg_return": 40,
           "stock_success_rate": 80,
-          "number_of_ranked_experts": 12522
+          "number_of_ranked_experts": 12520
         }
       },
       {
@@ -1039,41 +1065,16 @@
         "rating_old": "",
         "time": "12:37:09",
         "scores": {
-          "score": 57.7,
+          "score": 56.8,
           "stars": 4.9,
-          "total": 182,
-          "avg_return": 31.3,
+          "total": 183,
+          "avg_return": 30.1,
           "return_pct": null,
-          "analyst_rank": 313,
-          "success_rate": 57.7,
-          "stock_avg_return": 3.6,
+          "analyst_rank": 328,
+          "success_rate": 56.8,
+          "stock_avg_return": 4.2,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12522
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 60,
-        "pt_old": 50,
-        "firm": "Canaccord Genuity",
-        "analyst": "Edward Nash",
-        "slug": "edward-nash",
-        "date": "2026-10-13",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "11:35:44",
-        "scores": {
-          "score": 49.7,
-          "stars": 4.9,
-          "total": 459,
-          "avg_return": 26,
-          "return_pct": null,
-          "analyst_rank": 235,
-          "success_rate": 49.7,
-          "stock_avg_return": 7.4,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12522
+          "number_of_ranked_experts": 12520
         },
         "curr": "USD"
       }
@@ -2540,35 +2541,35 @@
           "Q1"
         ],
         "marketcap": [
-          1231284850,
+          1573943634,
           702034706,
           null,
           null,
           null
         ],
         "ev": [
-          1067599850,
+          1410258634,
           415579705,
           null,
           null,
           null
         ],
         "lastCloseRatios": [
-          36.04,
+          44.05,
           20.12,
           null,
           null,
           null
         ],
         "pb": [
-          7.55634,
+          9.23576,
           4.159,
           null,
           null,
           null
         ],
         "ptbvRatio": [
-          7.39189,
+          9.32453,
           4.159,
           null,
           null,
@@ -2638,14 +2639,14 @@
           null
         ],
         "earningsyield": [
-          -0.1284774,
+          -0.10282759999999999,
           -0.24714,
           null,
           null,
           null
         ],
         "fcfyield": [
-          -0.0992345,
+          -0.0786667,
           -0.21115,
           null,
           null,

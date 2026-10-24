@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "1,509,357,523",
-      "enterpriseValue": "1,387,101,523"
+      "marketcap": "1,750,169,026",
+      "enterpriseValue": "1,627,913,026"
     },
     "dates": {
       "earningsdate": "Nov 19, 2026",
@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "7.851%",
       "sharesInsiders": "14.882%",
-      "sharesInstitutions": "0.271%",
+      "sharesInstitutions": "1.865%",
       "float": "12,721,752"
     },
     "ratios": {
@@ -51,7 +51,7 @@
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
-      "pb": "12.986",
+      "pb": "14.881",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
       "pocf": "n/a",
@@ -91,10 +91,10 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "24.736",
+      "sma50": "24.112",
       "sma200": "n/a",
-      "rsi": "36.266",
-      "averageVolume": "540,769"
+      "rsi": "49.000",
+      "averageVolume": "413,905"
     },
     "shortSelling": {
       "shortInterest": "4,128,974",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "-6.446%",
-      "fcfYield": "-1.583%"
+      "earningsYield": "-68.491%",
+      "fcfYield": "-1.381%"
     },
     "analystForecasts": {
       "priceTarget": "$45.25",
-      "priceTargetChange": "144.73%",
+      "priceTargetChange": "111.05%",
       "analystRatings": "Strong Buy",
       "analystCount": "5",
       "revenue3y": "n/a",
@@ -180,13 +180,13 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": null,
-            "this": null,
+            "last": -0.898,
+            "this": -1.356,
             "growth": null
           },
           "epsThis": {
-            "last": null,
-            "this": null,
+            "last": -17.200311,
+            "this": -0.898,
             "growth": null
           },
           "revenueNext": {
@@ -203,12 +203,12 @@
         "quarterly": {
           "epsNext": {
             "last": null,
-            "this": null,
+            "this": -0.43,
             "growth": null
           },
           "epsThis": {
             "last": null,
-            "this": null,
+            "this": -0.326,
             "growth": null
           },
           "revenueNext": {
@@ -608,15 +608,16 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "gaap"
     },
     "estimatesCharts": {
       "eps": {
         "2026-12-31": {
-          "no": null,
-          "avg": null,
-          "low": null,
-          "high": null
+          "no": 5,
+          "avg": -0.898,
+          "low": -1.44,
+          "high": -0.35
         },
         "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
@@ -632,11 +633,12 @@
         "2028-12-31": "[PRO]"
       },
       "epsGrowth": {
-        "2027-12-31": {
+        "2026-12-31": {
           "avg": 0,
           "low": null,
           "high": null
         },
+        "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
       },
       "revenueGrowth": {
@@ -682,7 +684,7 @@
       "count": 4,
       "median": 48,
       "average": 45.25,
-      "updated": "2026-10-01",
+      "updated": "2026-10-20",
       "filtered": {
         "1": {
           "low": 48,
@@ -732,16 +734,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 18.71,
+          "c": 21.44,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 40,
+        "pt_old": null,
+        "firm": "Cantor Fitzgerald",
+        "analyst": "Olivia Brayer",
+        "slug": "olivia-brayer",
+        "date": "2026-10-20",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 33.3,
+          "stars": 0.2,
+          "total": 90,
+          "avg_return": -9.2,
+          "return_pct": null,
+          "analyst_rank": 11896,
+          "success_rate": 33.3,
+          "stock_avg_return": -24.6,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12520
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 45,
@@ -754,14 +781,14 @@
         "rating_old": "",
         "time": "14:26:37",
         "scores": {
-          "score": 29.6,
+          "score": 27.8,
           "stars": 0.5,
           "total": 54,
-          "avg_return": -7,
+          "avg_return": -6.5,
           "return_pct": null,
-          "analyst_rank": 11326,
-          "success_rate": 29.6,
-          "stock_avg_return": -20.4,
+          "analyst_rank": 11250,
+          "success_rate": 27.8,
+          "stock_avg_return": -21,
           "stock_success_rate": 0,
           "number_of_ranked_experts": 12520
         },
@@ -782,36 +809,11 @@
           "score": 47.9,
           "stars": 4.5,
           "total": 390,
-          "avg_return": 9.9,
+          "avg_return": 10.1,
           "return_pct": null,
-          "analyst_rank": 1187,
+          "analyst_rank": 1151,
           "success_rate": 47.9,
-          "stock_avg_return": -29.2,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12520
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 40,
-        "pt_old": null,
-        "firm": "Cantor Fitzgerald",
-        "analyst": "Olivia Brayer",
-        "slug": "olivia-brayer",
-        "date": "2026-08-31",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "10:15:56",
-        "scores": {
-          "score": 30,
-          "stars": 0.3,
-          "total": 90,
-          "avg_return": -8.9,
-          "return_pct": null,
-          "analyst_rank": 11882,
-          "success_rate": 30,
-          "stock_avg_return": -24.1,
+          "stock_avg_return": -29.6,
           "stock_success_rate": 0,
           "number_of_ranked_experts": 12520
         },
@@ -829,14 +831,14 @@
         "rating_old": "",
         "time": "09:50:21",
         "scores": {
-          "score": 55.6,
+          "score": 56.9,
           "stars": 5,
           "total": 489,
-          "avg_return": 34,
+          "avg_return": 34.6,
           "return_pct": null,
-          "analyst_rank": 85,
-          "success_rate": 55.6,
-          "stock_avg_return": -24.1,
+          "analyst_rank": 70,
+          "success_rate": 56.9,
+          "stock_avg_return": -24.6,
           "stock_success_rate": 0,
           "number_of_ranked_experts": 12520
         }
@@ -964,11 +966,11 @@
           -4505000
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null
         ]
       },
@@ -1339,11 +1341,11 @@
           84038000
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null
         ]
       },
@@ -1671,11 +1673,11 @@
           84038000
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null
         ]
       }
@@ -1743,11 +1745,11 @@
           1618000
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null
         ]
       },
@@ -1947,11 +1949,11 @@
           1618000
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null
         ]
       }
@@ -1987,11 +1989,11 @@
           -0.054
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null
         ]
       },
@@ -2081,14 +2083,14 @@
           null
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null,
           null,
           null,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null,
           null,
           null,
@@ -2125,11 +2127,11 @@
           -0.054
         ],
         "marketcap": [
-          1509357523,
+          1750169026,
           null
         ],
         "ev": [
-          1387101523,
+          1627913026,
           null
         ]
       }

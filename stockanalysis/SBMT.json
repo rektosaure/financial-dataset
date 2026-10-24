@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "217,329,760",
-      "enterpriseValue": "161,601,460"
+      "marketcap": "192,525,820",
+      "enterpriseValue": "136,797,520"
     },
     "dates": {
       "earningsdate": "Nov 5, 2026",
@@ -51,8 +51,8 @@
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
-      "pb": "2.255",
-      "ptbvRatio": "2.307",
+      "pb": "1.992",
+      "ptbvRatio": "1.992",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
@@ -91,10 +91,10 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "8.044",
+      "sma50": "7.981",
       "sma200": "n/a",
-      "rsi": "41.872",
-      "averageVolume": "106,609"
+      "rsi": "32.732",
+      "averageVolume": "119,187"
     },
     "shortSelling": {
       "shortInterest": "207,657",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-39.694%",
       "totalReturn": "-39.694%",
-      "earningsYield": "-11.501%",
-      "fcfYield": "-4.945%"
+      "earningsYield": "-18.001%",
+      "fcfYield": "-5.727%"
     },
     "analystForecasts": {
       "priceTarget": "$20.13",
-      "priceTargetChange": "173.51%",
+      "priceTargetChange": "208.74%",
       "analystRatings": "Strong Buy",
       "analystCount": "3",
       "revenue3y": "n/a",
@@ -180,13 +180,13 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": null,
-            "this": null,
+            "last": -0.625,
+            "this": -0.66,
             "growth": null
           },
           "epsThis": {
-            "last": null,
-            "this": null,
+            "last": -1.448752,
+            "this": -0.625,
             "growth": null
           },
           "revenueNext": {
@@ -202,13 +202,13 @@
         },
         "quarterly": {
           "epsNext": {
-            "last": null,
-            "this": null,
+            "last": -0.801073,
+            "this": -0.2,
             "growth": null
           },
           "epsThis": {
-            "last": null,
-            "this": null,
+            "last": -0.074141,
+            "this": -0.21,
             "growth": null
           },
           "revenueNext": {
@@ -755,15 +755,16 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "gaap"
     },
     "estimatesCharts": {
       "eps": {
         "2026-12-31": {
-          "no": null,
-          "avg": null,
-          "low": null,
-          "high": null
+          "no": 2,
+          "avg": -0.625,
+          "low": -0.73,
+          "high": -0.52
         },
         "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
@@ -779,11 +780,12 @@
         "2028-12-31": "[PRO]"
       },
       "epsGrowth": {
-        "2027-12-31": {
+        "2026-12-31": {
           "avg": 0,
           "low": null,
           "high": null
         },
+        "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
       },
       "revenueGrowth": {
@@ -846,10 +848,10 @@
       "filtered": {
         "1": {
           "low": 15,
-          "high": 19.8,
-          "count": 2,
-          "median": 19.8,
-          "average": 17.4,
+          "high": 15,
+          "count": 1,
+          "median": 15,
+          "average": 15,
           "updated": "2026-10-01"
         },
         "2": {
@@ -908,12 +910,12 @@
           "t": "2026-09-01"
         },
         {
-          "c": 7.47,
+          "c": 6.52,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
@@ -930,16 +932,16 @@
         "rating_old": "",
         "time": "04:35:49",
         "scores": {
-          "score": 42.6,
+          "score": 42.9,
           "stars": 4.7,
-          "total": 162,
-          "avg_return": 23.7,
+          "total": 163,
+          "avg_return": 24.3,
           "return_pct": null,
-          "analyst_rank": 695,
-          "success_rate": 42.6,
-          "stock_avg_return": -15.1,
+          "analyst_rank": 678,
+          "success_rate": 42.9,
+          "stock_avg_return": -26.2,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12520
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       },
@@ -956,15 +958,15 @@
         "time": "00:45:38",
         "scores": {
           "score": 28.1,
-          "stars": 1,
+          "stars": 0.9,
           "total": 32,
-          "avg_return": -3.3,
+          "avg_return": -3.5,
           "return_pct": null,
-          "analyst_rank": 10050,
+          "analyst_rank": 10194,
           "success_rate": 28.1,
-          "stock_avg_return": -17.8,
+          "stock_avg_return": -28.5,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12520
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       }
@@ -1144,13 +1146,13 @@
           null
         ],
         "marketcap": [
-          217329760,
+          192525820,
           null,
           null,
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           null,
           null,
           null
@@ -1974,13 +1976,13 @@
           37836
         ],
         "marketcap": [
-          217329760,
+          192525820,
           null,
           null,
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           null,
           null,
           null
@@ -2674,13 +2676,13 @@
           37836
         ],
         "marketcap": [
-          217329760,
+          192525820,
           null,
           null,
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           null,
           null,
           null
@@ -2864,13 +2866,13 @@
           259500.99999999997
         ],
         "marketcap": [
-          217329760,
+          192525820,
           null,
           null,
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           null,
           null,
           null
@@ -3378,13 +3380,13 @@
           259500.99999999997
         ],
         "marketcap": [
-          217329760,
+          192525820,
           null,
           null,
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           null,
           null,
           null
@@ -3472,13 +3474,13 @@
           null
         ],
         "marketcap": [
-          217329760,
+          192525820,
           null,
           null,
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           null,
           null,
           null
@@ -3525,7 +3527,7 @@
           "Q1"
         ],
         "marketcap": [
-          217329760,
+          192525820,
           199612660,
           null,
           null,
@@ -3538,7 +3540,7 @@
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           192092740,
           null,
           null,
@@ -3551,7 +3553,7 @@
           null
         ],
         "lastCloseRatios": [
-          7.38,
+          6.52,
           6.76,
           null,
           null,
@@ -3564,7 +3566,7 @@
           null
         ],
         "pb": [
-          2.25471,
+          1.99197,
           2.065,
           null,
           null,
@@ -3577,7 +3579,7 @@
           null
         ],
         "ptbvRatio": [
-          2.30665,
+          1.99197,
           2.065,
           null,
           null,
@@ -3720,7 +3722,7 @@
           null
         ],
         "earningsyield": [
-          -0.1150147,
+          -0.1800072,
           -0.05256,
           null,
           null,
@@ -3733,7 +3735,7 @@
           null
         ],
         "fcfyield": [
-          -0.049454399999999996,
+          -0.057266899999999996,
           -0.05515,
           null,
           null,
@@ -3839,13 +3841,13 @@
           null
         ],
         "marketcap": [
-          217329760,
+          192525820,
           null,
           null,
           null
         ],
         "ev": [
-          161601460,
+          136797520,
           null,
           null,
           null

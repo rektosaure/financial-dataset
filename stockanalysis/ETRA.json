@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "549,210,856",
-      "enterpriseValue": "453,468,856"
+      "marketcap": "546,700,178",
+      "enterpriseValue": "450,958,178"
     },
     "dates": {
       "earningsdate": "Nov 22, 2026",
@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "n/a",
       "sharesInsiders": "1.371%",
-      "sharesInstitutions": "0.204%",
+      "sharesInstitutions": "1.290%",
       "float": "29,910,272"
     },
     "ratios": {
@@ -51,7 +51,7 @@
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
-      "pb": "6.120",
+      "pb": "5.961",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
       "pocf": "n/a",
@@ -93,8 +93,8 @@
       "ch1y": "n/a",
       "sma50": "n/a",
       "sma200": "n/a",
-      "rsi": "21.224",
-      "averageVolume": "607,447"
+      "rsi": "27.344",
+      "averageVolume": "513,505"
     },
     "shortSelling": {
       "shortInterest": "702,266",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "-16.961%",
-      "fcfYield": "-13.419%"
+      "earningsYield": "-24,841.092%",
+      "fcfYield": "-13.777%"
     },
     "analystForecasts": {
       "priceTarget": "$33.33",
-      "priceTargetChange": "280.91%",
+      "priceTargetChange": "282.66%",
       "analystRatings": "Strong Buy",
       "analystCount": "4",
       "revenue3y": "n/a",
@@ -180,13 +180,13 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": null,
-            "this": null,
+            "last": -2.43,
+            "this": -2.0575,
             "growth": null
           },
           "epsThis": {
-            "last": null,
-            "this": null,
+            "last": -1408.522727,
+            "this": -2.43,
             "growth": null
           },
           "revenueNext": {
@@ -203,12 +203,12 @@
         "quarterly": {
           "epsNext": {
             "last": null,
-            "this": null,
+            "this": -0.48667,
             "growth": null
           },
           "epsThis": {
             "last": null,
-            "this": null,
+            "this": -0.43667,
             "growth": null
           },
           "revenueNext": {
@@ -629,15 +629,16 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "gaap"
     },
     "estimatesCharts": {
       "eps": {
         "2026-12-31": {
-          "no": null,
-          "avg": null,
-          "low": null,
-          "high": null
+          "no": 3,
+          "avg": -2.43,
+          "low": -2.92,
+          "high": -1.92
         },
         "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
@@ -653,11 +654,12 @@
         "2028-12-31": "[PRO]"
       },
       "epsGrowth": {
-        "2027-12-31": {
+        "2026-12-31": {
           "avg": 0,
           "low": null,
           "high": null
         },
+        "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
       },
       "revenueGrowth": {
@@ -685,28 +687,52 @@
       }
     ],
     "targets": {
-      "count": 0,
-      "updated": "",
+      "low": 9.32,
+      "high": 36,
+      "count": 3,
+      "median": 32,
+      "average": 25.77,
+      "updated": "2026-10-13",
       "filtered": {
         "1": {
-          "count": 0,
-          "updated": ""
+          "low": 9.32,
+          "high": 36,
+          "count": 3,
+          "median": 32,
+          "average": 25.77,
+          "updated": "2026-10-13"
         },
         "2": {
-          "count": 0,
-          "updated": ""
+          "low": 9.32,
+          "high": 36,
+          "count": 3,
+          "median": 32,
+          "average": 25.77,
+          "updated": "2026-10-13"
         },
         "3": {
-          "count": 0,
-          "updated": ""
+          "low": 9.32,
+          "high": 36,
+          "count": 3,
+          "median": 32,
+          "average": 25.77,
+          "updated": "2026-10-13"
         },
         "4": {
-          "count": 0,
-          "updated": ""
+          "low": 9.32,
+          "high": 36,
+          "count": 3,
+          "median": 32,
+          "average": 25.77,
+          "updated": "2026-10-13"
         },
         "5": {
-          "count": 0,
-          "updated": ""
+          "low": 9.32,
+          "high": 36,
+          "count": 2,
+          "median": 36,
+          "average": 22.66,
+          "updated": "2026-10-13"
         }
       },
       "currency": "USD",
@@ -716,16 +742,41 @@
           "t": "2026-09-01"
         },
         {
-          "c": 8.8,
+          "c": 8.71,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Initiates",
+        "pt_now": 32,
+        "pt_old": null,
+        "firm": "Jefferies",
+        "analyst": "Akash Tewari",
+        "slug": "akash-tewari",
+        "date": "2026-10-13",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:45:35",
+        "scores": {
+          "score": 55.1,
+          "stars": 4.7,
+          "total": 390,
+          "avg_return": 11.6,
+          "return_pct": null,
+          "analyst_rank": 703,
+          "success_rate": 55.1,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12521
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Initiates",
         "pt_now": null,
@@ -736,23 +787,48 @@
         "date": "2026-10-13",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "10:30:13",
+        "time": "10:31:03",
         "scores": {
-          "score": 45.5,
+          "score": 42.2,
           "stars": 4.9,
-          "total": 44,
-          "avg_return": 77.5,
+          "total": 45,
+          "avg_return": 74.9,
           "return_pct": null,
-          "analyst_rank": 363,
-          "success_rate": 45.5,
+          "analyst_rank": 346,
+          "success_rate": 42.2,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12521
         }
       },
       {
         "action_rt": "Initiates",
-        "pt_now": null,
+        "pt_now": 36,
+        "pt_old": null,
+        "firm": "Evercore ISI",
+        "analyst": "Cory Kasimov",
+        "slug": "cory-kasimov",
+        "date": "2026-10-13",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "10:27:37",
+        "scores": {
+          "score": 55.8,
+          "stars": 4.9,
+          "total": 491,
+          "avg_return": 17.8,
+          "return_pct": null,
+          "analyst_rank": 309,
+          "success_rate": 55.8,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12521
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Initiates",
+        "pt_now": 9.32,
         "pt_old": null,
         "firm": "TD Cowen",
         "analyst": "Tyler Van Buren",
@@ -762,17 +838,18 @@
         "rating_old": "",
         "time": "09:40:27",
         "scores": {
-          "score": 56.3,
+          "score": 56.9,
           "stars": 5,
-          "total": 494,
-          "avg_return": 34.7,
+          "total": 489,
+          "avg_return": 34.6,
           "return_pct": null,
-          "analyst_rank": 90,
-          "success_rate": 56.3,
+          "analyst_rank": 70,
+          "success_rate": 56.9,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
-        }
+          "number_of_ranked_experts": 12521
+        },
+        "curr": "USD"
       }
     ],
     "priceTargets": {
@@ -910,12 +987,12 @@
           -26317000
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null
         ]
@@ -1379,12 +1456,12 @@
           15225000
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null
         ]
@@ -1784,12 +1861,12 @@
           15225000
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null
         ]
@@ -1933,12 +2010,12 @@
           -2804000
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null
         ]
@@ -2238,12 +2315,12 @@
           -2804000
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null
         ]
@@ -2312,12 +2389,12 @@
           -1.729
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null
         ]
@@ -2408,14 +2485,14 @@
           null
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null,
           null,
@@ -2484,12 +2561,12 @@
           -1.729
         ],
         "marketcap": [
-          549210856,
+          546700178,
           null,
           null
         ],
         "ev": [
-          453468856,
+          450958178,
           null,
           null
         ]

@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "4,209,952,879",
-      "enterpriseValue": "2,601,589,879"
+      "marketcap": "4,307,480,745",
+      "enterpriseValue": "2,699,117,745"
     },
     "dates": {
       "earningsdate": "Nov 29, 2026",
@@ -43,23 +43,23 @@
       "sharesgrowthyoy": "1,581.715%",
       "sharesgrowthqoq": "n/a",
       "sharesInsiders": "11.063%",
-      "sharesInstitutions": "36.069%",
+      "sharesInstitutions": "37.059%",
       "float": "174,123,094"
     },
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "27.609",
-      "psForward": "7.626",
-      "pb": "1.813",
-      "ptbvRatio": "2.286",
+      "ps": "28.664",
+      "psForward": "7.917",
+      "pb": "1.679",
+      "ptbvRatio": "2.374",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "16.91",
+      "evSales": "17.96",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -91,10 +91,10 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "16.646",
+      "sma50": "15.577",
       "sma200": "n/a",
-      "rsi": "25.069",
-      "averageVolume": "5,743,342"
+      "rsi": "29.077",
+      "averageVolume": "6,390,533"
     },
     "shortSelling": {
       "shortInterest": "25,121,261",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-1,581.715%",
       "totalReturn": "-1,581.715%",
-      "earningsYield": "-10.819%",
-      "fcfYield": "-10.617%"
+      "earningsYield": "-14.735%",
+      "fcfYield": "-10.226%"
     },
     "analystForecasts": {
       "priceTarget": "$33.50",
-      "priceTargetChange": "223.36%",
+      "priceTargetChange": "216.04%",
       "analystRatings": "Buy",
       "analystCount": "9",
       "revenue3y": "135.81%",
@@ -755,7 +755,8 @@
             "[PRO]"
           ]
         }
-      }
+      },
+      "epsBasis": "normalized"
     },
     "estimatesCharts": {
       "eps": {
@@ -877,44 +878,44 @@
       }
     ],
     "targets": {
-      "low": 9,
+      "low": 8,
       "high": 57,
       "count": 9,
       "median": 34,
-      "average": 32.78,
-      "updated": "2026-10-14",
+      "average": 30.89,
+      "updated": "2026-10-21",
       "filtered": {
         "1": {
-          "low": 28,
+          "low": 18,
           "high": 57,
           "count": 6,
           "median": 35,
-          "average": 37.67,
-          "updated": "2026-10-14"
+          "average": 35,
+          "updated": "2026-10-21"
         },
         "2": {
-          "low": 28,
+          "low": 18,
           "high": 57,
           "count": 6,
           "median": 35,
-          "average": 37.67,
-          "updated": "2026-10-14"
+          "average": 35,
+          "updated": "2026-10-21"
         },
         "3": {
-          "low": 28,
+          "low": 18,
           "high": 57,
           "count": 6,
           "median": 35,
-          "average": 37.67,
-          "updated": "2026-10-14"
+          "average": 35,
+          "updated": "2026-10-21"
         },
         "4": {
-          "low": 28,
+          "low": 18,
           "high": 57,
           "count": 6,
           "median": 35,
-          "average": 37.67,
-          "updated": "2026-10-14"
+          "average": 35,
+          "updated": "2026-10-21"
         },
         "5": {
           "low": 34,
@@ -952,18 +953,68 @@
           "t": "2026-09-01"
         },
         {
-          "c": 10.245,
+          "c": 10.6,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-16"
+          "t": "2027-10-23"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Maintains",
+        "action_rt": "Reiterates",
+        "pt_now": 18,
+        "pt_old": 34,
+        "firm": "UBS",
+        "analyst": "Jon Windham",
+        "slug": "jon-windham",
+        "date": "2026-10-21",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "13:02:37",
+        "scores": {
+          "score": 49.2,
+          "stars": 4.1,
+          "total": 321,
+          "avg_return": 5.9,
+          "return_pct": null,
+          "analyst_rank": 2321,
+          "success_rate": 49.2,
+          "stock_avg_return": -51,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12531
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 8,
+        "pt_old": 9,
+        "firm": "Piper Sandler",
+        "analyst": "Dimple Gosai",
+        "slug": "",
+        "date": "2026-10-19",
+        "rating_new": "Sell",
+        "rating_old": "",
+        "time": "11:17:01",
+        "scores": {
+          "score": 48.4,
+          "stars": 0,
+          "total": 124,
+          "avg_return": -35.7,
+          "return_pct": null,
+          "analyst_rank": 12447,
+          "success_rate": 48.4,
+          "stock_avg_return": 18,
+          "stock_success_rate": 50,
+          "number_of_ranked_experts": 12531
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Reiterates",
         "pt_now": 34,
         "pt_old": 41,
         "firm": "Morgan Stanley",
@@ -972,18 +1023,18 @@
         "date": "2026-10-14",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "12:10:33",
+        "time": "12:12:31",
         "scores": {
-          "score": 61.6,
+          "score": 58,
           "stars": 4.8,
-          "total": 503,
-          "avg_return": 11.7,
+          "total": 510,
+          "avg_return": 10,
           "return_pct": null,
-          "analyst_rank": 435,
-          "success_rate": 61.6,
-          "stock_avg_return": -36,
+          "analyst_rank": 618,
+          "success_rate": 58,
+          "stock_avg_return": -39.5,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       },
@@ -999,16 +1050,16 @@
         "rating_old": "",
         "time": "11:30:15",
         "scores": {
-          "score": 48.6,
-          "stars": 4.6,
-          "total": 333,
-          "avg_return": 12.1,
+          "score": 46.1,
+          "stars": 4.5,
+          "total": 336,
+          "avg_return": 10.2,
           "return_pct": null,
-          "analyst_rank": 1067,
-          "success_rate": 48.6,
-          "stock_avg_return": -31.1,
+          "analyst_rank": 1349,
+          "success_rate": 46.1,
+          "stock_avg_return": -43.4,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       },
@@ -1027,63 +1078,13 @@
           "score": 34.1,
           "stars": 0.4,
           "total": 41,
-          "avg_return": -8.7,
+          "avg_return": -10.2,
           "return_pct": null,
-          "analyst_rank": 11437,
+          "analyst_rank": 11618,
           "success_rate": 34.1,
-          "stock_avg_return": -16.3,
+          "stock_avg_return": -31.3,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Initiates",
-        "pt_now": 9,
-        "pt_old": null,
-        "firm": "Piper Sandler",
-        "analyst": "Dimple Gosai",
-        "slug": "",
-        "date": "2026-09-08",
-        "rating_new": "Sell",
-        "rating_old": "",
-        "time": "20:40:22",
-        "scores": {
-          "score": 51.2,
-          "stars": 0,
-          "total": 123,
-          "avg_return": -35.4,
-          "return_pct": null,
-          "analyst_rank": 12436,
-          "success_rate": 51.2,
-          "stock_avg_return": 24.2,
-          "stock_success_rate": 100,
-          "number_of_ranked_experts": 12525
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 38,
-        "pt_old": null,
-        "firm": "Cantor Fitzgerald",
-        "analyst": "Derek Soderberg",
-        "slug": "derek-soderberg",
-        "date": "2026-08-14",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "12:17:10",
-        "scores": {
-          "score": 35.7,
-          "stars": 0.4,
-          "total": 196,
-          "avg_return": -4.2,
-          "return_pct": null,
-          "analyst_rank": 11569,
-          "success_rate": 35.7,
-          "stock_avg_return": -45.7,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12525
+          "number_of_ranked_experts": 12531
         },
         "curr": "USD"
       }
@@ -1329,13 +1330,13 @@
           133042000
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           null,
           null,
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           null,
           null,
           null
@@ -2239,13 +2240,13 @@
           634000
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           null,
           null,
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           null,
           null,
           null
@@ -2905,13 +2906,13 @@
           634000
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           null,
           null,
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           null,
           null,
           null
@@ -3113,13 +3114,13 @@
           12574000
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           null,
           null,
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           null,
           null,
           null
@@ -3577,13 +3578,13 @@
           12574000
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           null,
           null,
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           null,
           null,
           null
@@ -3671,13 +3672,13 @@
           2.379
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           null,
           null,
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           null,
           null,
           null
@@ -3712,7 +3713,7 @@
           "Q4"
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           5277742356,
           null,
           null,
@@ -3721,7 +3722,7 @@
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           6968085356,
           null,
           null,
@@ -3730,7 +3731,7 @@
           null
         ],
         "lastCloseRatios": [
-          11.45,
+          10.6,
           18.36,
           null,
           null,
@@ -3739,7 +3740,7 @@
           null
         ],
         "ps": [
-          27.60937,
+          28.66399,
           37.486,
           null,
           null,
@@ -3748,7 +3749,7 @@
           null
         ],
         "pb": [
-          1.8132,
+          1.6786,
           2.518,
           null,
           null,
@@ -3757,7 +3758,7 @@
           null
         ],
         "ptbvRatio": [
-          2.28624,
+          2.37357,
           2.908,
           null,
           null,
@@ -3766,7 +3767,7 @@
           null
         ],
         "evrevenue": [
-          16.90657,
+          17.96119,
           49.492,
           null,
           null,
@@ -3865,7 +3866,7 @@
           -0.027
         ],
         "earningsyield": [
-          -0.1081871,
+          -0.14734999999999998,
           -0.02478,
           null,
           null,
@@ -3874,7 +3875,7 @@
           null
         ],
         "fcfyield": [
-          -0.1061712,
+          -0.1022649,
           -0.07774,
           null,
           null,
@@ -3972,13 +3973,13 @@
           2.379
         ],
         "marketcap": [
-          4209952879,
+          4307480745,
           null,
           null,
           null
         ],
         "ev": [
-          2601589879,
+          2699117745,
           null,
           null,
           null
