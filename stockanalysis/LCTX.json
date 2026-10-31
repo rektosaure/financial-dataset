@@ -34,7 +34,7 @@
       "enterpriseValue": "204,377,464"
     },
     "dates": {
-      "earningsdate": "Nov 5, 2026",
+      "earningsdate": "Nov 13, 2026",
       "exdivdate": "n/a"
     },
     "shares": {
@@ -43,7 +43,7 @@
       "sharesgrowthyoy": "8.729%",
       "sharesgrowthqoq": "0.113%",
       "sharesInsiders": "4.860%",
-      "sharesInstitutions": "26.756%",
+      "sharesInstitutions": "26.758%",
       "float": "191,055,129"
     },
     "ratios": {
@@ -75,7 +75,7 @@
     "financialEfficiency": {
       "roe": "-60.060%",
       "roa": "-17.035%",
-      "roic": "-413.841%",
+      "roic": "-238.285%",
       "roce": "-27.341%",
       "wacc": "12.946%",
       "revPerEmployee": "169,909",
@@ -90,18 +90,18 @@
     },
     "stockPrice": {
       "beta": "1.602",
-      "ch1y": "-37.89%",
-      "sma50": "1.022",
-      "sma200": "1.344",
-      "rsi": "52.198",
-      "averageVolume": "1,498,596"
+      "ch1y": "-41.52%",
+      "sma50": "1.016",
+      "sma200": "1.326",
+      "rsi": "50.832",
+      "averageVolume": "1,397,480"
     },
     "shortSelling": {
-      "shortInterest": "29,093,018",
-      "shortPriorMonth": "28,983,004",
-      "shortShares": "11.503%",
-      "shortFloat": "15.228%",
-      "shortRatio": "20.030"
+      "shortInterest": "25,927,289",
+      "shortPriorMonth": "29,468,651",
+      "shortShares": "10.252%",
+      "shortFloat": "13.571%",
+      "shortRatio": "15.400"
     },
     "incomeStatement": {
       "revenue": "13,083,000",
@@ -843,19 +843,6 @@
     "recommendations": [
       {
         "buy": 2,
-        "date": "2025-06-26",
-        "hold": 1,
-        "sell": 0,
-        "month": "Jun '25",
-        "score": 7.142857142857143,
-        "total": 7,
-        "updated": "2025-06-26",
-        "consensus": "Buy",
-        "strongBuy": 4,
-        "strongSell": 0
-      },
-      {
-        "buy": 2,
         "date": "2025-08-27",
         "hold": 1,
         "sell": 0,
@@ -996,6 +983,19 @@
         "consensus": "Strong Buy",
         "strongBuy": 5,
         "strongSell": 0
+      },
+      {
+        "buy": 1,
+        "date": "2026-10-29",
+        "hold": 1,
+        "sell": 0,
+        "month": "Oct '26",
+        "score": 7.857142857142857,
+        "total": 7,
+        "updated": "2026-10-29",
+        "consensus": "Strong Buy",
+        "strongBuy": 5,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -1004,7 +1004,7 @@
       "count": 4,
       "median": 9,
       "average": 6.25,
-      "updated": "2026-09-25",
+      "updated": "2026-10-29",
       "filtered": {
         "1": {
           "low": 4,
@@ -1012,7 +1012,7 @@
           "count": 2,
           "median": 9,
           "average": 6.5,
-          "updated": "2026-09-25"
+          "updated": "2026-10-29"
         },
         "2": {
           "low": 4,
@@ -1020,7 +1020,7 @@
           "count": 2,
           "median": 9,
           "average": 6.5,
-          "updated": "2026-09-25"
+          "updated": "2026-10-29"
         },
         "3": {
           "low": 4,
@@ -1028,7 +1028,7 @@
           "count": 2,
           "median": 9,
           "average": 6.5,
-          "updated": "2026-09-25"
+          "updated": "2026-10-29"
         },
         "4": {
           "low": 4,
@@ -1036,7 +1036,7 @@
           "count": 2,
           "median": 9,
           "average": 6.5,
-          "updated": "2026-09-25"
+          "updated": "2026-10-29"
         },
         "5": {
           "low": 9,
@@ -1044,7 +1044,7 @@
           "count": 1,
           "median": 9,
           "average": 9,
-          "updated": "2026-08-07"
+          "updated": "2026-10-29"
         }
       },
       "currency": "USD",
@@ -1103,11 +1103,36 @@
         },
         {
           "c": null,
-          "t": "2027-10-23"
+          "t": "2027-10-30"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 9,
+        "pt_old": 7,
+        "firm": "H.C. Wainwright",
+        "analyst": "Joseph Pantginis",
+        "slug": "joseph-pantginis",
+        "date": "2026-10-29",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 45.8,
+          "stars": 4.8,
+          "total": 496,
+          "avg_return": 20.5,
+          "return_pct": null,
+          "analyst_rank": 387,
+          "success_rate": 45.8,
+          "stock_avg_return": 38.1,
+          "stock_success_rate": 41.7,
+          "number_of_ranked_experts": 12538
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": 4,
@@ -1120,16 +1145,16 @@
         "rating_old": "",
         "time": "08:30:51",
         "scores": {
-          "score": 38,
+          "score": 37.6,
           "stars": 4,
           "total": 497,
-          "avg_return": 5.8,
+          "avg_return": 5.6,
           "return_pct": null,
-          "analyst_rank": 2457,
-          "success_rate": 38,
-          "stock_avg_return": -2.9,
+          "analyst_rank": 2561,
+          "success_rate": 37.6,
+          "stock_avg_return": -2.7,
           "stock_success_rate": 29.4,
-          "number_of_ranked_experts": 12537
+          "number_of_ranked_experts": 12538
         },
         "curr": "USD"
       },
@@ -1145,16 +1170,16 @@
         "rating_old": "",
         "time": "19:05:23",
         "scores": {
-          "score": 33,
+          "score": 33.3,
           "stars": 0.1,
           "total": 327,
-          "avg_return": -6.4,
+          "avg_return": -6.9,
           "return_pct": null,
-          "analyst_rank": 12181,
-          "success_rate": 33,
-          "stock_avg_return": 58.3,
+          "analyst_rank": 12218,
+          "success_rate": 33.3,
+          "stock_avg_return": 58.6,
           "stock_success_rate": 57.1,
-          "number_of_ranked_experts": 12537
+          "number_of_ranked_experts": 12538
         },
         "curr": "USD"
       },
@@ -1170,41 +1195,16 @@
         "rating_old": "",
         "time": "20:26:49",
         "scores": {
-          "score": 39.9,
-          "stars": 0.4,
+          "score": 39.1,
+          "stars": 0.3,
           "total": 496,
-          "avg_return": -2.6,
+          "avg_return": -3.3,
           "return_pct": null,
-          "analyst_rank": 11559,
-          "success_rate": 39.9,
-          "stock_avg_return": -21.7,
+          "analyst_rank": 11827,
+          "success_rate": 39.1,
+          "stock_avg_return": -20.5,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12537
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 9,
-        "pt_old": 7,
-        "firm": "H.C. Wainwright",
-        "analyst": "Joseph Pantginis",
-        "slug": "joseph-pantginis",
-        "date": "2026-08-07",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "15:00:40",
-        "scores": {
-          "score": 46.9,
-          "stars": 4.9,
-          "total": 495,
-          "avg_return": 21.6,
-          "return_pct": null,
-          "analyst_rank": 349,
-          "success_rate": 46.9,
-          "stock_avg_return": 37.5,
-          "stock_success_rate": 41.7,
-          "number_of_ranked_experts": 12537
+          "number_of_ranked_experts": 12538
         },
         "curr": "USD"
       },
@@ -1220,16 +1220,16 @@
         "rating_old": "",
         "time": "20:40:35",
         "scores": {
-          "score": 40.5,
-          "stars": 3.1,
+          "score": 38.8,
+          "stars": 2.7,
           "total": 116,
-          "avg_return": 3.6,
+          "avg_return": 2.1,
           "return_pct": null,
-          "analyst_rank": 4787,
-          "success_rate": 40.5,
-          "stock_avg_return": 48.4,
+          "analyst_rank": 5795,
+          "success_rate": 38.8,
+          "stock_avg_return": 48.7,
           "stock_success_rate": 62.5,
-          "number_of_ranked_experts": 12537
+          "number_of_ranked_experts": 12538
         }
       }
     ],
@@ -7678,7 +7678,7 @@
           -0.386
         ],
         "earningsyield": [
-          -0.1855,
+          -0.185503,
           -0.15699,
           -0.16801,
           -0.11265,
@@ -8279,7 +8279,7 @@
           null
         ],
         "roic": [
-          -1.37531,
+          -0.79189,
           null,
           null,
           null,
@@ -8325,7 +8325,7 @@
           -0.219
         ],
         "earningsyield": [
-          -0.1855,
+          -0.185503,
           -0.09878,
           -0.16314,
           -0.15699,
@@ -8596,7 +8596,7 @@
           -0.386
         ],
         "earningsyield": [
-          -0.1855,
+          -0.185503,
           -0.15699,
           -0.16801,
           -0.11265,

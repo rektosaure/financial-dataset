@@ -60,13 +60,13 @@
     },
     "ratios": {
       "pe": "14.617",
-      "peForward": "10.785",
+      "peForward": "10.762",
       "ps": "2.970",
       "psForward": "n/a",
       "pb": "0.864",
       "ptbvRatio": "0.905",
-      "pfcf": "31.422",
-      "pocf": "24.516",
+      "pfcf": "31.343",
+      "pocf": "24.455",
       "pegRatio": "n/a"
     },
     "evRatios": {
@@ -74,7 +74,7 @@
       "evSales": "1.08",
       "evEbitda": "7.38",
       "evEbit": "8.26",
-      "evFcf": "11.41"
+      "evFcf": "11.38"
     },
     "financialPosition": {
       "currentRatio": "10.609",
@@ -102,18 +102,18 @@
     },
     "stockPrice": {
       "beta": "1.133",
-      "ch1y": "-30.60%",
-      "sma50": "1.748",
-      "sma200": "2.045",
-      "rsi": "27.528",
-      "averageVolume": "1,284,024"
+      "ch1y": "-32.64%",
+      "sma50": "1.724",
+      "sma200": "2.028",
+      "rsi": "35.751",
+      "averageVolume": "1,406,674"
     },
     "shortSelling": {
-      "shortInterest": "8,096,865",
-      "shortPriorMonth": "7,772,461",
-      "shortShares": "1.810%",
+      "shortInterest": "8,431,774",
+      "shortPriorMonth": "9,644,081",
+      "shortShares": "1.890%",
       "shortFloat": "n/a",
-      "shortRatio": "1.660"
+      "shortRatio": "2.310"
     },
     "incomeStatement": {
       "revenue": "662,652,220",
@@ -135,11 +135,11 @@
       "workingcapital": "1,438,730,568"
     },
     "cashFlow": {
-      "ncfo": "80,266,557",
-      "capex": "-17,639,946",
-      "depreciationAmortization": "10,536,410",
-      "netBorrowing": "-1,036,710",
-      "fcf": "62,626,611",
+      "ncfo": "80,466,699",
+      "capex": "-17,683,931",
+      "depreciationAmortization": "10,562,682",
+      "netBorrowing": "-1,039,295",
+      "fcf": "62,782,768",
       "fcfps": "0.051"
     },
     "margins": {
@@ -157,15 +157,15 @@
       "dividendGrowth": "1,250.000%",
       "dividendGrowthYears": "n/a",
       "payoutRatio": "98.048%",
-      "fcfPayoutRatio": "210.896%",
+      "fcfPayoutRatio": "210.485%",
       "buybackYield": "5.545%",
       "totalReturn": "12.377%",
       "earningsYield": "6.841%",
-      "fcfYield": "3.183%"
+      "fcfYield": "3.190%"
     },
     "analystForecasts": {
-      "priceTarget": "$2.77",
-      "priceTargetChange": "72.05%",
+      "priceTarget": "$2.78",
+      "priceTargetChange": "72.92%",
       "analystRatings": "Strong Buy",
       "analystCount": "6",
       "revenue3y": "31.46%",
@@ -855,19 +855,6 @@
     "recommendations": [
       {
         "buy": 0,
-        "date": "2025-05-19",
-        "hold": 1,
-        "sell": 0,
-        "month": "May '25",
-        "score": 8,
-        "total": 5,
-        "updated": "2025-05-19",
-        "consensus": "Strong Buy",
-        "strongBuy": 4,
-        "strongSell": 0
-      },
-      {
-        "buy": 0,
         "date": "2025-07-10",
         "hold": 1,
         "sell": 0,
@@ -1008,6 +995,19 @@
         "consensus": "Strong Buy",
         "strongBuy": 5,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-10-26",
+        "hold": 1,
+        "sell": 0,
+        "month": "Oct '26",
+        "score": 8.333333333333334,
+        "total": 6,
+        "updated": "2026-10-26",
+        "consensus": "Strong Buy",
+        "strongBuy": 5,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -1091,7 +1091,7 @@
         },
         {
           "c": null,
-          "t": "2027-10-23"
+          "t": "2027-10-30"
         }
       ]
     },
@@ -1099,10 +1099,10 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 2.77,
-      "median": 2.79,
-      "low": 2.09,
-      "high": 3.23,
+      "avg": 2.784,
+      "median": 2.81,
+      "low": 2.103,
+      "high": 3.249,
       "numPriceTargets": 6
     },
     "currentRatings": {
@@ -7117,7 +7117,7 @@
           16.468
         ],
         "peForward": [
-          10.7854,
+          10.76212,
           17.486,
           19.568,
           27.299,
@@ -7149,7 +7149,7 @@
           2.469
         ],
         "pfcf": [
-          31.42162,
+          31.34347,
           20.122,
           23.746,
           109.23,
@@ -7157,7 +7157,7 @@
           19.979
         ],
         "pocf": [
-          24.51619,
+          24.45521,
           17.977,
           23.466,
           93.716,
@@ -7197,7 +7197,7 @@
           9.443
         ],
         "evfcf": [
-          11.40575,
+          11.37739,
           11.945,
           13.839,
           62.497,
@@ -7306,7 +7306,7 @@
           -0.01213,
           -0.07314,
           0.27491,
-          8.33764
+          1.36565
         ],
         "roce": [
           0.037,
@@ -7325,7 +7325,7 @@
           0.06072
         ],
         "fcfyield": [
-          0.0318252,
+          0.0319046,
           0.0497,
           0.04211,
           0.00916,
@@ -7528,7 +7528,7 @@
           30.286
         ],
         "peForward": [
-          10.7854,
+          10.76212,
           12.738,
           15.34,
           17.486,
@@ -7620,7 +7620,7 @@
           2.952
         ],
         "pfcf": [
-          31.42162,
+          31.34347,
           null,
           null,
           20.122,
@@ -7643,7 +7643,7 @@
           null
         ],
         "pocf": [
-          24.51619,
+          24.45521,
           null,
           null,
           17.977,
@@ -7758,7 +7758,7 @@
           16.783
         ],
         "evfcf": [
-          11.40575,
+          11.37739,
           null,
           null,
           11.945,
@@ -8076,7 +8076,7 @@
           0.0969,
           0.26242,
           0.30585,
-          0.79398,
+          0.53801,
           null
         ],
         "roce": [
@@ -8126,7 +8126,7 @@
           0.03302
         ],
         "fcfyield": [
-          0.0318252,
+          0.0319046,
           0.0265,
           0.03845,
           0.0497,
@@ -8299,7 +8299,7 @@
           16.468
         ],
         "peForward": [
-          10.7854,
+          10.76212,
           17.486,
           19.568,
           27.299,
@@ -8331,7 +8331,7 @@
           2.469
         ],
         "pfcf": [
-          31.42162,
+          31.34347,
           20.122,
           23.746,
           109.23,
@@ -8339,7 +8339,7 @@
           19.979
         ],
         "pocf": [
-          24.51619,
+          24.45521,
           17.977,
           23.466,
           93.716,
@@ -8379,7 +8379,7 @@
           9.443
         ],
         "evfcf": [
-          11.40575,
+          11.37739,
           11.945,
           13.839,
           62.497,
@@ -8488,7 +8488,7 @@
           -0.01213,
           -0.07314,
           0.27491,
-          8.33764
+          1.36565
         ],
         "roce": [
           0.037,
@@ -8507,7 +8507,7 @@
           0.06072
         ],
         "fcfyield": [
-          0.0318252,
+          0.0319046,
           0.0497,
           0.04211,
           0.00916,

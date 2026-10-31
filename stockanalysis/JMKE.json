@@ -27,136 +27,148 @@
     "stockType": "Common Stock",
     "shareClass": "Class A Shares"
   },
-  "dividends": null,
+  "dividends": {
+    "yield": "1.91%",
+    "totalYield": "n/a",
+    "annual": "$0.35",
+    "exdiv": "Nov 5, 2026",
+    "frequency": "n/a",
+    "dividendFrequencyListUrl": "",
+    "payoutRatio": "232.34%",
+    "growth": "n/a",
+    "years": "n/a",
+    "buybackYield": "n/a",
+    "totalReturn": "1.91%"
+  },
   "statistics": {
     "valuation": {
-      "marketcap": "5,333,201,896",
-      "enterpriseValue": "7,198,201,896"
+      "marketcap": "5,809,615,481",
+      "enterpriseValue": "7,312,615,481"
     },
     "dates": {
       "earningsdate": "Oct 28, 2026",
-      "exdivdate": "n/a"
+      "exdivdate": "Nov 5, 2026"
     },
     "shares": {
       "sharesOutClass": "233,405,414",
-      "sharesout": "318,210,137",
+      "sharesout": "317,638,900",
       "sharesgrowthyoy": "n/a",
-      "sharesgrowthqoq": "n/a",
+      "sharesgrowthqoq": "-0.174%",
       "sharesInsiders": "0.051%",
-      "sharesInstitutions": "5.616%",
+      "sharesInstitutions": "6.703%",
       "float": "130,790,402"
     },
     "ratios": {
-      "pe": "n/a",
-      "peForward": "23.797",
-      "ps": "7.008",
-      "psForward": "6.444",
-      "pb": "0.669",
+      "pe": "108.302",
+      "peForward": "23.634",
+      "ps": "7.448",
+      "psForward": "6.866",
+      "pb": "1.292",
       "ptbvRatio": "n/a",
-      "pfcf": "31.372",
-      "pocf": "31.007",
-      "pegRatio": "1.329"
+      "pfcf": "33.777",
+      "pocf": "33.389",
+      "pegRatio": "1.358"
     },
     "evRatios": {
-      "evEarnings": "n/a",
-      "evSales": "9.46",
-      "evEbitda": "21.95",
-      "evEbit": "31.71",
-      "evFcf": "42.34"
+      "evEarnings": "182.82",
+      "evSales": "9.38",
+      "evEbitda": "27.59",
+      "evEbit": "44.86",
+      "evFcf": "42.52"
     },
     "financialPosition": {
-      "currentRatio": "1.823",
-      "quickRatio": "1.543",
-      "debtEquity": "0.36",
-      "debtEbitda": "6.33",
-      "debtFcf": "12.33",
-      "interestCoverage": "1.924"
+      "currentRatio": "2.806",
+      "quickRatio": "2.448",
+      "debtEquity": "0.37",
+      "debtEbitda": "6.71",
+      "debtFcf": "10.45",
+      "interestCoverage": "1.393"
     },
     "financialEfficiency": {
       "roe": "n/a",
       "roa": "n/a",
-      "roic": "2.943%",
-      "roce": "2.842%",
+      "roic": "1.945%",
+      "roce": "1.955%",
       "wacc": "n/a",
-      "revPerEmployee": "846,496",
-      "profitPerEmployee": "-1,112",
+      "revPerEmployee": "867,631",
+      "profitPerEmployee": "44,494",
       "employees": "899",
       "assetturnover": "n/a",
       "inventoryturnover": "n/a"
     },
     "taxes": {
-      "taxexp": "1.00M",
-      "taxrate": "n/a"
+      "taxexp": "8.00M",
+      "taxrate": "16.000%"
     },
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "19.490",
+      "sma50": "19.020",
       "sma200": "n/a",
-      "rsi": "38.837",
-      "averageVolume": "2,941,346"
+      "rsi": "53.362",
+      "averageVolume": "3,094,135"
     },
     "shortSelling": {
-      "shortInterest": "12,509,623",
-      "shortPriorMonth": "7,473,350",
-      "shortShares": "3.931%",
-      "shortFloat": "9.565%",
-      "shortRatio": "3.430"
+      "shortInterest": "11,184,307",
+      "shortPriorMonth": "10,415,401",
+      "shortShares": "3.521%",
+      "shortFloat": "8.551%",
+      "shortRatio": "3.180"
     },
     "incomeStatement": {
-      "revenue": "761,000,000",
-      "gp": "496,000,000",
-      "opinc": "227,000,000",
-      "pretax": "n/a",
-      "netinc": "-1,000,000",
-      "ebitda": "328,000,000",
-      "ebit": "227,000,000",
-      "eps": "-0.004"
+      "revenue": "780,000,000",
+      "gp": "515,000,000",
+      "opinc": "163,000,000",
+      "pretax": "50,000,000",
+      "netinc": "40,000,000",
+      "ebitda": "265,000,000",
+      "ebit": "163,000,000",
+      "eps": "0.169"
     },
     "balanceSheet": {
-      "totalcash": "231,000,000",
-      "debt": "2,096,000,000",
-      "netcash": "-1,865,000,000",
-      "netcashpershare": "-5.861",
-      "equity": "5,844,000,000",
-      "bvps": "25.038",
-      "workingcapital": "144,000,000"
+      "totalcash": "295,000,000",
+      "debt": "1,798,000,000",
+      "netcash": "-1,503,000,000",
+      "netcashpershare": "-4.732",
+      "equity": "4,870,000,000",
+      "bvps": "14.155",
+      "workingcapital": "242,000,000"
     },
     "cashFlow": {
-      "ncfo": "172,000,000",
+      "ncfo": "174,000,000",
       "capex": "-2,000,000",
-      "depreciationAmortization": "101,000,000",
-      "netBorrowing": "405,000,000",
-      "fcf": "170,000,000",
-      "fcfps": "0.534"
+      "depreciationAmortization": "102,000,000",
+      "netBorrowing": "-298,000,000",
+      "fcf": "172,000,000",
+      "fcfps": "0.542"
     },
     "margins": {
-      "grossMargin": "65.177%",
-      "operatingMargin": "29.829%",
-      "pretaxMargin": "n/a",
-      "profitMargin": "-0.131%",
-      "ebitdaMargin": "43.101%",
-      "ebitMargin": "29.829%",
-      "fcfMargin": "22.339%"
+      "grossMargin": "66.026%",
+      "operatingMargin": "20.897%",
+      "pretaxMargin": "6.410%",
+      "profitMargin": "5.641%",
+      "ebitdaMargin": "33.974%",
+      "ebitMargin": "20.897%",
+      "fcfMargin": "22.051%"
     },
     "dividends": {
-      "dps": "n/a",
-      "dividendYield": "n/a",
+      "dps": "$0.350",
+      "dividendYield": "1.914%",
       "dividendGrowth": "n/a",
       "dividendGrowthYears": "n/a",
-      "payoutRatio": "n/a",
-      "fcfPayoutRatio": "n/a",
+      "payoutRatio": "232.342%",
+      "fcfPayoutRatio": "65.013%",
       "buybackYield": "n/a",
-      "totalReturn": "n/a",
-      "earningsYield": "-0.026%",
-      "fcfYield": "3.188%"
+      "totalReturn": "1.914%",
+      "earningsYield": "0.923%",
+      "fcfYield": "2.961%"
     },
     "analystForecasts": {
-      "priceTarget": "$27.39",
-      "priceTargetChange": "63.43%",
+      "priceTarget": "$26.34",
+      "priceTargetChange": "44.01%",
       "analystRatings": "Buy",
       "analystCount": "25",
-      "revenue3y": "10.30%",
+      "revenue3y": "10.26%",
       "eps3y": "n/a"
     },
     "stockSplits": {
@@ -165,14 +177,14 @@
       "splitRatio": "n/a"
     },
     "scores": {
-      "zScore": "0.12",
+      "zScore": "1.02",
       "fScore": "3"
     },
     "fairValue": {
       "lynchFairValue": "n/a",
       "lynchUpside": "n/a",
-      "grahamNumber": "n/a",
-      "grahamUpside": "n/a"
+      "grahamNumber": null,
+      "grahamUpside": null
     }
   },
   "forecast": {
@@ -180,45 +192,45 @@
       "stats": {
         "annual": {
           "epsNext": {
-            "last": 0.67871,
-            "this": 0.77699,
-            "growth": 14.480411368625765
+            "last": 0.69912,
+            "this": 0.7702,
+            "growth": 10.167067170156772
           },
           "epsThis": {
             "last": null,
-            "this": 0.67871,
+            "this": 0.69912,
             "growth": null
           },
           "revenueNext": {
-            "last": 795684660,
-            "this": 869131320,
-            "growth": 9.230624101764134
+            "last": 795760400,
+            "this": 867846420,
+            "growth": 9.058759395416006
           },
           "revenueThis": {
             "last": 724000000,
-            "this": 795684660,
-            "growth": 9.901196132596684
+            "this": 795760400,
+            "growth": 9.911657458563536
           }
         },
         "quarterly": {
           "epsNext": {
             "last": null,
-            "this": 0.14828,
+            "this": 0.14445,
             "growth": null
           },
           "epsThis": {
             "last": null,
-            "this": 0.18062,
+            "this": 0.14854,
             "growth": null
           },
           "revenueNext": {
-            "last": null,
-            "this": 192478010,
-            "growth": null
+            "last": 185000000,
+            "this": 201552370,
+            "growth": 8.947227027027028
           },
           "revenueThis": {
             "last": null,
-            "this": 208675410,
+            "this": 192323670,
             "growth": null
           }
         }
@@ -229,7 +241,7 @@
             null,
             null,
             null,
-            0.26,
+            0.545,
             "[PRO]",
             "[PRO]"
           ],
@@ -237,7 +249,7 @@
             null,
             null,
             null,
-            0.18656,
+            0.11147,
             "[PRO]",
             "[PRO]"
           ],
@@ -269,7 +281,7 @@
             561000000,
             653000000,
             724000000,
-            795684660,
+            795760400,
             "[PRO]",
             "[PRO]"
           ],
@@ -277,7 +289,7 @@
             null,
             null,
             null,
-            24,
+            23,
             "[PRO]",
             "[PRO]"
           ],
@@ -310,7 +322,7 @@
             21000000,
             5000000,
             55000000,
-            64903819.99999999,
+            48780500,
             "[PRO]",
             "[PRO]"
           ],
@@ -334,7 +346,7 @@
             null,
             null,
             null,
-            0.67871,
+            0.69912,
             "[PRO]",
             "[PRO]"
           ],
@@ -358,7 +370,7 @@
             null,
             null,
             null,
-            253966870,
+            237174000,
             "[PRO]",
             "[PRO]"
           ],
@@ -374,7 +386,7 @@
             null,
             16.399,
             10.873,
-            9.901196132596684,
+            9.911657458563536,
             "[PRO]",
             "[PRO]"
           ],
@@ -382,7 +394,7 @@
             57000000,
             51000000,
             217000000,
-            257565800.00000003,
+            260736060,
             "[PRO]",
             "[PRO]"
           ],
@@ -397,6 +409,7 @@
         },
         "quarterly": {
           "dps": [
+            null,
             null,
             null,
             null,
@@ -418,9 +431,10 @@
             null,
             null,
             null,
-            0.158522,
-            0.06337,
-            0.06929,
+            0.102825,
+            -0.05,
+            0.03243,
+            0.075,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -433,6 +447,7 @@
             "[PRO]"
           ],
           "ffo": [
+            null,
             null,
             null,
             null,
@@ -457,6 +472,7 @@
             null,
             null,
             null,
+            null,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -469,11 +485,11 @@
             "[PRO]"
           ],
           "dates": [
-            "2025-03-30",
             "2025-06-29",
+            "2025-09-28",
             "2026-03-29",
             "2026-06-28",
-            "2026-09-30",
+            "2026-09-27",
             "2026-12-31",
             "2027-03-31",
             "2027-06-30",
@@ -484,15 +500,17 @@
             "2028-09-30",
             "2028-12-31",
             "2029-03-31",
-            "2029-06-30"
+            "2029-06-30",
+            "2029-09-30"
           ],
           "revenue": [
-            167000000,
             189000000,
+            190000000,
             185000000,
             208000000,
-            208675410,
-            192478010,
+            209000000,
+            192323670,
+            201552370,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -509,8 +527,9 @@
             null,
             null,
             null,
-            20,
-            20,
+            null,
+            17,
+            15,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -529,6 +548,7 @@
             null,
             null,
             null,
+            null,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -540,8 +560,9 @@
             "[PRO]",
             "[PRO]"
           ],
-          "lastDate": 3,
+          "lastDate": 4,
           "dpsGrowth": [
+            null,
             null,
             null,
             null,
@@ -566,6 +587,7 @@
             null,
             null,
             null,
+            null,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -578,12 +600,13 @@
             "[PRO]"
           ],
           "netIncome": [
-            10000000,
-            59000000,
+            -10000000,
+            null,
             -24000000,
-            37000000,
-            24242590,
-            20836440,
+            24000000,
+            -11000000,
+            10447290,
+            19058280,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -600,6 +623,7 @@
             null,
             null,
             null,
+            24.32,
             null,
             null,
             "[PRO]",
@@ -629,6 +653,7 @@
             "2028",
             "2028",
             "2029",
+            "2029",
             "2029"
           ],
           "adjustedEps": [
@@ -636,8 +661,9 @@
             null,
             null,
             null,
-            0.18062,
-            0.14828,
+            0.23,
+            0.14854,
+            0.14445,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -650,10 +676,11 @@
             "[PRO]"
           ],
           "grossMargin": [
-            64.67065868263472,
             74.07407407407408,
+            72.10526315789474,
             62.70270270270271,
             68.75,
+            74.64114832535886,
             null,
             null,
             "[PRO]",
@@ -668,10 +695,11 @@
             "[PRO]"
           ],
           "grossProfit": [
-            108000000,
             140000000,
+            137000000,
             116000000,
             143000000,
+            156000000,
             null,
             null,
             "[PRO]",
@@ -690,8 +718,9 @@
             null,
             null,
             16000000,
-            93100000,
-            34300000,
+            null,
+            34783000,
+            165600000,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -704,8 +733,8 @@
             "[PRO]"
           ],
           "fiscalQuarter": [
-            "Q1",
             "Q2",
+            "Q3",
             "Q1",
             "Q2",
             "Q3",
@@ -719,15 +748,17 @@
             "Q3",
             "Q4",
             "Q1",
-            "Q2"
+            "Q2",
+            "Q3"
           ],
           "revenueGrowth": [
             null,
             null,
             10.778,
             10.053,
+            10,
             null,
-            null,
+            8.947227027027028,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -740,12 +771,13 @@
             "[PRO]"
           ],
           "operatingIncome": [
-            30000000,
-            82000000,
+            84000000,
+            61000000,
             17000000,
-            79000000,
-            77786170,
-            63667070,
+            59000000,
+            45000000,
+            66046980.00000001,
+            74824900,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -758,6 +790,7 @@
             "[PRO]"
           ],
           "adjustedEpsGrowth": [
+            null,
             null,
             null,
             null,
@@ -782,19 +815,19 @@
     "estimatesCharts": {
       "eps": {
         "2026-12-31": {
-          "no": 12,
-          "avg": 0.67871,
+          "no": 13,
+          "avg": 0.69912,
           "low": 0.51,
-          "high": 0.8
+          "high": 0.83
         },
         "2027-12-31": "[PRO]",
         "2028-12-31": "[PRO]"
       },
       "revenue": {
         "2026-12-31": {
-          "no": 24,
-          "avg": 795684660,
-          "low": 789000000,
+          "no": 23,
+          "avg": 795760400,
+          "low": 790000000,
           "high": 814707000
         },
         "2027-12-31": "[PRO]",
@@ -802,16 +835,16 @@
       },
       "epsGrowth": {
         "2027-12-31": {
-          "avg": 14.480411368625765,
-          "low": -29.277600153231877,
-          "high": 45.86494968395927
+          "avg": 10.167067170156772,
+          "low": -31.342258839684177,
+          "high": 41.60659114315139
         },
         "2028-12-31": "[PRO]"
       },
       "revenueGrowth": {
         "2026-12-31": {
-          "avg": 9.901196132596684,
-          "low": 8.977900552486188,
+          "avg": 9.911657458563536,
+          "low": 9.116022099447514,
           "high": 12.528591160220994
         },
         "2027-12-31": "[PRO]",
@@ -860,61 +893,65 @@
       },
       {
         "buy": 5,
-        "date": "2026-10-16",
+        "date": "2026-10-29",
         "hold": 4,
         "sell": 1,
         "month": "Oct '26",
         "score": 6.8,
         "total": 25,
-        "updated": "2026-10-16",
+        "updated": "2026-10-29",
         "consensus": "Buy",
         "strongBuy": 15,
         "strongSell": 0
       }
     ],
     "targets": {
-      "low": 22,
+      "low": 21,
       "high": 30,
       "count": 22,
-      "median": 28,
-      "average": 27.64,
-      "updated": "2026-10-23",
+      "median": 27,
+      "average": 26.55,
+      "updated": "2026-10-30",
       "filtered": {
         "1": {
           "low": 22,
           "high": 30,
           "count": 16,
-          "median": 28,
-          "average": 27.44,
-          "updated": "2026-10-23"
+          "median": 27,
+          "average": 26.88,
+          "updated": "2026-10-30"
         },
         "2": {
           "low": 22,
           "high": 30,
-          "count": 15,
-          "median": 28,
-          "average": 27.4,
-          "updated": "2026-10-23"
+          "count": 14,
+          "median": 27,
+          "average": 26.93,
+          "updated": "2026-10-30"
         },
         "3": {
           "low": 22,
           "high": 30,
           "count": 13,
-          "median": 28,
-          "average": 27.23,
-          "updated": "2026-10-23"
+          "median": 27,
+          "average": 26.69,
+          "updated": "2026-10-30"
         },
         "4": {
           "low": 22,
           "high": 30,
           "count": 10,
-          "median": 28,
-          "average": 27.1,
-          "updated": "2026-10-23"
+          "median": 27,
+          "average": 26.6,
+          "updated": "2026-10-30"
         },
         "5": {
-          "count": 0,
-          "updated": ""
+          "low": 27,
+          "high": 27,
+          "count": 1,
+          "median": 27,
+          "average": 27,
+          "updated": "2026-10-29"
         }
       },
       "currency": "USD",
@@ -932,88 +969,63 @@
           "t": "2026-09-01"
         },
         {
-          "c": 16.76,
+          "c": 18.145,
           "t": "2026-10-01"
         },
         {
           "c": null,
-          "t": "2027-10-23"
+          "t": "2027-10-30"
         }
       ]
     },
     "ratings": [
       {
         "action_rt": "Maintains",
-        "pt_now": 29,
-        "pt_old": null,
-        "firm": "Mizuho Securities",
-        "analyst": "Nick Setyan",
-        "slug": "nick-setyan",
-        "date": "2026-10-23",
+        "pt_now": 25,
+        "pt_old": 28,
+        "firm": "BTIG",
+        "analyst": "Peter Saleh",
+        "slug": "peter-saleh",
+        "date": "2026-10-30",
         "rating_new": "Buy",
         "rating_old": "",
         "time": "00:00:00",
         "scores": {
-          "score": 53.8,
+          "score": 59.4,
           "stars": 4.7,
-          "total": 489,
-          "avg_return": 11.5,
-          "return_pct": null,
-          "analyst_rank": 638,
-          "success_rate": 53.8,
-          "stock_avg_return": -22,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12537
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 28,
-        "pt_old": null,
-        "firm": "BTIG",
-        "analyst": "Peter Saleh",
-        "slug": "peter-saleh",
-        "date": "2026-10-20",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "09:55:57",
-        "scores": {
-          "score": 59.8,
-          "stars": 4.7,
-          "total": 458,
+          "total": 461,
           "avg_return": 9.3,
           "return_pct": null,
-          "analyst_rank": 690,
-          "success_rate": 59.8,
-          "stock_avg_return": -15.3,
+          "analyst_rank": 724,
+          "success_rate": 59.4,
+          "stock_avg_return": -16.5,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12537
+          "number_of_ranked_experts": 12548
         },
         "curr": "USD"
       },
       {
         "action_rt": "Reiterates",
-        "pt_now": 26,
-        "pt_old": 29,
-        "firm": "Raymond James",
-        "analyst": "Brian Vaccaro",
-        "slug": "brian-vaccaro",
-        "date": "2026-10-16",
+        "pt_now": 29,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Sara Senatore",
+        "slug": "sara-senatore",
+        "date": "2026-10-29",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "11:06:06",
+        "time": "15:05:49",
         "scores": {
-          "score": 49.3,
-          "stars": 4.1,
-          "total": 430,
-          "avg_return": 5.5,
+          "score": 46.4,
+          "stars": 0.6,
+          "total": 448,
+          "avg_return": -1.9,
           "return_pct": null,
-          "analyst_rank": 2137,
-          "success_rate": 49.3,
-          "stock_avg_return": -13.1,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12537
+          "analyst_rank": 11044,
+          "success_rate": 46.4,
+          "stock_avg_return": -14.2,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12548
         },
         "curr": "USD"
       },
@@ -1024,21 +1036,46 @@
         "firm": "Morgan Stanley",
         "analyst": "Brian Harbour",
         "slug": "brian-harbour",
-        "date": "2026-10-16",
+        "date": "2026-10-29",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "09:45:34",
+        "time": "12:45:49",
         "scores": {
-          "score": 47.3,
-          "stars": 0.4,
+          "score": 46.9,
+          "stars": 0.5,
           "total": 239,
-          "avg_return": -3.7,
+          "avg_return": -3.2,
           "return_pct": null,
-          "analyst_rank": 11450,
-          "success_rate": 47.3,
-          "stock_avg_return": -15.8,
+          "analyst_rank": 11333,
+          "success_rate": 46.9,
+          "stock_avg_return": -17,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12537
+          "number_of_ranked_experts": 12548
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 23,
+        "pt_old": 27,
+        "firm": "Bernstein",
+        "analyst": "Danilo Gargiulo",
+        "slug": "danilo-gargiulo",
+        "date": "2026-10-29",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "12:11:33",
+        "scores": {
+          "score": 45.7,
+          "stars": 0.3,
+          "total": 140,
+          "avg_return": -5.9,
+          "return_pct": null,
+          "analyst_rank": 11720,
+          "success_rate": 45.7,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12548
         },
         "curr": "USD"
       },
@@ -1049,21 +1086,21 @@
         "firm": "UBS",
         "analyst": "Dennis Geiger",
         "slug": "dennis-geiger",
-        "date": "2026-10-16",
+        "date": "2026-10-29",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "11:57:01",
         "scores": {
-          "score": 48.6,
-          "stars": 1,
-          "total": 255,
-          "avg_return": -1.2,
+          "score": 49.4,
+          "stars": 1.2,
+          "total": 257,
+          "avg_return": -0.7,
           "return_pct": null,
-          "analyst_rank": 10100,
-          "success_rate": 48.6,
-          "stock_avg_return": -15.1,
+          "analyst_rank": 9641,
+          "success_rate": 49.4,
+          "stock_avg_return": -16.3,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12537
+          "number_of_ranked_experts": 12548
         },
         "curr": "USD"
       }
@@ -1071,8 +1108,8 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 27.39,
-      "median": 28,
+      "avg": 26.34,
+      "median": 26,
       "low": 14.9,
       "high": 40,
       "numPriceTargets": 23
@@ -1105,13 +1142,13 @@
           "2023"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
           "Q4",
           "Q4",
           "Q4"
         ],
         "revenue": [
-          761000000,
+          780000000,
           724000000,
           653000000,
           561000000
@@ -1123,31 +1160,31 @@
           232000000
         ],
         "gp": [
-          496000000,
+          515000000,
           485000000,
           403000000,
           329000000
         ],
         "sgna": [
-          168000000,
+          250000000,
           172000000,
           342000000,
           262000000
         ],
         "opex": [
-          269000000,
+          352000000,
           268000000,
           352000000,
           272000000
         ],
         "opinc": [
-          227000000,
+          163000000,
           217000000,
           51000000,
           57000000
         ],
         "interestExpense": [
-          -118000000,
+          -117000000,
           -104000000,
           -43000000,
           -41000000
@@ -1165,139 +1202,139 @@
           null
         ],
         "ebtExcl": [
-          115000000,
+          52000000,
           122000000,
           13000000,
           22000000
         ],
         "mergerRestructureCharges": [
-          -22000000,
+          -21000000,
           -14000000,
           -7000000,
           null
         ],
         "otherUnusualItems": [
-          -107000000,
+          -2000000,
           -52000000,
           null,
           null
         ],
         "pretax": [
-          null,
+          50000000,
           56000000,
           6000000,
           22000000
         ],
         "taxexp": [
-          1000000,
+          8000000,
           1000000,
           1000000,
           1000000
         ],
         "netinc": [
-          -1000000,
+          44000000,
           55000000,
           5000000,
           21000000
         ],
         "netinccmn": [
-          -1000000,
+          40000000,
           51000000,
           5000000,
           21000000
         ],
         "fcf": [
-          170000000,
+          172000000,
           -215000000,
           -9000000,
           64000000
         ],
         "grossMargin": [
-          0.65177,
+          0.66026,
           0.66989,
           0.61715,
           0.58645
         ],
         "operatingMargin": [
-          0.29829,
+          0.20897,
           0.29972,
           0.0781,
           0.1016
         ],
         "profitMargin": [
-          -0.00131,
+          0.05128,
           0.07044,
           0.00766,
           0.03743
         ],
         "fcfMargin": [
-          0.22339,
+          0.22051,
           -0.29696,
           -0.01378,
           0.11408
         ],
         "taxrate": [
-          null,
+          0.16,
           0.01786,
           0.16667,
           0.04545
         ],
         "ebitda": [
-          328000000,
+          265000000,
           313000000,
           61000000,
           67000000
         ],
         "depAmorEbitda": [
-          101000000,
+          102000000,
           96000000,
           10000000,
           10000000
         ],
         "ebitdaMargin": [
-          0.43101,
+          0.33974,
           0.43232,
           0.09342,
           0.11943
         ],
         "ebit": [
-          227000000,
+          163000000,
           217000000,
           51000000,
           57000000
         ],
         "ebitMargin": [
-          0.29829,
+          0.20897,
           0.29972,
           0.0781,
           0.1016
         ],
         "revenueAsReported": [
-          761000000,
+          780000000,
           724000000,
           653000000,
           561000000
         ],
         "preferredDividendsOther": [
-          null,
+          4000000,
           4000000,
           null,
           null
         ],
         "payoutratio": [
-          null,
+          2.3234201,
           8.76364,
           6.4,
           0.85714
         ],
         "marketcap": [
-          5333201896,
+          5809615481,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
           null,
           null,
           null
@@ -1305,297 +1342,415 @@
       },
       "quarterly": {
         "datekey": [
+          "2026-09-27",
           "2026-06-28",
           "2026-03-29",
+          "2025-09-28",
           "2025-06-29",
           "2025-03-30"
         ],
         "fiscalYear": [
           "2026",
           "2026",
+          "2026",
+          "2025",
           "2025",
           "2025"
         ],
         "fiscalQuarter": [
+          "Q3",
           "Q2",
           "Q1",
+          "Q3",
           "Q2",
           "Q1"
         ],
         "revenue": [
+          209000000,
           208000000,
           185000000,
+          190000000,
           189000000,
           167000000
         ],
         "cor": [
+          53000000,
           65000000,
           69000000,
+          53000000,
           49000000,
           59000000
         ],
         "gp": [
+          156000000,
           143000000,
           116000000,
+          137000000,
           140000000,
           108000000
         ],
         "sgna": [
-          39000000,
+          85000000,
+          59000000,
           73000000,
-          33000000,
+          51000000,
+          31000000,
           57000000
         ],
         "opex": [
-          64000000,
+          111000000,
+          84000000,
           99000000,
-          58000000,
+          76000000,
+          56000000,
           78000000
         ],
         "opinc": [
-          79000000,
+          45000000,
+          59000000,
           17000000,
-          82000000,
+          61000000,
+          84000000,
           30000000
         ],
         "interestExpense": [
+          -28000000,
           -31000000,
           -30000000,
+          -29000000,
           -24000000,
           -23000000
         ],
         "interestIncome": [
+          3000000,
           2000000,
           1000000,
+          3000000,
           2000000,
           4000000
         ],
         "ebtExcl": [
-          50000000,
+          20000000,
+          30000000,
           -12000000,
-          60000000,
+          35000000,
+          62000000,
           11000000
         ],
         "gainAssets": [
+          7000000,
           14000000,
+          null,
           null,
           null,
           null
         ],
         "mergerRestructureCharges": [
+          -2000000,
           -7000000,
           -5000000,
-          -1000000,
+          -3000000,
+          -3000000,
           -1000000
         ],
         "otherUnusualItems": [
-          -20000000,
+          -31000000,
+          -13000000,
           -7000000,
-          null,
+          -32000000,
+          -69000000,
           null
         ],
         "pretax": [
-          37000000,
+          -6000000,
+          24000000,
           -24000000,
-          59000000,
+          null,
+          -10000000,
           10000000
         ],
+        "taxexp": [
+          7000000,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "minorityInterest": [
+          2000000,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
         "netinc": [
-          37000000,
+          -11000000,
+          24000000,
           -24000000,
-          59000000,
+          null,
+          -10000000,
           10000000
         ],
         "netinccmn": [
-          37000000,
+          -11000000,
+          24000000,
           -24000000,
-          59000000,
+          null,
+          -6000000,
           6000000
         ],
         "sharesBasic": [
+          233000000,
           233405414,
+          null,
           null,
           null,
           null
         ],
         "sharesDiluted": [
+          233000000,
           233405414,
+          null,
           null,
           null,
           null
         ],
         "epsBasic": [
-          0.158522,
+          -0.04721,
+          0.102825,
+          null,
           null,
           null,
           null
         ],
         "epsdil": [
-          0.158522,
+          -0.05,
+          0.102825,
+          null,
           null,
           null,
           null
         ],
         "fcf": [
+          71000000,
           18000000,
           86000000,
+          69000000,
           29000000,
           -310000000
         ],
         "fcfps": [
+          0.305,
           0.077,
+          null,
           null,
           null,
           null
         ],
         "grossMargin": [
+          0.74641,
           0.6875,
           0.62703,
+          0.72105,
           0.74074,
           0.64671
         ],
         "operatingMargin": [
-          0.37981,
+          0.21531,
+          0.28365,
           0.09189,
-          0.43386,
+          0.32105,
+          0.44444,
           0.17964
         ],
         "profitMargin": [
-          0.17788,
+          -0.05263,
+          0.11538,
           -0.12973,
-          0.31217,
+          null,
+          -0.03175,
           0.03593
         ],
         "fcfMargin": [
+          0.33971,
           0.08654,
           0.46486,
+          0.36316,
           0.15344,
           -1.85629
         ],
         "ebitda": [
-          104000000,
+          71000000,
+          84000000,
           43000000,
-          107000000,
+          86000000,
+          109000000,
           51000000
         ],
         "depAmorEbitda": [
+          26000000,
           25000000,
           26000000,
+          25000000,
           25000000,
           21000000
         ],
         "ebitdaMargin": [
-          0.5,
+          0.33971,
+          0.40385,
           0.23243,
-          0.56614,
+          0.45263,
+          0.57672,
           0.30539
         ],
         "ebit": [
-          79000000,
+          45000000,
+          59000000,
           17000000,
-          82000000,
+          61000000,
+          84000000,
           30000000
         ],
         "ebitMargin": [
-          0.37981,
+          0.21531,
+          0.28365,
           0.09189,
-          0.43386,
+          0.32105,
+          0.44444,
           0.17964
         ],
         "revenueAsReported": [
+          209000000,
           208000000,
           185000000,
+          190000000,
           189000000,
           167000000
+        ],
+        "earningContinuing": [
+          -13000000,
+          24000000,
+          -24000000,
+          null,
+          -10000000,
+          10000000
         ],
         "preferredDividendsOther": [
           null,
           null,
           null,
+          null,
+          -4000000,
           4000000
         ],
         "payoutratio": [
-          1.10811,
           null,
-          1.76271,
+          1.70833,
+          null,
+          null,
+          null,
           3
         ]
       },
       "ttm": {
         "datekey": [
+          "2026-09-27",
           "2026-06-28",
           "2026-03-29",
           "2025-12-28",
+          "2025-09-30",
           "2024-12-31",
           "2023-12-31"
         ],
         "fiscalYear": [
           "2026",
           "2026",
+          "2026",
           "2025",
+          null,
           "2024",
           "2023"
         ],
         "fiscalQuarter": [
+          "Q3",
           "Q2",
           "Q1",
           "Q4",
+          null,
           "Q4",
           "Q4"
         ],
         "revenue": [
+          780000000,
           761000000,
           742000000,
           724000000,
+          null,
           653000000,
           561000000
         ],
         "cor": [
           265000000,
+          265000000,
           249000000,
           239000000,
+          null,
           250000000,
           232000000
         ],
         "gp": [
+          515000000,
           496000000,
           493000000,
           485000000,
+          null,
           403000000,
           329000000
         ],
         "sgna": [
-          168000000,
+          250000000,
+          216000000,
           188000000,
           172000000,
+          null,
           342000000,
           262000000
         ],
         "opex": [
-          269000000,
+          352000000,
+          317000000,
           289000000,
           268000000,
+          null,
           352000000,
           272000000
         ],
         "opinc": [
-          227000000,
+          163000000,
+          179000000,
           204000000,
           217000000,
+          null,
           51000000,
           57000000
         ],
         "interestExpense": [
+          -117000000,
           -118000000,
           -111000000,
           -104000000,
+          null,
           -43000000,
           -41000000
         ],
         "interestIncome": [
           7000000,
           7000000,
+          7000000,
           10000000,
+          null,
           5000000,
           6000000
         ],
@@ -1603,195 +1758,269 @@
           -1000000,
           -1000000,
           -1000000,
+          -1000000,
+          null,
           null,
           null
         ],
         "ebtExcl": [
-          115000000,
+          52000000,
+          67000000,
           99000000,
           122000000,
+          null,
           13000000,
           22000000
         ],
         "gainAssets": [
+          21000000,
           14000000,
+          null,
           null,
           null,
           null,
           null
         ],
         "mergerRestructureCharges": [
+          -21000000,
           -22000000,
           -18000000,
           -14000000,
+          null,
           -7000000,
           null
         ],
         "otherUnusualItems": [
-          -107000000,
+          -2000000,
+          -3000000,
           -59000000,
           -52000000,
+          null,
           null,
           null
         ],
         "pretax": [
-          null,
+          50000000,
+          56000000,
           22000000,
           56000000,
+          null,
           6000000,
           22000000
         ],
         "taxexp": [
+          8000000,
           1000000,
           1000000,
           1000000,
+          null,
           1000000,
           1000000
         ],
+        "minorityInterest": [
+          2000000,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
         "netinc": [
-          -1000000,
+          44000000,
+          55000000,
           21000000,
           55000000,
+          null,
           5000000,
           21000000
         ],
         "netinccmn": [
-          -1000000,
+          40000000,
+          51000000,
           21000000,
           51000000,
+          null,
           5000000,
           21000000
         ],
         "sharesBasic": [
+          233000000,
           233405414,
+          null,
           null,
           null,
           null,
           null
         ],
         "sharesDiluted": [
+          233000000,
           233405414,
+          null,
           null,
           null,
           null,
           null
         ],
         "epsBasic": [
-          -0.004284,
+          0.171673,
+          0.218503,
+          null,
           null,
           null,
           null,
           null
         ],
         "epsdil": [
-          -0.004284,
+          0.168884,
+          0.218503,
+          null,
           null,
           null,
           null,
           null
         ],
         "fcf": [
+          172000000,
           170000000,
           181000000,
           -215000000,
+          null,
           -9000000,
           64000000
         ],
         "fcfps": [
+          0.738,
           0.728,
+          null,
           null,
           null,
           null,
           null
         ],
         "grossMargin": [
+          0.66026,
           0.65177,
           0.66442,
           0.66989,
+          null,
           0.61715,
           0.58645
         ],
         "operatingMargin": [
-          0.29829,
+          0.20897,
+          0.23522,
           0.27493,
           0.29972,
+          null,
           0.0781,
           0.1016
         ],
         "profitMargin": [
-          -0.00131,
+          0.05128,
+          0.06702,
           0.0283,
           0.07044,
+          null,
           0.00766,
           0.03743
         ],
         "fcfMargin": [
+          0.22051,
           0.22339,
           0.24394,
           -0.29696,
+          null,
           -0.01378,
           0.11408
         ],
         "taxrate": [
-          null,
+          0.16,
+          0.01786,
           0.04545,
           0.01786,
+          null,
           0.16667,
           0.04545
         ],
         "ebitda": [
-          328000000,
+          265000000,
+          280000000,
           305000000,
           313000000,
+          null,
           61000000,
           67000000
         ],
         "depAmorEbitda": [
+          102000000,
           101000000,
           101000000,
           96000000,
+          null,
           10000000,
           10000000
         ],
         "ebitdaMargin": [
-          0.43101,
+          0.33974,
+          0.36794,
           0.41105,
           0.43232,
+          null,
           0.09342,
           0.11943
         ],
         "ebit": [
-          227000000,
+          163000000,
+          179000000,
           204000000,
           217000000,
+          null,
           51000000,
           57000000
         ],
         "ebitMargin": [
-          0.29829,
+          0.20897,
+          0.23522,
           0.27493,
           0.29972,
+          null,
           0.0781,
           0.1016
         ],
         "revenueAsReported": [
+          780000000,
           761000000,
           742000000,
           724000000,
+          null,
           653000000,
           561000000
         ],
-        "preferredDividendsOther": [
+        "earningContinuing": [
+          42000000,
+          55000000,
+          21000000,
+          55000000,
           null,
+          5000000,
+          21000000
+        ],
+        "preferredDividendsOther": [
+          4000000,
+          4000000,
           null,
           4000000,
+          null,
           null,
           null
         ],
         "payoutratio": [
-          null,
+          1.79545,
+          7.74545,
           23.28571,
           8.76364,
+          null,
           6.4,
           0.85714
         ]
@@ -1812,43 +2041,43 @@
           "2023"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
           "Q4",
           "Q4",
           "Q4"
         ],
         "cashneq": [
-          231000000,
+          295000000,
           215000000,
           811000000,
           null
         ],
         "totalcash": [
-          231000000,
+          295000000,
           215000000,
           811000000,
           null
         ],
         "accountsReceivable": [
-          39000000,
+          33000000,
           41000000,
           49000000,
           null
         ],
         "receivables": [
-          40000000,
+          33000000,
           42000000,
           50000000,
           null
         ],
         "prepaidExpenses": [
-          14000000,
+          18000000,
           5000000,
           5000000,
           null
         ],
         "restrictedCash": [
-          34000000,
+          30000000,
           31000000,
           32000000,
           null
@@ -1860,13 +2089,13 @@
           null
         ],
         "assetsc": [
-          319000000,
+          376000000,
           305000000,
           902000000,
           null
         ],
         "netPPE": [
-          10000000,
+          9000000,
           45000000,
           99000000,
           null
@@ -1878,37 +2107,37 @@
           null
         ],
         "otherIntangibles": [
-          7390000000,
+          7367000000,
           7429000000,
           19000000,
           null
         ],
         "othernoncurrent": [
-          37000000,
+          34000000,
           5000000,
           7000000,
           null
         ],
         "assets": [
-          8163000000,
+          8471000000,
           8181000000,
           1044000000,
           null
         ],
         "accountsPayable": [
-          26000000,
+          23000000,
           22000000,
           19000000,
           null
         ],
         "accruedExpenses": [
-          69000000,
+          34000000,
           23000000,
           14000000,
           null
         ],
         "currentPortDebt": [
-          22000000,
+          null,
           22000000,
           19000000,
           null
@@ -1920,7 +2149,7 @@
           null
         ],
         "currentUnearnedRevenue": [
-          58000000,
+          77000000,
           70000000,
           63000000,
           null
@@ -1932,13 +2161,13 @@
           null
         ],
         "currentLiabilities": [
-          175000000,
+          134000000,
           151000000,
           134000000,
           null
         ],
         "debtnc": [
-          2074000000,
+          1798000000,
           2062000000,
           1752000000,
           null
@@ -1950,79 +2179,79 @@
           null
         ],
         "longTermUnearnedRevenue": [
-          null,
+          25000000,
           16000000,
           14000000,
           null
         ],
         "longTermDeferredTaxLiabilities": [
-          14000000,
+          null,
           14000000,
           null,
           null
         ],
         "otherliabilitiesnoncurrent": [
-          56000000,
+          1644000000,
           1000000,
           2000000,
           null
         ],
         "liabilities": [
-          2319000000,
+          3601000000,
           2278000000,
           1910000000,
           null
         ],
         "commonStock": [
-          6318000000,
+          null,
           6318000000,
           null,
           null
         ],
         "additionalPaidInCapital": [
-          14000000,
+          3309000000,
           8000000,
           null,
           null
         ],
         "retearn": [
-          -488000000,
+          -11000000,
           -423000000,
           -866000000,
           null
         ],
         "equity": [
-          5844000000,
+          4870000000,
           5903000000,
           -866000000,
           null
         ],
         "liabilitiesequity": [
-          8163000000,
+          8471000000,
           8181000000,
           1044000000,
           null
         ],
         "tangibleBookValue": [
-          -1953000000,
+          -4476000000,
           -1921000000,
           -885000000,
           null
         ],
         "debt": [
-          2096000000,
+          1798000000,
           2119000000,
           1781000000,
           null
         ],
         "netcash": [
-          -1865000000,
+          -1503000000,
           -1904000000,
           -970000000,
           null
         ],
         "workingcapital": [
-          144000000,
+          242000000,
           154000000,
           768000000,
           null
@@ -2046,13 +2275,13 @@
           null
         ],
         "marketcap": [
-          5333201896,
+          5809615481,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
           null,
           null,
           null
@@ -2060,242 +2289,354 @@
       },
       "quarterly": {
         "datekey": [
+          "2026-09-27",
           "2026-06-28",
           "2026-03-29",
+          "2025-09-28",
           "2025-06-29",
           "2025-03-30"
         ],
         "fiscalYear": [
           "2026",
           "2026",
+          "2026",
+          "2025",
           "2025",
           "2025"
         ],
         "fiscalQuarter": [
+          "Q3",
           "Q2",
           "Q1",
+          "Q3",
           "Q2",
           "Q1"
         ],
         "cashneq": [
+          295000000,
           231000000,
           232000000,
+          null,
           null,
           null
         ],
         "totalcash": [
+          295000000,
           231000000,
           232000000,
+          null,
           null,
           811000000
         ],
         "accountsReceivable": [
+          33000000,
           39000000,
           44000000,
+          null,
           null,
           null
         ],
         "receivables": [
+          33000000,
           40000000,
           44000000,
+          null,
           null,
           null
         ],
         "prepaidExpenses": [
+          18000000,
           14000000,
           10000000,
+          null,
           null,
           null
         ],
         "restrictedCash": [
+          30000000,
           34000000,
           44000000,
+          null,
           null,
           null
         ],
         "assetsc": [
+          376000000,
           319000000,
           330000000,
+          null,
           null,
           null
         ],
         "netPPE": [
+          9000000,
           10000000,
           13000000,
+          null,
           null,
           null
         ],
         "goodwill": [
           407000000,
+          407000000,
           408000000,
+          null,
           null,
           null
         ],
         "otherIntangibles": [
+          7367000000,
           7390000000,
           7414000000,
+          null,
           null,
           null
         ],
         "othernoncurrent": [
+          34000000,
           37000000,
           46000000,
+          null,
           null,
           null
         ],
         "assets": [
+          8471000000,
           8163000000,
           8211000000,
+          null,
           null,
           null
         ],
         "accountsPayable": [
+          23000000,
           26000000,
           45000000,
+          null,
           null,
           null
         ],
         "accruedExpenses": [
+          34000000,
           69000000,
           94000000,
+          null,
           null,
           null
         ],
         "currentPortDebt": [
+          null,
           22000000,
           22000000,
+          null,
           null,
           null
         ],
         "currentCapLeases": [
           null,
+          null,
           1000000,
+          null,
           null,
           null
         ],
         "currentUnearnedRevenue": [
+          77000000,
           58000000,
           57000000,
+          null,
           null,
           null
         ],
         "currentLiabilities": [
+          134000000,
           175000000,
           219000000,
+          null,
           null,
           null
         ],
         "debtnc": [
+          1798000000,
           2074000000,
           2077000000,
+          null,
           null,
           null
         ],
         "capitalLeases": [
           null,
+          null,
           3000000,
+          null,
+          null,
+          null
+        ],
+        "longTermUnearnedRevenue": [
+          25000000,
+          null,
+          null,
+          null,
           null,
           null
         ],
         "longTermDeferredTaxLiabilities": [
+          null,
           14000000,
           14000000,
+          null,
           null,
           null
         ],
         "otherliabilitiesnoncurrent": [
+          1644000000,
           56000000,
           53000000,
+          null,
           null,
           null
         ],
         "liabilities": [
+          3601000000,
           2319000000,
           2366000000,
+          null,
           null,
           null
         ],
         "commonStock": [
+          null,
           6318000000,
           6318000000,
+          null,
           null,
           null
         ],
         "additionalPaidInCapital": [
+          3309000000,
           14000000,
           11000000,
+          null,
           null,
           null
         ],
         "retearn": [
+          -11000000,
           -488000000,
           -484000000,
           null,
+          null,
           null
         ],
-        "equity": [
+        "totalCommonEquity": [
+          3298000000,
           5844000000,
           5845000000,
+          null,
+          null,
+          -866000000
+        ],
+        "equity": [
+          4870000000,
+          5844000000,
+          5845000000,
+          null,
           null,
           -866000000
         ],
         "liabilitiesequity": [
+          8471000000,
           8163000000,
           8211000000,
+          null,
           null,
           null
         ],
         "sharesOutFilingDate": [
           233405414,
+          233405414,
+          null,
           null,
           null,
           null
         ],
         "sharesOutTotalCommon": [
+          233000000,
           233405414,
+          null,
           null,
           null,
           null
         ],
         "bvps": [
+          14.154506,
           25.037979,
+          null,
           null,
           null,
           null
         ],
         "tangibleBookValue": [
+          -4476000000,
           -1953000000,
           -1977000000,
+          null,
           null,
           -885000000
         ],
         "tangibleBookValuePerShare": [
+          -19.2103,
           -8.367415,
+          null,
           null,
           null,
           null
         ],
         "debt": [
+          1798000000,
           2096000000,
           2103000000,
+          null,
           null,
           1781000000
         ],
         "netcash": [
+          -1503000000,
           -1865000000,
           -1871000000,
+          null,
           null,
           -970000000
         ],
         "netcashpershare": [
+          -6.45064,
           -7.99039,
+          null,
           null,
           null,
           null
         ],
         "workingcapital": [
+          242000000,
           144000000,
           111000000,
+          null,
+          null,
+          null
+        ],
+        "minorityInterestBS": [
+          1572000000,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "defferedTaxAssets": [
+          278000000,
+          null,
+          null,
+          null,
           null,
           null
         ]
@@ -2314,43 +2655,43 @@
           "2023"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
           "Q4",
           "Q4",
           "Q4"
         ],
         "cashneq": [
-          231000000,
+          295000000,
           215000000,
           811000000,
           null
         ],
         "totalcash": [
-          231000000,
+          295000000,
           215000000,
           811000000,
           null
         ],
         "accountsReceivable": [
-          39000000,
+          33000000,
           41000000,
           49000000,
           null
         ],
         "receivables": [
-          40000000,
+          33000000,
           42000000,
           50000000,
           null
         ],
         "prepaidExpenses": [
-          14000000,
+          18000000,
           5000000,
           5000000,
           null
         ],
         "restrictedCash": [
-          34000000,
+          30000000,
           31000000,
           32000000,
           null
@@ -2362,13 +2703,13 @@
           null
         ],
         "assetsc": [
-          319000000,
+          376000000,
           305000000,
           902000000,
           null
         ],
         "netPPE": [
-          10000000,
+          9000000,
           45000000,
           99000000,
           null
@@ -2380,37 +2721,37 @@
           null
         ],
         "otherIntangibles": [
-          7390000000,
+          7367000000,
           7429000000,
           19000000,
           null
         ],
         "othernoncurrent": [
-          37000000,
+          34000000,
           5000000,
           7000000,
           null
         ],
         "assets": [
-          8163000000,
+          8471000000,
           8181000000,
           1044000000,
           null
         ],
         "accountsPayable": [
-          26000000,
+          23000000,
           22000000,
           19000000,
           null
         ],
         "accruedExpenses": [
-          69000000,
+          34000000,
           23000000,
           14000000,
           null
         ],
         "currentPortDebt": [
-          22000000,
+          null,
           22000000,
           19000000,
           null
@@ -2422,7 +2763,7 @@
           null
         ],
         "currentUnearnedRevenue": [
-          58000000,
+          77000000,
           70000000,
           63000000,
           null
@@ -2434,13 +2775,13 @@
           null
         ],
         "currentLiabilities": [
-          175000000,
+          134000000,
           151000000,
           134000000,
           null
         ],
         "debtnc": [
-          2074000000,
+          1798000000,
           2062000000,
           1752000000,
           null
@@ -2452,79 +2793,79 @@
           null
         ],
         "longTermUnearnedRevenue": [
-          null,
+          25000000,
           16000000,
           14000000,
           null
         ],
         "longTermDeferredTaxLiabilities": [
-          14000000,
+          null,
           14000000,
           null,
           null
         ],
         "otherliabilitiesnoncurrent": [
-          56000000,
+          1644000000,
           1000000,
           2000000,
           null
         ],
         "liabilities": [
-          2319000000,
+          3601000000,
           2278000000,
           1910000000,
           null
         ],
         "commonStock": [
-          6318000000,
+          null,
           6318000000,
           null,
           null
         ],
         "additionalPaidInCapital": [
-          14000000,
+          3309000000,
           8000000,
           null,
           null
         ],
         "retearn": [
-          -488000000,
+          -11000000,
           -423000000,
           -866000000,
           null
         ],
         "equity": [
-          5844000000,
+          4870000000,
           5903000000,
           -866000000,
           null
         ],
         "liabilitiesequity": [
-          8163000000,
+          8471000000,
           8181000000,
           1044000000,
           null
         ],
         "tangibleBookValue": [
-          -1953000000,
+          -4476000000,
           -1921000000,
           -885000000,
           null
         ],
         "debt": [
-          2096000000,
+          1798000000,
           2119000000,
           1781000000,
           null
         ],
         "netcash": [
-          -1865000000,
+          -1503000000,
           -1904000000,
           -970000000,
           null
         ],
         "workingcapital": [
-          144000000,
+          242000000,
           154000000,
           768000000,
           null
@@ -2548,13 +2889,13 @@
           null
         ],
         "marketcap": [
-          5333201896,
+          5809615481,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
           null,
           null,
           null
@@ -2576,61 +2917,61 @@
           "2023"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
           "Q4",
           "Q4",
           "Q4"
         ],
         "netIncomeCF": [
-          -1000000,
+          -57000000,
           55000000,
           5000000,
           21000000
         ],
         "totalDepAmorCF": [
-          101000000,
+          102000000,
           96000000,
           10000000,
           10000000
         ],
         "otherAmortization": [
-          14000000,
+          13000000,
           16000000,
           4000000,
           4000000
         ],
         "sbcomp": [
-          14000000,
+          44000000,
           8000000,
           null,
           null
         ],
         "changeAR": [
-          1000000,
+          -1000000,
           8000000,
           -7000000,
           5000000
         ],
         "changeAP": [
-          39000000,
+          26000000,
           19000000,
           20000000,
           26000000
         ],
         "changeOtherNetOperAssets": [
-          3000000,
+          11000000,
           -4000000,
           4000000,
           null
         ],
         "otheroperating": [
-          9000000,
+          51000000,
           -408000000,
           2000000,
           1000000
         ],
         "ncfo": [
-          172000000,
+          174000000,
           -210000000,
           38000000,
           67000000
@@ -2642,7 +2983,7 @@
           -3000000
         ],
         "salePurchaseIntangibles": [
-          -6000000,
+          -7000000,
           -6000000,
           -8000000,
           -5000000
@@ -2654,7 +2995,7 @@
           -5000000
         ],
         "ncfi": [
-          -11000000,
+          -3000000,
           -4000000,
           -61000000,
           -13000000
@@ -2672,49 +3013,49 @@
           -3000000
         ],
         "netDebtIssued": [
-          405000000,
+          -298000000,
           383000000,
           778000000,
           -3000000
         ],
         "commonIssued": [
-          1000000,
+          302000000,
           1000000,
           null,
           null
         ],
         "commonDividendCF": [
-          -426000000,
+          -79000000,
           -482000000,
           -32000000,
           -18000000
         ],
         "otherfinancing": [
-          -23000000,
+          -27000000,
           5000000,
           -19000000,
           null
         ],
         "ncff": [
-          -43000000,
+          -102000000,
           -93000000,
           727000000,
           -21000000
         ],
         "ncf": [
-          118000000,
+          69000000,
           -307000000,
           704000000,
           33000000
         ],
         "fcf": [
-          170000000,
+          172000000,
           -215000000,
           -9000000,
           64000000
         ],
         "fcfMargin": [
-          0.22339,
+          0.22051,
           -0.29696,
           -0.01378,
           0.11408
@@ -2732,25 +3073,25 @@
           null
         ],
         "cashInterestPaid": [
-          117000000,
+          109000000,
           82000000,
           37000000,
           37000000
         ],
         "changeWorkingCapital": [
-          43000000,
+          36000000,
           23000000,
           17000000,
           31000000
         ],
         "marketcap": [
-          5333201896,
+          5809615481,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
           null,
           null,
           null
@@ -2758,212 +3099,298 @@
       },
       "quarterly": {
         "datekey": [
+          "2026-09-27",
           "2026-06-28",
           "2026-03-29",
+          "2025-09-28",
           "2025-06-29",
           "2025-03-30"
         ],
         "fiscalYear": [
           "2026",
           "2026",
+          "2026",
+          "2025",
           "2025",
           "2025"
         ],
         "fiscalQuarter": [
+          "Q3",
           "Q2",
           "Q1",
+          "Q3",
           "Q2",
           "Q1"
         ],
         "netIncomeCF": [
+          -24000000,
           37000000,
           -24000000,
+          32000000,
           59000000,
           10000000
         ],
         "totalDepAmorCF": [
+          26000000,
           25000000,
           26000000,
+          25000000,
           25000000,
           21000000
         ],
         "otherAmortization": [
           3000000,
           3000000,
+          3000000,
+          4000000,
           4000000,
           4000000
         ],
         "gainAssetsCF": [
+          -7000000,
           -14000000,
+          null,
           null,
           null,
           null
         ],
         "assetWritedownCF": [
+          null,
           6000000,
+          null,
           null,
           null,
           null
         ],
         "sbcomp": [
+          37000000,
           3000000,
           3000000,
+          7000000,
           null,
           null
         ],
         "changeAR": [
+          6000000,
           4000000,
           -3000000,
+          8000000,
           17000000,
           -9000000
         ],
         "changeAP": [
+          -15000000,
           -41000000,
           68000000,
+          -2000000,
           -72000000,
           79000000
         ],
         "changeOtherNetOperAssets": [
+          3000000,
           -4000000,
           5000000,
+          -5000000,
           -2000000,
           -4000000
         ],
         "otheroperating": [
+          43000000,
           null,
           8000000,
+          1000000,
           1000000,
           -410000000
         ],
         "ncfo": [
+          72000000,
           19000000,
           86000000,
+          70000000,
           32000000,
           -309000000
         ],
         "capex": [
           -1000000,
+          -1000000,
           null,
+          -1000000,
           -3000000,
           -1000000
         ],
         "cashAcquisition": [
           null,
+          null,
           -23000000,
+          null,
           null,
           null
         ],
         "salePurchaseIntangibles": [
           -2000000,
+          -2000000,
+          -1000000,
           -1000000,
           -2000000,
           -1000000
         ],
         "otherinvesting": [
+          null,
           1000000,
           1000000,
+          null,
           1000000,
           6000000
         ],
         "ncfi": [
+          6000000,
           16000000,
           -23000000,
+          -2000000,
           -4000000,
           4000000
         ],
         "debtIssuedLongTerm": [
           null,
+          null,
           760000000,
+          null,
+          null,
+          null
+        ],
+        "debtIssuedTotal": [
+          null,
+          null,
+          760000000,
+          400000000,
           null,
           null
         ],
         "debtRepaidLongTerm": [
           null,
+          null,
           -741000000,
+          null,
           null,
           -4000000
         ],
         "debtRepaidTotal": [
+          -307000000,
           -5000000,
           -741000000,
+          -4000000,
           -4000000,
           -4000000
         ],
         "netDebtIssued": [
+          -307000000,
           -5000000,
           19000000,
+          396000000,
           -4000000,
           -4000000
         ],
+        "commonIssued": [
+          301000000,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
         "commonDividendCF": [
+          null,
           -41000000,
           -37000000,
+          -347000000,
           -104000000,
           -30000000
         ],
         "otherfinancing": [
+          -12000000,
           null,
           -15000000,
+          -8000000,
           null,
           13000000
         ],
         "ncff": [
+          -18000000,
           -46000000,
           -33000000,
+          41000000,
           -108000000,
           -21000000
         ],
         "ncf": [
+          60000000,
           -11000000,
           30000000,
+          109000000,
           -80000000,
           -326000000
         ],
         "fcf": [
+          71000000,
           18000000,
           86000000,
+          69000000,
           29000000,
           -310000000
         ],
         "fcfMargin": [
+          0.33971,
           0.08654,
           0.46486,
+          0.36316,
           0.15344,
           -1.85629
         ],
         "fcfps": [
+          0.305,
           0.077,
+          null,
           null,
           null,
           null
         ],
         "leveredFCF": [
-          25000000,
+          61625000,
+          12500000,
+          null,
           null,
           null,
           null
         ],
         "unleveredFCF": [
-          41375000,
+          76125000,
+          28875000,
+          null,
           null,
           null,
           null
         ],
         "cashInterestPaid": [
           28000000,
+          28000000,
           25000000,
+          36000000,
           9000000,
           9000000
         ],
         "divestitures": [
+          9000000,
           18000000,
+          null,
           null,
           null,
           null
         ],
         "changeWorkingCapital": [
+          -6000000,
           -41000000,
           70000000,
+          1000000,
           -57000000,
           66000000
         ]
@@ -2982,61 +3409,61 @@
           "2023"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
           "Q4",
           "Q4",
           "Q4"
         ],
         "netIncomeCF": [
-          -1000000,
+          -57000000,
           55000000,
           5000000,
           21000000
         ],
         "totalDepAmorCF": [
-          101000000,
+          102000000,
           96000000,
           10000000,
           10000000
         ],
         "otherAmortization": [
-          14000000,
+          13000000,
           16000000,
           4000000,
           4000000
         ],
         "sbcomp": [
-          14000000,
+          44000000,
           8000000,
           null,
           null
         ],
         "changeAR": [
-          1000000,
+          -1000000,
           8000000,
           -7000000,
           5000000
         ],
         "changeAP": [
-          39000000,
+          26000000,
           19000000,
           20000000,
           26000000
         ],
         "changeOtherNetOperAssets": [
-          3000000,
+          11000000,
           -4000000,
           4000000,
           null
         ],
         "otheroperating": [
-          9000000,
+          51000000,
           -408000000,
           2000000,
           1000000
         ],
         "ncfo": [
-          172000000,
+          174000000,
           -210000000,
           38000000,
           67000000
@@ -3048,7 +3475,7 @@
           -3000000
         ],
         "salePurchaseIntangibles": [
-          -6000000,
+          -7000000,
           -6000000,
           -8000000,
           -5000000
@@ -3060,7 +3487,7 @@
           -5000000
         ],
         "ncfi": [
-          -11000000,
+          -3000000,
           -4000000,
           -61000000,
           -13000000
@@ -3078,49 +3505,49 @@
           -3000000
         ],
         "netDebtIssued": [
-          405000000,
+          -298000000,
           383000000,
           778000000,
           -3000000
         ],
         "commonIssued": [
-          1000000,
+          302000000,
           1000000,
           null,
           null
         ],
         "commonDividendCF": [
-          -426000000,
+          -79000000,
           -482000000,
           -32000000,
           -18000000
         ],
         "otherfinancing": [
-          -23000000,
+          -27000000,
           5000000,
           -19000000,
           null
         ],
         "ncff": [
-          -43000000,
+          -102000000,
           -93000000,
           727000000,
           -21000000
         ],
         "ncf": [
-          118000000,
+          69000000,
           -307000000,
           704000000,
           33000000
         ],
         "fcf": [
-          170000000,
+          172000000,
           -215000000,
           -9000000,
           64000000
         ],
         "fcfMargin": [
-          0.22339,
+          0.22051,
           -0.29696,
           -0.01378,
           0.11408
@@ -3138,25 +3565,25 @@
           null
         ],
         "cashInterestPaid": [
-          117000000,
+          109000000,
           82000000,
           37000000,
           37000000
         ],
         "changeWorkingCapital": [
-          43000000,
+          36000000,
           23000000,
           17000000,
           31000000
         ],
         "marketcap": [
-          5333201896,
+          5809615481,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
           null,
           null,
           null
@@ -3178,37 +3605,43 @@
           "2023"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
           "Q4",
           "Q4",
           "Q4"
         ],
         "debtequity": [
-          0.359,
+          0.369,
           0.359,
           -2.057,
           null
         ],
         "debtebitda": [
-          6.332326,
+          6.708955,
           6.705696,
           28.269841,
           null
         ],
+        "debtfcf": [
+          10.453,
+          null,
+          null,
+          null
+        ],
         "netdebtequity": [
-          0.319,
+          0.309,
           0.323,
           -1.12,
           null
         ],
         "netdebtebitda": [
-          5.686,
+          5.672,
           6.083,
           15.902,
           null
         ],
         "netdebtfcf": [
-          10.971,
+          8.738,
           -8.856,
           -107.778,
           null
@@ -3220,13 +3653,13 @@
           null
         ],
         "quickRatio": [
-          1.543,
+          2.448,
           1.695,
           6.418,
           null
         ],
         "currentratio": [
-          1.823,
+          2.806,
           2.02,
           6.731,
           null
@@ -3244,31 +3677,31 @@
           null
         ],
         "roic": [
-          0.02943,
+          0.01945,
           0.0489,
           0.0467,
           null
         ],
         "roce": [
-          0.028,
+          0.02,
           0.027,
           0.056,
           null
         ],
         "payoutratio": [
-          null,
+          2.3234201,
           8.76364,
           6.4,
           0.85714
         ],
         "marketcap": [
-          5333201896,
+          5809615481,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
           null,
           null,
           null
@@ -3277,8 +3710,10 @@
       "quarterly": {
         "datekey": [
           "TTM",
+          "2026-09-27",
           "2026-06-28",
           "2026-03-29",
+          "2025-09-28",
           "2025-06-29",
           "2025-03-30"
         ],
@@ -3286,120 +3721,271 @@
           "2026",
           "2026",
           "2026",
+          "2026",
+          "2025",
           "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
+          "Q3",
           "Q2",
           "Q1",
+          "Q3",
           "Q2",
           "Q1"
         ],
-        "debtequity": [
-          0.359,
-          0.359,
-          0.36,
-          null,
-          -2.057
-        ],
-        "debtebitda": [
-          6.332326,
-          5.038462,
-          12.017143,
-          null,
-          8.730392
-        ],
-        "debtfcf": [
-          12.329,
-          -11.842,
-          -10.785,
-          null,
-          null
-        ],
-        "netdebtequity": [
-          0.319,
-          0.319,
-          0.32,
-          null,
-          -1.12
-        ],
-        "netdebtebitda": [
-          5.686,
-          6.115,
-          9.308,
-          null,
-          19.02
-        ],
-        "netdebtfcf": [
-          10.971,
-          -10.537,
-          -9.595,
-          null,
-          -3.129
-        ],
-        "assetturnover": [
-          0.102,
-          null,
-          null,
-          null,
-          null
-        ],
-        "quickRatio": [
-          1.543,
-          1.543,
-          1.26,
-          null,
-          null
-        ],
-        "currentratio": [
-          1.823,
-          1.823,
-          1.507,
-          null,
-          null
-        ],
-        "roe": [
-          0.02532,
-          null,
-          null,
-          null,
-          null
-        ],
-        "roa": [
-          0.02412,
-          null,
-          null,
-          null,
-          null
-        ],
-        "roce": [
-          0.028,
-          0.026,
-          0.016,
-          null,
-          null
-        ],
-        "payoutratio": [
-          null,
-          1.10811,
-          null,
-          1.76271,
-          3
-        ],
         "marketcap": [
-          5333201896,
+          5809615481,
+          3965557984,
+          null,
           null,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
+          5830557983,
+          null,
           null,
           null,
           null,
           null
+        ],
+        "lastCloseRatios": [
+          18.29,
+          16.99,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "peForward": [
+          23.63354,
+          24.32,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "ps": [
+          7.44822,
+          5.007,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "pb": [
+          1.29217,
+          0.814,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "pfcf": [
+          33.77683,
+          16.252,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "pocf": [
+          33.38859,
+          16.055,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "pegRatio": [
+          1.35832,
+          1.017,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "evrevenue": [
+          9.37515,
+          7.362,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "evebitda": [
+          27.59478,
+          20.53,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "evebit": [
+          44.86267,
+          32.036,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "evfcf": [
+          42.51521,
+          23.896,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "debtequity": [
+          0.369,
+          0.369,
+          0.359,
+          0.36,
+          null,
+          null,
+          -2.057
+        ],
+        "debtebitda": [
+          6.708955,
+          6.330986,
+          6.238095,
+          12.017143,
+          null,
+          null,
+          8.730392
+        ],
+        "debtfcf": [
+          10.453,
+          7.369,
+          10.376,
+          -16.69,
+          null,
+          null,
+          null
+        ],
+        "netdebtequity": [
+          0.309,
+          0.309,
+          0.319,
+          0.32,
+          null,
+          null,
+          -1.12
+        ],
+        "netdebtebitda": [
+          5.672,
+          5.292,
+          5.792,
+          6.474,
+          null,
+          null,
+          19.02
+        ],
+        "netdebtfcf": [
+          8.738,
+          6.16,
+          9.233,
+          -14.849,
+          null,
+          null,
+          -3.129
+        ],
+        "assetturnover": [
+          0.101,
+          0.102,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "quickRatio": [
+          2.448,
+          2.448,
+          1.543,
+          1.26,
+          null,
+          null,
+          null
+        ],
+        "currentratio": [
+          2.806,
+          2.806,
+          1.823,
+          1.507,
+          null,
+          null,
+          null
+        ],
+        "roe": [
+          -0.0097,
+          0.01642,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "roa": [
+          0.01352,
+          0.01802,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "roce": [
+          0.02,
+          0.022,
+          0.028,
+          0.024,
+          null,
+          null,
+          null
+        ],
+        "earningsyield": [
+          0.0092335,
+          -0.00277,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "fcfyield": [
+          0.0296061,
+          0.06153,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "payoutratio": [
+          2.3234201,
+          null,
+          1.70833,
+          null,
+          null,
+          null,
+          3
         ]
       },
       "ttm": {
@@ -3416,37 +4002,43 @@
           "2023"
         ],
         "fiscalQuarter": [
-          "Q2",
+          "Q3",
           "Q4",
           "Q4",
           "Q4"
         ],
         "debtequity": [
-          0.359,
+          0.369,
           0.359,
           -2.057,
           null
         ],
         "debtebitda": [
-          6.332326,
+          6.708955,
           6.705696,
           28.269841,
           null
         ],
+        "debtfcf": [
+          10.453,
+          null,
+          null,
+          null
+        ],
         "netdebtequity": [
-          0.319,
+          0.309,
           0.323,
           -1.12,
           null
         ],
         "netdebtebitda": [
-          5.686,
+          5.672,
           6.083,
           15.902,
           null
         ],
         "netdebtfcf": [
-          10.971,
+          8.738,
           -8.856,
           -107.778,
           null
@@ -3458,13 +4050,13 @@
           null
         ],
         "quickRatio": [
-          1.543,
+          2.448,
           1.695,
           6.418,
           null
         ],
         "currentratio": [
-          1.823,
+          2.806,
           2.02,
           6.731,
           null
@@ -3482,31 +4074,31 @@
           null
         ],
         "roic": [
-          0.02943,
+          0.01945,
           0.0489,
           0.0467,
           null
         ],
         "roce": [
-          0.028,
+          0.02,
           0.027,
           0.056,
           null
         ],
         "payoutratio": [
-          null,
+          2.3234201,
           8.76364,
           6.4,
           0.85714
         ],
         "marketcap": [
-          5333201896,
+          5809615481,
           null,
           null,
           null
         ],
         "ev": [
-          7198201896,
+          7312615481,
           null,
           null,
           null
