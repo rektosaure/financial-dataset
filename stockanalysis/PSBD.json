@@ -28,7 +28,7 @@
     "shareClass": null
   },
   "dividends": {
-    "yield": "15.21%",
+    "yield": "15.31%",
     "totalYield": "n/a",
     "annual": "$1.50",
     "exdiv": "Dec 28, 2026",
@@ -38,11 +38,11 @@
     "growth": "-9.64%",
     "years": "n/a",
     "buybackYield": "n/a",
-    "totalReturn": "15.21%"
+    "totalReturn": "15.31%"
   },
   "statistics": {
     "valuation": {
-      "marketcap": "321,895,101",
+      "marketcap": "319,936,308",
       "enterpriseValue": "n/a"
     },
     "dates": {
@@ -55,14 +55,14 @@
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "n/a",
       "sharesInsiders": "6.517%",
-      "sharesInstitutions": "53.167%",
+      "sharesInstitutions": "53.510%",
       "float": "n/a"
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "6.328",
+      "peForward": "6.245",
       "ps": "n/a",
-      "psForward": "2.725",
+      "psForward": "2.703",
       "pb": "n/a",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
@@ -102,18 +102,18 @@
     },
     "stockPrice": {
       "beta": "0.972",
-      "ch1y": "-19.38%",
-      "sma50": "9.977",
-      "sma200": "10.463",
-      "rsi": "50.424",
-      "averageVolume": "117,885"
+      "ch1y": "-18.94%",
+      "sma50": "9.929",
+      "sma200": "10.416",
+      "rsi": "46.541",
+      "averageVolume": "122,306"
     },
     "shortSelling": {
-      "shortInterest": "507,551",
-      "shortPriorMonth": "447,617",
-      "shortShares": "1.555%",
+      "shortInterest": "627,200",
+      "shortPriorMonth": "530,621",
+      "shortShares": "1.921%",
       "shortFloat": "n/a",
-      "shortRatio": "3.700"
+      "shortRatio": "6.590"
     },
     "incomeStatement": {
       "revenue": "n/a",
@@ -153,19 +153,19 @@
     },
     "dividends": {
       "dps": "$1.500",
-      "dividendYield": "15.213%",
+      "dividendYield": "15.306%",
       "dividendGrowth": "-9.639%",
       "dividendGrowthYears": "n/a",
       "payoutRatio": "n/a",
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
-      "totalReturn": "15.213%",
+      "totalReturn": "15.306%",
       "earningsYield": "n/a",
       "fcfYield": "n/a"
     },
     "analystForecasts": {
-      "priceTarget": "$10.79",
-      "priceTargetChange": "9.43%",
+      "priceTarget": "$10.46",
+      "priceTargetChange": "6.74%",
       "analystRatings": "Hold",
       "analystCount": "6",
       "revenue3y": "n/a",
@@ -184,7 +184,9 @@
       "lynchFairValue": "n/a",
       "lynchUpside": "n/a",
       "grahamNumber": "n/a",
-      "grahamUpside": "n/a"
+      "grahamUpside": "n/a",
+      "grahamFormula": "n/a",
+      "grahamFormulaUpside": "n/a"
     }
   },
   "forecast": {
@@ -193,8 +195,8 @@
         "annual": {
           "epsNext": {
             "last": 1.66998,
-            "this": 1.50491,
-            "growth": -9.884549515563064
+            "this": 1.50569,
+            "growth": -9.837842369369696
           },
           "epsThis": {
             "last": null,
@@ -203,8 +205,8 @@
           },
           "revenueNext": {
             "last": 124759520,
-            "this": 106224990,
-            "growth": -14.856204961352848
+            "this": 106285720,
+            "growth": -14.807527313346508
           },
           "revenueThis": {
             "last": null,
@@ -667,35 +669,22 @@
       },
       "epsGrowth": {
         "2026-12-31": {
-          "avg": -9.884549515563064,
-          "low": -11.376184145917916,
-          "high": -7.184517179846464
+          "avg": -9.837842369369696,
+          "low": -10.178565012754644,
+          "high": -9.074958981544691
         },
         "2027-12-31": "[PRO]"
       },
       "revenueGrowth": {
         "2026-12-31": {
-          "avg": -14.856204961352848,
-          "low": -16.319011166442447,
-          "high": -13.433459827354255
+          "avg": -14.807527313346508,
+          "low": -15.036543904625471,
+          "high": -14.58995674237926
         },
         "2027-12-31": "[PRO]"
       }
     },
     "recommendations": [
-      {
-        "buy": 1,
-        "date": "2025-10-14",
-        "hold": 5,
-        "sell": 0,
-        "month": "Oct '25",
-        "score": 0.8333333333333334,
-        "total": 6,
-        "updated": "2025-10-14",
-        "consensus": "Hold",
-        "strongBuy": 0,
-        "strongSell": 0
-      },
       {
         "buy": 0,
         "date": "2025-11-25",
@@ -838,55 +827,68 @@
         "consensus": "Hold",
         "strongBuy": 0,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-11-11",
+        "hold": 6,
+        "sell": 0,
+        "month": "Nov '26",
+        "score": 0,
+        "total": 6,
+        "updated": "2026-11-11",
+        "consensus": "Hold",
+        "strongBuy": 0,
+        "strongSell": 0
       }
     ],
     "targets": {
       "low": 9.5,
       "high": 12,
-      "count": 5,
+      "count": 7,
       "median": 10,
-      "average": 10.5,
-      "updated": "2026-10-20",
+      "average": 10.54,
+      "updated": "2026-11-12",
       "filtered": {
         "1": {
           "low": 9.5,
           "high": 12,
-          "count": 4,
-          "median": 11,
-          "average": 10.63,
-          "updated": "2026-09-01"
+          "count": 6,
+          "median": 10,
+          "average": 10.29,
+          "updated": "2026-11-12"
         },
         "2": {
           "low": 9.5,
-          "high": 11,
-          "count": 3,
+          "high": 10.25,
+          "count": 5,
           "median": 10,
-          "average": 10.17,
-          "updated": "2026-09-01"
+          "average": 9.95,
+          "updated": "2026-11-12"
         },
         "3": {
           "low": 9.5,
-          "high": 11,
-          "count": 3,
+          "high": 10.25,
+          "count": 5,
           "median": 10,
-          "average": 10.17,
-          "updated": "2026-09-01"
+          "average": 9.95,
+          "updated": "2026-11-12"
         },
         "4": {
           "low": 9.5,
-          "high": 11,
+          "high": 10,
           "count": 3,
           "median": 10,
-          "average": 10.17,
-          "updated": "2026-09-01"
+          "average": 9.83,
+          "updated": "2026-11-12"
         },
         "5": {
-          "low": 9.5,
-          "high": 11,
-          "count": 3,
+          "low": 10,
+          "high": 10,
+          "count": 1,
           "median": 10,
-          "average": 10.17,
-          "updated": "2026-09-01"
+          "average": 10,
+          "updated": "2026-11-12"
         }
       },
       "currency": "USD",
@@ -940,38 +942,88 @@
           "t": "2026-10-01"
         },
         {
-          "c": 9.88,
+          "c": 9.8,
           "t": "2026-11-01"
         },
         {
           "c": null,
-          "t": "2027-11-06"
+          "t": "2027-11-13"
         }
       ]
     },
     "ratings": [
       {
+        "action_rt": "Reiterates",
+        "pt_now": 10.25,
+        "pt_old": null,
+        "firm": "Bank of America Securities",
+        "analyst": "Derek Hewett",
+        "slug": "derek-hewett",
+        "date": "2026-11-12",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "11:00:44",
+        "scores": {
+          "score": 56.4,
+          "stars": 3.8,
+          "total": 241,
+          "avg_return": 4.5,
+          "return_pct": null,
+          "analyst_rank": 2950,
+          "success_rate": 56.4,
+          "stock_avg_return": 0,
+          "stock_success_rate": 0,
+          "number_of_ranked_experts": 12581
+        },
+        "curr": "USD"
+      },
+      {
+        "action_rt": "Maintains",
+        "pt_now": 10,
+        "pt_old": 11,
+        "firm": "RBC Capital",
+        "analyst": "Kenneth Lee",
+        "slug": "kenneth-lee",
+        "date": "2026-11-12",
+        "rating_new": "Hold",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 64.6,
+          "stars": 4.8,
+          "total": 500,
+          "avg_return": 10.6,
+          "return_pct": null,
+          "analyst_rank": 413,
+          "success_rate": 64.6,
+          "stock_avg_return": -7.7,
+          "stock_success_rate": 11.1,
+          "number_of_ranked_experts": 12581
+        },
+        "curr": "USD"
+      },
+      {
         "action_rt": "Maintains",
         "pt_now": 10,
         "pt_old": null,
         "firm": "UBS",
-        "analyst": "Unknown Analyst",
-        "slug": "",
+        "analyst": "Melissa Wedel",
+        "slug": "melissa-wedel",
         "date": "2026-10-20",
         "rating_new": "Hold",
         "rating_old": "",
         "time": "13:47:26",
         "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
+          "score": 57.7,
+          "stars": 3.6,
+          "total": 97,
+          "avg_return": 6,
           "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12561
+          "analyst_rank": 3446,
+          "success_rate": 57.7,
+          "stock_avg_return": -8.5,
+          "stock_success_rate": 33.3,
+          "number_of_ranked_experts": 12581
         },
         "curr": "USD"
       },
@@ -987,65 +1039,16 @@
         "rating_old": "",
         "time": "11:46:06",
         "scores": {
-          "score": 59.6,
-          "stars": 4.8,
-          "total": 369,
-          "avg_return": 13,
+          "score": 58.1,
+          "stars": 4.7,
+          "total": 370,
+          "avg_return": 12.1,
           "return_pct": null,
-          "analyst_rank": 509,
-          "success_rate": 59.6,
+          "analyst_rank": 645,
+          "success_rate": 58.1,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12561
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": null,
-        "pt_old": null,
-        "firm": "Bank of America Securities",
-        "analyst": "Derek Hewett",
-        "slug": "derek-hewett",
-        "date": "2026-08-24",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "13:30:18",
-        "scores": {
-          "score": 56.5,
-          "stars": 3.8,
-          "total": 239,
-          "avg_return": 4.4,
-          "return_pct": null,
-          "analyst_rank": 2900,
-          "success_rate": 56.5,
-          "stock_avg_return": 0,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12561
-        }
-      },
-      {
-        "action_rt": "Maintains",
-        "pt_now": 11,
-        "pt_old": null,
-        "firm": "RBC Capital",
-        "analyst": "Kenneth Lee",
-        "slug": "kenneth-lee",
-        "date": "2026-08-12",
-        "rating_new": "Hold",
-        "rating_old": "",
-        "time": "11:07:21",
-        "scores": {
-          "score": 64.7,
-          "stars": 4.8,
-          "total": 499,
-          "avg_return": 10,
-          "return_pct": null,
-          "analyst_rank": 414,
-          "success_rate": 64.7,
-          "stock_avg_return": -7.7,
-          "stock_success_rate": 11.1,
-          "number_of_ranked_experts": 12561
+          "number_of_ranked_experts": 12581
         },
         "curr": "USD"
       },
@@ -1070,7 +1073,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12561
+          "number_of_ranked_experts": 12581
         },
         "curr": "USD"
       }
@@ -1078,8 +1081,8 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 10.79,
-      "median": 10.63,
+      "avg": 10.46,
+      "median": 10.13,
       "low": 9.5,
       "high": 12,
       "numPriceTargets": 6

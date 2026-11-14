@@ -42,9 +42,9 @@
       "sharesout": "189,815,781",
       "sharesgrowthyoy": "0.278%",
       "sharesgrowthqoq": "-0.775%",
-      "sharesInsiders": "5.541%",
-      "sharesInstitutions": "66.263%",
-      "float": "170,443,131"
+      "sharesInsiders": "5.547%",
+      "sharesInstitutions": "65.483%",
+      "float": "168,634,570"
     },
     "ratios": {
       "pe": "n/a",
@@ -90,18 +90,18 @@
     },
     "stockPrice": {
       "beta": "1.620",
-      "ch1y": "13.57%",
-      "sma50": "1.250",
-      "sma200": "1.336",
-      "rsi": "77.069",
-      "averageVolume": "849,243"
+      "ch1y": "6.71%",
+      "sma50": "1.281",
+      "sma200": "1.334",
+      "rsi": "63.838",
+      "averageVolume": "986,592"
     },
     "shortSelling": {
-      "shortInterest": "8,420,938",
-      "shortPriorMonth": "8,723,288",
-      "shortShares": "4.436%",
-      "shortFloat": "4.941%",
-      "shortRatio": "12.590"
+      "shortInterest": "7,895,727",
+      "shortPriorMonth": "8,293,627",
+      "shortShares": "4.160%",
+      "shortFloat": "4.682%",
+      "shortRatio": "15.490"
     },
     "incomeStatement": {
       "revenue": "156,565,000",
@@ -152,8 +152,8 @@
       "fcfYield": "1.264%"
     },
     "analystForecasts": {
-      "priceTarget": "$1.55",
-      "priceTargetChange": "-2.52%",
+      "priceTarget": "$1.97",
+      "priceTargetChange": "23.71%",
       "analystRatings": "Buy",
       "analystCount": "3",
       "revenue3y": "9.94%",
@@ -172,7 +172,9 @@
       "lynchFairValue": "n/a",
       "lynchUpside": "n/a",
       "grahamNumber": "n/a",
-      "grahamUpside": "n/a"
+      "grahamUpside": "n/a",
+      "grahamFormula": "n/a",
+      "grahamFormulaUpside": "n/a"
     }
   },
   "forecast": {
@@ -738,19 +740,6 @@
     "recommendations": [
       {
         "buy": 0,
-        "date": "2025-03-06",
-        "hold": 4,
-        "sell": 0,
-        "month": "Mar '25",
-        "score": 0,
-        "total": 4,
-        "updated": "2025-03-06",
-        "consensus": "Hold",
-        "strongBuy": 0,
-        "strongSell": 0
-      },
-      {
-        "buy": 0,
         "date": "2025-04-11",
         "hold": 3,
         "sell": 0,
@@ -891,6 +880,19 @@
         "consensus": "Buy",
         "strongBuy": 1,
         "strongSell": 0
+      },
+      {
+        "buy": 0,
+        "date": "2026-11-05",
+        "hold": 2,
+        "sell": 0,
+        "month": "Nov '26",
+        "score": 3.3333333333333335,
+        "total": 3,
+        "updated": "2026-11-05",
+        "consensus": "Buy",
+        "strongBuy": 1,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -994,7 +996,7 @@
         },
         {
           "c": null,
-          "t": "2027-11-06"
+          "t": "2027-11-13"
         }
       ]
     },
@@ -1011,16 +1013,16 @@
         "rating_old": "",
         "time": "13:51:22",
         "scores": {
-          "score": 43.7,
-          "stars": 4.5,
-          "total": 375,
-          "avg_return": 10.8,
+          "score": 44.1,
+          "stars": 4.6,
+          "total": 376,
+          "avg_return": 10.9,
           "return_pct": null,
-          "analyst_rank": 1150,
-          "success_rate": 43.7,
-          "stock_avg_return": 16.5,
+          "analyst_rank": 1111,
+          "success_rate": 44.1,
+          "stock_avg_return": 15.1,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12561
+          "number_of_ranked_experts": 12555
         },
         "curr": "USD"
       },
@@ -1039,13 +1041,13 @@
           "score": 33.3,
           "stars": 0.2,
           "total": 114,
-          "avg_return": -11.4,
+          "avg_return": -10.9,
           "return_pct": null,
-          "analyst_rank": 12161,
+          "analyst_rank": 12124,
           "success_rate": 33.3,
           "stock_avg_return": -43.6,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12561
+          "number_of_ranked_experts": 12555
         },
         "curr": "USD"
       }
@@ -1053,10 +1055,10 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 1.55,
-      "median": 1.5,
-      "low": 1.4,
-      "high": 1.75,
+      "avg": 1.967,
+      "median": 2,
+      "low": 1.65,
+      "high": 2.25,
       "numPriceTargets": 3
     },
     "currentRatings": {

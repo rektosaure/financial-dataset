@@ -30,7 +30,7 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "1,364,624,859",
+      "marketcap": "1,408,468,228",
       "enterpriseValue": "n/a"
     },
     "dates": {
@@ -43,12 +43,12 @@
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "n/a",
       "sharesInsiders": "9.581%",
-      "sharesInstitutions": "36.370%",
+      "sharesInstitutions": "36.369%",
       "float": "58,106,157"
     },
     "ratios": {
       "pe": "n/a",
-      "peForward": "24.097",
+      "peForward": "27.100",
       "ps": "n/a",
       "psForward": "n/a",
       "pb": "n/a",
@@ -90,18 +90,18 @@
     },
     "stockPrice": {
       "beta": "n/a",
-      "ch1y": "-30.19%",
-      "sma50": "7.479",
-      "sma200": "8.524",
-      "rsi": "49.492",
-      "averageVolume": "21,683"
+      "ch1y": "-24.56%",
+      "sma50": "7.507",
+      "sma200": "8.461",
+      "rsi": "53.003",
+      "averageVolume": "14,450"
     },
     "shortSelling": {
-      "shortInterest": "37,922",
-      "shortPriorMonth": "24,754",
-      "shortShares": "0.021%",
-      "shortFloat": "0.065%",
-      "shortRatio": "0.950"
+      "shortInterest": "35,951",
+      "shortPriorMonth": "37,922",
+      "shortShares": "0.020%",
+      "shortFloat": "0.062%",
+      "shortRatio": "1.210"
     },
     "incomeStatement": {
       "revenue": "n/a",
@@ -153,7 +153,7 @@
     },
     "analystForecasts": {
       "priceTarget": "$10.75",
-      "priceTargetChange": "43.91%",
+      "priceTargetChange": "39.43%",
       "analystRatings": "Buy",
       "analystCount": "2",
       "revenue3y": "n/a",
@@ -172,7 +172,9 @@
       "lynchFairValue": "n/a",
       "lynchUpside": "n/a",
       "grahamNumber": "n/a",
-      "grahamUpside": "n/a"
+      "grahamUpside": "n/a",
+      "grahamFormula": "n/a",
+      "grahamFormulaUpside": "n/a"
     }
   },
   "forecast": {
@@ -448,7 +450,7 @@
           ],
           "grossMargin": [
             55.1,
-            55.1,
+            54.5,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -456,7 +458,7 @@
           ],
           "grossProfit": [
             55651000,
-            60279400,
+            59623000,
             "[PRO]",
             "[PRO]",
             "[PRO]",
@@ -596,6 +598,19 @@
         "consensus": "Buy",
         "strongBuy": 1,
         "strongSell": 0
+      },
+      {
+        "buy": 1,
+        "date": "2026-11-10",
+        "hold": 0,
+        "sell": 0,
+        "month": "Nov '26",
+        "score": 7.5,
+        "total": 2,
+        "updated": "2026-11-10",
+        "consensus": "Buy",
+        "strongBuy": 1,
+        "strongSell": 0
       }
     ],
     "targets": {
@@ -604,7 +619,7 @@
       "count": 3,
       "median": 11.03,
       "average": 10.84,
-      "updated": "2026-10-21",
+      "updated": "2026-11-13",
       "filtered": {
         "1": {
           "low": 10,
@@ -612,7 +627,7 @@
           "count": 1,
           "median": 10,
           "average": 10,
-          "updated": "2026-10-16"
+          "updated": "2026-11-11"
         },
         "2": {
           "low": 10,
@@ -620,15 +635,11 @@
           "count": 1,
           "median": 10,
           "average": 10,
-          "updated": "2026-10-16"
+          "updated": "2026-11-11"
         },
         "3": {
-          "low": 10,
-          "high": 10,
-          "count": 1,
-          "median": 10,
-          "average": 10,
-          "updated": "2026-10-16"
+          "count": 0,
+          "updated": ""
         },
         "4": {
           "count": 0,
@@ -690,38 +701,38 @@
           "t": "2026-10-01"
         },
         {
-          "c": 7.47,
+          "c": 7.71,
           "t": "2026-11-01"
         },
         {
           "c": null,
-          "t": "2027-11-06"
+          "t": "2027-11-13"
         }
       ]
     },
     "ratings": [
       {
-        "action_rt": "Initiates",
+        "action_rt": "Maintains",
         "pt_now": 11.5,
         "pt_old": null,
         "firm": "Roth MKM",
         "analyst": "Nick Anderson",
         "slug": "nick-anderson",
-        "date": "2026-10-21",
+        "date": "2026-11-13",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "08:55:25",
+        "time": "00:00:00",
         "scores": {
-          "score": 18.2,
-          "stars": 0.6,
-          "total": 22,
-          "avg_return": -8.8,
+          "score": 30.4,
+          "stars": 0.5,
+          "total": 23,
+          "avg_return": -10.8,
           "return_pct": null,
-          "analyst_rank": 11116,
-          "success_rate": 18.2,
-          "stock_avg_return": -3.1,
-          "stock_success_rate": 0,
-          "number_of_ranked_experts": 12557
+          "analyst_rank": 11385,
+          "success_rate": 30.4,
+          "stock_avg_return": 7.6,
+          "stock_success_rate": 100,
+          "number_of_ranked_experts": 12574
         },
         "curr": "USD"
       },
@@ -732,21 +743,21 @@
         "firm": "Barclays",
         "analyst": "Pallav Mittal",
         "slug": "pallav-mittal",
-        "date": "2026-10-16",
+        "date": "2026-11-11",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "06:36:41",
+        "time": "07:35:43",
         "scores": {
-          "score": 53.5,
-          "stars": 3.2,
-          "total": 155,
-          "avg_return": 2.9,
+          "score": 54.1,
+          "stars": 2.9,
+          "total": 157,
+          "avg_return": 2.1,
           "return_pct": null,
-          "analyst_rank": 4537,
-          "success_rate": 53.5,
-          "stock_avg_return": 6.3,
+          "analyst_rank": 5180,
+          "success_rate": 54.1,
+          "stock_avg_return": 16,
           "stock_success_rate": 100,
-          "number_of_ranked_experts": 12557
+          "number_of_ranked_experts": 12574
         },
         "curr": "USD"
       },
@@ -771,7 +782,7 @@
           "success_rate": null,
           "stock_avg_return": 0,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12557
+          "number_of_ranked_experts": 12574
         },
         "curr": "USD"
       }
