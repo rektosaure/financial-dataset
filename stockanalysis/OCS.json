@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "471,632,969",
-      "enterpriseValue": "222,927,405"
+      "marketcap": "435,828,372",
+      "enterpriseValue": "187,122,808"
     },
     "dates": {
       "earningsdate": "Nov 3, 2026",
@@ -42,24 +42,24 @@
       "sharesout": "61,732,064",
       "sharesgrowthyoy": "21.731%",
       "sharesgrowthqoq": "-0.790%",
-      "sharesInsiders": "3.869%",
-      "sharesInstitutions": "36.739%",
-      "float": "52,393,456"
+      "sharesInsiders": "3.870%",
+      "sharesInstitutions": "38.781%",
+      "float": "52,392,460"
     },
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "419.960",
-      "psForward": "889.616",
-      "pb": "1.856",
-      "ptbvRatio": "2.013",
+      "ps": "388.078",
+      "psForward": "823.546",
+      "pb": "1.715",
+      "ptbvRatio": "1.860",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "198.50",
+      "evSales": "166.62",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -74,10 +74,10 @@
     },
     "financialEfficiency": {
       "roe": "-47.487%",
-      "roa": "-27.979%",
+      "roa": "-40.270%",
       "roic": "-32.490%",
       "roce": "-42.314%",
-      "wacc": "6.030%",
+      "wacc": "6.045%",
       "revPerEmployee": "18,717",
       "profitPerEmployee": "-1,609,496",
       "employees": "60",
@@ -90,11 +90,11 @@
     },
     "stockPrice": {
       "beta": "0.292",
-      "ch1y": "-59.58%",
-      "sma50": "8.741",
-      "sma200": "17.865",
-      "rsi": "44.339",
-      "averageVolume": "313,738"
+      "ch1y": "-63.37%",
+      "sma50": "8.328",
+      "sma200": "17.353",
+      "rsi": "36.197",
+      "averageVolume": "288,643"
     },
     "shortSelling": {
       "shortInterest": "1,583,743",
@@ -123,12 +123,12 @@
       "workingcapital": "232,732,459"
     },
     "cashFlow": {
-      "ncfo": "-78,290,882",
-      "capex": "-218,170",
-      "depreciationAmortization": "355,272",
-      "netBorrowing": "-528,139",
-      "fcf": "-78,509,052",
-      "fcfps": "-1.272"
+      "ncfo": "-78,151,498",
+      "capex": "-217,782",
+      "depreciationAmortization": "354,639",
+      "netBorrowing": "-527,198",
+      "fcf": "-78,369,279",
+      "fcfps": "-1.270"
     },
     "margins": {
       "grossMargin": "n/a",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-21.731%",
       "totalReturn": "-21.731%",
-      "earningsYield": "-21.231%",
-      "fcfYield": "-16.646%"
+      "earningsYield": "-22.975%",
+      "fcfYield": "-17.982%"
     },
     "analystForecasts": {
-      "priceTarget": "$36.15",
-      "priceTargetChange": "373.17%",
+      "priceTarget": "$35.81",
+      "priceTargetChange": "407.22%",
       "analystRatings": "Strong Buy",
       "analystCount": "10",
       "revenue3y": "84.50%",
@@ -243,7 +243,7 @@
             -2.970001,
             -2.122848,
             -1.894164,
-            -1.4492,
+            -1.44009,
             "[PRO]",
             "[PRO]"
           ],
@@ -458,7 +458,7 @@
             -0.489803,
             -0.16272,
             -0.3,
-            -0.43164,
+            -0.43253,
             -0.35495,
             "[PRO]",
             "[PRO]",
@@ -614,8 +614,8 @@
             -3133.0900243309,
             -6620.574162679426,
             -4830,
-            100,
-            85,
+            -214957.14285714284,
+            null,
             null,
             "[PRO]",
             "[PRO]",
@@ -626,8 +626,8 @@
             -12877000,
             -13837000,
             -14973000,
-            7000,
-            151036.5,
+            -15047000,
+            null,
             null,
             "[PRO]",
             "[PRO]",
@@ -883,13 +883,13 @@
       },
       {
         "buy": 3,
-        "date": "2026-11-04",
+        "date": "2026-11-17",
         "hold": 0,
         "sell": 0,
         "month": "Nov '26",
         "score": 8.5,
         "total": 10,
-        "updated": "2026-11-04",
+        "updated": "2026-11-17",
         "consensus": "Strong Buy",
         "strongBuy": 7,
         "strongSell": 0
@@ -901,7 +901,7 @@
       "count": 8,
       "median": 40,
       "average": 37,
-      "updated": "2026-11-04",
+      "updated": "2026-11-17",
       "filtered": {
         "1": {
           "low": 20,
@@ -944,6 +944,7 @@
           "updated": "2026-11-04"
         }
       },
+      "warning": "OCS's stock price has decreased by -63.37% in the past year and price targets may not have had time to catch up.",
       "currency": "USD",
       "chart": [
         {
@@ -995,16 +996,41 @@
           "t": "2026-10-01"
         },
         {
-          "c": 7.64,
+          "c": 7.06,
           "t": "2026-11-01"
         },
         {
           "c": null,
-          "t": "2027-11-13"
+          "t": "2027-11-20"
         }
       ]
     },
     "ratings": [
+      {
+        "action_rt": "Reiterates",
+        "pt_now": 39,
+        "pt_old": null,
+        "firm": "H.C. Wainwright",
+        "analyst": "Yi Chen",
+        "slug": "yi-chen",
+        "date": "2026-11-17",
+        "rating_new": "Buy",
+        "rating_old": "",
+        "time": "00:00:00",
+        "scores": {
+          "score": 40.5,
+          "stars": 0.4,
+          "total": 494,
+          "avg_return": -2.8,
+          "return_pct": null,
+          "analyst_rank": 11639,
+          "success_rate": 40.5,
+          "stock_avg_return": -6.2,
+          "stock_success_rate": 52.2,
+          "number_of_ranked_experts": 12578
+        },
+        "curr": "USD"
+      },
       {
         "action_rt": "Maintains",
         "pt_now": null,
@@ -1017,16 +1043,16 @@
         "rating_old": "",
         "time": "20:40:46",
         "scores": {
-          "score": 57.1,
+          "score": 57.4,
           "stars": 4.9,
-          "total": 478,
-          "avg_return": 16.6,
+          "total": 476,
+          "avg_return": 16,
           "return_pct": null,
-          "analyst_rank": 308,
-          "success_rate": 57.1,
-          "stock_avg_return": -0.3,
+          "analyst_rank": 328,
+          "success_rate": 57.4,
+          "stock_avg_return": 0.1,
           "stock_success_rate": 50,
-          "number_of_ranked_experts": 12555
+          "number_of_ranked_experts": 12578
         }
       },
       {
@@ -1041,16 +1067,16 @@
         "rating_old": "",
         "time": "14:02:12",
         "scores": {
-          "score": 49.4,
+          "score": 48.9,
           "stars": 4.8,
-          "total": 482,
-          "avg_return": 15.8,
+          "total": 487,
+          "avg_return": 15.2,
           "return_pct": null,
-          "analyst_rank": 464,
-          "success_rate": 49.4,
-          "stock_avg_return": -10.2,
+          "analyst_rank": 488,
+          "success_rate": 48.9,
+          "stock_avg_return": -9.7,
           "stock_success_rate": 46.2,
-          "number_of_ranked_experts": 12555
+          "number_of_ranked_experts": 12578
         },
         "curr": "USD"
       },
@@ -1066,41 +1092,16 @@
         "rating_old": "",
         "time": "13:55:30",
         "scores": {
-          "score": 48.9,
+          "score": 48.3,
           "stars": 4.9,
-          "total": 472,
-          "avg_return": 22.1,
+          "total": 476,
+          "avg_return": 21.2,
           "return_pct": null,
-          "analyst_rank": 294,
-          "success_rate": 48.9,
-          "stock_avg_return": -40.6,
+          "analyst_rank": 317,
+          "success_rate": 48.3,
+          "stock_avg_return": -39.6,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12555
-        },
-        "curr": "USD"
-      },
-      {
-        "action_rt": "Reiterates",
-        "pt_now": 39,
-        "pt_old": null,
-        "firm": "H.C. Wainwright",
-        "analyst": "Yi Chen",
-        "slug": "yi-chen",
-        "date": "2026-11-04",
-        "rating_new": "Buy",
-        "rating_old": "",
-        "time": "13:44:03",
-        "scores": {
-          "score": 41.6,
-          "stars": 0.7,
-          "total": 495,
-          "avg_return": -1.3,
-          "return_pct": null,
-          "analyst_rank": 10784,
-          "success_rate": 41.6,
-          "stock_avg_return": -3.7,
-          "stock_success_rate": 50,
-          "number_of_ranked_experts": 12555
+          "number_of_ranked_experts": 12578
         },
         "curr": "USD"
       },
@@ -1116,16 +1117,16 @@
         "rating_old": "",
         "time": "11:56:54",
         "scores": {
-          "score": 46.2,
+          "score": 44.7,
           "stars": 4.4,
-          "total": 156,
-          "avg_return": 13.3,
+          "total": 159,
+          "avg_return": 12.3,
           "return_pct": null,
-          "analyst_rank": 1442,
-          "success_rate": 46.2,
-          "stock_avg_return": -55.8,
+          "analyst_rank": 1622,
+          "success_rate": 44.7,
+          "stock_avg_return": -54.9,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12555
+          "number_of_ranked_experts": 12578
         },
         "curr": "USD"
       }
@@ -1133,10 +1134,10 @@
     "priceTargets": {
       "source": "spg",
       "currency": "USD",
-      "avg": 36.15,
-      "median": 39.11,
-      "low": 19.69,
-      "high": 41.69,
+      "avg": 35.81,
+      "median": 38.89,
+      "low": 19.34,
+      "high": 40.94,
       "numPriceTargets": 10
     },
     "currentRatings": {
@@ -1187,7 +1188,7 @@
           960000
         ],
         "cor": [
-          57085000,
+          57671000,
           57085000,
           52083000,
           29247000,
@@ -1195,7 +1196,7 @@
           9568000
         ],
         "gp": [
-          -56148000,
+          -56734000,
           -55886000,
           -51397000,
           -28364000,
@@ -1211,7 +1212,7 @@
           4624000
         ],
         "opex": [
-          33418999.999999996,
+          32833000,
           25786000,
           21807000,
           17487000,
@@ -1235,7 +1236,7 @@
           -5120000
         ],
         "interestIncome": [
-          1770000,
+          1899000,
           1770000,
           2168000,
           1429000,
@@ -1251,7 +1252,7 @@
           -193000
         ],
         "otherNonOperating": [
-          4163999.999999999,
+          4035000,
           -12294000,
           -15531000,
           -3431000,
@@ -1501,7 +1502,7 @@
           387000
         ],
         "cor": [
-          null,
+          15054000,
           15283000,
           14046000,
           13288000,
@@ -1523,7 +1524,7 @@
           3529000
         ],
         "gp": [
-          7000,
+          -15047000,
           -14973000,
           -13837000,
           -12877000,
@@ -1566,30 +1567,8 @@
           2071500,
           1540000
         ],
-        "rnd": [
-          15054000,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "opex": [
-          23645000,
+          8591000,
           8595000,
           7891000,
           7756000,
@@ -1655,7 +1634,7 @@
           -1527000
         ],
         "interestIncome": [
-          null,
+          621000,
           592000,
           367000,
           319000,
@@ -1699,7 +1678,7 @@
           659000
         ],
         "otherNonOperating": [
-          3777000,
+          3156000,
           12100000,
           -7983000,
           -3238000,
@@ -1984,28 +1963,6 @@
           -1.736,
           -1.207
         ],
-        "grossMargin": [
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "operatingMargin": [
           -3376.85714,
           -76.02581,
@@ -2251,7 +2208,7 @@
           960000
         ],
         "cor": [
-          57085000,
+          57671000,
           56734000,
           56360000,
           57085000,
@@ -2273,7 +2230,7 @@
           9568000
         ],
         "gp": [
-          -56148000,
+          -56734000,
           -55561000,
           -55237000,
           -55886000,
@@ -2316,30 +2273,8 @@
           5726000,
           4624000
         ],
-        "rnd": [
-          586000,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
         "opex": [
-          33418999.999999996,
+          32833000,
           30664000,
           28189000,
           25786000,
@@ -2405,7 +2340,7 @@
           -5120000
         ],
         "interestIncome": [
-          1770000,
+          1899000,
           1716000,
           1644000,
           1770000,
@@ -2449,7 +2384,7 @@
           -193000
         ],
         "otherNonOperating": [
-          4163999.999999999,
+          4035000,
           3968000,
           -8366000,
           -12294000,
@@ -5957,7 +5892,7 @@
           "Q4"
         ],
         "marketcap": [
-          471632969,
+          435828372,
           1154403973,
           713064660,
           410995057,
@@ -5965,7 +5900,7 @@
           158902201
         ],
         "ev": [
-          222927405,
+          187122808,
           975425312,
           589673200,
           295184057,
@@ -5973,7 +5908,7 @@
           null
         ],
         "lastCloseRatios": [
-          7.64,
+          7.06,
           19.97,
           17,
           11.23,
@@ -5981,7 +5916,7 @@
           9.69
         ],
         "ps": [
-          419.95985,
+          388.07808,
           763.457,
           941.931,
           391.939,
@@ -5989,7 +5924,7 @@
           150.893
         ],
         "pb": [
-          1.85615,
+          1.71524,
           4.669,
           8.805,
           3.692,
@@ -5997,7 +5932,7 @@
           -2.376
         ],
         "ptbvRatio": [
-          2.01321,
+          1.86038,
           5.008,
           10.753,
           4.245,
@@ -6005,7 +5940,7 @@
           null
         ],
         "evrevenue": [
-          198.503,
+          166.62123,
           645.09,
           778.936,
           281.498,
@@ -6077,12 +6012,12 @@
           null
         ],
         "roa": [
-          -0.27979,
-          -0.28651,
-          -0.38987,
-          -0.37852,
-          -0.42554,
-          -0.22223
+          -0.4027,
+          -0.55545,
+          -0.73093,
+          -1.17298,
+          -0.81381,
+          -0.49854
         ],
         "roce": [
           -0.423,
@@ -6093,7 +6028,7 @@
           -0.245
         ],
         "earningsyield": [
-          -0.2123063,
+          -0.22974730000000002,
           -0.1081,
           -0.13275,
           -0.25659,
@@ -6101,7 +6036,7 @@
           -0.12807
         ],
         "fcfyield": [
-          -0.1664622,
+          -0.1798168,
           -0.07276,
           -0.07606,
           -0.15917,
@@ -6188,7 +6123,7 @@
           "Q4"
         ],
         "marketcap": [
-          471632969,
+          435828372,
           576577478,
           917340621,
           1573316340,
@@ -6211,7 +6146,7 @@
           158902201
         ],
         "ev": [
-          222927405,
+          187122808,
           297145547,
           643334240,
           1307599710,
@@ -6234,7 +6169,7 @@
           null
         ],
         "lastCloseRatios": [
-          7.64,
+          7.06,
           9.34,
           13.87,
           26.59,
@@ -6257,7 +6192,7 @@
           9.69
         ],
         "ps": [
-          419.95985,
+          388.07808,
           513.406,
           631.894,
           1122.766,
@@ -6280,7 +6215,7 @@
           150.893
         ],
         "pb": [
-          1.85615,
+          1.71524,
           2.304,
           3.379,
           6.417,
@@ -6303,7 +6238,7 @@
           -2.376
         ],
         "ptbvRatio": [
-          2.01321,
+          1.86038,
           2.461,
           3.597,
           6.883,
@@ -6326,7 +6261,7 @@
           null
         ],
         "evrevenue": [
-          198.503,
+          166.62123,
           264.59,
           443.149,
           933.142,
@@ -6533,27 +6468,27 @@
           null
         ],
         "roa": [
-          -0.27979,
-          -0.27979,
-          -0.24952,
-          -0.23269,
-          -0.28651,
-          -0.33353,
-          -0.29707,
-          -0.32129,
-          -0.38987,
-          -0.33455,
-          -0.28766,
+          -0.4027,
+          -0.4027,
+          -0.36666,
+          -0.42215,
+          -0.55545,
+          -0.70949,
+          -0.67072,
+          -0.67945,
+          -0.73093,
+          -0.54701,
+          -0.48865,
+          -0.59648,
+          -1.17298,
+          -0.98808,
+          -0.84836,
           null,
-          -0.37852,
-          -0.32349,
-          -0.26294,
+          -0.81381,
+          -0.79516,
+          -0.61273,
           null,
-          -0.42554,
-          null,
-          null,
-          null,
-          -0.22223
+          -0.49854
         ],
         "roce": [
           -0.423,
@@ -6579,7 +6514,7 @@
           -0.245
         ],
         "earningsyield": [
-          -0.2123063,
+          -0.22974789999999998,
           -0.16749,
           -0.10684,
           -0.07496,
@@ -6602,7 +6537,7 @@
           -0.12806
         ],
         "fcfyield": [
-          -0.1664622,
+          -0.1798168,
           null,
           -0.08885,
           -0.0499,
@@ -6674,7 +6609,7 @@
           "Q4"
         ],
         "marketcap": [
-          471632969,
+          435828372,
           1154403973,
           713064660,
           410995057,
@@ -6682,7 +6617,7 @@
           158902201
         ],
         "ev": [
-          222927405,
+          187122808,
           975425312,
           589673200,
           295184057,
@@ -6690,7 +6625,7 @@
           null
         ],
         "lastCloseRatios": [
-          7.64,
+          7.06,
           19.97,
           17,
           11.23,
@@ -6698,7 +6633,7 @@
           9.69
         ],
         "ps": [
-          419.95985,
+          388.07808,
           763.457,
           941.931,
           391.939,
@@ -6706,7 +6641,7 @@
           150.893
         ],
         "pb": [
-          1.85615,
+          1.71524,
           4.669,
           8.805,
           3.692,
@@ -6714,7 +6649,7 @@
           -2.376
         ],
         "ptbvRatio": [
-          2.01321,
+          1.86038,
           5.008,
           10.753,
           4.245,
@@ -6722,7 +6657,7 @@
           null
         ],
         "evrevenue": [
-          198.503,
+          166.62123,
           645.09,
           778.936,
           281.498,
@@ -6794,12 +6729,12 @@
           null
         ],
         "roa": [
-          -0.27979,
-          -0.28651,
-          -0.38987,
-          -0.37852,
-          -0.42554,
-          -0.22223
+          -0.4027,
+          -0.55545,
+          -0.73093,
+          -1.17298,
+          -0.81381,
+          -0.49854
         ],
         "roce": [
           -0.423,
@@ -6810,7 +6745,7 @@
           -0.245
         ],
         "earningsyield": [
-          -0.2123063,
+          -0.22974789999999998,
           -0.1081,
           -0.13275,
           -0.25659,
@@ -6818,7 +6753,7 @@
           -0.12807
         ],
         "fcfyield": [
-          -0.1664622,
+          -0.1798168,
           -0.07276,
           -0.07606,
           -0.15917,
