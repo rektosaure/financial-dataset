@@ -655,6 +655,34 @@
       ]
     },
     {
+      "key": "usa_market_breadth",
+      "title": "US Market Breadth",
+      "category": "Markets",
+      "description": "Percentage of S&P 500, Dow Jones and Nasdaq 100 constituents above their 20-, 50- and 200-day moving averages.",
+      "resources": [
+        {
+          "path": "macro-us/usa_market_breadth_d.csv",
+          "format": "csv",
+          "granularities": [
+            "daily"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        },
+        {
+          "path": "macro-us/usa_market_breadth_w.csv",
+          "format": "csv",
+          "granularities": [
+            "weekly"
+          ],
+          "refresh_intervals": [
+            "4h"
+          ]
+        }
+      ]
+    },
+    {
       "key": "usa_volatility",
       "title": "US Market Volatility",
       "category": "Markets",
