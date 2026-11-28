@@ -30,28 +30,28 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "84,343,106",
-      "enterpriseValue": "73,990,414"
+      "marketcap": "96,558,304",
+      "enterpriseValue": "86,295,294"
     },
     "dates": {
       "earningsdate": "Nov 16, 2026",
       "exdivdate": "n/a"
     },
     "shares": {
-      "sharesOutClass": "24,029,375",
-      "sharesout": "24,029,375",
+      "sharesOutClass": "24,139,576",
+      "sharesout": "24,139,576",
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "973.603%",
-      "sharesInsiders": "3.371%",
-      "sharesInstitutions": "19.106%",
-      "float": "19,598,243"
+      "sharesInsiders": "3.355%",
+      "sharesInstitutions": "19.019%",
+      "float": "19,708,444"
     },
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
       "ps": "n/a",
       "psForward": "n/a",
-      "pb": "0.905",
+      "pb": "n/a",
       "ptbvRatio": "n/a",
       "pfcf": "n/a",
       "pocf": "n/a",
@@ -65,8 +65,8 @@
       "evFcf": "n/a"
     },
     "financialPosition": {
-      "currentRatio": "6.440",
-      "quickRatio": "5.221",
+      "currentRatio": "n/a",
+      "quickRatio": "n/a",
       "debtEquity": "n/a",
       "debtEbitda": "n/a",
       "debtFcf": "n/a",
@@ -90,37 +90,37 @@
     },
     "stockPrice": {
       "beta": "0.930",
-      "ch1y": "-70.87%",
-      "sma50": "10.021",
-      "sma200": "9.018",
-      "rsi": "27.359",
-      "averageVolume": "1,047,964"
+      "ch1y": "-65.84%",
+      "sma50": "9.783",
+      "sma200": "8.839",
+      "rsi": "33.357",
+      "averageVolume": "1,046,581"
     },
     "shortSelling": {
-      "shortInterest": "2,587,368",
-      "shortPriorMonth": "2,533,054",
-      "shortShares": "10.768%",
-      "shortFloat": "13.202%",
-      "shortRatio": "1.580"
+      "shortInterest": "2,248,855",
+      "shortPriorMonth": "2,587,368",
+      "shortShares": "9.316%",
+      "shortFloat": "11.411%",
+      "shortRatio": "2.140"
     },
     "incomeStatement": {
       "revenue": "n/a",
       "gp": "n/a",
-      "opinc": "n/a",
-      "pretax": "n/a",
-      "netinc": "n/a",
+      "opinc": "-48,563",
+      "pretax": "-48,563",
+      "netinc": "-48,563",
       "ebitda": "n/a",
-      "ebit": "n/a",
-      "eps": "n/a"
+      "ebit": "-48,563",
+      "eps": "-0.002"
     },
     "balanceSheet": {
-      "totalcash": "10,352,692",
+      "totalcash": "n/a",
       "debt": "n/a",
-      "netcash": "10,352,692",
-      "netcashpershare": "0.431",
-      "equity": "114,678,782",
-      "bvps": "4.772",
-      "workingcapital": "10,788,355"
+      "netcash": "n/a",
+      "netcashpershare": "n/a",
+      "equity": "-48,563",
+      "bvps": "-0.002",
+      "workingcapital": "-48,563"
     },
     "cashFlow": {
       "ncfo": "n/a",
@@ -148,7 +148,7 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "n/a",
+      "earningsYield": "-0.051%",
       "fcfYield": "n/a"
     },
     "analystForecasts": {
@@ -186,55 +186,55 @@
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q4"
         ],
         "sgna": [
-          null,
+          48563,
           48563
         ],
         "opex": [
-          null,
+          48563,
           48563
         ],
         "opinc": [
-          null,
+          -48563,
           -48563
         ],
         "pretax": [
-          null,
+          -48563,
           -48563
         ],
         "netinc": [
-          null,
+          -48563,
           -48563
         ],
         "netinccmn": [
-          null,
+          -48563,
           -48563
         ],
         "sharesBasic": [
-          24029383,
+          24029375,
           24029375
         ],
         "sharesDiluted": [
-          24029383,
+          24029375,
           24029375
         ],
         "epsBasic": [
-          null,
+          -0.00202,
           -0.00202
         ],
         "epsdil": [
-          null,
+          -0.00202,
           -0.00202
         ],
         "ebit": [
-          null,
+          -48563,
           -48563
         ]
       },
@@ -285,14 +285,14 @@
           2463394,
           175843,
           269362,
-          97589,
+          122299,
           26071
         ],
         "rnd": [
           111256,
           24804,
           113907,
-          null,
+          1290,
           null
         ],
         "goodwillIntangibleAmortization": [
@@ -313,14 +313,14 @@
           2540584,
           201637,
           408394,
-          122714,
+          148714,
           26071
         ],
         "opinc": [
           -2127924,
           -164069,
           -407728,
-          -122714,
+          -148714,
           -26071
         ],
         "interestIncome": [
@@ -341,7 +341,7 @@
           -93077357,
           2020931,
           -407728,
-          -122714,
+          -148714,
           -26071
         ],
         "gainAssets": [
@@ -369,21 +369,21 @@
           -100174338,
           -34180809,
           -407728,
-          -122714,
+          -148714,
           -26071
         ],
         "netinc": [
           -100174338,
           -34180809,
           -407728,
-          -122714,
+          -148714,
           -26071
         ],
         "netinccmn": [
           -100174338,
           -34180809,
           -407728,
-          -122714,
+          -148714,
           -26071
         ],
         "sharesBasic": [
@@ -404,14 +404,14 @@
           -4.168826,
           -15.271554,
           -0.582468,
-          -0.175305,
+          -0.212448,
           -0.037244
         ],
         "epsdil": [
-          -4.169999,
+          -4.168826,
           -15.271554,
           -0.582468,
-          -0.175305,
+          -0.212448,
           -0.037244
         ],
         "grossMargin": [
@@ -439,7 +439,7 @@
           -2102799,
           -138944,
           -382603,
-          -97589,
+          -123589,
           null
         ],
         "depAmorEbitda": [
@@ -460,7 +460,7 @@
           -2127924,
           -164069,
           -407728,
-          -122714,
+          -148714,
           -26071
         ],
         "ebitMargin": [
@@ -473,59 +473,45 @@
       },
       "ttm": {
         "datekey": [
-          "2026-09-30",
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
           "Q4"
         ],
         "sgna": [
-          null,
           48563
         ],
         "opex": [
-          null,
           48563
         ],
         "opinc": [
-          null,
           -48563
         ],
         "pretax": [
-          null,
           -48563
         ],
         "netinc": [
-          null,
           -48563
         ],
         "netinccmn": [
-          null,
           -48563
         ],
         "sharesBasic": [
-          24029383,
           24029375
         ],
         "sharesDiluted": [
-          24029383,
           24029375
         ],
         "epsBasic": [
-          null,
           -0.00202
         ],
         "epsdil": [
-          null,
           -0.00202
         ],
         "ebit": [
-          null,
           -48563
         ]
       }
@@ -537,55 +523,55 @@
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q4"
         ],
         "accruedExpenses": [
-          583255,
+          48563,
           48563
         ],
         "currentLiabilities": [
-          1983077,
+          48563,
           48563
         ],
         "liabilities": [
-          111533669,
+          48563,
           48563
         ],
         "retearn": [
-          -135080081,
+          -48563,
           -48563
         ],
         "equity": [
-          114678782,
+          -48563,
           -48563
         ],
         "sharesOutFilingDate": [
-          24029383,
+          24029375,
           24029375
         ],
         "sharesOutTotalCommon": [
-          24029383,
+          24029375,
           24029375
         ],
         "bvps": [
-          4.772439,
+          -0.00202,
           -0.00202
         ],
         "tangibleBookValue": [
-          -98762237,
+          -48563,
           -48563
         ],
         "tangibleBookValuePerShare": [
-          -4.110061,
+          -0.00202,
           -0.00202
         ],
         "workingcapital": [
-          10788355,
+          -48563,
           -48563
         ]
       },
@@ -675,30 +661,23 @@
           null
         ],
         "accountsPayable": [
-          593730,
+          933730,
           556764,
           100133,
           14737,
           null
         ],
         "accruedExpenses": [
-          583255,
+          959660,
           6022119,
           300608,
           null,
           null
         ],
         "debtc": [
-          null,
+          89687,
           6998121,
           69455,
-          null,
-          null
-        ],
-        "otherCurrentLiabilities": [
-          806092,
-          null,
-          null,
           null,
           null
         ],
@@ -759,21 +738,21 @@
           null
         ],
         "sharesOutFilingDate": [
-          24029383,
+          24139576,
           24029375,
           700000,
           700000,
           700000
         ],
         "sharesOutTotalCommon": [
-          24029383,
+          24029576,
           24029375,
           700000,
           700000,
           700000
         ],
         "bvps": [
-          4.772439,
+          4.772401,
           8.916885,
           0.231102,
           0.971122,
@@ -787,28 +766,28 @@
           null
         ],
         "tangibleBookValuePerShare": [
-          -4.110061,
+          -4.110028,
           0.031059,
           -0.450504,
           0.289158,
           null
         ],
         "debt": [
-          null,
+          89687,
           6998121,
           69455,
           null,
           null
         ],
         "netcash": [
-          10352692,
+          10263005,
           11858023,
           -66673,
           52419,
           null
         ],
         "netcashpershare": [
-          0.43083,
+          0.4271,
           5.29802,
           -0.09525,
           0.07488,
@@ -828,55 +807,55 @@
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q4"
         ],
         "accruedExpenses": [
-          583255,
+          48563,
           48563
         ],
         "currentLiabilities": [
-          1983077,
+          48563,
           48563
         ],
         "liabilities": [
-          111533669,
+          48563,
           48563
         ],
         "retearn": [
-          -135080081,
+          -48563,
           -48563
         ],
         "equity": [
-          114678782,
+          -48563,
           -48563
         ],
         "sharesOutFilingDate": [
-          24029383,
+          24029375,
           24029375
         ],
         "sharesOutTotalCommon": [
-          24029383,
+          24029375,
           24029375
         ],
         "bvps": [
-          4.772439,
+          -0.00202,
           -0.00202
         ],
         "tangibleBookValue": [
-          -98762237,
+          -48563,
           -48563
         ],
         "tangibleBookValuePerShare": [
-          -4.110061,
+          -0.00202,
           -0.00202
         ],
         "workingcapital": [
-          10788355,
+          -48563,
           -48563
         ]
       }
@@ -888,27 +867,27 @@
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q4"
         ],
         "netIncomeCF": [
-          null,
+          -48563,
           -48563
         ],
         "changeOtherNetOperAssets": [
-          null,
+          18900,
           18900
         ],
         "otheroperating": [
-          null,
+          29663,
           29663
         ],
         "changeWorkingCapital": [
-          null,
+          18900,
           18900
         ]
       },
@@ -935,17 +914,24 @@
           "Q2"
         ],
         "netIncomeCF": [
-          null,
+          -100174338,
           -34216452,
           -407728,
-          -122714,
+          -148714,
           -26071
         ],
         "otherAmortization": [
+          25125,
+          25125,
+          25125,
+          25125,
+          null
+        ],
+        "gainAssetsCF": [
+          -196634,
           null,
-          25125,
-          25125,
-          25125,
+          null,
+          null,
           null
         ],
         "assetWritedownCF": [
@@ -956,35 +942,35 @@
           null
         ],
         "sbcomp": [
-          null,
+          583634,
           8082.000000000001,
           null,
           null,
           null
         ],
         "changeAP": [
-          null,
+          236966,
           256631,
           95747,
-          14737,
+          9537,
           26071
         ],
         "changeOtherNetOperAssets": [
-          null,
+          -6651502,
           -204976,
           321596,
-          -164729,
+          -133529,
           null
         ],
         "otheroperating": [
-          null,
+          98014951,
           -2185904,
           -666,
           null,
           null
         ],
         "ncfo": [
-          null,
+          -8161797.999999999,
           -115754,
           34074,
           -247581,
@@ -1011,53 +997,67 @@
           null,
           null
         ],
-        "netDebtIssued": [
+        "debtRepaidTotal": [
+          -343966,
           null,
+          null,
+          null,
+          null
+        ],
+        "netDebtIssued": [
+          -343966,
           67000,
           null,
           null,
+          null
+        ],
+        "commonIssued": [
+          2312,
+          null,
+          null,
+          300000,
           null
         ],
         "otherfinancing": [
           null,
           18852116,
           null,
-          300000,
+          null,
           null
         ],
         "ncff": [
-          null,
+          -341654,
           18919116,
           null,
           300000,
           null
         ],
         "ncf": [
-          null,
+          -8503452,
           18853362,
           -15926,
           52419,
           null
         ],
         "leveredFCF": [
-          null,
+          -7626868,
           6128674,
           null,
           null,
           null
         ],
         "unleveredFCF": [
-          null,
+          -7626868,
           6128674,
           null,
           null,
           null
         ],
         "changeWorkingCapital": [
-          null,
+          -6414536,
           51655,
           417343,
-          -149992,
+          -123992,
           26071
         ]
       },
@@ -1067,27 +1067,27 @@
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q4"
         ],
         "netIncomeCF": [
-          null,
+          -48563,
           -48563
         ],
         "changeOtherNetOperAssets": [
-          null,
+          18900,
           18900
         ],
         "otheroperating": [
-          null,
+          29663,
           29663
         ],
         "changeWorkingCapital": [
-          null,
+          18900,
           18900
         ]
       }
@@ -1099,27 +1099,27 @@
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q4"
         ],
         "marketcap": [
-          84343106,
+          96558304,
           70087127
         ],
         "lastCloseRatios": [
-          4.32,
+          4,
           11.8
         ],
         "pb": [
-          0.9052,
+          null,
           -1443.221
         ],
         "earningsyield": [
-          null,
+          -0.000505,
           -0.00069
         ]
       },
@@ -1133,7 +1133,7 @@
           "2025-06-30"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2026",
           "2026",
           "2026",
@@ -1141,7 +1141,7 @@
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q3",
           "Q2",
           "Q1",
@@ -1149,7 +1149,7 @@
           "Q2"
         ],
         "marketcap": [
-          84343106,
+          96558304,
           386392350,
           16007117.999999998,
           59395870,
@@ -1157,7 +1157,7 @@
           82678503
         ],
         "ev": [
-          73990414,
+          86295294,
           374534330,
           16073787,
           59343450,
@@ -1165,7 +1165,7 @@
           null
         ],
         "lastCloseRatios": [
-          4.32,
+          4,
           16.08,
           2.75,
           10,
@@ -1181,7 +1181,7 @@
           null
         ],
         "pb": [
-          0.9052,
+          null,
           3.369,
           0.075,
           367.158,
@@ -1214,15 +1214,15 @@
         ],
         "debtequity": [
           null,
-          null,
+          0.001,
           0.033,
           0.429,
           null,
           null
         ],
         "netdebtequity": [
-          -0.09,
-          -0.09,
+          null,
+          -0.089,
           -0.055,
           0.412,
           -0.077,
@@ -1230,10 +1230,10 @@
         ],
         "netdebtebitda": [
           null,
-          3.803,
-          19.153,
-          -0.139,
-          0.537,
+          3.735,
+          18.381,
+          -0.132,
+          0.424,
           null
         ],
         "assetturnover": [
@@ -1245,7 +1245,7 @@
           null
         ],
         "quickRatio": [
-          5.221,
+          null,
           5.221,
           1.389,
           0.031,
@@ -1253,7 +1253,7 @@
           null
         ],
         "currentratio": [
-          6.44,
+          null,
           6.44,
           1.402,
           0.329,
@@ -1272,16 +1272,16 @@
           null,
           -0.013,
           -0.003,
-          -3.44,
-          -0.219,
+          -3.601,
+          -0.257,
           null
         ],
         "earningsyield": [
-          null,
-          -0.34909,
-          -2.17012,
-          -0.00937,
-          -0.00197,
+          -0.000505,
+          -0.34916,
+          -2.17174,
+          -0.00981,
+          -0.00232,
           -0.00032
         ],
         "buybackyield": [
@@ -1299,27 +1299,27 @@
           "2025-12-31"
         ],
         "fiscalYear": [
-          "2026",
+          "2025",
           "2025"
         ],
         "fiscalQuarter": [
-          "Q3",
+          "Q4",
           "Q4"
         ],
         "marketcap": [
-          84343106,
+          96558304,
           70087127
         ],
         "lastCloseRatios": [
-          4.32,
+          4,
           11.8
         ],
         "pb": [
-          0.9052,
+          null,
           -1443.221
         ],
         "earningsyield": [
-          null,
+          -0.000505,
           -0.00069
         ]
       }

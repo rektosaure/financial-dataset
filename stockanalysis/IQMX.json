@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "1,236,569,989",
-      "enterpriseValue": "991,670,999"
+      "marketcap": "1,460,053,432",
+      "enterpriseValue": "1,216,091,930"
     },
     "dates": {
       "earningsdate": "Nov 5, 2026",
@@ -43,23 +43,23 @@
       "sharesgrowthyoy": "130.470%",
       "sharesgrowthqoq": "513.120%",
       "sharesInsiders": "9.715%",
-      "sharesInstitutions": "8.026%",
-      "float": "120,599,561"
+      "sharesInstitutions": "8.075%",
+      "float": "119,047,651"
     },
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "29.591",
-      "psForward": "14.076",
-      "pb": "3.334",
-      "ptbvRatio": "3.361",
+      "ps": "34.833",
+      "psForward": "16.627",
+      "pb": "3.925",
+      "ptbvRatio": "3.956",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "23.79",
+      "evSales": "29.05",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -74,7 +74,7 @@
     },
     "financialEfficiency": {
       "roe": "n/a",
-      "roa": "n/a",
+      "roa": "-56.939%",
       "roic": "n/a",
       "roce": "-33.935%",
       "wacc": "n/a",
@@ -91,17 +91,17 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "9.088",
+      "sma50": "8.881",
       "sma200": "n/a",
-      "rsi": "31.703",
-      "averageVolume": "247,395"
+      "rsi": "51.123",
+      "averageVolume": "344,320"
     },
     "shortSelling": {
-      "shortInterest": "1,261,752",
-      "shortPriorMonth": "1,028,099",
-      "shortShares": "0.666%",
-      "shortFloat": "1.046%",
-      "shortRatio": "5.610"
+      "shortInterest": "1,002,197",
+      "shortPriorMonth": "1,261,752",
+      "shortShares": "0.529%",
+      "shortFloat": "0.842%",
+      "shortRatio": "4.850"
     },
     "incomeStatement": {
       "revenue": "42,186,010",
@@ -111,7 +111,7 @@
       "netinc": "-266,555,757",
       "ebitda": "-123,161,481",
       "ebit": "-132,248,467",
-      "eps": "-3.664"
+      "eps": "-3.651"
     },
     "balanceSheet": {
       "totalcash": "297,246,196",
@@ -123,12 +123,12 @@
       "workingcapital": "301,878,265"
     },
     "cashFlow": {
-      "ncfo": "-88,984,474",
-      "capex": "-17,643,057",
-      "depreciationAmortization": "8,780,381",
-      "netBorrowing": "-41,712,844",
-      "fcf": "-106,627,531",
-      "fcfps": "-0.563"
+      "ncfo": "-88,674,378",
+      "capex": "-17,581,574",
+      "depreciationAmortization": "8,749,783",
+      "netBorrowing": "-41,567,482",
+      "fcf": "-106,255,952",
+      "fcfps": "-0.561"
     },
     "margins": {
       "grossMargin": "48.470%",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-130.470%",
       "totalReturn": "-130.470%",
-      "earningsYield": "-58.059%",
-      "fcfYield": "-8.542%"
+      "earningsYield": "-47.046%",
+      "fcfYield": "-7.231%"
     },
     "analystForecasts": {
       "priceTarget": "$14.33",
-      "priceTargetChange": "127.10%",
+      "priceTargetChange": "84.67%",
       "analystRatings": "Buy",
       "analystCount": "3",
       "revenue3y": "58.09%",
@@ -1854,13 +1854,18 @@
         ],
         "debtRepaidLongTerm": [
           null,
-          -44556000,
-          -4517000
+          -41000000,
+          -996000
         ],
         "operatingLeasePayments": [
           -2719000,
           -3556000,
           -3521000
+        ],
+        "debtRepaidTotal": [
+          -43008000,
+          -44556000,
+          -4517000
         ],
         "netDebtIssued": [
           -38015000,
@@ -2365,13 +2370,18 @@
         ],
         "debtRepaidLongTerm": [
           null,
-          -44556000,
-          -4517000
+          -41000000,
+          -996000
         ],
         "operatingLeasePayments": [
           -2719000,
           -3556000,
           -3521000
+        ],
+        "debtRepaidTotal": [
+          -43008000,
+          -44556000,
+          -4517000
         ],
         "netDebtIssued": [
           -38015000,
@@ -2528,9 +2538,9 @@
           null
         ],
         "roa": [
-          null,
-          -0.18959,
-          null
+          -0.56939,
+          -0.29139,
+          -0.50239
         ],
         "roce": [
           -0.339,
@@ -2572,7 +2582,7 @@
           "Q1"
         ],
         "marketcap": [
-          1236569989,
+          1460053432,
           1959303957.729982,
           null,
           null,
@@ -2581,7 +2591,7 @@
           null
         ],
         "ev": [
-          991670999,
+          1216091930,
           1856801117.6104488,
           null,
           null,
@@ -2590,7 +2600,7 @@
           null
         ],
         "lastCloseRatios": [
-          6.37,
+          7.81,
           10.37,
           null,
           null,
@@ -2599,7 +2609,7 @@
           null
         ],
         "ps": [
-          29.59105,
+          34.8329,
           66.74,
           null,
           null,
@@ -2608,7 +2618,7 @@
           null
         ],
         "pb": [
-          3.33392,
+          3.9245,
           5.233,
           null,
           null,
@@ -2617,7 +2627,7 @@
           null
         ],
         "ptbvRatio": [
-          3.36088,
+          3.95624,
           5.275,
           null,
           null,
@@ -2626,7 +2636,7 @@
           null
         ],
         "evrevenue": [
-          23.78583,
+          29.0499,
           63.248,
           null,
           null,
@@ -2697,6 +2707,15 @@
           null,
           null
         ],
+        "roa": [
+          -0.56939,
+          -0.56939,
+          -0.37329,
+          null,
+          null,
+          null,
+          null
+        ],
         "roce": [
           -0.339,
           -0.351,
@@ -2707,7 +2726,7 @@
           null
         ],
         "earningsyield": [
-          -0.5805910999999999,
+          -0.47046010000000005,
           -0.13866,
           null,
           null,
@@ -2716,7 +2735,7 @@
           null
         ],
         "fcfyield": [
-          -0.0854163,
+          -0.0723095,
           -0.08962,
           null,
           null,
@@ -2796,9 +2815,9 @@
           null
         ],
         "roa": [
-          null,
-          -0.18959,
-          null
+          -0.56939,
+          -0.29139,
+          -0.50239
         ],
         "roce": [
           -0.339,

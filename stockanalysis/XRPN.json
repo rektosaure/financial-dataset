@@ -16,7 +16,7 @@
   "details": {
     "symbol": "XRPN",
     "exchange": "NASDAQ",
-    "fiscalYear": "October - September",
+    "fiscalYear": "January - December",
     "currency": "USD",
     "ipoPrice": null,
     "cik": "2092592",
@@ -30,21 +30,21 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "397,438,159",
-      "enterpriseValue": "n/a"
+      "marketcap": "454,390,853",
+      "enterpriseValue": "454,299,453"
     },
     "dates": {
-      "earningsdate": "Nov 27, 2026",
+      "earningsdate": "n/a",
       "exdivdate": "n/a"
     },
     "shares": {
-      "sharesOutClass": "26,712,248",
-      "sharesout": "58,104,994",
+      "sharesOutClass": "27,012,248",
+      "sharesout": "58,404,994",
       "sharesgrowthyoy": "n/a",
       "sharesgrowthqoq": "n/a",
-      "sharesInsiders": "1.139%",
-      "sharesInstitutions": "14.049%",
-      "float": "19,752,515"
+      "sharesInsiders": "1.133%",
+      "sharesInstitutions": "13.977%",
+      "float": "20,052,515"
     },
     "ratios": {
       "pe": "n/a",
@@ -65,18 +65,18 @@
       "evFcf": "n/a"
     },
     "financialPosition": {
-      "currentRatio": "n/a",
+      "currentRatio": "0.000",
       "quickRatio": "n/a",
       "debtEquity": "n/a",
       "debtEbitda": "n/a",
       "debtFcf": "n/a",
-      "interestCoverage": "n/a"
+      "interestCoverage": "-204.163"
     },
     "financialEfficiency": {
       "roe": "n/a",
-      "roa": "n/a",
+      "roa": "-74.282%",
       "roic": "n/a",
-      "roce": "n/a",
+      "roce": "2.191%",
       "wacc": "n/a",
       "revPerEmployee": "n/a",
       "profitPerEmployee": "n/a",
@@ -90,27 +90,27 @@
     },
     "stockPrice": {
       "beta": "n/a",
-      "ch1y": "-32.81%",
-      "sma50": "13.993",
-      "sma200": "11.295",
-      "rsi": "33.116",
-      "averageVolume": "493,937"
+      "ch1y": "-23.35%",
+      "sma50": "13.724",
+      "sma200": "11.233",
+      "rsi": "39.088",
+      "averageVolume": "469,394"
     },
     "shortSelling": {
-      "shortInterest": "910,669",
-      "shortPriorMonth": "1,926,428",
-      "shortShares": "1.567%",
-      "shortFloat": "4.610%",
-      "shortRatio": "1.070"
+      "shortInterest": "979,492",
+      "shortPriorMonth": "910,669",
+      "shortShares": "1.677%",
+      "shortFloat": "4.885%",
+      "shortRatio": "1.360"
     },
     "incomeStatement": {
       "revenue": "n/a",
       "gp": "n/a",
-      "opinc": "n/a",
-      "pretax": "n/a",
-      "netinc": "n/a",
+      "opinc": "-3,346,020",
+      "pretax": "-458,152,206",
+      "netinc": "-458,152,206",
       "ebitda": "n/a",
-      "ebit": "n/a",
+      "ebit": "-3,346,020",
       "eps": "n/a"
     },
     "balanceSheet": {
@@ -118,17 +118,17 @@
       "debt": "n/a",
       "netcash": "n/a",
       "netcashpershare": "n/a",
-      "equity": "n/a",
+      "equity": "-152,717,402",
       "bvps": "n/a",
-      "workingcapital": "n/a"
+      "workingcapital": "-769,444,706"
     },
     "cashFlow": {
-      "ncfo": "-373,197",
-      "capex": "n/a",
+      "ncfo": "-2,150,130",
+      "capex": "-642,000,000",
       "depreciationAmortization": "n/a",
       "netBorrowing": "n/a",
-      "fcf": "n/a",
-      "fcfps": "n/a"
+      "fcf": "-644,150,130",
+      "fcfps": "-11.029"
     },
     "margins": {
       "grossMargin": "n/a",
@@ -148,8 +148,8 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "n/a",
       "totalReturn": "n/a",
-      "earningsYield": "n/a",
-      "fcfYield": "n/a"
+      "earningsYield": "-100.828%",
+      "fcfYield": "-141.761%"
     },
     "analystForecasts": {
       "priceTarget": "n/a",
@@ -166,7 +166,7 @@
     },
     "scores": {
       "zScore": "n/a",
-      "fScore": "n/a"
+      "fScore": "1"
     },
     "fairValue": {
       "lynchFairValue": "n/a",
@@ -178,5 +178,853 @@
     }
   },
   "forecast": null,
-  "financials": null
+  "financials": {
+    "income-statement": {
+      "annual": {
+        "datekey": [
+          "TTM",
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q4"
+        ],
+        "sgna": [
+          3346020,
+          3346020
+        ],
+        "opex": [
+          3346020,
+          3346020
+        ],
+        "opinc": [
+          -3346020,
+          -3346020
+        ],
+        "interestExpense": [
+          -16389,
+          -16389
+        ],
+        "otherNonOperating": [
+          -454789797,
+          -454789797
+        ],
+        "pretax": [
+          -458152206,
+          -458152206
+        ],
+        "netinc": [
+          -458152206,
+          -458152206
+        ],
+        "netinccmn": [
+          -458152206,
+          -458152206
+        ],
+        "fcf": [
+          -644150130,
+          -644150130
+        ],
+        "ebit": [
+          -3346020,
+          -3346020
+        ]
+      },
+      "quarterly": {
+        "datekey": [
+          "2026-09-30",
+          "2026-06-30",
+          "2026-03-31",
+          "2025-09-30"
+        ],
+        "fiscalYear": [
+          "2026",
+          "2026",
+          "2026",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q3",
+          "Q2",
+          "Q1",
+          "Q3"
+        ],
+        "sgna": [
+          666834,
+          518908.00000000006,
+          928719,
+          515000
+        ],
+        "opex": [
+          666834,
+          518908.00000000006,
+          928719,
+          515000
+        ],
+        "opinc": [
+          -666834,
+          -518908.00000000006,
+          -928719,
+          -515000
+        ],
+        "interestExpense": [
+          -11825,
+          -8955,
+          -9054,
+          null
+        ],
+        "otherNonOperating": [
+          155943359,
+          -5824295,
+          -180844802,
+          null
+        ],
+        "pretax": [
+          155264700,
+          -6352158,
+          -181782575,
+          -515000
+        ],
+        "netinc": [
+          155264700,
+          -6352158,
+          -181782575,
+          -515000
+        ],
+        "netinccmn": [
+          155264700,
+          -6352158,
+          -181782575,
+          -515000
+        ],
+        "ebit": [
+          -666834,
+          -518908.00000000006,
+          -928719,
+          -515000
+        ]
+      },
+      "ttm": {
+        "datekey": [
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4"
+        ],
+        "sgna": [
+          3346020
+        ],
+        "opex": [
+          3346020
+        ],
+        "opinc": [
+          -3346020
+        ],
+        "interestExpense": [
+          -16389
+        ],
+        "otherNonOperating": [
+          -454789797
+        ],
+        "pretax": [
+          -458152206
+        ],
+        "netinc": [
+          -458152206
+        ],
+        "netinccmn": [
+          -458152206
+        ],
+        "fcf": [
+          -644150130
+        ],
+        "ebit": [
+          -3346020
+        ]
+      }
+    },
+    "balance-sheet": {
+      "annual": {
+        "datekey": [
+          "TTM",
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q4"
+        ],
+        "restrictedCash": [
+          49995,
+          49995
+        ],
+        "assetsc": [
+          49995,
+          49995
+        ],
+        "deferredLongTermCharges": [
+          3802903,
+          3802903
+        ],
+        "othernoncurrent": [
+          612924401,
+          612924401
+        ],
+        "assets": [
+          616777299,
+          616777299
+        ],
+        "accountsPayable": [
+          336371,
+          336371
+        ],
+        "otherCurrentLiabilities": [
+          769158330,
+          769158330
+        ],
+        "currentLiabilities": [
+          769494701,
+          769494701
+        ],
+        "liabilities": [
+          769494701,
+          769494701
+        ],
+        "retearn": [
+          -152717402,
+          -152717402
+        ],
+        "equity": [
+          -152717402,
+          -152717402
+        ],
+        "liabilitiesequity": [
+          616777299,
+          616777299
+        ],
+        "tangibleBookValue": [
+          -152717402,
+          -152717402
+        ],
+        "workingcapital": [
+          -769444706,
+          -769444706
+        ]
+      },
+      "quarterly": {
+        "datekey": [
+          "2026-09-30",
+          "2026-06-30",
+          "2026-03-31",
+          "2025-09-30"
+        ],
+        "fiscalYear": [
+          "2026",
+          "2026",
+          "2026",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q3",
+          "Q2",
+          "Q1",
+          "Q3"
+        ],
+        "cashneq": [
+          91397,
+          97745,
+          98632,
+          null
+        ],
+        "totalcash": [
+          91397,
+          97745,
+          98632,
+          null
+        ],
+        "prepaidExpenses": [
+          54333,
+          26417,
+          null,
+          null
+        ],
+        "restrictedCash": [
+          49995,
+          49995,
+          49995,
+          null
+        ],
+        "assetsc": [
+          195725,
+          174157,
+          148627,
+          null
+        ],
+        "deferredLongTermCharges": [
+          6806877,
+          6423096,
+          5445141,
+          null
+        ],
+        "othernoncurrent": [
+          341887231,
+          348778304,
+          387146599,
+          null
+        ],
+        "assets": [
+          348889833,
+          355375557,
+          392740367,
+          null
+        ],
+        "accountsPayable": [
+          413836,
+          166796,
+          512986.00000000006,
+          null
+        ],
+        "accruedExpenses": [
+          157296,
+          null,
+          null,
+          null
+        ],
+        "otherCurrentLiabilities": [
+          9646573,
+          696060896,
+          726727358,
+          null
+        ],
+        "currentLiabilities": [
+          10217705,
+          696227692,
+          727240344,
+          null
+        ],
+        "otherliabilitiesnoncurrent": [
+          524259562.99999994,
+          null,
+          null,
+          null
+        ],
+        "liabilities": [
+          534477268,
+          696227692,
+          727240344,
+          null
+        ],
+        "retearn": [
+          -185587435,
+          -340852135,
+          -334499977,
+          null
+        ],
+        "equity": [
+          -185587435,
+          -340852135,
+          -334499977,
+          null
+        ],
+        "liabilitiesequity": [
+          348889833,
+          355375557,
+          392740367,
+          null
+        ],
+        "sharesOutFilingDate": [
+          58404994,
+          null,
+          null,
+          null
+        ],
+        "tangibleBookValue": [
+          -185587435,
+          -340852135,
+          -334499977,
+          null
+        ],
+        "netcash": [
+          91397,
+          97745,
+          98632,
+          null
+        ],
+        "workingcapital": [
+          -10021980,
+          -696053535,
+          -727091717,
+          null
+        ]
+      },
+      "ttm": {
+        "datekey": [
+          "TTM",
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q4"
+        ],
+        "restrictedCash": [
+          49995,
+          49995
+        ],
+        "assetsc": [
+          49995,
+          49995
+        ],
+        "deferredLongTermCharges": [
+          3802903,
+          3802903
+        ],
+        "othernoncurrent": [
+          612924401,
+          612924401
+        ],
+        "assets": [
+          616777299,
+          616777299
+        ],
+        "accountsPayable": [
+          336371,
+          336371
+        ],
+        "otherCurrentLiabilities": [
+          769158330,
+          769158330
+        ],
+        "currentLiabilities": [
+          769494701,
+          769494701
+        ],
+        "liabilities": [
+          769494701,
+          769494701
+        ],
+        "retearn": [
+          -152717402,
+          -152717402
+        ],
+        "equity": [
+          -152717402,
+          -152717402
+        ],
+        "liabilitiesequity": [
+          616777299,
+          616777299
+        ],
+        "tangibleBookValue": [
+          -152717402,
+          -152717402
+        ],
+        "workingcapital": [
+          -769444706,
+          -769444706
+        ]
+      }
+    },
+    "cash-flow-statement": {
+      "annual": {
+        "datekey": [
+          "TTM",
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q4"
+        ],
+        "netIncomeCF": [
+          -458152206,
+          -458152206
+        ],
+        "assetWritedownCF": [
+          700951926,
+          700951926
+        ],
+        "changeAP": [
+          700404,
+          700404
+        ],
+        "changeOtherNetOperAssets": [
+          511874.99999999994,
+          511874.99999999994
+        ],
+        "otheroperating": [
+          -246162129,
+          -246162129
+        ],
+        "ncfo": [
+          -2150130,
+          -2150130
+        ],
+        "capex": [
+          -642000000,
+          -642000000
+        ],
+        "ncfi": [
+          -642000000,
+          -642000000
+        ],
+        "otherfinancing": [
+          644300115,
+          644300115
+        ],
+        "ncff": [
+          644300115,
+          644300115
+        ],
+        "ncf": [
+          149985,
+          149985
+        ],
+        "fcf": [
+          -644150130,
+          -644150130
+        ],
+        "changeWorkingCapital": [
+          1212279,
+          1212279
+        ]
+      },
+      "quarterly": {
+        "datekey": [
+          "2026-09-30",
+          "2026-06-30",
+          "2026-03-31",
+          "2025-09-30"
+        ],
+        "fiscalYear": [
+          "2026",
+          "2026",
+          "2026",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q3",
+          "Q2",
+          "Q1",
+          "Q3"
+        ],
+        "netIncomeCF": [
+          155264700,
+          -6352158,
+          -181782575,
+          -515000
+        ],
+        "assetWritedownCF": [
+          6891073,
+          38368295,
+          225777802,
+          null
+        ],
+        "changeAP": [
+          250299,
+          -728185,
+          -1089953,
+          null
+        ],
+        "changeOtherNetOperAssets": [
+          36035,
+          549419,
+          1404550,
+          515000
+        ],
+        "otheroperating": [
+          -162834432,
+          -32543999.999999996,
+          -44933000,
+          null
+        ],
+        "ncfo": [
+          -392325,
+          -706629,
+          -623176,
+          null
+        ],
+        "otherfinancing": [
+          385977,
+          705742,
+          721808,
+          null
+        ],
+        "ncff": [
+          385977,
+          705742,
+          721808,
+          null
+        ],
+        "ncf": [
+          -6348,
+          -887,
+          98632,
+          null
+        ],
+        "leveredFCF": [
+          -686462065,
+          -31368983,
+          null,
+          null
+        ],
+        "unleveredFCF": [
+          -686454674,
+          -31363387,
+          null,
+          null
+        ],
+        "changeWorkingCapital": [
+          286334,
+          -178766,
+          314597,
+          515000
+        ]
+      },
+      "ttm": {
+        "datekey": [
+          "TTM",
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q4"
+        ],
+        "netIncomeCF": [
+          -458152206,
+          -458152206
+        ],
+        "assetWritedownCF": [
+          700951926,
+          700951926
+        ],
+        "changeAP": [
+          700404,
+          700404
+        ],
+        "changeOtherNetOperAssets": [
+          511874.99999999994,
+          511874.99999999994
+        ],
+        "otheroperating": [
+          -246162129,
+          -246162129
+        ],
+        "ncfo": [
+          -2150130,
+          -2150130
+        ],
+        "capex": [
+          -642000000,
+          -642000000
+        ],
+        "ncfi": [
+          -642000000,
+          -642000000
+        ],
+        "otherfinancing": [
+          644300115,
+          644300115
+        ],
+        "ncff": [
+          644300115,
+          644300115
+        ],
+        "ncf": [
+          149985,
+          149985
+        ],
+        "fcf": [
+          -644150130,
+          -644150130
+        ],
+        "changeWorkingCapital": [
+          1212279,
+          1212279
+        ]
+      }
+    },
+    "ratios": {
+      "annual": {
+        "datekey": [
+          "TTM",
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q4"
+        ],
+        "lastCloseRatios": [
+          7.78,
+          10.24
+        ],
+        "currentratio": [
+          0,
+          0
+        ],
+        "roa": [
+          -0.74282,
+          -0.74282
+        ],
+        "roce": [
+          0.022,
+          0.022
+        ]
+      },
+      "quarterly": {
+        "datekey": [
+          "TTM",
+          "2026-09-30",
+          "2026-06-30",
+          "2026-03-31",
+          "2025-09-30"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2026",
+          "2026",
+          "2026",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q3",
+          "Q2",
+          "Q1",
+          "Q3"
+        ],
+        "marketcap": [
+          454390853,
+          16,
+          10,
+          null,
+          null
+        ],
+        "ev": [
+          454299453,
+          -97734,
+          -98620,
+          null,
+          null
+        ],
+        "lastCloseRatios": [
+          7.78,
+          16.4,
+          10.42,
+          10.31,
+          10.434
+        ],
+        "pe": [
+          null,
+          0,
+          null,
+          null,
+          null
+        ],
+        "pb": [
+          null,
+          0,
+          0,
+          null,
+          null
+        ],
+        "netdebtequity": [
+          null,
+          0,
+          0,
+          0,
+          null
+        ],
+        "quickRatio": [
+          null,
+          0.009,
+          0,
+          0,
+          null
+        ],
+        "currentratio": [
+          0,
+          0.019,
+          0,
+          0,
+          null
+        ],
+        "roa": [
+          -0.74282,
+          null,
+          null,
+          null,
+          null
+        ],
+        "roce": [
+          0.022,
+          -0.008,
+          0.006,
+          0.004,
+          null
+        ],
+        "earningsyield": [
+          -1.0082778000000001,
+          -2086564.5625,
+          -18864973.3,
+          null,
+          null
+        ]
+      },
+      "ttm": {
+        "datekey": [
+          "TTM",
+          "2025-12-31"
+        ],
+        "fiscalYear": [
+          "2025",
+          "2025"
+        ],
+        "fiscalQuarter": [
+          "Q4",
+          "Q4"
+        ],
+        "lastCloseRatios": [
+          7.78,
+          10.24
+        ],
+        "currentratio": [
+          0,
+          0
+        ],
+        "roa": [
+          -0.74282,
+          -0.74282
+        ],
+        "roce": [
+          0.022,
+          0.022
+        ]
+      }
+    }
+  }
 }

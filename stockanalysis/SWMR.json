@@ -30,8 +30,8 @@
   "dividends": null,
   "statistics": {
     "valuation": {
-      "marketcap": "133,211,428",
-      "enterpriseValue": "96,203,042"
+      "marketcap": "136,086,495",
+      "enterpriseValue": "99,078,109"
     },
     "dates": {
       "earningsdate": "Nov 10, 2026",
@@ -43,23 +43,23 @@
       "sharesgrowthyoy": "1,115.410%",
       "sharesgrowthqoq": "10.932%",
       "sharesInsiders": "34.442%",
-      "sharesInstitutions": "19.588%",
+      "sharesInstitutions": "20.070%",
       "float": "10,536,614"
     },
     "ratios": {
       "pe": "n/a",
       "peForward": "n/a",
-      "ps": "463.294",
-      "psForward": "6.993",
-      "pb": "3.479",
-      "ptbvRatio": "3.570",
+      "ps": "473.293",
+      "psForward": "7.144",
+      "pb": "3.555",
+      "ptbvRatio": "3.647",
       "pfcf": "n/a",
       "pocf": "n/a",
       "pegRatio": "n/a"
     },
     "evRatios": {
       "evEarnings": "n/a",
-      "evSales": "334.58",
+      "evSales": "344.58",
       "evEbitda": "n/a",
       "evEbit": "n/a",
       "evFcf": "n/a"
@@ -74,12 +74,12 @@
     },
     "financialEfficiency": {
       "roe": "n/a",
-      "roa": "n/a",
+      "roa": "-57.930%",
       "roic": "n/a",
       "roce": "-64.398%",
       "wacc": "n/a",
-      "revPerEmployee": "n/a",
-      "profitPerEmployee": "n/a",
+      "revPerEmployee": "5,868",
+      "profitPerEmployee": "-488,390",
       "employees": "49",
       "assetturnover": "n/a",
       "inventoryturnover": "n/a"
@@ -91,17 +91,17 @@
     "stockPrice": {
       "beta": "n/a",
       "ch1y": "n/a",
-      "sma50": "13.276",
+      "sma50": "11.719",
       "sma200": "n/a",
-      "rsi": "32.813",
-      "averageVolume": "533,143"
+      "rsi": "37.309",
+      "averageVolume": "521,677"
     },
     "shortSelling": {
-      "shortInterest": "1,038,495",
-      "shortPriorMonth": "868,641",
-      "shortShares": "5.418%",
-      "shortFloat": "9.856%",
-      "shortRatio": "1.590"
+      "shortInterest": "763,762",
+      "shortPriorMonth": "1,038,495",
+      "shortShares": "3.985%",
+      "shortFloat": "7.249%",
+      "shortRatio": "1.430"
     },
     "incomeStatement": {
       "revenue": "287,531",
@@ -148,12 +148,12 @@
       "fcfPayoutRatio": "n/a",
       "buybackYield": "-1,115.410%",
       "totalReturn": "-1,115.410%",
-      "earningsYield": "-36.681%",
-      "fcfYield": "-15.544%"
+      "earningsYield": "-35.906%",
+      "fcfYield": "-15.216%"
     },
     "analystForecasts": {
       "priceTarget": "$25.00",
-      "priceTargetChange": "259.71%",
+      "priceTargetChange": "252.11%",
       "analystRatings": "Strong Buy",
       "analystCount": "2",
       "revenue3y": "405.32%",
@@ -749,8 +749,12 @@
       "updated": "2026-11-20",
       "filtered": {
         "1": {
-          "count": 0,
-          "updated": ""
+          "low": 20,
+          "high": 20,
+          "count": 1,
+          "median": 20,
+          "average": 20,
+          "updated": "2026-11-20"
         },
         "2": {
           "count": 0,
@@ -804,12 +808,12 @@
           "t": "2026-10-01"
         },
         {
-          "c": 6.95,
+          "c": 7.1,
           "t": "2026-11-01"
         },
         {
           "c": null,
-          "t": "2027-11-20"
+          "t": "2027-11-27"
         }
       ]
     },
@@ -824,18 +828,18 @@
         "date": "2026-11-20",
         "rating_new": "Buy",
         "rating_old": "",
-        "time": "00:00:00",
+        "time": "12:01:40",
         "scores": {
-          "score": null,
-          "stars": null,
-          "total": 0,
-          "avg_return": null,
+          "score": 0,
+          "stars": 1.2,
+          "total": 2,
+          "avg_return": -13.6,
           "return_pct": null,
-          "analyst_rank": null,
-          "success_rate": null,
-          "stock_avg_return": 0,
+          "analyst_rank": 9637,
+          "success_rate": 0,
+          "stock_avg_return": -16.7,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12607
+          "number_of_ranked_experts": 12619
         },
         "curr": "USD"
       },
@@ -851,16 +855,16 @@
         "rating_old": "",
         "time": "12:06:16",
         "scores": {
-          "score": 33.9,
+          "score": 33.8,
           "stars": 0.1,
-          "total": 401,
+          "total": 402,
           "avg_return": -7.4,
           "return_pct": null,
-          "analyst_rank": 12259,
-          "success_rate": 33.9,
-          "stock_avg_return": -49.2,
+          "analyst_rank": 12282,
+          "success_rate": 33.8,
+          "stock_avg_return": -57.8,
           "stock_success_rate": 0,
-          "number_of_ranked_experts": 12607
+          "number_of_ranked_experts": 12619
         },
         "curr": "USD"
       }
@@ -940,7 +944,7 @@
           -1238731
         ],
         "otherNonOperating": [
-          173694,
+          -226306,
           -3413156,
           -829176
         ],
@@ -1030,12 +1034,12 @@
           -1238731
         ],
         "marketcap": [
-          133211428,
+          136086495,
           null,
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           null,
           null
         ]
@@ -1337,8 +1341,29 @@
           -5116107,
           -1238731
         ],
+        "interestExpense": [
+          -100000,
+          null,
+          null,
+          null,
+          null
+        ],
+        "interestIncome": [
+          400000,
+          null,
+          null,
+          null,
+          null
+        ],
+        "currencyGains": [
+          100000,
+          null,
+          null,
+          null,
+          null
+        ],
         "otherNonOperating": [
-          173694,
+          -226306,
           -2570871,
           -3379771,
           -3413156,
@@ -1533,7 +1558,7 @@
           974
         ],
         "accruedExpenses": [
-          2148644,
+          1932478,
           648950,
           196233
         ],
@@ -1548,7 +1573,7 @@
           47540
         ],
         "otherCurrentLiabilities": [
-          793092,
+          830817,
           31832,
           7372
         ],
@@ -1608,7 +1633,7 @@
           2147903
         ],
         "sharesOutFilingDate": [
-          19402274,
+          19167112,
           911255,
           772353
         ],
@@ -1633,17 +1658,17 @@
           -2.679106
         ],
         "debt": [
-          94530,
+          272971,
           146976,
           null
         ],
         "netcash": [
-          37186827,
+          37008386,
           9136590,
           2081086
         ],
         "netcashpershare": [
-          3.96142,
+          3.94241,
           6.24645,
           2.69448
         ],
@@ -1653,12 +1678,12 @@
           1890383
         ],
         "marketcap": [
-          133211428,
+          136086495,
           null,
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           null,
           null
         ]
@@ -1793,7 +1818,7 @@
           null
         ],
         "accruedExpenses": [
-          2148644,
+          1932478,
           993006,
           298294,
           null,
@@ -1801,7 +1826,7 @@
           null
         ],
         "debtc": [
-          null,
+          178441,
           323196,
           417774,
           null,
@@ -1825,7 +1850,7 @@
           null
         ],
         "otherCurrentLiabilities": [
-          793092,
+          830817,
           806383,
           31469.999999999996,
           null,
@@ -1905,7 +1930,7 @@
           null
         ],
         "sharesOutFilingDate": [
-          19402274,
+          19167112,
           11599402,
           10798722,
           3699499,
@@ -1945,7 +1970,7 @@
           -2.679106
         ],
         "debt": [
-          94530,
+          272971,
           435406,
           547464,
           null,
@@ -1953,7 +1978,7 @@
           null
         ],
         "netcash": [
-          37186827,
+          37008386,
           24853854,
           22924692,
           null,
@@ -1961,7 +1986,7 @@
           2081086
         ],
         "netcashpershare": [
-          2.05231,
+          2.04246,
           1.52162,
           2.12291,
           null,
@@ -2044,7 +2069,7 @@
           974
         ],
         "accruedExpenses": [
-          2148644,
+          1932478,
           648950,
           196233
         ],
@@ -2059,7 +2084,7 @@
           47540
         ],
         "otherCurrentLiabilities": [
-          793092,
+          830817,
           31832,
           7372
         ],
@@ -2119,7 +2144,7 @@
           2147903
         ],
         "sharesOutFilingDate": [
-          19402274,
+          19167112,
           911255,
           772353
         ],
@@ -2144,17 +2169,17 @@
           -2.679106
         ],
         "debt": [
-          94530,
+          272971,
           146976,
           null
         ],
         "netcash": [
-          37186827,
+          37008386,
           9136590,
           2081086
         ],
         "netcashpershare": [
-          3.96142,
+          3.94241,
           6.24645,
           2.69448
         ],
@@ -2164,12 +2189,12 @@
           1890383
         ],
         "marketcap": [
-          133211428,
+          136086495,
           null,
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           null,
           null
         ]
@@ -2303,12 +2328,12 @@
           190313
         ],
         "marketcap": [
-          133211428,
+          136086495,
           null,
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           null,
           null
         ]
@@ -2499,7 +2524,7 @@
           -0.25
         ],
         "leveredFCF": [
-          257649.00000000003,
+          1796249,
           -9096256,
           null,
           null,
@@ -2507,7 +2532,7 @@
           null
         ],
         "unleveredFCF": [
-          257649.00000000003,
+          1796249,
           -9096256,
           null,
           null,
@@ -2658,12 +2683,12 @@
           190313
         ],
         "marketcap": [
-          133211428,
+          136086495,
           null,
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           null,
           null
         ]
@@ -2687,22 +2712,22 @@
           "Q4"
         ],
         "debtequity": [
-          0.003,
+          0.007,
           0.016,
           null
         ],
         "netdebtequity": [
-          -0.994,
+          -0.989,
           -1.007,
           1.006
         ],
         "netdebtebitda": [
-          1.555,
+          1.548,
           1.794,
           1.685
         ],
         "netdebtfcf": [
-          1.796,
+          1.787,
           1.876,
           1.972
         ],
@@ -2727,9 +2752,9 @@
           null
         ],
         "roa": [
-          null,
-          -0.51224,
-          null
+          -0.5793,
+          -1.36637,
+          -0.96356
         ],
         "roce": [
           -0.644,
@@ -2742,12 +2767,12 @@
           null
         ],
         "marketcap": [
-          133211428,
+          136086495,
           null,
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           null,
           null
         ]
@@ -2781,7 +2806,7 @@
           "Q1"
         ],
         "marketcap": [
-          133211428,
+          136086495,
           278391076,
           478491372,
           495547561,
@@ -2790,7 +2815,7 @@
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           253537226,
           455566681,
           505424640,
@@ -2799,7 +2824,7 @@
           null
         ],
         "lastCloseRatios": [
-          6.95,
+          7.1,
           17.83,
           44.31,
           47.2,
@@ -2808,7 +2833,7 @@
           null
         ],
         "ps": [
-          463.29414,
+          473.2933,
           934.001,
           1165.02,
           1624.714,
@@ -2817,7 +2842,7 @@
           null
         ],
         "pb": [
-          3.47945,
+          3.55454,
           7.442,
           15.331,
           21.069,
@@ -2826,7 +2851,7 @@
           null
         ],
         "ptbvRatio": [
-          3.57031,
+          3.64737,
           7.461,
           15.379,
           21.069,
@@ -2835,7 +2860,7 @@
           null
         ],
         "evrevenue": [
-          334.5832,
+          344.58235,
           850.616,
           1109.204,
           1657.097,
@@ -2844,8 +2869,8 @@
           null
         ],
         "debtequity": [
-          0.003,
-          0.003,
+          0.007,
+          0.007,
           0.014,
           0.023,
           null,
@@ -2853,8 +2878,8 @@
           null
         ],
         "netdebtequity": [
-          -0.994,
-          -0.994,
+          -0.989,
+          -0.989,
           -0.796,
           -0.975,
           null,
@@ -2862,8 +2887,8 @@
           1.006
         ],
         "netdebtebitda": [
-          1.555,
-          1.7,
+          1.548,
+          1.691,
           1.875,
           3.399,
           null,
@@ -2871,8 +2896,8 @@
           2.925
         ],
         "netdebtfcf": [
-          1.796,
-          2.001,
+          1.787,
+          1.991,
           1.928,
           3.531,
           null,
@@ -2897,6 +2922,15 @@
           null,
           null
         ],
+        "roa": [
+          -0.5793,
+          -0.5793,
+          -0.53018,
+          -0.4932,
+          null,
+          null,
+          null
+        ],
         "roce": [
           -0.644,
           -0.589,
@@ -2907,7 +2941,7 @@
           null
         ],
         "earningsyield": [
-          -0.36680860000000004,
+          -0.3590592,
           -0.08791,
           -0.03508,
           -0.02049,
@@ -2916,7 +2950,7 @@
           null
         ],
         "fcfyield": [
-          -0.1554404,
+          -0.1521565,
           -0.06677,
           -0.02695,
           -0.0131,
@@ -2951,22 +2985,22 @@
           "Q4"
         ],
         "debtequity": [
-          0.003,
+          0.007,
           0.016,
           null
         ],
         "netdebtequity": [
-          -0.994,
+          -0.989,
           -1.007,
           1.006
         ],
         "netdebtebitda": [
-          1.555,
+          1.548,
           1.794,
           1.685
         ],
         "netdebtfcf": [
-          1.796,
+          1.787,
           1.876,
           1.972
         ],
@@ -2991,9 +3025,9 @@
           null
         ],
         "roa": [
-          null,
-          -0.51224,
-          null
+          -0.5793,
+          -1.36637,
+          -0.96356
         ],
         "roce": [
           -0.644,
@@ -3006,12 +3040,12 @@
           null
         ],
         "marketcap": [
-          133211428,
+          136086495,
           null,
           null
         ],
         "ev": [
-          96203042,
+          99078109,
           null,
           null
         ]
